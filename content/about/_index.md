@@ -1,10 +1,11 @@
 +++
+date = 2014-04-09T00:00:00Z
 title = "About Hugo"
-date = "2014-04-09"
+
 +++
+Proviamo
 
 Hugo is a static site engine written in Go.
-
 
 It makes use of a variety of open source projects including:
 
