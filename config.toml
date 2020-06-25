@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "travelify"
+theme = "magazine"
 [[menu.main]]
   name = "Home"
   url = "/"
