@@ -24,7 +24,7 @@ func handler(ctx context.Context, request events.APIGatewayProxyRequest) (*event
 		if err != nil {
 			log.Fatalln(err)
 		}
-
+		log.Printf("Environment: %s", cc.Env["SLACK_ENDPOINT"])
 		resp, err := http.Post(cc.Env["SLACK_ENDPOINT"], "application/json", bytes.NewBuffer(requestBody))
 
 		if err != nil {
