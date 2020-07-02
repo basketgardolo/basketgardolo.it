@@ -45,7 +45,7 @@ func handler(request events.APIGatewayProxyRequest) (*events.APIGatewayProxyResp
 				"type": "section",
 				"text": map[string]string{
 					"type": "mrkdwn",
-					"text": fmt.Sprintf(":pencil2: _%s_\n\n\n:link: <%s|Vai al sito>", reqBody.(map[string]interface{})["title"], reqBody.(map[string]interface{})["ssl_url"]),
+					"text": fmt.Sprintf(":pencil2: _%s_\n\n\n:basketball: <%s|Vai al sito>", reqBody.(map[string]interface{})["title"], reqBody.(map[string]interface{})["ssl_url"]),
 				},
 				"accessory": map[string]string{
 					"type":      "image",
@@ -54,13 +54,6 @@ func handler(request events.APIGatewayProxyRequest) (*events.APIGatewayProxyResp
 				},
 			}, {
 				"type": "divider",
-			},
-			{
-				"type": "section",
-				"text": map[string]string{
-					"type": "mrkdwn",
-					"text": fmt.Sprintf(":basketball: <%s|vai al sito!>", reqBody.(map[string]interface{})["ssl_url"]),
-				},
 			},
 		},
 	}
