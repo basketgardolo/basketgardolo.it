@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -14,9 +15,56 @@ import (
 
 func handler(request events.APIGatewayProxyRequest) (*events.APIGatewayProxyResponse, error) {
 	log.Printf("EVENT: %s", request.Body)
-	requestBody, err := json.Marshal(map[string]string{
-		"text": "Tutto ok",
-	})
+	var reqBody interface{}
+	json.Unmarshal([]byte(request.Body), &reqBody)
+
+	msg := map[string]interface{}{
+		"blocks": []map[string]interface{}{
+			{
+				"type": "divider",
+			},
+			{
+				"type": "section",
+				"text": map[string]string{
+					"type": "mrkdwn",
+					"text": ":tada:*Nuova build del sito Basket Gardolo*",
+				},
+			},
+			{
+				"type": "context",
+				"elements": []map[string]string{
+					{
+						"type": "mrkdwn",
+						"text": fmt.Sprintf(":gear: %s", reqBody.(map[string]interface{})["branch"]),
+					}, {
+						"type": "mrkdwn",
+						"text": fmt.Sprintf("🦸 %s", reqBody.(map[string]interface{})["committer"]),
+					},
+				},
+			}, {
+				"type": "section",
+				"text": map[string]string{
+					"type": "mrkdwn",
+					"text": fmt.Sprintf(":pencil2: _%s_\n\n\n:link: <%s|Vai al sito>", reqBody.(map[string]interface{})["title"], reqBody.(map[string]interface{})["ssl_url"]),
+				},
+				"accessory": map[string]string{
+					"type":      "image",
+					"image_url": "https://www.basketgardolo.it/wp-content/uploads/2014/09/logo_basket_gardolo.png",
+					"alt_text":  "logo BC Gardolo",
+				},
+			}, {
+				"type": "divider",
+			},
+			{
+				"type": "section",
+				"text": map[string]string{
+					"type": "mrkdwn",
+					"text": fmt.Sprintf(":basketball: <%s|vai al sito!>", reqBody.(map[string]interface{})["ssl_url"]),
+				},
+			},
+		},
+	}
+	requestBody, err := json.Marshal(msg)
 	if err != nil {
 		log.Fatalln(err)
 	}
