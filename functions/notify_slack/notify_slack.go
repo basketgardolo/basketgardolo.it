@@ -89,15 +89,12 @@ func buildMessage(reqBody *interface{}) map[string]interface{} {
 						"type": "section",
 						"text": map[string]string{
 							"type": "mrkdwn",
-							"text": ":tada:*Nuova build del sito Basket Gardolo*",
+							"text": ":tada: *Nuova build del sito Basket Gardolo*",
 						},
 					},
 					{
 						"type":     "context",
 						"elements": buildingInfo,
-					},
-					{
-						"type": "divider",
 					},
 					{
 						"type": "section",
