@@ -93,11 +93,11 @@ func buildMessage(reqBody *interface{}) map[string]interface{} {
 						},
 					},
 					{
-						"type": "divider",
-					},
-					{
 						"type":     "context",
 						"elements": buildingInfo,
+					},
+					{
+						"type": "divider",
 					},
 					{
 						"type": "section",
