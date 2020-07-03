@@ -86,9 +86,6 @@ func buildMessage(reqBody *interface{}) map[string]interface{} {
 				"color": "#2eb886",
 				"blocks": []map[string]interface{}{
 					{
-						"type": "divider",
-					},
-					{
 						"type": "section",
 						"text": map[string]string{
 							"type": "mrkdwn",
@@ -110,9 +107,6 @@ func buildMessage(reqBody *interface{}) map[string]interface{} {
 							"image_url": "https://www.basketgardolo.it/wp-content/uploads/2014/09/logo_basket_gardolo.png",
 							"alt_text":  "logo BC Gardolo",
 						},
-					},
-					{
-						"type": "divider",
 					},
 				},
 			},
