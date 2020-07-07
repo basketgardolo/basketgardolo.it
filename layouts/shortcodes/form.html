@@ -1,0 +1,5 @@
+{{ $id := default "form" (.Get 0) }}{{ $button_name := default "Invia" (.Get 1)}}
+<form id="{{ $id }}" netlify>
+    <input type="text" placeholder="test..." name="name">
+    <button type="submit">{{ $button_name }}</button>
+</form>
