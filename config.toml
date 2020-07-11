@@ -42,5 +42,3 @@ theme = "hugo-future-imperfect"
   url = "/contact/"
   identifier = "fa fa-envelope-o"
   weight = 6
-[context.production.environment]
-  HUGO_VERSION = "0.73"
