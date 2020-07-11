@@ -13,7 +13,7 @@
 <p>Squadre:</p>
 <ul>
     {{ range .Pages }}
-    <li><a href="{{ .Permalink }}">{{.Name}}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{.Name}}</a></li>
     {{ end }}
 </ul>
 {{ end }}
