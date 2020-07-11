@@ -1,0 +1,19 @@
+---
+label: Squadre
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: giocatori
+  label: giocatori
+- type: text
+  name: categorie
+  label: categorie
+- type: text
+  name: stagioni
+  label: stagioni
