@@ -2,8 +2,13 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-future-imperfect"
+[taxonomies]
+  giocatore = "giocatori"
+  coach = "coaches"
+  categoria = "categorie"
+  stagione = "stagioni"
 [[menu.main]]
-  name = "Home"
+  name = "Home" 
   url = "/"
   identifier = "fa fa-home"
   weight = 1

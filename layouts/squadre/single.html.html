@@ -1,0 +1,32 @@
+{{ define "content" }}
+{{ if .Params.foto }}
+<img src="{{- .Params.foto -}}" alt="Foto di squadra {{ .Title }}" />
+{{ else }}
+<p>Nessuna foto di squadra... per ora ;)</p>
+{{end}}
+{{ $stagione := (index (.Site.GetPage "/stagioni").Data.Terms .Params.stagioni).Page }}
+<p>Stagione: <a href="{{ $stagione.RelPermalink }}">{{ $stagione.Title }}</a></p>
+<table>
+    <thead>
+        <th>Giocatore</th>
+        <th>Ruolo</th>
+    </thead>
+    <tbody>
+        {{ $k := .Site.GetPage "/giocatori" }}
+        {{ range .Params.Giocatori }}
+        {{ $page := (index $k.Data.Terms .).Page }}
+        <tr>
+            <td><a href="{{ $page.Permalink }}">{{ $page.Params.nome }}</a></td>
+            <td>
+                {{with $page.Params.ruolo }}
+                {{ . }}
+                {{ else }}
+                -
+                {{end}}
+            </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+{{ .Content }}
+{{ end }}

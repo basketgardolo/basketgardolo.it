@@ -1,0 +1,20 @@
+{{ partial "general-title" . }}
+
+{{ partial "header" . }}
+{{ partial "navbar" . }}
+<!-- Main -->
+<div id="main">
+    <article class="post">
+        {{ $.Scratch.Set "h1" true }}
+        {{ block "title" .}}
+        {{ .Render "header" }}
+        {{ end}}
+        <div id="content">
+            {{ block "content" . }}
+            {{ .Content }}
+            {{ end }}
+        </div>
+    </article>
+</div>
+{{ partial "sidebar" . }}
+{{ partial "footer" . }}
