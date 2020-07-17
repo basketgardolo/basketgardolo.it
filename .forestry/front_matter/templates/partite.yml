@@ -1,0 +1,31 @@
+---
+label: Partite
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: squadra-a
+  label: squadra-a
+- type: number
+  name: punteggio-a
+  label: punteggio-a
+- type: text
+  name: squadra-b
+  label: squadra-b
+- type: number
+  name: punteggio-b
+  label: punteggio-b
+- type: text
+  name: luogo
+  label: luogo
+- type: text
+  name: categoria
+  label: categoria
+- type: text
+  name: stagione
+  label: stagione
