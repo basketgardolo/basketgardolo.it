@@ -8,7 +8,7 @@ sections:
   path: content/stagioni
   label: Stagioni
   create: all
-  match: "*.md"
+  match: "**/*.md"
 - type: directory
   path: content/partite
   label: Partite
