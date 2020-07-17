@@ -19,11 +19,15 @@ sections:
   label: Partite
   create: all
   match: "**/*"
+  templates:
+  - partite
 - type: directory
   path: content/squadre
   label: Squadre
   create: all
   match: "**/*"
+  templates:
+  - squadre
 - type: directory
   path: content
   label: Pages
