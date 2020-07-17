@@ -4,22 +4,24 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Titolo
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
 - type: text
   name: squadra-a
-  label: squadra-a
+  label: Squadra A
 - type: number
   name: punteggio-a
-  label: punteggio-a
+  label: Punteggio Squadra A
 - type: text
   name: squadra-b
-  label: squadra-b
+  label: Squadra B
 - type: number
   name: punteggio-b
-  label: punteggio-b
+  label: Punteggio Squadra B
 - type: text
   name: luogo
   label: luogo
