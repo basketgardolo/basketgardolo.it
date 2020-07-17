@@ -4,6 +4,3 @@
 [submodule "themes/travelify"]
 	path = themes/travelify
 	url = https://github.com/balaramadurai/hugo-travelify-theme
-[submodule "themes/magazine"]
-	path = themes/magazine
-	url = https://github.com/sethmacleod/hugo-magazine
