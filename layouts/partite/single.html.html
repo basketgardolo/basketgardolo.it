@@ -1,0 +1,14 @@
+{{ define "content" }}
+{{ if (now).After .PublishDate  }}
+<p>{{ .Param "punteggio-a" }} - {{ .Param "punteggio-b" }}</p>
+{{ .Content }}
+{{ else }}
+<p>{{ .PublishDate }}</p>
+{{ end }}
+{{ $k := .Site.GetPage "/squadre" }}
+{{ range $k.Data.Pages }}
+{{ if and (eq .Params.categorie $.Params.categoria) (eq .Params.stagioni $.Params.stagione) }}
+<a href="{{.RelPermalink}}">{{.Title}}</a>
+{{ end }}
+{{ end }}
+{{ end }}

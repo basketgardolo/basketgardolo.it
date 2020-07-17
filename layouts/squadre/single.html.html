@@ -1,5 +1,5 @@
 {{ define "content" }}
-{{ if .Params.foto }}
+{{ with .Params.foto }}
 <img src="{{- .Params.foto -}}" alt="Foto di squadra {{ .Title }}" />
 {{ else }}
 <p>Nessuna foto di squadra... per ora ;)</p>
