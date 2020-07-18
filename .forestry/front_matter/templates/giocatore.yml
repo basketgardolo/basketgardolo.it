@@ -7,10 +7,24 @@ fields:
   label: title
 - type: text
   name: nome
-  label: nome
-- type: text
-  name: ruolo
-  label: ruolo
+  label: Nome
 - type: number
   name: numero
-  label: numero
+  label: Numero
+- name: ruolo
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Playmaker
+    - Guardia
+    - Ala piccola
+    - Ala grande
+    - Centro
+    source:
+      type: simple
+      section: 
+      file: content/about/_index.md
+      path: 
+  label: Ruolo
