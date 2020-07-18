@@ -7,8 +7,9 @@ sections:
 - type: directory
   path: content/giocatori
   label: Giocatori
-  create: documents
-  match: _index.md
+  create: all
+  match: "**/_index.md"
+  exclude: "**/"
 - type: directory
   path: content/stagioni
   label: Stagioni
