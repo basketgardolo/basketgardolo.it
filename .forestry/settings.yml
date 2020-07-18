@@ -8,7 +8,7 @@ sections:
   path: content/giocatori
   label: Giocatori
   create: documents
-  match: "**.md/*.md"
+  match: "**/_index.md"
 - type: directory
   path: content/stagioni
   label: Stagioni
