@@ -29,4 +29,5 @@ fields:
       path: 
   label: Ruolo
 pages:
+- content/giocatori/_index.md
 - content/giocatori/prova-prova.md
