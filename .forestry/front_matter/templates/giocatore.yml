@@ -1,0 +1,16 @@
+---
+label: Giocatore
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: nome
+  label: nome
+- type: text
+  name: ruolo
+  label: ruolo
+- type: number
+  name: numero
+  label: numero
