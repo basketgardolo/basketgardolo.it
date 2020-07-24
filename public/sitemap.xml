@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/stagioni/2020-2021/</loc>
+    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categorie/</loc>
+    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/</loc>
+    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/jorge-gutierrez/</loc>
+    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/squadre/serie-d/</loc>
+    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categorie/serie-d/</loc>
+    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/squadre/</loc>
+    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stagioni/</loc>
+    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/cristian-stenico/</loc>
+    <lastmod>2020-07-11T01:54:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/michael-jordan/</loc>
+    <lastmod>2020-07-11T01:54:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/squadre/promozione/</loc>
+    <lastmod>2020-07-11T01:54:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categorie/promozione/</loc>
+    <lastmod>2020-07-11T01:54:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/scottie-pippen/</loc>
+    <lastmod>2020-07-11T01:54:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/iscrizione/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/pagine/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/coaches/</loc>
+  </url>
+  
+</urlset>

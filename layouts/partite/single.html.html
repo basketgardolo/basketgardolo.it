@@ -1,5 +1,5 @@
 {{ define "content" }}
-{{ if (now).After .PublishDate  }}
+{{ if now.After .PublishDate  }}
 <p>{{ .Param "punteggio-a" }} - {{ .Param "punteggio-b" }}</p>
 {{ .Content }}
 {{ else }}

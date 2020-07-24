@@ -1,0 +1,5 @@
+<div class="bxslider">
+    {{ range .Site.Data.sponsors }}
+    <a href="{{ .web }}"><img src="{{ .logo }}" title="{{ .Title }}"></a>
+    {{ end }}
+</div>

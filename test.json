@@ -1,0 +1,116 @@
+{
+    "id": "5efbb6c4f7985c0008e24018",
+    "site_id": "35963c78-b94b-4a25-8b32-a1950224e216",
+    "build_id": "5efbb6c4f7985c0008e24016",
+    "state": "ready",
+    "name": "basketgardolo",
+    "url": "http://basketgardolo.netlify.app",
+    "ssl_url": "https://basketgardolo.netlify.app",
+    "admin_url": "https://app.netlify.com/sites/basketgardolo",
+    "deploy_url": "http://master--basketgardolo.netlify.app",
+    "deploy_ssl_url": "https://master--basketgardolo.netlify.app",
+    "created_at": "2020-06-30T22:03:48.045Z",
+    "updated_at": "2020-06-30T22:04:14.454Z",
+    "user_id": "5ef4f54987df8402a2e96d98",
+    "error_message": null,
+    "required": [],
+    "required_functions": [],
+    "commit_ref": "f6fadd24e45250b41cac58cf9bd89a05012212f4",
+    "review_id": null,
+    "branch": "master",
+    "commit_url": "https://github.com/basketgardolo/basketgardolo.it/commit/f6fadd24e45250b41cac58cf9bd89a05012212f4",
+    "skipped": null,
+    "locked": null,
+    "log_access_attributes": {
+        "type": "firebase",
+        "url": "https://netlify-builds3.firebaseio.com/builds/5efbb6c4f7985c0008e24016/log",
+        "endpoint": "https://netlify-builds3.firebaseio.com",
+        "path": "/builds/5efbb6c4f7985c0008e24016/log",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2IjowLCJpYXQiOjE1OTM1NTQ2NTQsImQiOnsidWlkIjoiIn19.y_U4lGKSU6nqqkfAYaCCOE66GgSjkFcTDxustZpaRh8"
+    },
+    "title": "ariprova",
+    "review_url": null,
+    "published_at": "2020-06-30T22:04:14.367Z",
+    "context": "production",
+    "deploy_time": 24,
+    "available_functions": [
+        {
+            "n": "notify_slack",
+            "d": "5dcb6d84ad8a27d43f05906f7b81fb81e5d5461c524912c6cb5ff38cc1bcde99",
+            "id": "53281e381a147b4110a55406e0886d89b242e1f979c200ba586a01417e086a53",
+            "a": "554032339015",
+            "c": "2020-06-30T22:04:14.126Z",
+            "r": "go1.x",
+            "s": 5242442
+        }
+    ],
+    "summary": {
+        "status": "ready",
+        "messages": [
+            {
+                "type": "info",
+                "title": "All files already uploaded",
+                "description": "All files already uploaded by a previous deploy with the same commits.",
+                "details": null
+            },
+            {
+                "type": "info",
+                "title": "No redirect rules processed",
+                "description": "This deploy did not include any redirect rules. [Learn more about redirects](https://www.netlify.com/docs/redirects/).",
+                "details": ""
+            },
+            {
+                "type": "info",
+                "title": "No header rules processed",
+                "description": "This deploy did not include any header rules. [Learn more about headers](https://www.netlify.com/docs/headers-and-basic-auth/).",
+                "details": ""
+            },
+            {
+                "type": "info",
+                "title": "All linked resources are secure",
+                "description": "Congratulations! No insecure mixed content found in your files.",
+                "details": null
+            }
+        ]
+    },
+    "screenshot_url": null,
+    "site_capabilities": {
+        "title": "Netlify Team Free",
+        "asset_acceleration": true,
+        "form_processing": true,
+        "cdn_propagation": "partial",
+        "build_gc_exchange": "buildbot-gc",
+        "build_node_pool": "buildbot-external-ssd",
+        "domain_aliases": true,
+        "secure_site": false,
+        "prerendering": true,
+        "proxying": true,
+        "ssl": "custom",
+        "rate_cents": 0,
+        "yearly_rate_cents": 0,
+        "ipv6_domain": "cdn.makerloop.com",
+        "branch_deploy": true,
+        "managed_dns": true,
+        "geo_ip": true,
+        "split_testing": true,
+        "id": "nf_team_dev",
+        "cdn_tier": "reg",
+        "functions": {
+            "invocations": {
+                "included": 125000,
+                "unit": "requests",
+                "used": 13
+            },
+            "runtime": {
+                "included": 360000,
+                "unit": "seconds",
+                "used": 3
+            }
+        }
+    },
+    "committer": "cristianstenico",
+    "skipped_log": null,
+    "manual_deploy": false,
+    "file_tracking_optimization": true,
+    "plugin_state": "success"
+}
