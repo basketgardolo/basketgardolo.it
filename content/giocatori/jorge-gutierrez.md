@@ -1,6 +1,6 @@
 ---
-nome: Jorge Gutierrez
 title: Jorge Gutierrez
-ruolo: Playmaker
+nome: Jorge Gutierrez
+ruolo: playmaker
 numero: 4
 ---

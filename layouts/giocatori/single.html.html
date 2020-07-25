@@ -12,8 +12,12 @@
 {{ define "content" }}
 <p>Squadre:</p>
 <ul>
-    {{ range .Pages }}
-    <li><a href="{{ .RelPermalink }}">{{.Name}}</a></li>
+    {{ $giocatore := .File.BaseFileName }}
+    {{ range (.Site.GetPage "squadre").Pages }}
+    {{ $squadra := . }}
+    {{ with in .Params.giocatori $giocatore }}
+    <a href="{{ $squadra.RelPermalink }}">{{$squadra.Name }}</a>
+    {{ end }}
     {{ end }}
 </ul>
 {{ end }}

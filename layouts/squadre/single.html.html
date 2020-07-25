@@ -14,7 +14,7 @@
     <tbody>
         {{ $k := .Site.GetPage "/giocatori" }}
         {{ range .Params.Giocatori }}
-        {{ $page := (index $k.Data.Terms .).Page }}
+        {{ $page := $k.GetPage . }}
         <tr>
             <td><a href="{{ $page.RelPermalink }}">{{ $page.Params.nome }}</a></td>
             <td>
