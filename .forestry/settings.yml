@@ -8,9 +8,10 @@ sections:
   path: content/giocatori
   label: Giocatori
   create: all
-  match: "**/_index.md"
+  match: "**/*.md"
   exclude: "**/"
   templates:
+  - giocatore
   - giocatore
 - type: directory
   path: content/stagioni
