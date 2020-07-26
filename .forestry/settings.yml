@@ -38,10 +38,10 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/sponsors/**.*md
+  path: content/sponsors
   label: Sponsor
   create: all
-  match: "**/*"
+  match: "**/*.md"
 - type: directory
   path: content
   label: Pages
