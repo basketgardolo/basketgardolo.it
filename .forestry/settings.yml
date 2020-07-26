@@ -33,15 +33,20 @@ sections:
   templates:
   - squadre
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: content/about
   label: About
   create: all
   match: "**/*"
+- type: directory
+  path: content/sponsors/**.*md
+  label: Sponsor
+  create: all
+  match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
