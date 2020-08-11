@@ -5,11 +5,17 @@ theme = "hugo-future-imperfect"
 [taxonomies]
   categoria = "categorie"
   stagione = "stagioni"
+  "partite/squadre" = "partite/squadra"
 [[menu.main]]
   name = "Home" 
   url = "/"
   identifier = "fa fa-home"
   weight = 1
+
+[[menu.main]]
+  name = "Partite"
+  url = "/partite/"
+  identifier = "fa fa-home"
 
 [[menu.main]]
   name = "About"

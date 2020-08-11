@@ -1,14 +1,29 @@
+{{ define "title" }}
+<h1>
+    <!--  -->
+    {{ with .Site.GetPage "squadre" }}
+    {{ with .GetPage ($.Param "squadra-a") }}
+    <a href="{{.RelPermalink}}">{{ .Title }}</a>
+    {{ else }}
+    {{ $.Param "squadra-a" }}
+    {{ end }}
+    {{ if now.After .PublishDate  }}
+    {{ $.Param "punteggio-a" }} -
+    {{ end }}
+    {{ with .GetPage ($.Param "squadra-b") }}
+    <a href="{{.RelPermalink}}">{{ .Title }}</a>
+    {{ else }}
+    {{ $.Param "squadra-b" }}
+    {{ end }}
+    {{ if now.After .PublishDate  }}
+    {{ $.Param "punteggio-b" }}
+    {{ end }}
+    {{ end }}
+</h1>
+{{ end }}
 {{ define "content" }}
-{{ if now.After .PublishDate  }}
-<p>{{ .Param "punteggio-a" }} - {{ .Param "punteggio-b" }}</p>
-{{ .Content }}
-{{ else }}
+{{ if now.Before .PublishDate  }}
 <p>{{ .PublishDate }}</p>
-{{ end }}
-{{ $k := .Site.GetPage "/squadre" }}
-{{ range $k.Data.Pages }}
-{{ if and (eq .Params.categorie $.Params.categoria) (eq .Params.stagioni $.Params.stagione) }}
-<a href="{{.RelPermalink}}">{{.Title}}</a>
-{{ end }}
+{{ .Content }}
 {{ end }}
 {{ end }}

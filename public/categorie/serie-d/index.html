@@ -43,7 +43,7 @@
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="generator" content="Hugo 0.73.0" />
+    <meta name="generator" content="Hugo 0.74.3" />
     
 
 
@@ -68,12 +68,15 @@
     <meta property="og:image:height" content="512">
     <meta itemprop="name" content="serie-d">
 <meta itemprop="description" content="">
+
     
 
     
     
     
 
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.css" rel="stylesheet" />
     
     
     <link rel="stylesheet"
@@ -82,6 +85,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.css">
     <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/basketgardolo.css">
     <link rel="stylesheet" href="/css/add-on.css">
     <link rel="stylesheet" href="/css/academicons.min.css">
     
@@ -92,11 +96,13 @@
     
     
     
-
     
 </head>
 
 <body>
+    <div class="bxslider">
+    
+</div>
 
     
     <div id="wrapper">
@@ -110,20 +116,14 @@
         <ul>
             
                 <li>
-                    <a href="/">
-                            <i class="fa fa-home">&nbsp;</i>Home
-                    </a>
-                </li>
-            
-                <li>
                     <a href="/about/">
                             <i class="fa fa-id-card-o">&nbsp;</i>About
                     </a>
                 </li>
             
                 <li>
-                    <a href="/blog/">
-                            <i class="fa fa-newspaper-o">&nbsp;</i>Blog
+                    <a href="/squadre/">
+                            <i class="fa fa-newspaper-o">&nbsp;</i>Squadre
                     </a>
                 </li>
             
@@ -142,6 +142,12 @@
                 <li>
                     <a href="/contact/">
                             <i class="fa fa-envelope-o">&nbsp;</i>Contact
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/partite/">
+                            <i class="fa fa-home">&nbsp;</i>Partite
                     </a>
                 </li>
             
@@ -180,14 +186,6 @@
             <ul class="links">
                 
                     <li>
-                        <a href="/">
-                            <h3>
-                                <i class="fa fa-home">&nbsp;</i>Home
-                            </h3>
-                        </a>
-                    </li>
-                
-                    <li>
                         <a href="/about/">
                             <h3>
                                 <i class="fa fa-id-card-o">&nbsp;</i>About
@@ -196,9 +194,9 @@
                     </li>
                 
                     <li>
-                        <a href="/blog/">
+                        <a href="/squadre/">
                             <h3>
-                                <i class="fa fa-newspaper-o">&nbsp;</i>Blog
+                                <i class="fa fa-newspaper-o">&nbsp;</i>Squadre
                             </h3>
                         </a>
                     </li>
@@ -223,6 +221,14 @@
                         <a href="/contact/">
                             <h3>
                                 <i class="fa fa-envelope-o">&nbsp;</i>Contact
+                            </h3>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/partite/">
+                            <h3>
+                                <i class="fa fa-home">&nbsp;</i>Partite
                             </h3>
                         </a>
                     </li>
@@ -261,9 +267,7 @@
   <header>
     <div class="title">
         
-        
-        <h2><a href="/squadre/serie-d/">Serie D</a></h2>
-        
+        <h2><a href="/squadre/serie-d-20-21/">Serie D</a></h2>
         
         
     </div>
@@ -342,44 +346,62 @@
   </section>
 </section>
 
-    </div>
-    <a id="back-to-top" href="#" class="fa fa-arrow-up fa-border fa-2x"></a>
-    
+</div>
+<a id="back-to-top" href="#" class="fa fa-arrow-up fa-border fa-2x"></a>
 
-    
-      
-    
 
-    
-      
-      
-      
-        <script src="//cdn.bootcss.com/highlight.js//highlight.min.js"></script>
-        
-        
-        
-        <script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
-      
-    
-    
-    
-      <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js"></script>
-      <script src="/js/util.js"></script>
-      <script src="/js/main.js"></script>
-      <script src="/js/backToTop.js"></script>
-    
 
-    
 
-    
-    <script>hljs.initHighlightingOnLoad();</script>
-      <script src="//yihui.name/js/math-code.js"></script>
+
+
+
+
+
+
+<script src="//cdn.bootcss.com/highlight.js//highlight.min.js"></script>
+
+
+
+<script>hljs.configure({ languages: [] }); hljs.initHighlightingOnLoad();</script>
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.js"></script>
+<script src="/js/util.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/backToTop.js"></script>
+<script>
+  $(function () {
+    $('.bxslider').bxSlider({
+      auto: true,
+      minSlides: 2,
+      maxSlides: 8,
+      slideWidth: 125,
+      slideMargin: 10,
+      pager: false,
+      controls: false,
+      wrapperClass: 'bx-wrapper sponsors'
+    });
+  });
+</script>
+
+
+
+
+
+<script>hljs.initHighlightingOnLoad();</script>
+<script src="//yihui.name/js/math-code.js"></script>
 <script async
 src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
 
-  </body>
+</body>
+
 </html>
