@@ -1,5 +1,5 @@
 <div class="bxslider">
-    {{ range (.Site.GetPage "sponsors").Pages }}
+    {{ range ((.Site.GetPage "sponsors").Resources.ByType "page") }}
     <a href="{{ .Params.web }}"><img src="{{ .Params.logo }}" title="{{ .Title }}"></a>
     {{ end }}
 </div>
