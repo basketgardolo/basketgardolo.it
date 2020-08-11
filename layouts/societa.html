@@ -1,0 +1,123 @@
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>La Società</title>
+	<link rel="stylesheet" href="/basketgardolo.it/static/css/basketgardolo.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<style>
+		* {
+		  box-sizing: border-box;
+		}
+		
+		body {
+		  font-family: Arial, Helvetica, sans-serif;
+		}
+
+		header {
+			padding: 10px;
+			text-align: right;
+			background-color: #20265a;
+			color: white;
+		}
+		  
+		.row::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+		
+		/* Style the footer */
+		footer {
+		  padding: 10px;
+		  background-color: #20265a;
+		  color: white;
+		}
+
+		[class*="col-"] {
+			float: left;
+			padding: 15px;
+		}
+		  
+		.col-1 {width: 8.33%;}
+		.col-2 {width: 16.66%;}
+		.col-3 {width: 25%;}
+		.col-4 {width: 33.33%;}
+		.col-5 {width: 41.66%;}
+		.col-6 {width: 50%;}
+		.col-7 {width: 58.33%;}
+		.col-8 {width: 66.66%;}
+		.col-9 {width: 75%;}
+		.col-10 {width: 83.33%;}
+		.col-11 {width: 91.66%;}
+		.col-12 {width: 100%;}
+		
+	</style>
+</head>
+<body>
+	<!-- HEADER: START -->
+	<header>
+		<div class="row">
+			<div class="col-2" style="text-align: left;">
+				<a href="#">
+					<img src="/basketgardolo.it/static/images/logo_VECCHIO.png" alt="Logo Gardolo">
+				</a>
+			</div>
+			<div class="col-2">
+				<h2><a href="#" style="color: white;">La Società</a></h2>
+			</div>
+			<div class="col-2">
+				<h2><a href="#" style="color: white;">Le Squadre</a></h2>
+			</div>
+			<div class="col-2">
+				<h2><a href="#" style="color: white;">Allenatori</a></h2>
+			</div>
+			<div class="col-2">
+				<h2><a href="#" style="color: white;">News</a></h2>
+			</div>
+			<div class="col-2">
+				<h2><a href="#" style="color: white;">Iscrizione</a></h2>
+			</div>
+		</div>
+	</header>
+	<!-- HEADER: END -->
+
+	<!-- MAIN: START -->
+	
+	<div class="row">
+		<div class="col-9">
+
+		</div>
+		<div class="col-3" style="background-color: gray;">
+			<div class="bxslider">
+				{{ range (.Site.GetPage "sponsors").Pages }}
+				<a href="{{ .Params.web }}"><img src="{{ .Params.logo }}" title="{{ .Title }}" style="width: 10%;"></a>
+				{{ end }}
+			</div>
+		</div>
+		
+	</div> 
+	
+	<!-- FOOTER: START -->
+	<footer>
+		<div class="row">
+			<div class="col-5" style="text-align: left">
+				<p>Basket Club Gardolo 2000 ASD</p>
+				<p>via Soprasasso, 1 - Gardolo</p>
+				<p>38121 TRENTO</p>
+				<p>C.F. 96005430226</p>
+				<p>P.I. 01140120229</p>
+			</div>
+			<div class="col-3">
+				
+			</div>
+			<div class="col-4" style="text-align: right">
+				<p><h3>Contatti:</h3></p>
+				<p>info@basketgardolo.it</p>
+				<p>335-5389483</p>
+			</div>
+		</div>
+	</footer>
+	<!-- FOOTER: END -->
+</body>
+</html>
