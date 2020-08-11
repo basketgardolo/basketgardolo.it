@@ -1,6 +1,5 @@
 {{ define "title" }}
 <h1>
-    <!--  -->
     {{ with .Site.GetPage "squadre" }}
     {{ with .GetPage ($.Param "squadra-a") }}
     <a href="{{.RelPermalink}}">{{ .Title }}</a>
