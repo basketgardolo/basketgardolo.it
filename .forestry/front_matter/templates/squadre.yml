@@ -11,9 +11,23 @@ fields:
 - type: list
   name: giocatori
   label: giocatori
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: giocatori
 - type: text
   name: categorie
   label: categorie
-- type: text
-  name: stagioni
-  label: stagioni
+- name: stagione
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: 
+      file: 
+      path: 
+  label: Stagione
