@@ -38,3 +38,5 @@ fields:
       file: content/stagioni/2020-2021.md
       path: 
   label: Stagione
+pages:
+- content/squadre/under-38.md
