@@ -1,6 +1,7 @@
 ---
-label: Squadreb
-hide_body: true
+label: Squadre
+hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
