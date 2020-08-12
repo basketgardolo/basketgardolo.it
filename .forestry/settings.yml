@@ -41,7 +41,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - squadre
+  - squadreb
 - type: directory
   path: content/sponsors
   label: Sponsor
