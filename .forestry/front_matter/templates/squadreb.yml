@@ -20,6 +20,15 @@ fields:
 - type: text
   name: categorie
   label: categorie
-- type: text
-  name: stagione
-  label: stagione
+- name: stagione
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: stagioni
+      file: content/stagioni/2020-2021.md
+      path: 
+  label: Stagione
