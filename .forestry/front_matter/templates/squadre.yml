@@ -28,7 +28,7 @@ fields:
     source:
       type: documents
       section: stagioni
-      file: content/stagioni/_index.md
+      file: content/stagioni/2020-2021.md
       path: 
   label: Stagione
   showOnly:
