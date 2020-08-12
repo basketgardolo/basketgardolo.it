@@ -26,9 +26,9 @@ fields:
     required: false
     options: []
     source:
-      type: documents
+      type: pages
       section: stagioni
-      file: content/stagioni/2020-2021.md
+      file: content/pagine/./iscrizione.md
       path: 
   label: Stagione
   showOnly:
