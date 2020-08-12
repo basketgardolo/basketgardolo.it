@@ -1,0 +1,25 @@
+---
+label: Squadreb
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: foto
+  label: foto
+- type: list
+  name: giocatori
+  label: giocatori
+- type: list
+  name: coach
+  label: coach
+- type: text
+  name: categorie
+  label: categorie
+- type: text
+  name: stagione
+  label: stagione
