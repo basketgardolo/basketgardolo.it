@@ -1,5 +1,5 @@
 ---
-title: "Promozione"
+title: Promozione
 date: 2020-07-11T01:54:41+02:00
 giocatori:
   - cristian-stenico

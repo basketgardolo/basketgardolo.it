@@ -3,7 +3,7 @@ languageCode = "it"
 title = "Basket Gardolo"
 theme = "hugo-future-imperfect"
 [taxonomies]
-  "categorie" = "categoria"
+  categoria = "categorie"
   "partite/squadre" = "partite/squadra"
 [[menu.main]]
   name = "Home" 

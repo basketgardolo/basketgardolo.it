@@ -1,12 +1,8 @@
 {{define "title"}}
-<header>
-    <div class="title">
-        <h1>{{ printf "%s #%d" .Title .Params.numero }}</h1>
-        {{ with .Params.ruolo }}
-        <p>{{ . }}</p>
-        {{ end }}
-    </div>
-</header>
+<h1>{{ printf "%s #%d" .Title .Params.numero }}</h1>
+{{ with .Params.ruolo }}
+<p>{{ . }}</p>
+{{ end }}
 {{end}}
 
 {{ define "content" }}
