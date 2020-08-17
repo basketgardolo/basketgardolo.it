@@ -1,0 +1,42 @@
+---
+label: Squadre
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: foto
+  label: foto
+- type: list
+  name: giocatori
+  label: giocatori
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: giocatori
+- type: list
+  name: coach
+  label: coach
+- type: text
+  name: categorie
+  label: categorie
+- name: stagione
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: stagioni
+      file: content/stagioni/2020-2021.md
+      path: 
+  label: Stagione
+pages:
+- content/squadre/under-38.md

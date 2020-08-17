@@ -4,7 +4,8 @@
 {{ else }}
 <p>Nessuna foto di squadra... per ora ;)</p>
 {{end}}
-{{ $stagione := (index (.Site.GetPage "/stagioni").Data.Terms .Params.stagioni).Page }}
+{{ printf "%#v" .Site.GetPage "/stagioni" }}
+{{ $stagione := .Site.GetPage "/stagioni" .Params.stagione }}
 <p>Stagione: <a href="{{ $stagione.RelPermalink }}">{{ $stagione.Title }}</a></p>
 <table>
     <thead>

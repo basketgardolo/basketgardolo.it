@@ -1,10 +1,9 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "it"
+title = "Basket Gardolo"
 theme = "hugo-future-imperfect"
 [taxonomies]
-  categoria = "categorie"
-  stagione = "stagioni"
+  "categorie" = "categoria"
   "partite/squadre" = "partite/squadra"
 [[menu.main]]
   name = "Home" 
@@ -16,11 +15,6 @@ theme = "hugo-future-imperfect"
   name = "Partite"
   url = "/partite/"
   identifier = "fa fa-home"
-
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  identifier = "fa fa-id-card-o"
   weight = 2
 
 [[menu.main]]
@@ -30,19 +24,19 @@ theme = "hugo-future-imperfect"
   weight = 3
 
 [[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
+  name = "Giocatori"
+  url = "/giocatori/"
   identifier = "fa fa-list"
   weight = 4
 
 [[menu.main]]
-  name = "Categories"
-  url = "/categories/"
+  name = "Stagioni"
+  url = "/stagioni/"
   identifier = "fa fa-sitemap"
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
-  url = "/contact/"
+  name = "Iscrizione"
+  url = "/iscrizione/"
   identifier = "fa fa-envelope-o"
   weight = 6

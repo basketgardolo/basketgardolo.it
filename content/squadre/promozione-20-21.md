@@ -6,5 +6,5 @@ giocatori:
   - scottie-pippen
   - michael-jordan
 categorie: promozione
-stagioni: 2020-2021
+stagione: 2020-2021
 ---
