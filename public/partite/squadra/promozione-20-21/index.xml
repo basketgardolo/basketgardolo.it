@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>promozione-20-21 on Basket Gardolo</title>
+    <link>http://example.org/partite/squadra/promozione-20-21/</link>
+    <description>Recent content in promozione-20-21 on Basket Gardolo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    
+	<atom:link href="http://example.org/partite/squadra/promozione-20-21/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gardolo - Arco</title>
+      <link>http://example.org/partite/gardolo-arco/</link>
+      <pubDate>Sat, 18 Jul 2020 00:33:35 +0200</pubDate>
+      
+      <guid>http://example.org/partite/gardolo-arco/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

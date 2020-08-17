@@ -7,7 +7,7 @@
 {{ else }}
 <p>Nessuna foto di squadra... per ora ;)</p>
 {{end}}
-{{ $stagione := .Site.GetPage "/stagioni" .Params.stagione }}
+{{ $stagione := .Site.GetPage "/stagioni" .Params.stagioni }}
 <p>Stagione: <a href="{{ $stagione.RelPermalink }}">{{ $stagione.Title }}</a></p>
 <table>
     <thead>

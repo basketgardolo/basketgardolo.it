@@ -1,31 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Basket Gardolo</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Basket Gardolo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2020 10:32:29 +0200</lastBuildDate>
+    <language>it</language>
+    <lastBuildDate>Wed, 12 Aug 2020 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Under 38</title>
+      <link>http://example.org/squadre/under-38/</link>
+      <pubDate>Wed, 12 Aug 2020 22:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/squadre/under-38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prova2</title>
+      <link>http://example.org/news/prova2/</link>
+      <pubDate>Tue, 11 Aug 2020 21:59:19 +0200</pubDate>
+      
+      <guid>http://example.org/news/prova2/</guid>
+      <description>Ciao a tutti, questo è un&amp;rsquo;altra prova!</description>
+    </item>
+    
+    <item>
+      <title>Prova</title>
+      <link>http://example.org/news/prova/</link>
+      <pubDate>Tue, 11 Aug 2020 21:58:44 +0200</pubDate>
+      
+      <guid>http://example.org/news/prova/</guid>
+      <description>Ciao a tutti, questo è un articolo di prova.</description>
+    </item>
+    
+    <item>
+      <title>Gardolo - Arco</title>
+      <link>http://example.org/partite/gardolo-arco/</link>
+      <pubDate>Sat, 18 Jul 2020 00:33:35 +0200</pubDate>
+      
+      <guid>http://example.org/partite/gardolo-arco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Serie D</title>
-      <link>http://example.org/squadre/serie-d/</link>
+      <link>http://example.org/squadre/serie-d-20-21/</link>
       <pubDate>Sat, 11 Jul 2020 10:32:29 +0200</pubDate>
       
-      <guid>http://example.org/squadre/serie-d/</guid>
+      <guid>http://example.org/squadre/serie-d-20-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promozione</title>
-      <link>http://example.org/squadre/promozione/</link>
+      <link>http://example.org/squadre/promozione-20-21/</link>
       <pubDate>Sat, 11 Jul 2020 01:54:41 +0200</pubDate>
       
-      <guid>http://example.org/squadre/promozione/</guid>
+      <guid>http://example.org/squadre/promozione-20-21/</guid>
       <description></description>
     </item>
     

@@ -5,6 +5,8 @@ theme = "hugo-future-imperfect"
 [taxonomies]
   categoria = "categorie"
   "partite/squadre" = "partite/squadra"
+  stagione = "stagioni"
+  giocatore = "giocatori"
 [[menu.main]]
   name = "Home" 
   url = "/"
