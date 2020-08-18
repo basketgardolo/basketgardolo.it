@@ -1,4 +1,36 @@
 ---
 label: Giocatori
 hide_body: true
-fields: []
+fields:
+- name: nome
+  type: text
+  config:
+    required: true
+  label: Nome
+- name: numero
+  type: number
+  label: Numero
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: ruolo
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Playmaker
+    - Guardia
+    - Ala piccola
+    - Ala grande
+    - Centro
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Ruolo
