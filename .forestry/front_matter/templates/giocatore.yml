@@ -1,5 +1,5 @@
 ---
-label: Giocatori
+label: Giocatore
 hide_body: true
 fields:
 - name: nome
@@ -34,3 +34,7 @@ fields:
       file: 
       path: 
   label: Ruolo
+pages:
+- content/giocatori/bernardino-fracalossi/_index.md
+- content/giocatori/marcello-frittura/_index.md
+- content/giocatori/polpetto-castoldo/_index.md
