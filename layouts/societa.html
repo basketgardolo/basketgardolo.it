@@ -35,7 +35,90 @@
 				<h3><a href="/layouts/societa.html" style="color: white;">La Società</a></h3>
 			</div>
 			<div class="col-sm-2">
-				<h3><a href="#" style="color: white;">Le Squadre</a></h3>
+				<div id="accordionSquadre">
+
+					<div class="card">
+					  <div class="card-header">
+						<a class="card-link" data-toggle="collapse" href="#squadre" style="color: white;">
+							<h3>Le Squadre</h3>
+						</a>
+					  </div>
+					</div>
+					<div id="squadre" class="collapse" data-parent="#accordionSquadre">
+						<div class="card-body">
+							<div class="container-fluid" style="background-color: #20265a;">
+								<div class="row" style="text-align: center;">
+									<table>
+										<tr>
+											<td>
+												Serie D
+											</td>
+											<td>
+												U18A
+											</td>
+											<td>
+												Esordienti
+											</td>
+										</tr>
+										<tr>
+											<td>
+												Promozione
+											</td>
+											<td>
+												U18B
+											</td>
+											<td>
+												Aquilotti
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<!-- VUOTA -->
+											</td>
+											<td>
+												U16
+											</td>
+											<td>
+												Scoiattoli
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<!-- VUOTA -->
+											</td>
+											<td>
+												U13
+											</td>
+											<td>
+												Pulcini
+											</td>
+										</tr>
+									</table>
+									<!-- più corretta ma da sistemare
+									<div class="col-sm-4">
+										<p>Serie D</p>
+										<p>Promozione</p>
+									</div>
+									<div class="col-sm-4">
+										<p>U18A</p>
+										<p>U18B</p>
+										<p>U16</p>
+										<p>U13</p>
+									</div>
+									<div class="col-sm-4">
+										<p>Esordienti</p>
+										<p>Aquilotti</p>
+										<p>Scoiattoli</p>
+										<p>Pulcini</p>
+									</div>
+									-->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- <h3><a href="#" style="color: white;">Le Squadre</a></h3>-->
 			</div>
 			<div class="col-sm-2">
 				<h3><a href="#" style="color: white;">Allenatori</a></h3>
@@ -146,6 +229,7 @@
 				<div id="iscrizione" class="collapse" data-parent="#accordion">
 					<div class="card-body">
 					  <!-- TODO: PULSANTE PER FORM ISCRIZIONE ONLINE -->
+					  <p style="text-align: center;"><button type="button" class="btn btn-warning">Iscrizione Online</button><br></p>
 
 					  Per chi desidera compilare l’iscrizione cartacea può scaricare il modulo in pdf e consegnarlo in segreteria o all’allenatore di riferimento.
 
@@ -175,8 +259,6 @@
 					  QUOTA 2019/20 – NOME E COGNOME DELL’ATLETA 
 
 					  Si precisa che eventuali ritiri, abbandoni e/o espulsioni disciplinari durante la stagione sportiva NON PREVEDONO la restituzione della quota versata. Il mancato pagamento impedirà l’accesso alla palestra.
-
-
 					</div>
 				</div>
 			</div>
