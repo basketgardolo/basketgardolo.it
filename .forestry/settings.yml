@@ -17,7 +17,7 @@ sections:
 - type: directory
   path: content/giocatori
   label: Giocatori
-  create: all
+  create: documents
   match: "**/_index.md"
   templates:
   - giocatore
