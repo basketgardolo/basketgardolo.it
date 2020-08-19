@@ -1,5 +1,5 @@
 ---
-label: Giocatori
+label: Giocatore
 hide_body: true
 fields:
 - name: nome
