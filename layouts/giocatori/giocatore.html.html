@@ -10,7 +10,7 @@
 <ul>
     {{ range .Data.Pages }}
     <li>
-        <a href="{{ .RelPermalink }}">{{ .Title }} {{ .Params.stagione }}</a>
+        <a href="{{ .RelPermalink }}">{{ .Title }} ({{ .Params.stagioni }})</a>
     </li>
     {{ end }}
 </ul>

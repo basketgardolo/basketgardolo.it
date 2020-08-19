@@ -1,5 +1,8 @@
 {{ define "title" }}
-<h1>{{ .Title }} {{ .Param "stagione" }}</h1>
+<h1>{{ .Title }}</h1>
+{{ with .Params.stagioni }}
+<p> Stagione <b>{{ . }}</b></p>
+{{ end }}
 {{ end }}
 {{ define "content" }}
 {{ with .Params.foto }}
@@ -17,7 +20,7 @@
     <tbody>
         {{ $k := .Site.GetPage "/giocatori" }}
         {{ range .Params.Giocatori }}
-        {{ $page := $k.GetPage . }}
+        {{ $page := $k.GetPage (. | urlize) }}
         <tr>
             <td><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></td>
             <td>
