@@ -1,6 +1,6 @@
 +++
-title = "Polpetto Castoldo"
-numero = 0
+numero = 1
 ruolo = "Ala grande"
+title = "Polpetto Castoldo"
 
 +++
