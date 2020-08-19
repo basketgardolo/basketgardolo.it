@@ -1,5 +1,6 @@
 ---
 title: Michael Jordan
-ruolo: ""
-numero: 0
+ruolo: Guardia
+numero: 23
+
 ---
