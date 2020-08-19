@@ -7,3 +7,16 @@
     width: 90em;
     padding: 0 4.5em;
 }
+
+header {
+    padding: 10px;
+    text-align: right;
+    background-color: #20265a;
+    color: white;
+}
+
+footer {
+  padding: 10px;
+  background-color: #20265a;
+  color: white;
+}
