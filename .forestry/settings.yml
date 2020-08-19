@@ -19,7 +19,7 @@ sections:
     label: Giocatori
     create: documents
     match: "**/_index.md"
-    new_doc_ext: "/_index.md"
+    new_doc_ext: "//_index.md"
     templates:
       - giocatore
   - type: directory
