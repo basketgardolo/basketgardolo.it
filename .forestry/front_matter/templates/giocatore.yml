@@ -35,4 +35,5 @@ fields:
       path: 
   label: Ruolo
 pages:
+- content/giocatori/bernardino-fracalossi/_index.md
 - content/giocatori/marcello-frittura/_index.md
