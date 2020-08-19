@@ -2,7 +2,7 @@
 label: Giocatore
 hide_body: true
 fields:
-- name: nome
+- name: title
   type: text
   config:
     required: true

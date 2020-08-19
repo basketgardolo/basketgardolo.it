@@ -1,5 +1,5 @@
 ---
-nome: Cristian Stenico
+title: Cristian Stenico
 ruolo: Guardia
 numero: 10
 ---

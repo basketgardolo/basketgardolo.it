@@ -1,5 +1,5 @@
 {{define "title"}}
-<h1>{{ printf "%s #%d" .Params.nome .Params.numero }}</h1>
+<h1>{{ printf "%s #%d" .Title .Params.numero }}</h1>
 {{ with .Params.ruolo }}
 <p>{{ . }}</p>
 {{ end }}
