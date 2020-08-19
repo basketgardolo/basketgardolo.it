@@ -34,3 +34,5 @@ fields:
       file: 
       path: 
   label: Ruolo
+pages:
+- content/giocatori/marcello-frittura/_index.md
