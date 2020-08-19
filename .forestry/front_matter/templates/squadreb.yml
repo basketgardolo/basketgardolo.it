@@ -12,14 +12,10 @@ fields:
 - type: text
   name: foto
   label: foto
-- type: list
-  name: giocatori
-  label: giocatori
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: giocatori
+- name: giocatori
+  type: tag_list
+  default: []
+  label: Giocatori
 - type: list
   name: coach
   label: coach

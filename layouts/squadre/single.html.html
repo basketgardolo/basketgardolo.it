@@ -19,7 +19,7 @@
         {{ range .Params.Giocatori }}
         {{ $page := $k.GetPage . }}
         <tr>
-            <td><a href="{{ $page.RelPermalink }}">{{ $page.Params.nome }}</a></td>
+            <td><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></td>
             <td>
                 {{with $page.Params.ruolo }}
                 {{ . }}

@@ -2,7 +2,7 @@
 label: Giocatore
 hide_body: true
 fields:
-- name: nome
+- name: title
   type: text
   config:
     required: true
@@ -36,5 +36,6 @@ fields:
   label: Ruolo
 pages:
 - content/giocatori/bernardino-fracalossi/_index.md
+- content/giocatori/cristiano-statico._index.md
 - content/giocatori/marcello-frittura/_index.md
 - content/giocatori/polpetto-castoldo/_index.md

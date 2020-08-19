@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "it"
 title = "Basket Gardolo"
 theme = "hugo-future-imperfect"
+metaDataFormat = "yaml"
 [taxonomies]
   categoria = "categorie"
   "partite/squadre" = "partite/squadra"

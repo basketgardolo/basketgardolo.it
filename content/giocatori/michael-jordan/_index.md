@@ -1,5 +1,6 @@
 ---
-nome: Michael Jordan
-ruolo: ""
-numero: 0
+title: Michael Jordan
+ruolo: Guardia
+numero: 23
+
 ---
