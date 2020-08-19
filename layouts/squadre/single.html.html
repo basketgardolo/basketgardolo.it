@@ -1,11 +1,13 @@
+{{ define "title" }}
+<h1>{{ .Title }} {{ .Param "stagione" }}</h1>
+{{ end }}
 {{ define "content" }}
 {{ with .Params.foto }}
 <img src="{{- .Params.foto -}}" alt="Foto di squadra {{ .Title }}" />
 {{ else }}
 <p>Nessuna foto di squadra... per ora ;)</p>
 {{end}}
-{{ printf "%#v" .Site.GetPage "/stagioni" }}
-{{ $stagione := .Site.GetPage "/stagioni" .Params.stagione }}
+{{ $stagione := .Site.GetPage "/stagioni" .Params.stagioni }}
 <p>Stagione: <a href="{{ $stagione.RelPermalink }}">{{ $stagione.Title }}</a></p>
 <table>
     <thead>

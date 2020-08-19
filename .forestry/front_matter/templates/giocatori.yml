@@ -1,19 +1,25 @@
 ---
-label: Giocatore
+label: Giocatori
 hide_body: true
 fields:
-- type: text
-  name: title
-  label: title
-- type: text
-  name: nome
+- name: nome
+  type: text
+  config:
+    required: true
   label: Nome
-- type: number
-  name: numero
+- name: numero
+  type: number
   label: Numero
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: ruolo
   type: select
-  default: ''
+  default: []
   config:
     required: false
     options:
@@ -25,6 +31,6 @@ fields:
     source:
       type: simple
       section: 
-      file: content/about/_index.md
+      file: 
       path: 
   label: Ruolo

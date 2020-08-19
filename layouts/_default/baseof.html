@@ -5,10 +5,13 @@
 <!-- Main -->
 <div id="main">
     <article class="post">
-        {{ $.Scratch.Set "h1" true }}
-        {{ block "title" .}}
-        {{ .Render "header" }}
-        {{ end}}
+        <header>
+            <div class="title">
+                {{ block "title" . }}
+                {{ .Render "header" }}
+                {{ end}}
+            </div>
+        </header>
         <div id="content">
             {{ block "content" . }}
             {{ .Content }}

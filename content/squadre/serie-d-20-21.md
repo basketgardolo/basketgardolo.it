@@ -6,5 +6,5 @@ giocatori:
     - jorge-gutierrez
 coach: []
 categorie: serie-d
-stagione: 2020-2021
+stagioni: 2020-2021
 ---
