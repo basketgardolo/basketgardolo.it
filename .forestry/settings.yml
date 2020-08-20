@@ -17,11 +17,10 @@ sections:
 - type: directory
   path: content/giocatori
   label: Giocatori
-  create: all
-  match: "**/*.md"
-  exclude: "**/"
+  create: documents
+  match: "**/_index.md"
+  new_doc_ext: _index.md
   templates:
-  - giocatore
   - giocatore
 - type: directory
   path: content/stagioni

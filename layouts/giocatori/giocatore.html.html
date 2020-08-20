@@ -1,0 +1,17 @@
+{{define "title"}}
+<h1>{{ printf "%s #%d" .Title .Params.numero }}</h1>
+{{ with .Params.ruolo }}
+<p>{{ . }}</p>
+{{ end }}
+{{end}}
+
+{{ define "content" }}
+<p>Squadre:</p>
+<ul>
+    {{ range .Data.Pages }}
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }} ({{ .Params.stagioni }})</a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

@@ -3,32 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/stagioni/2020-2021/</loc>
-    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categorie/</loc>
-    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/giocatori/</loc>
-    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+    <loc>http://example.org/giocatori/cristian-stenico/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/giocatori/jorge-gutierrez/</loc>
-    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/michael-jordan/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stagioni/2020-2021/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/squadre/serie-d/</loc>
+    <loc>http://example.org/categorie/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/squadre/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stagioni/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/squadre/under-38/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categorie/under-38/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/</loc>
+    <lastmod>2020-08-11T21:59:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/prova2/</loc>
+    <lastmod>2020-08-11T21:59:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/prova/</loc>
+    <lastmod>2020-08-11T21:58:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/partite/gardolo-arco/</loc>
+    <lastmod>2020-07-18T00:33:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/partite/squadra/</loc>
+    <lastmod>2020-07-18T00:33:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/partite/</loc>
+    <lastmod>2020-07-18T00:33:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/squadre/serie-d-20-21/</loc>
     <lastmod>2020-07-11T10:32:29+02:00</lastmod>
   </url>
   
@@ -38,37 +98,17 @@
   </url>
   
   <url>
-    <loc>http://example.org/squadre/</loc>
-    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stagioni/</loc>
-    <lastmod>2020-07-11T10:32:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/giocatori/cristian-stenico/</loc>
+    <loc>http://example.org/giocatori/scottie-pippen/</loc>
     <lastmod>2020-07-11T01:54:41+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/giocatori/michael-jordan/</loc>
-    <lastmod>2020-07-11T01:54:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/squadre/promozione/</loc>
+    <loc>http://example.org/squadre/promozione-20-21/</loc>
     <lastmod>2020-07-11T01:54:41+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/categorie/promozione/</loc>
-    <lastmod>2020-07-11T01:54:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/giocatori/scottie-pippen/</loc>
     <lastmod>2020-07-11T01:54:41+02:00</lastmod>
   </url>
   
@@ -88,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/coaches/</loc>
+    <loc>http://example.org/partite/squadra/promozione-20-21/</loc>
   </url>
   
 </urlset>

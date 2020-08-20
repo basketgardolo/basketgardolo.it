@@ -1,11 +1,16 @@
+{{ define "title" }}
+<h1>{{ .Title }}</h1>
+{{ with .Params.stagioni }}
+<p> Stagione <b>{{ . }}</b></p>
+{{ end }}
+{{ end }}
 {{ define "content" }}
 {{ with .Params.foto }}
 <img src="{{- .Params.foto -}}" alt="Foto di squadra {{ .Title }}" />
 {{ else }}
 <p>Nessuna foto di squadra... per ora ;)</p>
 {{end}}
-{{ printf "%#v" .Site.GetPage "/stagioni" }}
-{{ $stagione := .Site.GetPage "/stagioni" .Params.stagione }}
+{{ $stagione := .Site.GetPage "/stagioni" .Params.stagioni }}
 <p>Stagione: <a href="{{ $stagione.RelPermalink }}">{{ $stagione.Title }}</a></p>
 <table>
     <thead>
@@ -15,9 +20,9 @@
     <tbody>
         {{ $k := .Site.GetPage "/giocatori" }}
         {{ range .Params.Giocatori }}
-        {{ $page := $k.GetPage . }}
+        {{ $page := $k.GetPage (. | urlize) }}
         <tr>
-            <td><a href="{{ $page.RelPermalink }}">{{ $page.Params.nome }}</a></td>
+            <td><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></td>
             <td>
                 {{with $page.Params.ruolo }}
                 {{ . }}

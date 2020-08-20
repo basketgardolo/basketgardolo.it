@@ -5,7 +5,7 @@ squadra-a: promozione-20-21.md
 punteggio-a: 100
 squadra-b: Arco
 punteggio-b: 20
-partite/squadra: ["promozione-20-21"]
+partite/squadra: promozione-20-21
 luogo: Gardolo
 categoria: promozione
 stagione:  2020-2021 

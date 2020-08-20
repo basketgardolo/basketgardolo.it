@@ -1,10 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "it"
 title = "Basket Gardolo"
-theme = "hugo-future-imperfect"
+metaDataFormat = "yaml"
 [taxonomies]
-  "categorie" = "categoria"
+  categoria = "categorie"
   "partite/squadre" = "partite/squadra"
+  stagione = "stagioni"
+  giocatore = "giocatori"
 [[menu.main]]
   name = "Home" 
   url = "/"

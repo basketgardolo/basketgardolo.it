@@ -1,6 +1,0 @@
-[submodule "themes/hugo-future-imperfect"]
-	path = themes/hugo-future-imperfect
-	url = https://github.com/jpescador/hugo-future-imperfect
-[submodule "themes/travelify"]
-	path = themes/travelify
-	url = https://github.com/balaramadurai/hugo-travelify-theme
