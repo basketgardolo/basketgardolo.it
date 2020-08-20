@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Allenatori</title>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <title>Iscrizione</title>
         <link rel="stylesheet" href="static/css/basketgardolo.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
         <style>
@@ -35,17 +35,17 @@
                     </a>
                 </div>
                 <div class="col-sm-2">
-                    <h3><a href="societa.html" style="color: white;">La Società</a></h3>
+                    <h3><a href="#" style="color: white;">La Società</a></h3>
                 </div>
                 <div class="col-sm-2">
                     <div id="accordionSquadre">
-    
+
                         <div class="card">
-                          <div class="card-header">
+                        <div class="card-header">
                             <a class="card-link" data-toggle="collapse" href="#squadre" style="color: white;">
                                 <h3>Le Squadre</h3>
                             </a>
-                          </div>
+                        </div>
                         </div>
                         <div id="squadre" class="collapse" data-parent="#accordionSquadre">
                             <div class="card-body">
@@ -120,109 +120,90 @@
                             </div>
                         </div>
                     </div>
-    
+
                     <!-- <h3><a href="#" style="color: white;">Le Squadre</a></h3>-->
                 </div>
                 <div class="col-sm-2">
-                    <h3><a href="#" style="color: white;">Allenatori</a></h3>
+                    <h3><a href="allenatori.html" style="color: white;">Allenatori</a></h3>
                 </div>
                 <div class="col-sm-1">
                     <h3><a href="#" style="color: white;">News</a></h3>
                 </div>
                 <div class="col-sm-2">
-                    <h3><a href="iscrizione.html" style="color: white;">Iscrizione</a></h3>
+                    <h3><a href="#" style="color: white;">Iscrizione</a></h3>
                 </div>
             </div>
-    
+
         </header>
-        <!-- SPONSORS -->
+
+        <!-- MAIN: START -->
         <div class="container-fluid">
             <div class="row">
-                <div class="col-sm-12">
+                <div class="col-sm-9">
+                    Per chi desidera compilare l’iscrizione cartacea può scaricare il modulo in pdf e consegnarlo in segreteria o all’allenatore di riferimento.<br>
+
+                    Di seguito tutti i moduli necessari per l’iscrizione:<br>
+
+                    Richiesta visita al pediatra<br>
+                    ASSICURAZIONE BASE FIP<br>
+                    ASSICURAZIONE INTEGRATIVA ITAS (contatto diretto per la nostra convenzione è Garofalo Marco, cel +39 3475052306<br>
+                    Iscrizione_2019-2020_MINIBASKET		Download<br>
+
+                    Iscrizione_2019-2020_BASKET			Download<br>
+
+                    Iscrizione_2019-2020_SERIED			Download<br>
+
+                    ⚠ Allenatori , date e orari sono disponibili sulle pagine delle rispettive categorie ⚠<br>
+
+                    L’ufficio di segreteria in via Soprassasso 1 (ex Circoscrizione di Gardolo) provvederà al ritiro/consegna delle iscrizioni cartacee e delle visite mediche e sarà a disposizione per qualsiasi necessità e chiarimento dalle ore 18:00 alle ore 20:00:<br>
+
+                    Tutti i lunedì dal 02 settembre fino al 28 ottobre 2019<br>
+                    Apertura straordinaria tutti i giorni da lunedì 30 settembre a venerdì 11 ottobre compresi<br>
+                    PAGAMENTO QUOTA D’ISCRIZIONE<br>
+
+                    La quota di iscrizione deve essere versata entro il 30 settembre 2019 a mezzo BONIFICO BANCARIO sul ns. c/c presso la Cassa Rurale di Trento. <br>
+
+                    IBAN: IT58 P083 0401 8000 0000 4301 545 CAUSALE:<br>
+
+                    QUOTA 2019/20 – NOME E COGNOME DELL’ATLETA <br>
+
+                    Si precisa che eventuali ritiri, abbandoni e/o espulsioni disciplinari durante la stagione sportiva NON PREVEDONO la restituzione della quota versata. Il mancato pagamento impedirà l’accesso alla palestra.<br>
+                
+                    <p style="text-align: center;">
+                        <button data-toggle="collapse" data-target="#formIscrizione" class="btn btn-warning">Iscrizione Online</button><br>
+                    </p>
+
+                    <!-- TODO: ADEGUARE FORM PER ISCRIZIONE ONLINE -->
+                    <div id="formIscrizione" class="collapse">
+                        <form action="/action_page.php">
+                            <div class="form-group">
+                              <label for="email">Email address:</label>
+                              <input type="email" class="form-control" placeholder="Enter email" id="email">
+                            </div>
+                            <div class="form-group">
+                              <label for="pwd">Password:</label>
+                              <input type="password" class="form-control" placeholder="Enter password" id="pwd">
+                            </div>
+                            <div class="form-group form-check">
+                              <label class="form-check-label">
+                                <input class="form-check-input" type="checkbox"> Remember me
+                              </label>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                          </form>
+                    </div>
+                </div>
+    
+                <div class="col-sm-3" style="background-color: gray;">
                     <div class="bxslider">
-                        {{ range ((.Site.GetPage "sponsors").Resources.ByType "page") }}
-                        <a href="{{ .Params.web }}"><img src="{{ .Params.logo }}" title="{{ .Title }}"></a>
+                        {{ range (.Site.GetPage "sponsors").Pages }}
+                        <a href="{{ .Params.web }}"><img src="{{ .Params.logo }}" title="{{ .Title }}" style="width: 10%;"></a>
                         {{ end }}
                     </div>
                 </div>
-            </div>
+                
+            </div> 
         </div>
-            
-        <!-- HEADER: END -->
-    
-        <!-- MAIN: START -->
-
-        <div class="container-fluid">
-            <div class="col-sm-6" style="align-content: center;">
-                <div class="row">
-                    <p style="text-align: center;">
-                        <canvas id="CanvasD" width="300" height="200" style="border:1px solid #000000;">
-                        </canvas>
-                        <script>
-                            var c = document.getElementById("CanvasD");
-                            var ctx = c.getContext("2d");
-                            ctx.font = "30px Arial";
-                            ctx.strokeText("Foto Allenatori Serie D", 10, 50);
-                        </script>
-                    </p>
-                    <p style="text-align: center;">
-                        <!-- TODO: LINK ALLA PAGINA DELLA SQUADRA -->
-                        Serie D
-                    </p>
-                </div>
-                <div class="row">
-                    <p style="text-align: center;">
-                        <canvas id="CanvasPromo" width="300" height="200" style="border:1px solid #000000;">
-                        </canvas>
-                        <script>
-                            var c = document.getElementById("CanvasPromo");
-                            var ctx = c.getContext("2d");
-                            ctx.font = "30px Arial";
-                            ctx.strokeText("Foto Allenatori Promozione", 10, 50);
-                        </script>
-                    </p>
-                    <p style="text-align: center;">
-                        <!-- TODO: LINK ALLA PAGINA DELLA SQUADRA -->
-                        Promozione
-                    </p>
-                </div>
-            </div>
-            <div class="col-sm-6" style="align-content: center;">
-                <div class="row">
-                    <p style="text-align: center;">
-                        <canvas id="CanvasEso" width="300" height="200" style="border:1px solid #000000;">
-                        </canvas>
-                        <script>
-                            var c = document.getElementById("CanvasEso");
-                            var ctx = c.getContext("2d");
-                            ctx.font = "30px Arial";
-                            ctx.strokeText("Foto Istruttori Esordienti", 10, 50);
-                        </script>
-                    </p>
-                    <p style="text-align: center;">
-                        <!-- TODO: LINK ALLA PAGINA DELLA SQUADRA -->
-                        Esordienti
-                    </p>
-                </div>
-                <div class="row">
-                    <p style="text-align: center;">
-                        <canvas id="CanvasAqui" width="300" height="200" style="border:1px solid #000000;">
-                        </canvas>
-                        <script>
-                            var c = document.getElementById("CanvasAqui");
-                            var ctx = c.getContext("2d");
-                            ctx.font = "30px Arial";
-                            ctx.strokeText("Foto Istruttori Aquilotti", 10, 50);
-                        </script>
-                    </p>
-                    <p style="text-align: center;">
-                        <!-- TODO: LINK ALLA PAGINA DELLA SQUADRA -->
-                        Aquilotti
-                    </p>
-                </div>
-            </div>
-        </div>
-
         <!-- MAIN: END -->
 
         <!-- FOOTER: START -->
