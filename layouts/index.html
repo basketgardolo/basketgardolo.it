@@ -251,16 +251,20 @@
 	<!-- FOOTER: END -->
 </body>
 </html>
-{{ partial "header" . }}
-    {{ $.Scratch.Set "shareNav" true }}
-    {{ partial "navbar" . }}
-    <!-- Main -->
-    <div id="main">
-        {{ range first 1 (where .Site.Pages "Type" "post") }}
-            {{ .Render "content-single" }}
+<!-- INDEX CHE HA FATTO CRISTIAN IL 19/08/2020 ALLE 17.52 -->
+<!-- 
+	{{ partial "header" . }}
+		{{ $.Scratch.Set "shareNav" true }}
+		{{ partial "navbar" . }}
+		
+		<div id="main">
+			{{ range first 1 (where .Site.Pages "Type" "post") }}
+				{{ .Render "content-single" }}
 
-            {{ partial "share-menu" . }}
-        {{ end }}
-    </div>
-    {{ partial "sidebar" . }}
-{{ partial "footer" . }}
+				{{ partial "share-menu" . }}
+			{{ end }}
+		</div>
+		{{ partial "sidebar" . }}
+	{{ partial "footer" . }}
+
+-->
