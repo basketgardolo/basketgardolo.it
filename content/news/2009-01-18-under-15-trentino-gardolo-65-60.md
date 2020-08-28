@@ -1,0 +1,5 @@
+---
+title: 'Under 15: Trentino-Gardolo: 65-60'
+date: 2009-01-18T13:10:41+00:00
+---
+La stessa squadra che una settimana fa batteva in casa Riva va a perdere contro il Trentino Basket. Brutta prestazione della squadra ospite, in difficoltà contro la zona dei locali, molto chiusa. Un Gardolo poco grintoso con pessime percentuali al tiro e non concentrato a sufficienza dopo la bella vittoria di una settimana fa. Certamente anche l'arbitraggio non ci ha aiutato: i tantissimi passi andrebbero fischiati! Peccato perchè la squadra era in un buon momento, ma questa sconfitta deve insegnare a non accontentarsi, ad affrontare con la giusta concentrazione ogni partita e cercare sempre di lavorare bene ad allenamento per migliorarsi. Bertoluzza 14, Trivarelli 20, Ambrosi 5, Leitempergher 9, Di Dona, Mattedi 4, Consoli 0, Dallapiccola 2, Del Prete, Gambino 2, Grassi 0, Pederzolli 4; All. Caracristi Tiri da 3: Trivarelli 1; tiri liberi 7/16; usciti per 5 falli:nessuno

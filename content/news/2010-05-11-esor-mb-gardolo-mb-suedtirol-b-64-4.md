@@ -1,0 +1,5 @@
+---
+title: 'Esor: MB Gardolo-MB Suedtirol B: 64-4'
+date: 2010-05-11T05:38:28+00:00
+---
+Ultima partita stagionale in casa ed ennesima vittoria dei nostri esordienti, reduci dall'ottimo torneo di Salsomaggiore dello scorso weekend, che però, nonostante il punteggio, non forniscono certamente la loro migliore prestazione stagionale complici la stanchezza e la poca competitività dell'avversario. Vista dunque la poca importanza della cronaca della partita ma ricordando l'ottimo esordio di Davide Parzian, approfittiamo dello spazio per ricordare ai genitori che i ragazzi non si misurano in base ai canestri fatti ma in base all'impegno ed alla capacità di "dare" qualcosa alla squadra in base alle proprie capacità tecniche e fisiche personali e comunque sia la cosa più importante è che il proprio figlio faccia uno sport, se poi questo è la pallacanestro ne saremo tutti insieme ancora più contenti. Adesso abbiamo ancora una partita importante a Merano dove andremo a giocarci il secondo posto del nostro girone, forza ragazzi !!! Parzian 4, Ambrosi 10, Pangrazzi 2, Lazzarotto 13, Dodu 2, Maurina 5, Mazzalai 8, Carraro 0, Torresani 4, Facchin 4, Caldini 2, Perenzoni 10

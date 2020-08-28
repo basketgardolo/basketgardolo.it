@@ -1,0 +1,5 @@
+---
+title: 'Prom: Gardolo-Europa Bz: 78-60'
+date: 2009-11-14T16:14:17+00:00
+---
+Superato anche il primo banco di prova contro la più esperta delle formazioni bolzanine il G.S.Europa infatti vanta l'apporto di giocatori di provata esperienza,primi tra tutti i fratelli Capon, vecchie conoscenze del basket gardoloto e due tra i migliori giocatori del basket regionale. Primi due quarti molto equilibrati con sprazzi di buon basket da ambo le parti: alla sirena il vantaggio del Gardolo era di 9 punti, grazie alla capacità di tenere alto il ritmo e una difesa aggressiva. Nel terzo quarto saliva in cattedra un Deprà immarcabile (31 punti il suo scorer personale) che con le sue penetrazioni che, abbinate ai tiri da fuori di Malfer e di Leonardelli, vanificavano la temibile zona avversaria. Alla fine Gardolo 78 G.S.Europa 60. Vi aspettiamo numerosi alle Pigarelli il 27/11/2009 per tifare Gardolo contro il Bressanone la più quotata antagonista del girone.

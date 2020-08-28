@@ -3,7 +3,9 @@ title: "Serie D"
 date: 2020-07-11T10:32:29+02:00
 foto: ""
 giocatori:
-    - jorge-gutierrez
+  - jorge-gutierrez
+allenatore:
+  - Steve Kerr
 coach: []
 categorie: serie-d
 stagioni: 2020-2021

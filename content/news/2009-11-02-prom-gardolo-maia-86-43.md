@@ -1,0 +1,5 @@
+---
+title: 'Prom: Gardolo-Maia 86-43'
+date: 2009-11-02T11:43:44+00:00
+---
+Terza vittoria consecutiva per il Gardolo sul campo di casa contro i meranesi del Maia. Primo quarto equilibrato 25 a 23 per i gardoloti ma già dal secondo con una difesa più accorta e alzando il ritmo di gioco si andava al riposo lungo con un + 22 a favore dei padroni di casa. Nella seconda parte di gara gestione del risultato e gloria per tutti fino all'ultima sirena Gardolo 86 Maia 43. Unico rammarico gli infortuni di Luca Dalpiaz e di Franzoi Marco ai quali auguriamo di essere pronti già dalla prossima sfida con il giovani del Villazzano, da segnalare il punteggio sempre sopra agli 80 punti in tutte e tre le gare, complimenti a tutti e avanti così. Gozzer, Bosetti 15, Baldo, De Mare 7, Deprà 20, Leonardelli 9, Franzoi 6, Valer 9, Saccoman 11, Baffetti 3, Dalpiaz 6.

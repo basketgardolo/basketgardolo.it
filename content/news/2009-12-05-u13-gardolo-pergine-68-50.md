@@ -1,0 +1,5 @@
+---
+title: 'U13: Gardolo-Pergine: 68-50'
+date: 2009-12-05T16:49:09+00:00
+---
+Un ottimo Gardolo, nonostante i primi minuti di incertezza, batte nettamente Pergine, mostrando un ottimo gioco sia individuale che di squadra. Tutto perfetto e grande la soddisfazione degli allenatori. Ma……..siamo solo a metà partita! Nei restanti 20 minuti la squadra, già convinta della facile vittoria e già proiettata ai festeggiamenti, non mette in campo la giusta grinta e concentrazione, dando modo a Pergine di recuperare nel punteggio e batterci nei parziali del 3° e 4° tempo. Peccato non aver sfruttato tutta la partita per il nostro obiettivo che rimane quello di MIGLIORARCI dando sempre il massimo, sia in allenamento che in gara. Un applauso comunque ai ragazzi per quello di buono messo in mostra, ma ricordiamoci che le partite durano 40 minuti! Bosetti, Dallabetta 10, Demattè 2, Di Cataldo 14, Cetto, Pedri 15, Tomasevic 7, Spagnolo 12, Tonina 8, Postal.

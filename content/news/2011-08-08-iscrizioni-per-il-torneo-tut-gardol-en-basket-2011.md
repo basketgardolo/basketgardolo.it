@@ -1,0 +1,5 @@
+---
+title: Iscrizioni per il torneo “Tut Gardol en Basket” 2011
+date: 2011-08-08T21:33:39+00:00
+---
+\[![](http://www.basketgardolo.it/wp-content/uploads/2011/06/torneobn.jpg "Tut Gardol en Basket")\]\[1\] Sono finalmente aperte le iscrizioni per la seconda edizione del torneo 3 contro 3 "Tut Gardol en Basket". A \[questo link\]\[2\] potete scaricare il modulo d'iscrizione per le squadre, che dovrete spedire via email a Marco Pedrotti all'indirizzo . Vi ricordiamo che gli iscritti dovranno essere atleti tesserati in una società sportiva e che il costo di partecipazione è di 30€ per squadra. Il resto del regolamento lo potete trovare in \[questo documento\]\[3\], vi preghiamo di leggerlo attentamente prima di compilare l'iscrizione. Ci vediamo l'11 settembre! \[1\]: http://www.basketgardolo.it/wp-content/uploads/2011/06/torneobn.jpg \[2\]: http://www.basketgardolo.it/wp-content/uploads/2010/06/iscrizione.doc \[3\]: http://www.basketgardolo.it/wp-content/uploads/2011/08/Regolamento-3vs3\_2011.pdf

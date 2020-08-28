@@ -1,0 +1,5 @@
+---
+title: Primo torneo casalingo per il minibasket
+date: 2014-12-03T08:46:02+00:00
+---
+Domenica 23 novembre ha avuto luogo il primo torneo casalingo per i più piccoli nati dal 2010 al 2005. Pulcini, Scoiattoli, Aquilotti hanno giocato con i graditissimi ospiti dei centri dell'Aquila Basket, Arcobaleno e Paganella. Un gran bel colpo d'occhio con tanti presenti che sono riusciti a riempire di sorrisi e gioia il nostro grandissimo Palazzetto, ai quali poi a sua volta è stata riempita la pancia durante la merenda organizzata con la preziosissima collaborazione dei nostri cari Genitori. Le emozioni sicuramente da rivivere al più presto, ammirando la crescita dei nostri MINIcestisti. Nello stesso giorno i ragazzi del gruppo Aquilotti-2004, si sono divertiti nel torneo Risto 3 (organizzato a Villazzano dagli amici di ArcobalenoBasket) dove hanno portato a casa due belle vittorie! W il MINIbasket!

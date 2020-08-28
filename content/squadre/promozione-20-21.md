@@ -5,6 +5,8 @@ giocatori:
   - Cristian Stenico
   - Scottie Pippen
   - Michael Jordan
+allenatori:
+  - Steve Kerr
 categorie: promozione
 stagioni: 2020-2021
 ---

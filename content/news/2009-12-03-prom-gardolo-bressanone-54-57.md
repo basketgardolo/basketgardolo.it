@@ -1,0 +1,5 @@
+---
+title: 'Prom: Gardolo-Bressanone: 54-57'
+date: 2009-12-03T17:55:30+00:00
+---
+Contro il Bressanone è maturata la seconda sconfitta consecutiva, questa volta tra le mura amiche, che dire la sconfitta è stata di misura (tre punti) dopo aver toccato anche i meno 11, complice una sonora dormita di tutta la squadra all'inizio del terzo quarto che si chiudeva con il parziale di 24 a 9 per i nostri avversari, la giornata non felice di qualcuno dei nostri, e l'ottima difesa a zona molto aggressiva degli avversari hanno fatto il resto. Da salvare il ritmo molto alto sostenuto per tutta la partita e l'intensità difensiva decisamente buona….venerdì a Merano torneremo alla vittoria. p.s.: alla luce degli ultimi due risultati il primo che mi viene a parlare di feste in baita….verrà panchinato per tutto il campionato (che fa anche rima..) gozzer 5, bosetti 10, baldo 2, stenico, brugnara, leonardelli 8, valer 5, saccoman 4, baffetti 1, dalpiaz 4.

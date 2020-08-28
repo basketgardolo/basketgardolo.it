@@ -1,0 +1,5 @@
+---
+title: 'U17: Gardolo B-Villazzano A: 36-126'
+date: 2009-11-09T09:18:54+00:00
+---
+Sfida impari tra due formazioni con obiettivi diversi e che dunque si incontreranno in questa prima fase che vede mescolate squadre da campionato Elite con squadre da campionato Open. Troppa la differenza fisica e tecnica nonostante una partita onesta giocata dai nostri ragazzi, sarà compito della nostra formazione under 17 più forte rimettere il conto in pari con Villazzano, almeno speriamo. Tra i singoli, buona partita di Grassi in fase difensiva e, a tratti, di Consoli, Guadagnini e Perissinotto. Si è fatta purtroppo sentire l'assenza sotto le plance dell'influenzato Franzoi. Prossimo appuntamento in casa sabato prossimo contro Pergine in una partita molto impegnativa che ci permetterà di valutare eventuali nostri progressi.

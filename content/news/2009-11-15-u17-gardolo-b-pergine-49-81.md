@@ -1,0 +1,5 @@
+---
+title: 'U17: Gardolo B-Pergine: 49-81'
+date: 2009-11-15T13:27:54+00:00
+---
+Pessima prova dei nostri under 17 B che al primo vero test stagionale per dimostrare i progressi fatti almeno a livello individuale fanno flop. Le premesse non erano favorevoli mancando tutto il reparto play (2 influenzati, 1 con impegni personali e Ricardo fuori ormai da un mese per infortunio) però le assenze anche nella squadra avversaria compensavano in buona parte i nostri limiti. Invece usciva evidente l'incapacità difensiva ed in parte anche offensiva dovuta agli atteggiamenti sbagliati durante gli allenamenti di buona parte del gruppo (cioè poca voglia di fare fatica) che sommata all'egoismo di qualcuno che fà naufragare completamente le nostre potenzialità offensive, ci fanno ottenere un risultato molto al di sotto delle aspettative. Proprio per questo brutta abitudine di misurarsi tra compagni in base ai canestri fatti continueremo ad omettere negli articoli sul sito i punti personali. Dal grigiore generale è emersa solo la buona prova di Nicola Franzoi e la buona volontà dei '95 Cristian Ventura e Nicolò Rigato.

@@ -1,0 +1,5 @@
+---
+title: 'Prom: Piani Bolzano-Gardolo: 68-66'
+date: 2009-11-24T21:00:55+00:00
+---
+Sul campo dei Piani di Bolzano è maturata la prima sconfitta per la nostra promozione, la partenza lanciata che ci portava in tre minuti sul 6 a 0 a nostre favore ci ha fatto credere di poter disporre dell'avversario, così non è stato la partita è andata avanti a fasi alterne ed ha visto anche un massimo vantaggio per il Gardolo superiore ai 10 punti, non abbiamo saputo approfittarne sbagliando canestri facili da sotto e buttando via palloni in attacco, il maggior peso degli avversari sotto le plance e la buona percentuale di tiro dalla media e dalla lunga distanza (alla fine le triple a segno per il Piani saranno 7 con Ugolini mattatore con 20 punti e 4 triple) hanno fatto la differenza, un rammarico è l'ultimo possesso della partita che era nostro con la possibilità dell'ultimo che ci avrebbe assicurato l'extra time ma la palla è rimbalzata sul ferro. Alla fine Piani 68 Gardolo 66. Faremo tesoro degli errori e lavoreremo per un pronto riscatto già venerdì contro Bressanone. Forza ragazzi.

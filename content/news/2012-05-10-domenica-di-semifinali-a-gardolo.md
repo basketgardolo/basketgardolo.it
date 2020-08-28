@@ -1,0 +1,5 @@
+---
+title: Domenica di semifinali a Gardolo!
+date: 2012-05-10T16:51:13+00:00
+---
+\[![](http://www.basketgardolo.it/wp-content/uploads/2010/12/promozione-300x200.jpg "Promozione")\]\[1\]\[![](http://www.basketgardolo.it/wp-content/uploads/2007/09/serieD-300x200.jpg "Serie D")\]\[2\] Vi aspettiamo numerosissimi questa domenica (13 maggio), al palazzetto di Gardolo la Serie D e la promozione si giocheranno una in fila all'altra le semifinali delle rispettive categorie. Si comincia alle 18.00 con la partita di Serie D Gardolo - S. Marco Rovereto, e a seguire la partita di Promozione Gardolo - Arco Basket. Inutile ribadire quanto queste partite siano importanti e quanto sia necessario un adeguato e numeroso tifo! \[1\]: http://www.basketgardolo.it/wp-content/uploads/2010/12/promozione.jpg \[2\]: http://www.basketgardolo.it/wp-content/uploads/2007/09/serieD.jpg

@@ -1,0 +1,5 @@
+---
+title: A lezione con i Campioni!
+date: 2014-10-25T22:27:40+00:00
+---
+VUOI VEDERE COME SI DIVENTA CAMPIONE/I DI SERIE A? Dopo la partita casalinga della Dolomiti Energia Aquila Basket contro Cantù di domenica 26/10 alle 18.15 al PalaTrento tutto il nostro Centro MINIbasket Gardolo è invitato ad ammirare con quale attenzione e dedizione i vicinissimi campioni di Coach Buscaglia preparano la partita a Brindisi. Se saremo rispettosi (IN SILENZIO ASSOLUTO con ammessi solo alcuni applausi) e bravi a ricordare qualche loro trucco da imparare, a fine allenamento alle ore 20 potremo chiedere loro foto, autografi… e di restituirci la visita ad un nostro allenamento, per mostrare cosa siamo capaci di fare Noi! L'ingresso è gratuito e, naturalmente, i Genitori sono più che benvenuti ad assistere a questo spettacolo. L'appuntamento è quindi martedì 28/10 alle 17:45 alle casse del PalaTrento, che conosceremo per bene durante una visita guidata. Per qualsiasi dubbio rivolgersi senza esitazioni agli istruttori.

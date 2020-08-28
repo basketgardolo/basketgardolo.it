@@ -1,0 +1,11 @@
+---
+title: 'Under 17: Gardolo-Rovereto: 90-60'
+date: 2008-12-09T11:14:43+00:00
+---
+![under-17-sito.jpg](http://www.basketgardolo.it/wp-content/uploads/2008/12/under-17-sito.jpg)
+
+Grande partenza dei nostri ragazzi che partivano subito con una difesa a uomo molto aggressiva e al settimo minuto eravamo 16 a 4 per noi, il primo quarto finiva 22 a 8. Nel secondo quarto la nostra difesa era un po’ più ballerina, infatti il parziale era molto più equilibrato, infatti finiva 29 a 25 per i nostri; alla fine del secondo quarto il vantaggio dei nostri era 43 a 29. Ma come spesso capita in queste partite a livello giovanile, risulta difficile gestire un cospicuo vantaggio e i nostri avversari nel terzo quarto partivano molto più carichi e al quinto minuto del terzo quarto il nostro vantaggio era dimezzato, 53 a 46; a questo punto il coach gardoloto metteva una zona che mandava in difficoltà gli avversari, molto più forti fisicamente dei nostri e per fortuna i nostri riuscivano a scavare un ulteriore gap, nell’ultimo quarto c’era la resa dei roveretani e il gap aumentava, l’ultimo parziale era di 26 a 11 per i nostri e il finale era 90 a 60 per noi. Grande prova corale di tutta la squadra, purtroppo non ho fatto entrare alcuni giocatori, sicuramente non per demerito tecnico ma più per un discorso fisico; tengo a sottolineare l’importanza di tutti i giocatori della squadra, sia di quelli che non hanno giocato sia di quelli che non sono stati nemmeno convocati; questa settimana si sono allenati tutti con grande impegno e grande intensità e questo si è visto poi nella partita. Ci sono ancora molti errori, perché 39 palle perse sono tantissime (soprattutto palloni persi sulle rimesse) però stiamo migliorando in molte altre situazioni difensive.
+
+PARZIALI: 22 - 8, 29 - 25, 13 - 16, 26 - 11
+
+PALLE PERSE = 39 PALLE RECUP. = 33 T/2 = 34/49 T/3 = 0/3 T/LIBERI = 22/36 RIMB. DIF. = 31 RIMB. OFF. = 7 DANIEL DALLABETTA 18, LEONARDO AMANTE, YURI BALDO 7, MATTEO TAMBORSKY 14, BORTO 25, LORENZO BORGOGNO 3, LUCA MARTORANO 6, ROBERTO PEDROTTI N.E, DAVIDE COELLI N.E, NICOLA ECCHER N.E, LUCA MATTEDI 4, SIMONE SEGALLA 13

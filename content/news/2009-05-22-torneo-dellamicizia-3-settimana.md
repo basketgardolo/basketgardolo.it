@@ -1,0 +1,5 @@
+---
+title: Torneo dell’Amicizia – 3^ settimana
+date: 2009-05-22T10:43:30+00:00
+---
+Si è concluda la fase a girone del torneo, con la vittoria dei Citaristi, secondo posto per i Leggendari, al terzo i Guastaboys e quarti i Tasy e Cosy. La prossima settimana semifinali e finali! Tasi e Cosy - Leggendari: 49-54 (Baldo Y. 20, Ambrosi 12 - Trivarelli 20) Citaristi - Guastaboys: 46-47 (Dallabetta 20 - Leitempergher 15) Tasi e Cosy - Guastaboys: 45-59 (Baldo Y.19, Fiamozzi 10 - Leitempergher 14, Martorano 12) Citaristi - Leggendari: 62-46 (Dallabetta 14, Bertoluzza 12 - Triverelli 15, Tamborsky 12) \*\*Classifica:\*\* Citaristi 9, Leggendari 6, Guastaboys 6, Tasy e Cosy 3. \*\*Marcatori: (media punti)\*\* Dallabetta 16 Martorano 15,67 Trivarelli 15,2 Baldo 12,33 Bertoluzza 11,67 Leitempergher 11,6 Borgogno 11,3 Tamborsky 10,67

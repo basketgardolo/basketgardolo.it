@@ -1,0 +1,5 @@
+---
+title: 'U17: Bressanone-Gardolo B: 58-64'
+date: 2010-02-01T10:12:04+00:00
+---
+Finalmente una vittoria per i ragazzi dell'under 17 B che mettono in mostra una grinta mai vista prima e non mollano mai nemmeno quando l'avversario faceva valere le sue superiori doti fisiche soprattutto da parte del pivot molto alto (un fuori-quota del 1992) che realizzava ben 35 punti ma che nella seconda parte di gara era comunque ben contenuto con un grande lavoro difensivo da parte di Gambino e Consoli. Buone anche le prove di Franzoi, Guadagnini e Coelli anche se ancora troppi gli errori commessi dagli ultimi due. Una citazione a parte meritano i due play Pederzolli e Duò che stanno dando ordine e sostanza all'azione d'attacco della squadra e che sono stati i migliori in campo. Adesso attendiamo conferme a partire già dalla prossima partita. Pederzolli 13, Guadagnini 11, Coelli 11, Franzoi 10, Consoli 9, Gambino 4, Duò 4, Zambotti 2

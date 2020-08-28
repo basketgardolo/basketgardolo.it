@@ -1,0 +1,5 @@
+---
+title: 'Esor: Gardolo-Virtus Riva: 34-49'
+date: 2010-04-25T09:45:36+00:00
+---
+Bella partita quella vista alle Pigarelli tra due compagini di buon livello tecnico e in cui la differenza è stata fatta soprattutto dalla maggiore fisicità dei rivani che affronteranno, come noi, nel prossimo weekend il Torneo di Salsomaggiore Terme con buone speranze di ben figurare entrambi considerato quello che si è visto in campo. La partita è affrontata subito con la giusta concentrazione da parte dei nostri che chiudono in vantaggio il primo quarto; nel secondo i rivani riescono a ricucire lo strappo e si va all'intervallo lungo in parità. Nei successivi due quarti la maggiore fisicità della squadra avversaria ha la meglio e nel finale il vantaggio rivano aumenta anche oltre i giusti meriti. Da sottolineare le prove di Lazzarotto Tommaso, per l'occasione capitano, e di Perenzoni Stefano. I nostri complimenti alla coppia under 17 Guadagnini Federico e Trivarelli Giacomo per un arbitraggio al limite della perfezione! Brustolini 0, Ambrosi 4, Pangrazzi 2, Lazzarotto 12, Dodu 3, Maurina 0, Felicetti 3, Carraro 2, Torresani 2, Facchin 0, Caldini 0, Perenzoni 6

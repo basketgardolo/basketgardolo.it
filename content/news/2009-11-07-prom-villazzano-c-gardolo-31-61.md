@@ -1,0 +1,5 @@
+---
+title: 'Prom: Villazzano C-Gardolo: 31-61'
+date: 2009-11-07T16:36:15+00:00
+---
+Prosegue la serie positiva per la nostra promozione,vittoriosa contro la squadra "giovane" del Villazzano C, nonostante il pressing costante degli avversari, il primo quarto siamo riusciti a giocare in velocità e grazie a Bosetti e De Prà in grande spolvero e siamo arrivati alla prima sirena con un vantaggio di 15 punti. Resto della gara più equilibrato: abbiamo sofferto la zona degli avversari per le ultime due frazioni di gioco e questo ha limitato in parte il punteggio; comunque la sirena finale ci trovava a + 30, Gardolo 61 - Villazzano 31, andiamo avanti di partita in partita il prossimo appuntamento è in casa venerdì 13/11 con l'Europa Bolzano, sperando di recuperare l'infortunato Dalpiaz, aspettiamo con fiducia l'incontro.

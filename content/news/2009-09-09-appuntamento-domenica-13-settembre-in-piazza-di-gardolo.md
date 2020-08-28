@@ -1,0 +1,5 @@
+---
+title: Appuntamento DOMENICA 13 SETTEMBRE in piazza di Gardolo – Tut Gardol ‘n Festa
+date: 2009-09-09T15:35:37+00:00
+---
+Credendo fermamente nel valore sociale e formativo dello sport, il Basket Club Gardolo, in collaborazione con il Comitato delle Associazioni e Cadin Sport, allestisce, nella piazza di Gardolo, \*\*domenica 13 settembre dalle ore 16:00 alle ore 19:00\*\* dei piccoli campi da basket. I nostri istruttori ed atleti faranno divertire i ragazzi che si cimenteranno a realizzare canestri spettacolari e fantasiosi; l'iniziativa è rivolta ai ragazzi nati dal 1999 al 2003. A tutti i partecipanti verrà consegnato un buono pasto per la cena da consumare nel portico giallo allestito all'interno della manifestazione "Tut Gardol ‘n Festa". Vi aspettiamo numerosi ed auguriamo a tutti i partecipanti un sano e lieto divertimento.

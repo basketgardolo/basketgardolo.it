@@ -1,0 +1,5 @@
+---
+title: 'U17: Trentino Basket-Gardolo A: 40-128'
+date: 2009-11-02T20:21:35+00:00
+---
+Nonostante la difesa a zona dei nostri avversari, la squadra partiva subito bene e già nel primo quarto terminato 32 a 7 per i nostri la partita era chiusa. Nei quarti successivi calava soprattutto la concentrazione difensiva, però quasi tutti i ragazzi avevano un largo spazio per esprimersi al meglio. Da segnalare l'ottima prestazione di Davide Bertoluzza che con un 18 su 21 da 2, 4 su 5 nei tiri liberi e 1 su 1 da 3 realizzava ben 43 punti ……….che nell'ultimo quarto ricevava molti assist dai suoi compagni speranzosi di potersi poi gustare le paste che Davide sicuramente porterà in uno dei prossimi allenamenti per ringraziarli. Mattedi L. 4, Eccher 8, Amante, Trivarelli 13, Dallabetta 14, Martorano 2o, Aquilini, Bertoluzza 43, Segalla 2, Borgogno 9, Leitempergher 15. tiri 3 punti: Bertoluzza 1,Trivarelli 1, Martorano 2 tiri liberi:6/10

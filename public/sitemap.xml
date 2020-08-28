@@ -3,7 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-08-29T00:30:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/partite/gardolo-ravina/</loc>
+    <lastmod>2020-08-29T00:30:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/partite/squadra/</loc>
+    <lastmod>2020-08-29T00:30:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/partite/</loc>
+    <lastmod>2020-08-29T00:30:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stagioni/2019-2020/</loc>
+    <lastmod>2020-08-29T00:28:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categorie/</loc>
+    <lastmod>2020-08-29T00:28:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categorie/promozione/</loc>
+    <lastmod>2020-08-29T00:28:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/squadre/promozione-19-20/</loc>
+    <lastmod>2020-08-29T00:28:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/squadre/</loc>
+    <lastmod>2020-08-29T00:28:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stagioni/</loc>
+    <lastmod>2020-08-29T00:28:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/pagine/</loc>
+    <lastmod>2020-08-28T23:34:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/squadre/</loc>
+    <lastmod>2020-08-28T23:34:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/societa/</loc>
+    <lastmod>2020-08-28T18:24:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/stagioni/2020-2021/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/giocatori/cristian-stenico/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/</loc>
+    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/</loc>
     <lastmod>2020-08-12T22:00:00+00:00</lastmod>
   </url>
   
@@ -14,36 +94,6 @@
   
   <url>
     <loc>http://example.org/giocatori/michael-jordan/</loc>
-    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stagioni/2020-2021/</loc>
-    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categorie/</loc>
-    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/giocatori/</loc>
-    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/squadre/</loc>
-    <lastmod>2020-08-12T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/stagioni/</loc>
     <lastmod>2020-08-12T22:00:00+00:00</lastmod>
   </url>
   
@@ -78,16 +128,6 @@
   </url>
   
   <url>
-    <loc>http://example.org/partite/squadra/</loc>
-    <lastmod>2020-07-18T00:33:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/partite/</loc>
-    <lastmod>2020-07-18T00:33:35+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/squadre/serie-d-20-21/</loc>
     <lastmod>2020-07-11T10:32:29+02:00</lastmod>
   </url>
@@ -98,7 +138,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/giocatori/scottie-pippen/</loc>
+    <loc>http://example.org/allenatori/</loc>
     <lastmod>2020-07-11T01:54:41+02:00</lastmod>
   </url>
   
@@ -108,8 +148,1698 @@
   </url>
   
   <url>
-    <loc>http://example.org/categorie/promozione/</loc>
+    <loc>http://example.org/giocatori/scottie-pippen/</loc>
     <lastmod>2020-07-11T01:54:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/allenatori/steve-kerr/</loc>
+    <lastmod>2020-07-11T01:54:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2020-01-12-u13-facciamo-il-punto/</loc>
+    <lastmod>2020-01-12T20:10:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2019-09-04-basket-gardolo-3vs3-basket-contest-2019/</loc>
+    <lastmod>2019-09-04T09:10:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2019-06-05-chicken-basketball-tournament/</loc>
+    <lastmod>2019-06-05T11:45:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2019-06-04-gli-u16-entrano-nella-storia-societaria/</loc>
+    <lastmod>2019-06-04T20:08:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2019-05-17-festa-di-fine-anno-2018-2019/</loc>
+    <lastmod>2019-05-17T07:19:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2019-05-16-serata-materassi-imperiale/</loc>
+    <lastmod>2019-05-15T22:44:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2019-03-26-passion-brewery-fa-incetta-di-squadre/</loc>
+    <lastmod>2019-03-26T13:18:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2019-02-13-esordienti-al-giro-di-boa-/</loc>
+    <lastmod>2019-02-13T08:28:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2018-11-19-inizio-di-stagione-per-i-nostri-scoiattoli/</loc>
+    <lastmod>2018-11-19T09:21:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2018-08-26-cosa-aspetti-vieni-a-provare/</loc>
+    <lastmod>2018-08-26T21:51:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2018-05-18-festa-di-fine-stagione-2/</loc>
+    <lastmod>2018-05-18T21:51:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2018-04-30-under-16-analisi-del-coach-della-stagione-appena-terminata/</loc>
+    <lastmod>2018-04-30T07:08:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2018-04-26-serie-d-al-via-i-playoff/</loc>
+    <lastmod>2018-04-26T08:05:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2018-04-11-sponsor-anche-per-la-promozione-gold/</loc>
+    <lastmod>2018-04-11T16:48:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-12-24-sotto-lalbero-le-nuove-divise/</loc>
+    <lastmod>2017-12-24T09:55:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-10-20-final-four-coppa-trentino-alto-adige/</loc>
+    <lastmod>2017-10-20T08:37:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-26-dolomiti-energia-academy-card/</loc>
+    <lastmod>2017-09-26T09:07:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-19-al-via-la-coppa-trentino-alto-adige/</loc>
+    <lastmod>2017-09-19T06:50:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-11-la-stagione-e-ripartita-ecco-gli-allenatori-del-basket-gardolo/</loc>
+    <lastmod>2017-09-11T06:47:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-09-under-16-vittoria-al-torneo-val-di-fiemme/</loc>
+    <lastmod>2017-09-09T11:05:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-07-tut-gardol-n-festa-2017/</loc>
+    <lastmod>2017-09-07T15:53:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-05-gardolo-3vs3-basket-contest-2017/</loc>
+    <lastmod>2017-09-05T07:00:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-04-prova-il-minibasket/</loc>
+    <lastmod>2017-09-04T13:04:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-04-la-serie-d-20172018-altri-due-tasselli-sul-perimetro-lazzarotto-e-angelini/</loc>
+    <lastmod>2017-09-04T09:07:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-03-la-serie-d-20172018-dalle-giovanili-alla-prima-squadra-osello-e-dellai/</loc>
+    <lastmod>2017-09-03T07:38:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-02-giovani-gardoloti-in-aquila-basket/</loc>
+    <lastmod>2017-09-02T10:38:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-09-01-la-serie-d-20172018-due-nuovi-innesti-rangoni-e-naidon/</loc>
+    <lastmod>2017-09-01T06:46:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-08-30-la-serie-d-20172018-le-conferme-di-spagnolo-e-zampiero/</loc>
+    <lastmod>2017-08-30T10:32:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-08-28-la-serie-d-20172018-i-fratelli-savoia/</loc>
+    <lastmod>2017-08-28T12:43:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-08-26-la-serie-d-20172018-due-pedine-desperienza-bertoluzza-e-scagliarini/</loc>
+    <lastmod>2017-08-26T10:58:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-08-24-la-serie-d-20172018-tre-ritorni-gambino-valer-e-trivarelli/</loc>
+    <lastmod>2017-08-24T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-08-18-la-serie-d-20172018-lo-staff-tecnico/</loc>
+    <lastmod>2017-08-18T14:42:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-08-13-2-basket-gardolo-basket-contest/</loc>
+    <lastmod>2017-08-13T08:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-05-30-la-stagione-della-serie-d/</loc>
+    <lastmod>2017-05-30T07:11:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-05-16-playoff-serie-d-piani-jr-71-gardolo-62/</loc>
+    <lastmod>2017-05-16T07:25:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-05-12-playoff-serie-d-gardolo-73-piani-jr-76/</loc>
+    <lastmod>2017-05-12T06:56:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-05-07-playoff-serie-d-piani-jr-47-gardolo-58/</loc>
+    <lastmod>2017-05-07T10:27:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-05-02-playoff-serie-d-gardolo-80-audace-pergine-50/</loc>
+    <lastmod>2017-05-02T00:29:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-05-02-playoff-serie-d-audace-pergine-91-gardolo-48/</loc>
+    <lastmod>2017-05-02T00:28:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-04-21-playoff-serie-d-gardolo-91-audace-pergine-79/</loc>
+    <lastmod>2017-04-21T13:59:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-04-07-gardolo-98-piani-bz-42/</loc>
+    <lastmod>2017-04-07T07:23:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-04-03-piani-junior-79-gardolo-70/</loc>
+    <lastmod>2017-04-03T14:45:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-03-23-gardolo-60-charly-merano-a-58/</loc>
+    <lastmod>2017-03-23T10:44:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-03-23-piani-bolzano-67-gardolo-53/</loc>
+    <lastmod>2017-03-23T10:31:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-03-18-gardolo-54-europa-bz-60/</loc>
+    <lastmod>2017-03-18T15:24:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-03-13-villazzano-57-gardolo-79/</loc>
+    <lastmod>2017-03-13T08:36:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-03-10-gardolo-73-audace-pergine-56/</loc>
+    <lastmod>2017-03-10T09:13:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-03-01-gardolo-68-charly-merano-b-66/</loc>
+    <lastmod>2017-03-01T16:33:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-02-28-charly-merano-a-79-gardolo-79/</loc>
+    <lastmod>2017-02-28T16:57:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-02-23-gardolo-63-belvedere-ravina-60/</loc>
+    <lastmod>2017-02-23T19:43:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-02-13-gardolo-68-villazzano-b-38/</loc>
+    <lastmod>2017-02-13T20:37:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-02-13-gardolo-46-piani-junior-63/</loc>
+    <lastmod>2017-02-13T08:19:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-02-12-virtus-altogarda-junior-50-gardolo-67/</loc>
+    <lastmod>2017-02-12T13:34:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-02-12-under-14-contro-i-giganti-dellaquila/</loc>
+    <lastmod>2017-02-12T11:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-02-09-gli-aquilotti-vincono-anche-contro-riva/</loc>
+    <lastmod>2017-02-09T08:16:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-29-gardolo-56-virtus-altogarda-65/</loc>
+    <lastmod>2017-01-29T13:18:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-29-gardolo-64-europa-bz-39/</loc>
+    <lastmod>2017-01-29T08:54:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-23-paganella-lavis-18-gardolo-122/</loc>
+    <lastmod>2017-01-23T13:22:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-22-audace-pergine-66-gardolo-59/</loc>
+    <lastmod>2017-01-22T18:13:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-21-brunico-45-gardolo-67/</loc>
+    <lastmod>2017-01-21T23:09:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-15-gardolo-62-villazzano-55/</loc>
+    <lastmod>2017-01-15T07:07:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-09-olimpia-basket-bz-68-gardolo-62/</loc>
+    <lastmod>2017-01-09T23:24:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-09-gardolo-58-apecheronza-avio-51/</loc>
+    <lastmod>2017-01-09T20:31:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-09-maia-merano-66-gardolo-60/</loc>
+    <lastmod>2017-01-09T20:29:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-09-iv-edizione-torneo-citta-di-pergine/</loc>
+    <lastmod>2017-01-09T09:28:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2017-01-08-gardolo-85-piani-bz-37/</loc>
+    <lastmod>2017-01-08T18:14:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-12-23-gardolo-58-villazzano-a-50/</loc>
+    <lastmod>2016-12-23T13:59:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-12-21-charly-merano-64-gardolo-37/</loc>
+    <lastmod>2016-12-21T17:30:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-12-17-5522/</loc>
+    <lastmod>2016-12-17T21:47:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-12-11-piani-junior-bz-78-gardolo-43/</loc>
+    <lastmod>2016-12-11T09:28:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-12-08-gardolo-u20-57-gardolo-76/</loc>
+    <lastmod>2016-12-08T21:30:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-12-07-ravina-59-gardolo-47/</loc>
+    <lastmod>2016-12-07T23:49:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-12-07-gardolo-63-villazzano-a-53/</loc>
+    <lastmod>2016-12-07T23:48:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-12-04-buona-anche-la-terza-gli-aquilotti-volano/</loc>
+    <lastmod>2016-12-04T10:45:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-12-04-villazzano-b-34-gardolo-83/</loc>
+    <lastmod>2016-12-04T10:28:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-30-gli-aquilotti-di-gardolo-vincono-contro-laquila-b/</loc>
+    <lastmod>2016-11-30T13:09:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-22-gardolo-66-pergine-49/</loc>
+    <lastmod>2016-11-22T21:15:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-21-gardolo-76-laives-23/</loc>
+    <lastmod>2016-11-21T22:28:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-20-europa-bolzano-78-gardolo-67/</loc>
+    <lastmod>2016-11-20T08:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-17-villazzano-a-41-gardolo-64/</loc>
+    <lastmod>2016-11-17T13:38:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-15-gardolo-90-lavis-29/</loc>
+    <lastmod>2016-11-15T19:13:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-15-la-prima-degli-aquilotti-elite/</loc>
+    <lastmod>2016-11-15T18:39:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-14-gardolo-62-audace-pergine-53/</loc>
+    <lastmod>2016-11-14T08:24:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-13-gardolo-81-arco-36/</loc>
+    <lastmod>2016-11-13T11:11:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-13-virtus-altogarda-76-gardolo-69/</loc>
+    <lastmod>2016-11-13T10:10:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-13-gardolo-96-maia-merano-41/</loc>
+    <lastmod>2016-11-13T09:41:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-11-gardolo-87-lavis-33/</loc>
+    <lastmod>2016-11-11T09:09:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-11-07-villazzano-54-gardolo-64/</loc>
+    <lastmod>2016-11-07T13:07:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-10-31-gardolo-72-rovereto-65/</loc>
+    <lastmod>2016-10-31T14:20:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-10-31-piani-bz-45-gardolo-88/</loc>
+    <lastmod>2016-10-31T09:09:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-10-24-gardolo-94-brunico-38/</loc>
+    <lastmod>2016-10-24T20:47:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-10-24-esordienti-a-villazzano/</loc>
+    <lastmod>2016-10-24T07:47:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-10-23-gardolo-82-charly-merano-52/</loc>
+    <lastmod>2016-10-23T06:51:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-10-19-gardolotti-al-trentino-sport-days-di-riva/</loc>
+    <lastmod>2016-10-19T12:15:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-10-16-coppa-zanelli-semifinale-charly-merano-73-gardolo-71/</loc>
+    <lastmod>2016-10-16T19:24:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-10-12-coppa-zanelli-brunico-66-gardolo-95/</loc>
+    <lastmod>2016-10-12T06:18:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-10-07-coppa-zanelli-gardolo-74-blue-bear-45/</loc>
+    <lastmod>2016-10-07T07:29:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-09-30-coppa-zanelli-gardolo-65-audace-pergine-58/</loc>
+    <lastmod>2016-09-30T06:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-09-27-coppa-zanelli-pall-villazzano-67-gardolo-74/</loc>
+    <lastmod>2016-09-27T10:05:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-09-22-la-nuova-stagione-al-via-con-la-coppa-zanelli/</loc>
+    <lastmod>2016-09-22T10:06:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-09-11-tut-gardol-en-minibasket/</loc>
+    <lastmod>2016-09-11T17:02:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-08-21-comunicato-ufficiale-stagione-sportiva-20162017/</loc>
+    <lastmod>2016-08-21T15:26:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-06-17-prova-2/</loc>
+    <lastmod>2016-06-17T07:35:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-06-16-articolo-1/</loc>
+    <lastmod>2016-06-16T14:37:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-06-16-articolo-prova/</loc>
+    <lastmod>2016-06-16T14:09:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-06-14-gardolo-71-maia-merano-49/</loc>
+    <lastmod>2016-06-14T13:14:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-06-14-belvedere-ravina-77-gardolo-49/</loc>
+    <lastmod>2016-06-14T10:24:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-06-01-giornalino-giugno-2016/</loc>
+    <lastmod>2016-06-01T06:58:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-05-31-serie-d-2-squadre-5-partite-1-promozione/</loc>
+    <lastmod>2016-05-31T13:21:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-05-26-anche-in-kenya-ce-un-po-di-basket-gardolo/</loc>
+    <lastmod>2016-05-26T11:59:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-05-20-finale/</loc>
+    <lastmod>2016-05-20T15:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-05-17-piani-bolzano-44-gardolo-61/</loc>
+    <lastmod>2016-05-17T07:20:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-05-16-gardolo-75-piani-bolzano-48/</loc>
+    <lastmod>2016-05-16T12:07:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-05-09-giornalino-maggio-2016/</loc>
+    <lastmod>2016-05-09T07:20:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-04-29-rovereto-65-gardolo-67/</loc>
+    <lastmod>2016-04-29T07:52:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-04-23-gardolo-64-rovereto-49/</loc>
+    <lastmod>2016-04-23T07:58:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-04-21-giornalino-aprile-2016/</loc>
+    <lastmod>2016-04-21T17:59:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-04-19-gardolo-58-pall-villazzano-36/</loc>
+    <lastmod>2016-04-19T11:38:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-04-19-maia-merano-45-gardolo-56/</loc>
+    <lastmod>2016-04-19T06:58:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-04-14-offerte-dagli-sponsor-sighel-bruno-figlio/</loc>
+    <lastmod>2016-04-14T18:10:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-04-13-gardolo-55-junior-rovereto-46/</loc>
+    <lastmod>2016-04-13T09:33:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-04-13-virtus-altogarda-b-58-gardolo-55/</loc>
+    <lastmod>2016-04-13T09:27:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-04-13-gardolo-38-apecheronza-avio-50/</loc>
+    <lastmod>2016-04-13T09:02:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-04-10-villazzano-40-gardolo-75/</loc>
+    <lastmod>2016-04-10T13:29:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-03-23-paganella-lavis-32-gardolo-86/</loc>
+    <lastmod>2016-03-23T13:58:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-03-23-gardolo-59-europa-bolzano-62/</loc>
+    <lastmod>2016-03-23T13:46:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-03-19-gardolo-60-bluebear-villazzano-b-72/</loc>
+    <lastmod>2016-03-19T10:59:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-03-19-belvedere-ravina-59-gardolo-50/</loc>
+    <lastmod>2016-03-19T10:39:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-03-15-avio-42-gardolo-85/</loc>
+    <lastmod>2016-03-15T09:03:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-03-04-gardolo-79-pergine-45/</loc>
+    <lastmod>2016-03-04T08:00:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-03-03-giornalino-marzo-2016/</loc>
+    <lastmod>2016-03-03T10:15:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-03-03-meeting-minibasket/</loc>
+    <lastmod>2016-03-03T01:19:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-03-03-la-scuola-di-meano-al-palazzetto-di-gardolo/</loc>
+    <lastmod>2016-03-03T00:55:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-02-28-charly-merano-c-65-gardolo-45/</loc>
+    <lastmod>2016-02-28T13:49:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-02-26-4656/</loc>
+    <lastmod>2016-02-26T20:26:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-02-26-gardolo-49-blue-bear-a-67/</loc>
+    <lastmod>2016-02-26T19:52:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-02-22-virtus-riva-70-gardolo-56/</loc>
+    <lastmod>2016-02-22T15:11:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-02-15-gardolo-62-charly-merano-a-65/</loc>
+    <lastmod>2016-02-15T14:49:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-02-15-gardolo-65-virtus-altogarda-a-36/</loc>
+    <lastmod>2016-02-15T10:30:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-02-10-gardolo-47-charly-merano-b-62/</loc>
+    <lastmod>2016-02-10T08:03:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-02-04-virtus-altogarda-52-gardolo-81/</loc>
+    <lastmod>2016-02-04T09:14:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-02-03-piani-bolzano-67-gardolo-68/</loc>
+    <lastmod>2016-02-03T08:38:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-01-28-giornalino-gennaio-2016/</loc>
+    <lastmod>2016-01-28T07:47:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-01-27-pall-villazzano-52-gardolo-64/</loc>
+    <lastmod>2016-01-27T08:06:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-01-25-gardolo-74-an-marco-rovereto-44/</loc>
+    <lastmod>2016-01-25T15:16:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-01-25-junior-rovereto-43-gardolo-87/</loc>
+    <lastmod>2016-01-25T15:00:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-01-18-piani-bolzano-66-gardolo-85/</loc>
+    <lastmod>2016-01-18T15:36:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-01-16-gardolo-70-maia-merano-42/</loc>
+    <lastmod>2016-01-16T18:01:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-01-12-gardolo-59-pall-villazzano-51/</loc>
+    <lastmod>2016-01-12T10:14:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2016-01-08-gardolo-49-arco-44/</loc>
+    <lastmod>2016-01-08T19:54:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-12-16-giornalino-dicembre-2015/</loc>
+    <lastmod>2015-12-16T15:44:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-12-12-apecheronza-avio-70-gardolo-76/</loc>
+    <lastmod>2015-12-12T19:22:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-12-09-all-star-game-2016-al-palatrento/</loc>
+    <lastmod>2015-12-09T09:23:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-12-09-blue-bear-villazzano-b-39-gardolo-55/</loc>
+    <lastmod>2015-12-09T08:59:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-12-07-gardolo-52-belvedere-ravina-62/</loc>
+    <lastmod>2015-12-07T10:39:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-30-gardolo-84-piani-bolzano-52/</loc>
+    <lastmod>2015-11-30T09:03:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-30-gardolo-56-pallacanestro-villazzano-43/</loc>
+    <lastmod>2015-11-30T08:12:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-29-4547/</loc>
+    <lastmod>2015-11-29T11:21:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-25-virtus-riva-65-gardolo-51/</loc>
+    <lastmod>2015-11-25T14:31:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-25-bluebear-villazzano-a-59-gardolo-47/</loc>
+    <lastmod>2015-11-25T10:28:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-24-charly-merano-73-gardolo-55/</loc>
+    <lastmod>2015-11-24T19:22:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-24-giornalino-novembre-2015/</loc>
+    <lastmod>2015-11-24T19:00:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-18-junior-basket-trento-46-gardolo-69/</loc>
+    <lastmod>2015-11-18T10:23:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-13-virtus-altogarda-42-gardolo-75/</loc>
+    <lastmod>2015-11-13T21:12:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-02-rovereto-54-gardolo-80/</loc>
+    <lastmod>2015-11-02T18:10:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-11-01-gardolo-66-virtus-riva-52/</loc>
+    <lastmod>2015-11-01T12:58:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-10-26-gardolo-75-rovereto-69/</loc>
+    <lastmod>2015-10-26T22:34:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-10-26-gardolo-61-blue-bear-villazzano-30/</loc>
+    <lastmod>2015-10-26T22:24:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-10-26-belvedere-ravina-47-gardolo-61/</loc>
+    <lastmod>2015-10-26T18:39:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-10-26-gardolo-75-san-marco-rovereto-56/</loc>
+    <lastmod>2015-10-26T18:31:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-10-26-gardolo-68-charly-merano-37/</loc>
+    <lastmod>2015-10-26T18:23:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-10-26-gardolo-71-virtus-altogarda-57/</loc>
+    <lastmod>2015-10-26T18:16:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-10-26-gardolo-77-piani-bolzano-55/</loc>
+    <lastmod>2015-10-26T09:15:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-10-14-minibasket/</loc>
+    <lastmod>2015-10-14T21:09:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-09-22-convocazione-assemblea-societaria/</loc>
+    <lastmod>2015-09-22T20:13:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-08-29-prova-sul-campo-la-bellezza-del-minibasket/</loc>
+    <lastmod>2015-08-29T09:37:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-08-26-giovani-gardolotti-in-curva/</loc>
+    <lastmod>2015-08-26T22:29:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-07-03-lotteria-basket-gardolo-comunicazione-del-presidente/</loc>
+    <lastmod>2015-07-03T08:00:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-06-17-lotteria-basket-gardolo-ecco-i-numeri-vincenti/</loc>
+    <lastmod>2015-06-17T20:33:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-06-03-4361/</loc>
+    <lastmod>2015-06-03T12:20:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-05-31-vendita-biglietti-lotteria-al-31maggio/</loc>
+    <lastmod>2015-05-31T11:36:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-05-15-gardolo-64-virtus-altogarda-b-67/</loc>
+    <lastmod>2015-05-15T08:22:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-05-08-virtus-altogarda-b-79-gardolo-63/</loc>
+    <lastmod>2015-05-08T08:47:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-05-07-playoff-serie-d-2015/</loc>
+    <lastmod>2015-05-07T12:09:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-05-05-giornalino-maggio-2015/</loc>
+    <lastmod>2015-05-05T07:04:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-29-sostieni-il-basket-gardolo/</loc>
+    <lastmod>2015-04-29T21:06:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-29-lotteria-basket-gardolo-comunicazione/</loc>
+    <lastmod>2015-04-29T20:54:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-24-gardolo-83-bressanone-30/</loc>
+    <lastmod>2015-04-24T07:06:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-22-bressanone-58-gardolo-57/</loc>
+    <lastmod>2015-04-22T07:39:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-17-villazzano-60-gardolo-64/</loc>
+    <lastmod>2015-04-17T10:03:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-15-chalry-merano-52-gardolo-49/</loc>
+    <lastmod>2015-04-15T17:09:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-15-gardolo-79-altoadige-sudtirol-52/</loc>
+    <lastmod>2015-04-15T16:59:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-12-gardolo-65-virtus-altogarda-56/</loc>
+    <lastmod>2015-04-12T16:06:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-10-gardolo-66-bressanone-45/</loc>
+    <lastmod>2015-04-10T07:15:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-07-gardolo-60-villazzano-55/</loc>
+    <lastmod>2015-04-07T18:06:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-07-playoff-promozione-2015/</loc>
+    <lastmod>2015-04-07T13:18:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-07-gardolo-79-alto-adige-sudtirol-52/</loc>
+    <lastmod>2015-04-07T13:06:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-04-01-gardolo-51-piani-bolzano-70/</loc>
+    <lastmod>2015-04-01T13:39:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-26-inagurazione-nuova-sede/</loc>
+    <lastmod>2015-03-26T10:53:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-23-san-marco-rovereto-76-gardolo-67/</loc>
+    <lastmod>2015-03-23T18:47:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-22-pergine-53-gardolo-48/</loc>
+    <lastmod>2015-03-22T12:17:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-19-giornalino-marzo-2015/</loc>
+    <lastmod>2015-03-19T10:56:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-17-charly-merano-75-gardolo-59/</loc>
+    <lastmod>2015-03-17T16:23:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-13-gardolo-64-jbr-rovereto-62/</loc>
+    <lastmod>2015-03-13T08:54:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-10-gardolo-61-charly-merano-69/</loc>
+    <lastmod>2015-03-10T09:25:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-09-charly-merano-10-gardolo-75/</loc>
+    <lastmod>2015-03-09T21:25:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-09-charly-merano-b-53-gardolo-64/</loc>
+    <lastmod>2015-03-09T21:13:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-09-gardolo-85-lavis-19/</loc>
+    <lastmod>2015-03-09T21:09:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-09-gardolo-50-piani-bolzano-b-43/</loc>
+    <lastmod>2015-03-09T21:07:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-09-ravina-64-gardolo-44/</loc>
+    <lastmod>2015-03-09T12:19:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-02-gardolo-62-paganella-lavis-54/</loc>
+    <lastmod>2015-03-02T12:57:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-03-01-gardolo-58-cus-trento-59/</loc>
+    <lastmod>2015-03-01T23:02:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-24-gardolo-66-paganella-lavis-54/</loc>
+    <lastmod>2015-02-24T09:31:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-24-paganella-lavis-51-gardolo-47/</loc>
+    <lastmod>2015-02-24T09:15:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-20-a-carnevale-sul-carro-dei-minicestisti/</loc>
+    <lastmod>2015-02-20T22:14:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-20-bressanone-56-gardolo-71/</loc>
+    <lastmod>2015-02-20T21:37:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-20-virtus-altogarda-87-gardolo-50/</loc>
+    <lastmod>2015-02-20T21:31:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-20-virtus-altogarda-a-66-gardolo-87/</loc>
+    <lastmod>2015-02-20T21:20:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-20-gardolo-77-minibasket-trento-64/</loc>
+    <lastmod>2015-02-20T20:32:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-16-gardolo-73-mori-brentonico-60/</loc>
+    <lastmod>2015-02-16T14:23:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-15-gardolo-66-merano-40/</loc>
+    <lastmod>2015-02-15T22:53:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-15-sudtirol-55-gardolo-75/</loc>
+    <lastmod>2015-02-15T13:23:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-12-gardolo-52-europa-bolzano-75/</loc>
+    <lastmod>2015-02-12T12:13:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-11-gardolo-53-paganella-lavis-48/</loc>
+    <lastmod>2015-02-11T07:56:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-08-giornalino-febbraio-2015/</loc>
+    <lastmod>2015-02-08T10:06:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-06-piani-bolzano-b-42-gardolo-83/</loc>
+    <lastmod>2015-02-06T11:52:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-06-virtus-altogarda-a-43-gardolo-57/</loc>
+    <lastmod>2015-02-06T09:46:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-05-gardolo-58-piani-bolzano-jr-49/</loc>
+    <lastmod>2015-02-05T20:51:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-02-02-gardolo-62-virtus-altogarda-b-53/</loc>
+    <lastmod>2015-02-02T19:43:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-30-virtus-altogarda-b-59-gardolo-49/</loc>
+    <lastmod>2015-01-30T08:00:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-28-virtus-altogarda-b-114-gardolo-31/</loc>
+    <lastmod>2015-01-28T08:50:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-28-gardolo-51-apecheronza-avio-33/</loc>
+    <lastmod>2015-01-28T08:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-27-gardolo-74-rovereto-51/</loc>
+    <lastmod>2015-01-27T09:04:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-26-gardolo-60-villazzano-63/</loc>
+    <lastmod>2015-01-26T08:59:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-21-gardolo-53-virtus-altogarda-a-50/</loc>
+    <lastmod>2015-01-21T08:30:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-20-4065/</loc>
+    <lastmod>2015-01-20T09:07:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-19-cus-trento-59-gardolo-64/</loc>
+    <lastmod>2015-01-19T15:31:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-18-piccole-squadre-crescono/</loc>
+    <lastmod>2015-01-18T22:17:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-18-gardolo-52-aquila-basket-50/</loc>
+    <lastmod>2015-01-18T16:53:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-17-gardolo-74-virtus-altogarda-a-36/</loc>
+    <lastmod>2015-01-17T20:11:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-17-aquila-basket-64-gardolo-23/</loc>
+    <lastmod>2015-01-17T20:09:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-17-pergine-46-gardolo-43/</loc>
+    <lastmod>2015-01-17T20:03:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-17-gardolo-44-villazzano-73/</loc>
+    <lastmod>2015-01-17T19:58:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-17-san-marco-rovereto-73-gardolo-44/</loc>
+    <lastmod>2015-01-17T19:53:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-17-gardolo-59-virtus-altogarda-68/</loc>
+    <lastmod>2015-01-17T19:16:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-16-gardolo-70-san-marco-rovereto-37/</loc>
+    <lastmod>2015-01-16T16:50:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-14-gardolo-60-charly-merano-77/</loc>
+    <lastmod>2015-01-14T11:50:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-13-piani-bolzano-58-gardolo-53/</loc>
+    <lastmod>2015-01-13T09:57:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-12-gardolo-22-virtus-altogarda-b-111/</loc>
+    <lastmod>2015-01-12T09:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-12-apecheronza-avio-39-gardolo-55/</loc>
+    <lastmod>2015-01-12T09:02:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-12-virtus-altogarda-a-67-gardolo-83/</loc>
+    <lastmod>2015-01-12T09:00:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-12-gardolo-26-junior-basket-trento-62/</loc>
+    <lastmod>2015-01-12T08:58:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2015-01-08-epifania-a-tutto-basket/</loc>
+    <lastmod>2015-01-08T08:19:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-27-gardolo-66-maia-merano-79/</loc>
+    <lastmod>2014-12-27T21:19:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-27-3995/</loc>
+    <lastmod>2014-12-27T21:01:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-27-san-marco-rovereto-67-gardolo-61/</loc>
+    <lastmod>2014-12-27T20:47:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-27-gardolo-81-alto-adige-sudtirol-36/</loc>
+    <lastmod>2014-12-27T20:35:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-24-paganella-lavis-46-gardolo-71/</loc>
+    <lastmod>2014-12-24T07:11:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-22-gardolo-53-pergine-65/</loc>
+    <lastmod>2014-12-22T08:07:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-18-rovereto-72-gardolo-64/</loc>
+    <lastmod>2014-12-18T13:19:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-18-gardolo-58-junior-basket-rovereto-70/</loc>
+    <lastmod>2014-12-18T12:54:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-18-piani-bolzano-junior-58-gardolo-66/</loc>
+    <lastmod>2014-12-18T09:30:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-18-giornalino-dicembre-2014/</loc>
+    <lastmod>2014-12-18T09:18:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-16-gardolo-55-villazzano-50/</loc>
+    <lastmod>2014-12-16T08:27:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-14-festa-di-natale-2/</loc>
+    <lastmod>2014-12-14T12:10:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-14-il-punto-della-stagione-minibasket/</loc>
+    <lastmod>2014-12-14T10:45:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-11-il-punto-sulla-stagione-under-14-e-under-15/</loc>
+    <lastmod>2014-12-11T13:56:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-11-gardolo-74-villazzano-55/</loc>
+    <lastmod>2014-12-11T07:48:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-08-gardolo-71-belvedere-ravina-66/</loc>
+    <lastmod>2014-12-08T09:44:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-05-natale-a-casa-pedrolli/</loc>
+    <lastmod>2014-12-05T09:17:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-03-visita-al-palatrento-per-i-nostri-miniatleti/</loc>
+    <lastmod>2014-12-03T08:50:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-03-primo-torneo-casalingo-per-il-minibasket/</loc>
+    <lastmod>2014-12-03T08:46:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-03-3884/</loc>
+    <lastmod>2014-12-03T08:30:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-03-pergine-59-gardolo-71/</loc>
+    <lastmod>2014-12-03T08:22:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-02-gardolo-101-trentino-basket-35/</loc>
+    <lastmod>2014-12-02T13:41:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-12-01-paganella-lavis-a-52-gardolo-71/</loc>
+    <lastmod>2014-12-01T10:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-27-3874/</loc>
+    <lastmod>2014-11-27T14:06:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-25-gardolo-56-virtus-altogarda-b-72/</loc>
+    <lastmod>2014-11-25T13:51:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-24-gardolo-68-bressanone-51/</loc>
+    <lastmod>2014-11-24T08:06:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-21-giornalino-novembre-2014/</loc>
+    <lastmod>2014-11-21T08:19:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-17-virtus-altogarda-a-47-gardolo-55/</loc>
+    <lastmod>2014-11-17T23:04:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-17-virtus-altogarda-68-gardolo-54/</loc>
+    <lastmod>2014-11-17T18:10:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-17-gardolo-48-charly-merano-51/</loc>
+    <lastmod>2014-11-17T17:59:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-17-alto-adige-sudtirol-48-gardolo-84/</loc>
+    <lastmod>2014-11-17T17:55:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-14-mori-brentonico-51-gardolo-65/</loc>
+    <lastmod>2014-11-14T07:46:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-11-charly-merano-59-gardolo-71/</loc>
+    <lastmod>2014-11-11T08:10:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-10-10-torneo-della-castagna/</loc>
+    <lastmod>2014-11-10T14:42:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-09-gardolo-67-virtus-altogarda-a-54/</loc>
+    <lastmod>2014-11-09T23:04:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-09-villazzano-49-gardolo-70/</loc>
+    <lastmod>2014-11-09T22:59:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-04-gardolo-68-paganella-60/</loc>
+    <lastmod>2014-11-04T07:16:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-02-gardolo-59-pergine-42/</loc>
+    <lastmod>2014-11-02T11:43:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-02-villazzano-79-gardolo-52/</loc>
+    <lastmod>2014-11-02T11:40:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-02-gardolo-57-rovereto-53/</loc>
+    <lastmod>2014-11-02T11:36:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-11-02-stagione-iniziata-anche-per-gli-under-17/</loc>
+    <lastmod>2014-11-02T11:32:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-31-virtus-altogarda-b-81-gardolo-77/</loc>
+    <lastmod>2014-10-31T20:42:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-29-blue-bear-villazzano-48-gardolo-62/</loc>
+    <lastmod>2014-10-29T17:31:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-27-san-marco-rovereto-48-gardolo-62/</loc>
+    <lastmod>2014-10-27T23:14:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-27-prima-amichevole-20142015-esordienti/</loc>
+    <lastmod>2014-10-27T08:34:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-26-gardolo-64-basket-pergine-52/</loc>
+    <lastmod>2014-10-26T19:15:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-25-a-lezione-con-i-campioni/</loc>
+    <lastmod>2014-10-25T22:27:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-24-sportexpo-archiviato-con-successo/</loc>
+    <lastmod>2014-10-24T07:17:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-23-minibasket-in-notturna/</loc>
+    <lastmod>2014-10-23T07:41:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-20-3746/</loc>
+    <lastmod>2014-10-20T19:41:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-20-gardolo-64-piani-bolzano-junior-49/</loc>
+    <lastmod>2014-10-20T12:19:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-20-gardolo-57-pergine-63/</loc>
+    <lastmod>2014-10-20T08:09:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-14-trentino-basket-15-gardolo-118/</loc>
+    <lastmod>2014-10-14T19:24:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-14-virtus-altogarda-a-67-gardolo-61/</loc>
+    <lastmod>2014-10-14T07:15:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-13-sport-expo-trentino-2014/</loc>
+    <lastmod>2014-10-13T18:59:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-10-virtus-b-41-gardolo-45/</loc>
+    <lastmod>2014-10-10T07:49:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-10-03-gardolo-69-alto-adige-sudtirol-49/</loc>
+    <lastmod>2014-10-03T13:27:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-09-30-cus-trento-68-gardolo-60/</loc>
+    <lastmod>2014-09-30T14:53:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-09-30-piani-junior-54-gardolo-50/</loc>
+    <lastmod>2014-09-30T07:03:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-09-26-gardolo-50-belvedere-ravina-58/</loc>
+    <lastmod>2014-09-26T09:36:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-09-24-3559/</loc>
+    <lastmod>2014-09-24T19:20:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-09-23-gardolo-58-virtus-altogarda-b-37/</loc>
+    <lastmod>2014-09-23T17:28:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-09-22-amichevole-in-famiglia/</loc>
+    <lastmod>2014-09-22T20:01:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-09-21-under-15-gia-in-campo/</loc>
+    <lastmod>2014-09-21T13:35:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-08-31-porte-aperte-minibasket/</loc>
+    <lastmod>2014-08-31T09:23:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-08-30-la-nuova-stagione-al-via/</loc>
+    <lastmod>2014-08-30T15:02:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-05-30-gardolo-55-virtus-altogarda-b-40/</loc>
+    <lastmod>2014-05-30T20:45:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-05-26-3424/</loc>
+    <lastmod>2014-05-26T09:20:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-05-23-virtus-altogarda-b-68-gardolo-51/</loc>
+    <lastmod>2014-05-23T12:25:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-05-19-gardolo-62-virtus-altogarda-b-60/</loc>
+    <lastmod>2014-05-19T16:58:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-05-17-gardolo-58-europa-bolzano-72/</loc>
+    <lastmod>2014-05-17T20:11:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-05-11-gardolo-55-endas-rovereto-50/</loc>
+    <lastmod>2014-05-11T23:01:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-05-11-europa-bolzano-70-gardolo-59/</loc>
+    <lastmod>2014-05-11T06:52:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-05-09-endas-rovereto-63-gardolo-87/</loc>
+    <lastmod>2014-05-09T07:14:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-05-03-gardolo-60-belvedere-ravina-46/</loc>
+    <lastmod>2014-05-03T12:25:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-04-24-belvedere-ravina-47-gardolo-60/</loc>
+    <lastmod>2014-04-24T11:48:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-04-19-giornalino-aprile-2014/</loc>
+    <lastmod>2014-04-19T20:39:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-04-19-gardolo-69-mori-brentonico-46/</loc>
+    <lastmod>2014-04-19T20:18:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-04-18-kuadra-s-c-a-r-l-86-gardolo-61/</loc>
+    <lastmod>2014-04-18T20:47:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-04-15-piani-bolzano-67-gardolo-76/</loc>
+    <lastmod>2014-04-15T06:43:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-04-15-3360/</loc>
+    <lastmod>2014-04-15T06:36:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-04-15-gardolo-63-a-d-virtus-basket-altogarda-60/</loc>
+    <lastmod>2014-04-15T06:33:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-04-15-3355/</loc>
+    <lastmod>2014-04-15T06:29:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-04-11-mori-brentonico-50-gardolo-65/</loc>
+    <lastmod>2014-04-11T19:26:21+00:00</lastmod>
   </url>
   
   <url>
@@ -123,12 +1853,3601 @@
   </url>
   
   <url>
-    <loc>http://example.org/pagine/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>http://example.org/news/2014-04-06-gardolo-87-europa-bolzano-45/</loc>
+    <lastmod>2014-04-06T16:21:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-31-unimondo-gardolo-71-alto-garda-47/</loc>
+    <lastmod>2014-03-31T20:32:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-31-riva-65-gardolo-67/</loc>
+    <lastmod>2014-03-31T17:56:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-31-gardolo-51-piani-bolzano-59/</loc>
+    <lastmod>2014-03-31T08:47:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-22-gardolo-74-s-marco-rovereto-65/</loc>
+    <lastmod>2014-03-22T09:10:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-20-europa-bolzano-41-gardolo-61/</loc>
+    <lastmod>2014-03-20T07:29:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-20-3305/</loc>
+    <lastmod>2014-03-20T07:25:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-16-audax-pergine-49-gardolo-68/</loc>
+    <lastmod>2014-03-16T14:17:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-12-giornalino-marzo-2014/</loc>
+    <lastmod>2014-03-12T20:08:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-10-pagnella-b-41-gardolo-105/</loc>
+    <lastmod>2014-03-10T07:56:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-08-gardolo-71-cus-trento-52/</loc>
+    <lastmod>2014-03-08T08:26:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-08-gardolo-81-charly-basket-merano-32/</loc>
+    <lastmod>2014-03-08T08:18:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-07-gardolo-51-paganella-a-39/</loc>
+    <lastmod>2014-03-07T11:03:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-03-04-3284/</loc>
+    <lastmod>2014-03-04T07:42:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-26-3281/</loc>
+    <lastmod>2014-02-26T18:05:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-26-3278/</loc>
+    <lastmod>2014-02-26T18:02:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-26-3276/</loc>
+    <lastmod>2014-02-26T18:01:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-26-3274/</loc>
+    <lastmod>2014-02-26T17:58:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-23-charly-merano-57-gardolo-65/</loc>
+    <lastmod>2014-02-23T08:00:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-20-3270/</loc>
+    <lastmod>2014-02-20T18:08:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-20-3268/</loc>
+    <lastmod>2014-02-20T18:05:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-20-3266/</loc>
+    <lastmod>2014-02-20T18:00:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-20-3264/</loc>
+    <lastmod>2014-02-20T17:55:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-20-3259/</loc>
+    <lastmod>2014-02-20T17:52:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-19-bressanone-71-gardolo-55/</loc>
+    <lastmod>2014-02-19T19:46:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-15-giornalino-febbraio-2014/</loc>
+    <lastmod>2014-02-15T09:43:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-11-val-di-fiemme-basket-60-gardolo-69/</loc>
+    <lastmod>2014-02-11T22:20:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-09-gardolo-65-piani-bolzano-70/</loc>
+    <lastmod>2014-02-09T22:17:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-03-gardolo-65-maia-merano-41/</loc>
+    <lastmod>2014-02-03T17:33:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-02-02-europa-bolzano-77-gardolo-62/</loc>
+    <lastmod>2014-02-02T08:18:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-01-29-amway-basket-gardolo/</loc>
+    <lastmod>2014-01-29T19:33:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-01-29-gardolo-64-riva-46/</loc>
+    <lastmod>2014-01-29T18:40:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-01-29-blue-bear-villazzano-62-gardolo-63/</loc>
+    <lastmod>2014-01-29T11:10:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-01-22-gardolo-75-brunico-49/</loc>
+    <lastmod>2014-01-22T07:51:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-01-20-s-marco-rovereto-74-gardolo-73/</loc>
+    <lastmod>2014-01-20T21:06:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-01-14-piani-bolzano-49-gardolo-59/</loc>
+    <lastmod>2014-01-14T19:03:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-01-12-gardolo-85-pergine-54/</loc>
+    <lastmod>2014-01-12T11:04:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2014-01-11-cus-trento-44-gardolo-51/</loc>
+    <lastmod>2014-01-11T16:43:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-30-unimondo-gardolo-86-paganella-lavis-55/</loc>
+    <lastmod>2013-12-30T08:24:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-23-gardolo-64-charly-merano-50/</loc>
+    <lastmod>2013-12-23T17:04:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-21-3166/</loc>
+    <lastmod>2013-12-21T18:36:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-17-buon-natale-3/</loc>
+    <lastmod>2013-12-17T18:33:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-16-giornalino-dicembre-2013/</loc>
+    <lastmod>2013-12-16T19:19:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-13-gardolo-79-europa-bolzano-50/</loc>
+    <lastmod>2013-12-13T22:54:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-12-apecheronza-avio-98-gardolo-81/</loc>
+    <lastmod>2013-12-12T18:18:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-08-gardolo-85-bressanone-47/</loc>
+    <lastmod>2013-12-08T20:40:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-06-3144/</loc>
+    <lastmod>2013-12-06T20:31:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-06-gardolo-81-paganella-lavis-b-27/</loc>
+    <lastmod>2013-12-06T07:27:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-03-3137/</loc>
+    <lastmod>2013-12-03T17:56:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-12-02-paganella-lavis-a-69-gardolo-57/</loc>
+    <lastmod>2013-12-02T07:26:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-30-gardolo-51-basket-pergine-56/</loc>
+    <lastmod>2013-11-30T17:10:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-25-virtus-altogarda-83-gardolo-73/</loc>
+    <lastmod>2013-11-25T21:08:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-25-3124/</loc>
+    <lastmod>2013-11-25T19:30:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-25-gardolo-101-val-di-fiemme-33/</loc>
+    <lastmod>2013-11-25T11:34:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-24-unimondo-gardolo-55-villazzano-35/</loc>
+    <lastmod>2013-11-24T08:23:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-17-gardolo-70-s-marco-rovereto-76/</loc>
+    <lastmod>2013-11-17T16:53:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-16-3103/</loc>
+    <lastmod>2013-11-16T15:01:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-15-maia-merano-54-gardolo-80/</loc>
+    <lastmod>2013-11-15T18:13:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-15-san-marco-rovereto-51-gardolo-115/</loc>
+    <lastmod>2013-11-15T07:35:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-14-3095/</loc>
+    <lastmod>2013-11-14T07:52:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-12-3093/</loc>
+    <lastmod>2013-11-12T13:12:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-12-3091/</loc>
+    <lastmod>2013-11-12T13:10:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-12-gardolo-38-apecheronza-avio-63/</loc>
+    <lastmod>2013-11-12T13:07:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-10-giornalino-novembre-2013/</loc>
+    <lastmod>2013-11-10T14:17:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-08-gardolo-82-blu-bear-villazzano-a-70/</loc>
+    <lastmod>2013-11-08T10:23:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-06-3073/</loc>
+    <lastmod>2013-11-06T14:56:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-04-unimondo-gardolo-61-paganella-lavis-59/</loc>
+    <lastmod>2013-11-04T23:12:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-11-04-aquila-basket-62-gardolo-56/</loc>
+    <lastmod>2013-11-04T07:51:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-31-il-pagellone-della-promozione-1/</loc>
+    <lastmod>2013-10-31T22:27:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-31-gardolo-58-trentino-basket-36/</loc>
+    <lastmod>2013-10-31T21:54:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-27-3056/</loc>
+    <lastmod>2013-10-27T18:25:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-27-us-brunico-36-gardolo-94/</loc>
+    <lastmod>2013-10-27T09:40:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-23-3040/</loc>
+    <lastmod>2013-10-23T23:13:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-23-coppa-trentino-alto-adige-memorial-zanelli-e-three-peat/</loc>
+    <lastmod>2013-10-23T23:04:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-18-serie-d-bressanone-49-gardolo-67/</loc>
+    <lastmod>2013-10-18T17:09:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-10-gardolo-in-semifinale-di-coppa-trentino-alto-adige/</loc>
+    <lastmod>2013-10-10T13:54:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-07-gardolo-62-cus-trento-76/</loc>
+    <lastmod>2013-10-07T06:23:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-02-giochiamo-a-minibasket/</loc>
+    <lastmod>2013-10-02T12:21:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-10-01-virtus-altogarda-76-gardolo-73/</loc>
+    <lastmod>2013-10-01T17:09:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-09-30-san-marco-rovereto-73-gardolo-38/</loc>
+    <lastmod>2013-09-30T07:08:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-09-23-gardolo-55-bressanone-43/</loc>
+    <lastmod>2013-09-23T18:46:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-06-12-playoff-serie-d-gardolo-42-cus-trento-60/</loc>
+    <lastmod>2013-06-12T18:49:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-06-12-cus-trento-77-gardolo-64/</loc>
+    <lastmod>2013-06-12T18:28:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-06-05-cus-trento-62-gardolo-56/</loc>
+    <lastmod>2013-06-05T13:20:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-05-31-playoff-serie-d-gardolo-61-cus-trento-58/</loc>
+    <lastmod>2013-05-31T13:57:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-05-29-giornalino-maggio-2013/</loc>
+    <lastmod>2013-05-29T16:31:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-05-27-playoff-serie-d-gardolo-60-cus-trento-50/</loc>
+    <lastmod>2013-05-27T14:16:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-05-20-gardolo-74-san-marco-rovereto-55/</loc>
+    <lastmod>2013-05-20T08:01:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-05-16-san-marco-rovereto-77-gardolo-68/</loc>
+    <lastmod>2013-05-16T12:33:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-05-12-gardolo-67-san-marco-rovereto-49/</loc>
+    <lastmod>2013-05-12T13:10:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-05-07-playoff-serie-d-semifinali/</loc>
+    <lastmod>2013-05-07T12:55:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-05-03-playoff-serie-d-pall-bolzano-58-gardolo-73/</loc>
+    <lastmod>2013-05-03T06:45:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-30-unimondo-gardolo-44-bsl-s-lazzaro-73/</loc>
+    <lastmod>2013-04-30T18:50:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-29-unimondo-gardolo-58-basket-casapulla-68/</loc>
+    <lastmod>2013-04-29T18:36:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-29-under-19-via-allinterzona/</loc>
+    <lastmod>2013-04-29T09:00:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-27-playoff-serie-d-gardolo-89-pall-bolzano-52/</loc>
+    <lastmod>2013-04-27T07:30:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-24-playoff-serie-d-quarti-di-finale/</loc>
+    <lastmod>2013-04-24T22:52:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-23-unimondo-gardolo-67-villazzano-35/</loc>
+    <lastmod>2013-04-23T16:55:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-23-2574/</loc>
+    <lastmod>2013-04-23T16:53:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-21-gardolo-70-pall-bolzano-41/</loc>
+    <lastmod>2013-04-21T09:18:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-18-giornalino-aprile-2013/</loc>
+    <lastmod>2013-04-18T23:18:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-14-europa-bolzano-62-gardolo-95/</loc>
+    <lastmod>2013-04-14T11:34:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-13-gardolo-86-virtus-altogarda-jr-29/</loc>
+    <lastmod>2013-04-13T08:03:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-10-under-19-la-fine-di-una-gloriosa-era/</loc>
+    <lastmod>2013-04-10T20:41:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-09-2539/</loc>
+    <lastmod>2013-04-09T21:37:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-04-03-pall-endas-rovereto-58-gardolo-69/</loc>
+    <lastmod>2013-04-03T20:03:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-27-2417/</loc>
+    <lastmod>2013-03-27T19:11:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-26-2414/</loc>
+    <lastmod>2013-03-26T17:48:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-24-san-marco-rovereto-56-gardolo-72/</loc>
+    <lastmod>2013-03-24T09:19:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-21-2397/</loc>
+    <lastmod>2013-03-21T18:38:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-20-2395/</loc>
+    <lastmod>2013-03-20T22:55:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-18-2392/</loc>
+    <lastmod>2013-03-18T18:26:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-18-2389/</loc>
+    <lastmod>2013-03-18T18:23:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-17-gardolo-74-villazzano-44/</loc>
+    <lastmod>2013-03-17T14:56:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-17-cus-trento-71-gardolo-55/</loc>
+    <lastmod>2013-03-17T14:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-14-2379/</loc>
+    <lastmod>2013-03-14T22:37:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-14-2376/</loc>
+    <lastmod>2013-03-14T22:34:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-14-2374/</loc>
+    <lastmod>2013-03-14T17:06:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-12-2372/</loc>
+    <lastmod>2013-03-12T10:14:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-08-giornalino-marzo-2013-2/</loc>
+    <lastmod>2013-03-08T16:15:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-08-gita-sulla-neve-in-lagorai/</loc>
+    <lastmod>2013-03-08T16:01:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-05-unimondo-gardolo-69-villazzano-41/</loc>
+    <lastmod>2013-03-05T07:11:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-05-gardolo-56-charly-merano-49/</loc>
+    <lastmod>2013-03-05T06:58:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-03-2341/</loc>
+    <lastmod>2013-03-03T22:48:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-03-01-ravina-73-gardolo-67/</loc>
+    <lastmod>2013-03-01T15:55:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-26-2329/</loc>
+    <lastmod>2013-02-26T23:27:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-24-gardolo-66-bressanone-57/</loc>
+    <lastmod>2013-02-24T18:34:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-21-2323/</loc>
+    <lastmod>2013-02-21T00:17:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-17-2321/</loc>
+    <lastmod>2013-02-17T21:00:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-14-all-star-game-regionale/</loc>
+    <lastmod>2013-02-14T21:20:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-12-pallacanestro-bolzano-68-gardolo-69/</loc>
+    <lastmod>2013-02-12T10:42:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-10-gardolo-64-europa-bz-42/</loc>
+    <lastmod>2013-02-10T17:52:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-06-2299/</loc>
+    <lastmod>2013-02-06T09:23:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-03-2296/</loc>
+    <lastmod>2013-02-03T14:40:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-03-2293/</loc>
+    <lastmod>2013-02-03T10:10:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-02-02-altogarda-jr-31-gardolo-90/</loc>
+    <lastmod>2013-02-02T09:25:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-30-2286/</loc>
+    <lastmod>2013-01-30T00:10:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-28-2272/</loc>
+    <lastmod>2013-01-28T22:31:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-27-2268/</loc>
+    <lastmod>2013-01-27T22:46:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-27-giornalino-gennaio-2013/</loc>
+    <lastmod>2013-01-27T15:32:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-27-gardolo-78-san-marco-rovereto-45-2/</loc>
+    <lastmod>2013-01-27T08:41:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-22-2247/</loc>
+    <lastmod>2013-01-22T16:03:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-21-2243/</loc>
+    <lastmod>2013-01-21T20:49:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-21-2241/</loc>
+    <lastmod>2013-01-21T20:43:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-20-villazzano-53-gardolo-89/</loc>
+    <lastmod>2013-01-20T10:15:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-18-2232/</loc>
+    <lastmod>2013-01-18T17:56:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-18-2230/</loc>
+    <lastmod>2013-01-18T17:54:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-18-gardolo-cus-trento-i-video/</loc>
+    <lastmod>2013-01-18T14:06:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-18-gardolo-62-cus-trento-54/</loc>
+    <lastmod>2013-01-18T07:46:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-15-2193/</loc>
+    <lastmod>2013-01-15T23:12:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-15-2191/</loc>
+    <lastmod>2013-01-15T07:36:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-13-charly-merano-50-gardolo-92/</loc>
+    <lastmod>2013-01-13T19:05:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-11-2180/</loc>
+    <lastmod>2013-01-11T17:16:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2013-01-07-gardolo-un-paese-ai-vertici/</loc>
+    <lastmod>2013-01-07T18:19:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-25-2169/</loc>
+    <lastmod>2012-12-25T20:22:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-24-2167/</loc>
+    <lastmod>2012-12-24T00:25:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-21-2165/</loc>
+    <lastmod>2012-12-21T20:46:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-20-ravina-58-gardolo-69/</loc>
+    <lastmod>2012-12-20T18:23:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-19-2154/</loc>
+    <lastmod>2012-12-19T08:11:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-18-gardolo-77-podistica-novella-49/</loc>
+    <lastmod>2012-12-18T17:35:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-16-2147/</loc>
+    <lastmod>2012-12-16T23:48:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-16-bressanone-55-gardolo-57/</loc>
+    <lastmod>2012-12-16T19:58:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-11-gardolo-41-u-s-piani-bolzano-52/</loc>
+    <lastmod>2012-12-11T22:45:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-11-gardolo-33-virtus-altogarda-122/</loc>
+    <lastmod>2012-12-11T18:49:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-10-2136/</loc>
+    <lastmod>2012-12-10T22:22:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-09-gardolo-88-pall-bolzano-51/</loc>
+    <lastmod>2012-12-09T17:52:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-06-giornalino-dicembre-2012-2/</loc>
+    <lastmod>2012-12-06T08:51:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-04-us-dil-piani-bz-31-gardolo-94/</loc>
+    <lastmod>2012-12-04T23:14:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-02-europa-bolzano-59-gardolo-88/</loc>
+    <lastmod>2012-12-02T09:34:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-02-gardolo-80-altogarda-jr-67/</loc>
+    <lastmod>2012-12-02T09:13:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-02-2110/</loc>
+    <lastmod>2012-12-02T08:07:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-12-01-pergine-63-gardolo-55/</loc>
+    <lastmod>2012-12-01T14:20:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-28-2101/</loc>
+    <lastmod>2012-11-28T21:15:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-28-2096/</loc>
+    <lastmod>2012-11-28T21:10:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-26-2091/</loc>
+    <lastmod>2012-11-26T13:55:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-25-san-marco-rovereto-61-gardolo-71/</loc>
+    <lastmod>2012-11-25T18:54:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-24-2074/</loc>
+    <lastmod>2012-11-24T20:05:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-20-giornalino-novembre-2012/</loc>
+    <lastmod>2012-11-20T08:13:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-17-gardolo-59-villazzano-53/</loc>
+    <lastmod>2012-11-17T11:04:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-15-2046/</loc>
+    <lastmod>2012-11-15T17:30:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-12-lavis-52-gardolo-60/</loc>
+    <lastmod>2012-11-12T23:53:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-12-2037/</loc>
+    <lastmod>2012-11-12T12:27:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-11-gardolo-84-charly-merano-63/</loc>
+    <lastmod>2012-11-11T23:07:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-11-2031/</loc>
+    <lastmod>2012-11-11T16:34:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-10-cus-trento-59-gardolo-66/</loc>
+    <lastmod>2012-11-10T11:33:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-05-gardolo-64-marmotte-val-di-sole-35/</loc>
+    <lastmod>2012-11-05T00:01:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-04-2012/</loc>
+    <lastmod>2012-11-04T17:10:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-04-gardolo-64-charly-merano-53/</loc>
+    <lastmod>2012-11-04T10:42:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-04-2006/</loc>
+    <lastmod>2012-11-04T10:24:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-11-02-2000/</loc>
+    <lastmod>2012-11-02T22:38:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-29-1995/</loc>
+    <lastmod>2012-10-29T13:49:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-29-europa-bolzano-53-gardolo-54/</loc>
+    <lastmod>2012-10-29T00:13:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-28-gardolo-85-ravina-59/</loc>
+    <lastmod>2012-10-28T08:44:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-22-1977/</loc>
+    <lastmod>2012-10-22T21:59:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-21-1966/</loc>
+    <lastmod>2012-10-21T18:11:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-20-1960/</loc>
+    <lastmod>2012-10-20T19:17:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-17-1952/</loc>
+    <lastmod>2012-10-17T20:19:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-16-1944/</loc>
+    <lastmod>2012-10-16T21:50:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-15-la-coppa-zanelli-rimane-a-gardolo/</loc>
+    <lastmod>2012-10-15T19:37:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-14-il-gardolo-vince-la-coppa-zanelli/</loc>
+    <lastmod>2012-10-14T22:11:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-14-1928/</loc>
+    <lastmod>2012-10-14T21:55:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-07-coppa-zanelli-vittoria-a-rovereto/</loc>
+    <lastmod>2012-10-07T08:24:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-05-coppa-zanelli-vittoria-contro-altogarda/</loc>
+    <lastmod>2012-10-05T09:48:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-10-02-coppa-zanelli-facile-vittoria-a-cavalese/</loc>
+    <lastmod>2012-10-02T09:03:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-09-28-coppa-zanelli-vittoria-contro-audax/</loc>
+    <lastmod>2012-09-28T09:27:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-09-26-al-via-la-coppa-zanelli/</loc>
+    <lastmod>2012-09-26T10:00:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-09-14-no-berta-no-party-vince-tut-gardol-en-basket/</loc>
+    <lastmod>2012-09-14T22:17:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-08-31-primi-allenamenti-per-serie-d-e-under-19/</loc>
+    <lastmod>2012-08-31T05:48:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-08-28-inizia-la-stagione/</loc>
+    <lastmod>2012-08-28T09:55:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-08-12-torneo-tut-gardol-en-basket-2012/</loc>
+    <lastmod>2012-08-12T17:53:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-07-18-serie-d-2012-2013/</loc>
+    <lastmod>2012-07-18T19:16:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-07-11-il-nuovo-direttivo-si-presenta/</loc>
+    <lastmod>2012-07-11T21:34:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-06-08-pergine-93-gardolo-77/</loc>
+    <lastmod>2012-06-08T10:34:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-06-04-pergine-74-gardolo-52/</loc>
+    <lastmod>2012-06-04T10:47:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-06-02-le-pagelle-semiserie-di-luca-mattedovich-mattedi/</loc>
+    <lastmod>2012-06-02T22:30:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-06-01-gardolo-48-pergine-64/</loc>
+    <lastmod>2012-06-01T18:30:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-28-gardolo-67-pergine-59/</loc>
+    <lastmod>2012-05-28T07:41:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-22-finale-di-serie-d-per-gardolo-e-pergine/</loc>
+    <lastmod>2012-05-22T17:54:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-22-giornalino-giugno-2012/</loc>
+    <lastmod>2012-05-22T16:49:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-21-torneo-amicizia-2012/</loc>
+    <lastmod>2012-05-21T10:21:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-18-1776/</loc>
+    <lastmod>2012-05-18T18:48:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-17-san-marco-rovereto-62-gardolo-72/</loc>
+    <lastmod>2012-05-17T07:38:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-16-gardolo-58-61-charly-merano/</loc>
+    <lastmod>2012-05-16T19:28:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-14-gardolo-78-san-marco-rovereto-45/</loc>
+    <lastmod>2012-05-14T07:13:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-10-festa-di-fine-stagione/</loc>
+    <lastmod>2012-05-10T17:26:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-10-assemblea-ordinaria-per-il-rinnovo-del-direttivo/</loc>
+    <lastmod>2012-05-10T17:08:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-10-domenica-di-semifinali-a-gardolo/</loc>
+    <lastmod>2012-05-10T16:51:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-08-1735/</loc>
+    <lastmod>2012-05-08T22:01:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-07-1732/</loc>
+    <lastmod>2012-05-07T16:47:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-04-giornalino-maggio-2012/</loc>
+    <lastmod>2012-05-04T08:24:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-03-charly-merano-63-gardolo-74/</loc>
+    <lastmod>2012-05-03T22:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-01-gardolo-61-charly-merano-33/</loc>
+    <lastmod>2012-05-01T17:23:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-05-01-1714/</loc>
+    <lastmod>2012-05-01T09:58:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-30-1710/</loc>
+    <lastmod>2012-04-30T06:34:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-26-under-17-in-trasferta-posti-ancora-disponibili/</loc>
+    <lastmod>2012-04-26T17:23:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-23-1695/</loc>
+    <lastmod>2012-04-23T21:13:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-23-gardolo-72-pallacanestro-villazzano-42/</loc>
+    <lastmod>2012-04-23T17:57:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-22-1683/</loc>
+    <lastmod>2012-04-22T09:24:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-22-gardolo-69-pergine-67/</loc>
+    <lastmod>2012-04-22T07:29:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-21-u-s-piani-86-basket-club-gardolo-66/</loc>
+    <lastmod>2012-04-21T15:05:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-19-under-17-in-finale/</loc>
+    <lastmod>2012-04-19T06:46:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-18-giornalino-aprile-2012/</loc>
+    <lastmod>2012-04-18T16:59:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-16-villazzano-40-gardolo-76/</loc>
+    <lastmod>2012-04-16T06:59:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-15-1653/</loc>
+    <lastmod>2012-04-15T14:23:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-04-torneo-under-17-edizioni-erickson/</loc>
+    <lastmod>2012-04-04T18:24:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-03-1637/</loc>
+    <lastmod>2012-04-03T12:26:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-04-01-1631/</loc>
+    <lastmod>2012-04-01T21:12:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-29-gardolo-69-ravina-36/</loc>
+    <lastmod>2012-03-29T21:51:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-29-finale-under-19/</loc>
+    <lastmod>2012-03-29T17:39:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-26-1609/</loc>
+    <lastmod>2012-03-26T06:01:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-26-1606/</loc>
+    <lastmod>2012-03-26T05:59:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-25-charly-merano-51-gardolo-87-2/</loc>
+    <lastmod>2012-03-25T20:09:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-23-1590/</loc>
+    <lastmod>2012-03-23T16:15:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-20-torneo-3-contro-3-join-the-game/</loc>
+    <lastmod>2012-03-20T01:25:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-20-1583/</loc>
+    <lastmod>2012-03-20T01:20:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-20-1580/</loc>
+    <lastmod>2012-03-20T01:18:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-18-1572/</loc>
+    <lastmod>2012-03-18T13:43:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-15-under-19-cominciano-le-final-four/</loc>
+    <lastmod>2012-03-15T19:07:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-15-giornalino-marzo-2012/</loc>
+    <lastmod>2012-03-15T18:23:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-12-1557/</loc>
+    <lastmod>2012-03-12T21:47:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-12-1554/</loc>
+    <lastmod>2012-03-12T21:42:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-11-1547/</loc>
+    <lastmod>2012-03-11T10:25:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-05-virtus-arco-81-gardolo-51/</loc>
+    <lastmod>2012-03-05T07:21:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-05-1541/</loc>
+    <lastmod>2012-03-05T07:18:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-05-under-19-il-punto-del-campionato/</loc>
+    <lastmod>2012-03-05T07:16:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-05-1535/</loc>
+    <lastmod>2012-03-05T07:08:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-03-02-1529/</loc>
+    <lastmod>2012-03-02T23:57:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-29-1525/</loc>
+    <lastmod>2012-02-29T12:29:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-27-1519/</loc>
+    <lastmod>2012-02-27T07:21:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-25-1514/</loc>
+    <lastmod>2012-02-25T21:23:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-25-1510/</loc>
+    <lastmod>2012-02-25T21:20:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-21-1506/</loc>
+    <lastmod>2012-02-21T15:44:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-20-1503/</loc>
+    <lastmod>2012-02-20T09:39:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-19-1499/</loc>
+    <lastmod>2012-02-19T13:28:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-13-1496/</loc>
+    <lastmod>2012-02-13T17:53:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-13-1493/</loc>
+    <lastmod>2012-02-13T07:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-12-1489/</loc>
+    <lastmod>2012-02-12T12:42:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-12-1486/</loc>
+    <lastmod>2012-02-12T12:38:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-06-1482/</loc>
+    <lastmod>2012-02-06T20:10:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-06-1479/</loc>
+    <lastmod>2012-02-06T14:19:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-06-giornalino-febbraio-2012/</loc>
+    <lastmod>2012-02-06T11:00:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-05-1467/</loc>
+    <lastmod>2012-02-05T10:30:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-02-04-1463/</loc>
+    <lastmod>2012-02-04T23:37:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-28-1460/</loc>
+    <lastmod>2012-01-28T17:56:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-26-1454/</loc>
+    <lastmod>2012-01-26T08:12:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-25-gardolo-62-san-marco-basket-48/</loc>
+    <lastmod>2012-01-25T19:46:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-25-1447/</loc>
+    <lastmod>2012-01-25T19:35:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-25-1443/</loc>
+    <lastmod>2012-01-25T19:32:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-24-1439/</loc>
+    <lastmod>2012-01-24T15:00:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-22-1434/</loc>
+    <lastmod>2012-01-22T15:54:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-22-1430/</loc>
+    <lastmod>2012-01-22T15:52:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-18-1427/</loc>
+    <lastmod>2012-01-18T21:56:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-16-1424/</loc>
+    <lastmod>2012-01-16T18:22:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-16-1420/</loc>
+    <lastmod>2012-01-16T10:18:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-15-1415/</loc>
+    <lastmod>2012-01-15T11:03:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-14-1411/</loc>
+    <lastmod>2012-01-14T22:42:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-11-1403/</loc>
+    <lastmod>2012-01-11T19:50:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-10-1400/</loc>
+    <lastmod>2012-01-10T21:50:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-08-1396/</loc>
+    <lastmod>2012-01-08T15:04:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2012-01-06-1391/</loc>
+    <lastmod>2012-01-06T10:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-26-allenamenti-natalizi/</loc>
+    <lastmod>2011-12-26T18:09:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-25-il-nostro-luca-conti-a-jesolo/</loc>
+    <lastmod>2011-12-25T09:03:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-24-buon-natale-2/</loc>
+    <lastmod>2011-12-24T14:50:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-22-1371/</loc>
+    <lastmod>2011-12-22T22:30:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-22-1367/</loc>
+    <lastmod>2011-12-22T13:07:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-19-1364/</loc>
+    <lastmod>2011-12-19T19:37:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-18-1361/</loc>
+    <lastmod>2011-12-18T00:53:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-17-1356/</loc>
+    <lastmod>2011-12-17T15:22:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-16-1353/</loc>
+    <lastmod>2011-12-16T08:01:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-13-1350/</loc>
+    <lastmod>2011-12-13T21:58:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-12-1346/</loc>
+    <lastmod>2011-12-12T13:11:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-10-chi-fa-lo-sport-bene-si-fa-del-bene/</loc>
+    <lastmod>2011-12-10T21:01:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-10-1315/</loc>
+    <lastmod>2011-12-10T14:01:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-06-1306/</loc>
+    <lastmod>2011-12-06T22:50:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-05-1299/</loc>
+    <lastmod>2011-12-05T11:21:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-05-1295/</loc>
+    <lastmod>2011-12-05T00:03:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-12-04-1291/</loc>
+    <lastmod>2011-12-04T09:22:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-28-al-charly-merano-il-primo-torneo-unimondo-org/</loc>
+    <lastmod>2011-11-28T21:26:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-28-giornalino-dicembre-2011/</loc>
+    <lastmod>2011-11-28T21:05:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-27-1253/</loc>
+    <lastmod>2011-11-27T11:04:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-27-1250/</loc>
+    <lastmod>2011-11-27T11:00:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-27-1247/</loc>
+    <lastmod>2011-11-27T10:57:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-27-1244/</loc>
+    <lastmod>2011-11-27T10:56:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-22-torneo-under-15-unimondo-org/</loc>
+    <lastmod>2011-11-22T16:00:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-21-1241/</loc>
+    <lastmod>2011-11-21T13:36:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-19-1238/</loc>
+    <lastmod>2011-11-19T22:58:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-16-1209/</loc>
+    <lastmod>2011-11-16T15:56:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-14-1206/</loc>
+    <lastmod>2011-11-14T13:34:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-13-1203/</loc>
+    <lastmod>2011-11-13T18:20:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-13-1199/</loc>
+    <lastmod>2011-11-13T15:21:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-12-1192/</loc>
+    <lastmod>2011-11-12T13:14:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-06-1187/</loc>
+    <lastmod>2011-11-06T21:59:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-06-1184/</loc>
+    <lastmod>2011-11-06T13:13:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-05-1180/</loc>
+    <lastmod>2011-11-05T15:19:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-11-03-1174/</loc>
+    <lastmod>2011-11-03T23:30:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-10-31-giornalino-novembre-2011/</loc>
+    <lastmod>2011-10-31T10:01:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-10-28-1168/</loc>
+    <lastmod>2011-10-28T18:00:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-10-28-pronti-allinizio-del-campionato-anche-i-nostri-under-13/</loc>
+    <lastmod>2011-10-28T05:58:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-10-24-1160/</loc>
+    <lastmod>2011-10-24T17:07:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-10-23-1157/</loc>
+    <lastmod>2011-10-23T20:09:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-10-19-le-foto-dai-vincitori-del-trofeo-zanelli/</loc>
+    <lastmod>2011-10-19T19:22:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-10-17-1138/</loc>
+    <lastmod>2011-10-17T18:29:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-10-17-gardolo-79-aquila-trento-u19-72/</loc>
+    <lastmod>2011-10-17T18:26:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-10-09-1127/</loc>
+    <lastmod>2011-10-09T15:16:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-10-07-1121/</loc>
+    <lastmod>2011-10-07T21:41:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-09-30-1118/</loc>
+    <lastmod>2011-09-30T16:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-09-28-1114/</loc>
+    <lastmod>2011-09-28T17:22:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-09-23-serie-d-subito-in-campo/</loc>
+    <lastmod>2011-09-23T20:45:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-09-05-la-serie-d-2011-2012/</loc>
+    <lastmod>2011-09-05T22:17:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-08-30-presentazione-alle-edizioni-erickson/</loc>
+    <lastmod>2011-08-30T21:18:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-08-08-iscrizioni-per-il-torneo-tut-gardol-en-basket-2011/</loc>
+    <lastmod>2011-08-08T21:33:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-08-07-serie-d-10-squadre-al-via/</loc>
+    <lastmod>2011-08-07T02:17:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-07-21-stagione-20112012-ecco-gli-allenatori-della-serie-d/</loc>
+    <lastmod>2011-07-21T19:17:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-06-05-torneo-tut-gardol-en-basket-2011/</loc>
+    <lastmod>2011-06-05T20:42:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-06-05-festa-di-fine-anno/</loc>
+    <lastmod>2011-06-05T20:35:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-27-partita-contro-i-genitori/</loc>
+    <lastmod>2011-05-27T19:13:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-24-serie-d-20102011-la-stagione-vista-dal-nostro-matteo-mosna/</loc>
+    <lastmod>2011-05-24T23:05:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-22-1022/</loc>
+    <lastmod>2011-05-22T21:27:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-21-domenica-22-maggio-torneo-gruppo-dolomiti-energia/</loc>
+    <lastmod>2011-05-21T07:58:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-19-giornalino-maggiogiugno-2011/</loc>
+    <lastmod>2011-05-19T06:24:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-15-under-13-le-statistiche-della-stagione-20102011/</loc>
+    <lastmod>2011-05-15T12:14:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-15-1005/</loc>
+    <lastmod>2011-05-15T12:01:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-10-1002/</loc>
+    <lastmod>2011-05-10T16:53:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-08-997/</loc>
+    <lastmod>2011-05-08T14:26:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-03-993/</loc>
+    <lastmod>2011-05-03T16:32:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-05-01-987/</loc>
+    <lastmod>2011-05-01T21:07:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-30-calendario-dei-quarti-di-finale-di-serie-d/</loc>
+    <lastmod>2011-04-30T11:07:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-30-giornalino-maggio-2011/</loc>
+    <lastmod>2011-04-30T10:50:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-27-976/</loc>
+    <lastmod>2011-04-27T17:18:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-26-calendario-prossime-partite-under-17/</loc>
+    <lastmod>2011-04-26T16:53:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-26-964/</loc>
+    <lastmod>2011-04-26T16:47:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-17-under-17-i-complimenti-della-federazione/</loc>
+    <lastmod>2011-04-17T17:55:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-17-955/</loc>
+    <lastmod>2011-04-17T17:42:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-17-952/</loc>
+    <lastmod>2011-04-17T17:41:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-12-giornalino-aprile-2011/</loc>
+    <lastmod>2011-04-12T16:49:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-10-945/</loc>
+    <lastmod>2011-04-10T22:37:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-06-940/</loc>
+    <lastmod>2011-04-06T06:30:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-05-under-17-campioni-regionali/</loc>
+    <lastmod>2011-04-05T21:41:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-05-931/</loc>
+    <lastmod>2011-04-05T21:37:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-04-02-928/</loc>
+    <lastmod>2011-04-02T06:43:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-30-basket-gardolo-sostiene-il-5x1000-per-unimondo/</loc>
+    <lastmod>2011-03-30T21:40:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-30-under-17-appuntamento-con-la-storia/</loc>
+    <lastmod>2011-03-30T20:44:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-30-under-19-dentro-o-fuori-contro-villazzano/</loc>
+    <lastmod>2011-03-30T20:33:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-30-ravina-41-gardolo-70/</loc>
+    <lastmod>2011-03-30T19:55:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-27-902/</loc>
+    <lastmod>2011-03-27T13:44:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-21-899/</loc>
+    <lastmod>2011-03-21T19:20:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-21-g-s-virtus-riva-57-gardolo-107/</loc>
+    <lastmod>2011-03-21T19:18:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-20-892/</loc>
+    <lastmod>2011-03-20T13:11:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-17-888/</loc>
+    <lastmod>2011-03-17T23:39:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-15-885/</loc>
+    <lastmod>2011-03-15T16:52:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-13-880/</loc>
+    <lastmod>2011-03-13T23:23:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-13-876/</loc>
+    <lastmod>2011-03-13T10:40:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-12-873/</loc>
+    <lastmod>2011-03-12T00:22:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-07-870/</loc>
+    <lastmod>2011-03-07T13:38:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-05-866/</loc>
+    <lastmod>2011-03-05T08:46:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-01-863/</loc>
+    <lastmod>2011-03-01T18:42:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-01-859/</loc>
+    <lastmod>2011-03-01T18:41:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-03-01-856/</loc>
+    <lastmod>2011-03-01T18:40:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-28-853/</loc>
+    <lastmod>2011-02-28T17:37:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-27-giornalino-febbraio-2011/</loc>
+    <lastmod>2011-02-27T20:42:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-27-846/</loc>
+    <lastmod>2011-02-27T15:26:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-23-843/</loc>
+    <lastmod>2011-02-23T23:11:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-23-840/</loc>
+    <lastmod>2011-02-23T23:09:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-23-837/</loc>
+    <lastmod>2011-02-23T23:07:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-20-831/</loc>
+    <lastmod>2011-02-20T22:03:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-17-813/</loc>
+    <lastmod>2011-02-17T18:00:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-15-gardolo-85-charly-merano-52/</loc>
+    <lastmod>2011-02-15T18:35:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-13-805/</loc>
+    <lastmod>2011-02-13T23:47:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-10-801/</loc>
+    <lastmod>2011-02-10T23:26:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-06-798/</loc>
+    <lastmod>2011-02-06T20:15:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-06-795/</loc>
+    <lastmod>2011-02-06T20:13:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-05-giornalino-gennaio-2011/</loc>
+    <lastmod>2011-02-05T08:54:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-02-promozione-in-campo-contro-il-cus-trento/</loc>
+    <lastmod>2011-02-02T23:31:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-02-01-755/</loc>
+    <lastmod>2011-02-01T23:04:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-31-under-14-a-join-the-game/</loc>
+    <lastmod>2011-01-31T20:16:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-31-743/</loc>
+    <lastmod>2011-01-31T20:10:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-30-739/</loc>
+    <lastmod>2011-01-30T17:04:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-28-735/</loc>
+    <lastmod>2011-01-28T00:17:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-24-722/</loc>
+    <lastmod>2011-01-24T17:30:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-24-719/</loc>
+    <lastmod>2011-01-24T17:29:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-24-715/</loc>
+    <lastmod>2011-01-24T17:27:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-24-712/</loc>
+    <lastmod>2011-01-24T17:25:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-16-707/</loc>
+    <lastmod>2011-01-16T12:53:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-15-700/</loc>
+    <lastmod>2011-01-15T20:55:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-11-695/</loc>
+    <lastmod>2011-01-11T17:30:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-09-687/</loc>
+    <lastmod>2011-01-09T14:39:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-07-671/</loc>
+    <lastmod>2011-01-07T23:58:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-07-668/</loc>
+    <lastmod>2011-01-07T23:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2011-01-07-665/</loc>
+    <lastmod>2011-01-07T23:54:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-12-18-679/</loc>
+    <lastmod>2010-12-18T00:19:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-12-07-595/</loc>
+    <lastmod>2010-12-07T22:42:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-12-07-under-15-gardolo-pallacanestro-villazzano-73-66/</loc>
+    <lastmod>2010-12-07T07:06:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-12-05-u17-gardolo-pergine-98-54/</loc>
+    <lastmod>2010-12-05T12:07:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-30-europa-bolzano-45-gardolo-85/</loc>
+    <lastmod>2010-11-30T14:46:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-30-under-15-gardolo-a-gardolo-b-80-83/</loc>
+    <lastmod>2010-11-30T07:10:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-30-under-14-gardolo-asd-trentino-basket-112-42/</loc>
+    <lastmod>2010-11-30T07:02:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-26-aquilotti-basket-club-gardolo-protagonisti-con-la-bitumcalor-trento/</loc>
+    <lastmod>2010-11-26T18:03:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-24-under-19-gardolo-virtus-riva-58-56/</loc>
+    <lastmod>2010-11-23T23:48:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-24-serie-d-piani-basket-junior-gardolo-52-95/</loc>
+    <lastmod>2010-11-23T23:44:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-23-under-14-piani-bolzano-gardolo-87-83-dopo-il-primo-tempo-supplementare/</loc>
+    <lastmod>2010-11-23T19:24:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-22-under-13-gardolo-villazzano-22-77/</loc>
+    <lastmod>2010-11-22T22:30:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-22-under-15-bolzano-basket-gardolo-33-114/</loc>
+    <lastmod>2010-11-22T22:27:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-17-appuntamenti-informativi-a-gardolo/</loc>
+    <lastmod>2010-11-17T22:34:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-15-u13-pall-aquila-trento-b-gardolo-20-65/</loc>
+    <lastmod>2010-11-15T06:54:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-14-u17-gardolo-villazzano-a-100-73/</loc>
+    <lastmod>2010-11-14T22:27:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-14-u14-gardolo-bolzano-basket-58-79/</loc>
+    <lastmod>2010-11-14T15:18:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-12-corso-di-primo-soccorso/</loc>
+    <lastmod>2010-11-12T19:47:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-12-u14-trentino-basket-gardolo-41-68/</loc>
+    <lastmod>2010-11-12T19:36:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-11-u15-pall-villazzano-gardolo-68-82/</loc>
+    <lastmod>2010-11-11T22:58:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-11-giornalino-novembre-2010/</loc>
+    <lastmod>2010-11-10T23:22:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-10-serie-d-bolzano-bk-suedtirol-gardolo-64-67/</loc>
+    <lastmod>2010-11-10T21:33:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-10-u15-gardolo-bolzano-basket-96-42/</loc>
+    <lastmod>2010-11-10T21:31:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-10-u19-gardolo-gs-riva/</loc>
+    <lastmod>2010-11-09T23:32:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-10-serie-d-us-piani-gardolo-87-69/</loc>
+    <lastmod>2010-11-09T23:30:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-10-serie-d-gardolo-san-marco-rovereto-62-54/</loc>
+    <lastmod>2010-11-09T23:27:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-09-15/</loc>
+    <lastmod>2010-11-09T14:39:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-09-u19-gardolo-trentino-basket-113-28/</loc>
+    <lastmod>2010-11-08T23:01:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-08-u17-charly-merano-gardolo-71-76/</loc>
+    <lastmod>2010-11-08T22:53:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-08-u13-gardolo-us-piani-bz-b-78-10/</loc>
+    <lastmod>2010-11-08T22:41:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-05-u14-gardolo-piani-bolzano-53-74/</loc>
+    <lastmod>2010-11-05T00:44:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-04-lunder-19-in-campo-con-unimondo/</loc>
+    <lastmod>2010-11-04T00:40:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-02-under-15-bressanone-basket-gardolo-22-137/</loc>
+    <lastmod>2010-11-02T13:34:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-11-02-basket-bolzano-gardolo-40-55/</loc>
+    <lastmod>2010-11-02T13:30:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-10-31-u17-piani-bz-gardolo-86-98/</loc>
+    <lastmod>2010-10-31T10:23:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-10-30-652/</loc>
+    <lastmod>2010-10-30T23:45:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-10-28-u17-prime-due-partite/</loc>
+    <lastmod>2010-10-28T19:16:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-10-10-u17-vittoria-al-torneo-di-ravina/</loc>
+    <lastmod>2010-10-10T18:18:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-10-08-u17-primo-impegno-stagionale/</loc>
+    <lastmod>2010-10-08T16:04:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-09-22-calendario-e-regolamento-coppa-trentino-alto-adige/</loc>
+    <lastmod>2010-09-22T22:08:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-09-20-foto-dal-torneo-tut-gardol-en-basket/</loc>
+    <lastmod>2010-09-20T22:18:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-09-19-orario-stagione-2010-2011/</loc>
+    <lastmod>2010-09-19T11:29:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-09-08-presentazione-nuova-stagione-20102011/</loc>
+    <lastmod>2010-09-08T20:27:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-08-20-primo-allenamento/</loc>
+    <lastmod>2010-08-20T20:33:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-08-14-parte-la-nuova-stagione/</loc>
+    <lastmod>2010-08-14T09:13:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-06-11-tut-gardol-en-basket/</loc>
+    <lastmod>2010-06-11T22:25:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-05-23-under-13-charly-merano-gardolo-54-80/</loc>
+    <lastmod>2010-05-23T20:13:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-05-23-serie-d-finale/</loc>
+    <lastmod>2010-05-23T20:03:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-05-17-u13-vittorie-contro-trento-e-maia-merano/</loc>
+    <lastmod>2010-05-17T12:09:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-05-15-serie-d-gardolo-pergine-gara-3/</loc>
+    <lastmod>2010-05-15T08:05:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-05-15-torneo-di-salsomaggiore-foto/</loc>
+    <lastmod>2010-05-15T07:56:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-05-12-torneo-esordienti-di-salsomaggiore/</loc>
+    <lastmod>2010-05-12T15:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-05-11-esor-mb-gardolo-mb-suedtirol-b-64-4/</loc>
+    <lastmod>2010-05-11T05:38:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-05-06-serie-d-semifinali/</loc>
+    <lastmod>2010-05-06T11:49:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-05-03-torneo-dellamicizia-2010/</loc>
+    <lastmod>2010-05-03T08:15:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-29-u14-piani-bz-gardolo-121-44/</loc>
+    <lastmod>2010-04-29T15:23:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-25-under-17b-il-commento-di-una-stagione/</loc>
+    <lastmod>2010-04-25T17:37:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-25-esor-gardolo-virtus-riva-34-49/</loc>
+    <lastmod>2010-04-25T09:45:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-24-under-13-pallrovereto-gardolo-52-80/</loc>
+    <lastmod>2010-04-24T18:17:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-23-under-17a-finisce-con-un-secondo-posto/</loc>
+    <lastmod>2010-04-23T12:26:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-22-serie-d-inizio-playoff/</loc>
+    <lastmod>2010-04-22T07:27:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-20-promozione-finale-di-campionato/</loc>
+    <lastmod>2010-04-20T19:05:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-19-u14-gardolo-europa-bz-74-77/</loc>
+    <lastmod>2010-04-19T13:19:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-19-u17-piani-bolzano-gardolo-b-54-59/</loc>
+    <lastmod>2010-04-19T05:24:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-13-u14-gardolo-avio-63-89/</loc>
+    <lastmod>2010-04-13T12:40:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-12-u13-gardolo-piani-b-42-77/</loc>
+    <lastmod>2010-04-12T07:03:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-11-u17-gardolo-b-bressanone-54-44/</loc>
+    <lastmod>2010-04-11T11:23:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-04-01-congraturazioni-cristian/</loc>
+    <lastmod>2010-04-01T09:19:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-31-u17-torneo-di-primavera/</loc>
+    <lastmod>2010-03-31T14:39:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-30-u17-pergine-gardolo-a-45-87/</loc>
+    <lastmod>2010-03-30T12:29:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-30-u13-gardolo-charly-merano-83-40/</loc>
+    <lastmod>2010-03-30T12:23:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-29-3c3-join-the-game-fase-regionale/</loc>
+    <lastmod>2010-03-29T13:27:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-29-u14-pergine-gardolo-65-67/</loc>
+    <lastmod>2010-03-29T07:58:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-29-u17-gardolo-b-riva-b-69-33/</loc>
+    <lastmod>2010-03-29T07:39:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-23-u14-gardolo-pallrovereto-71-72/</loc>
+    <lastmod>2010-03-23T10:43:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-21-u17-ravina-gardolo-b-81-65/</loc>
+    <lastmod>2010-03-21T16:29:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-21-esor-mb-vallagarina-gardolo-20-30/</loc>
+    <lastmod>2010-03-21T16:26:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-17-u13-maia-merano-gardolo-82-59/</loc>
+    <lastmod>2010-03-17T08:48:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-16-u17-gardolo-a-charly-merano-113-59/</loc>
+    <lastmod>2010-03-16T14:57:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-09-u17-europa-bz-gardolo-a-39-112/</loc>
+    <lastmod>2010-03-09T18:46:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-08-u14-doppio-impegno-nel-weekend/</loc>
+    <lastmod>2010-03-08T08:55:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-08-esor-gardolo-maia-merano-35-31/</loc>
+    <lastmod>2010-03-08T08:12:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-08-u17-gardolo-b-virtus-riva-a50-80/</loc>
+    <lastmod>2010-03-08T08:10:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-05-u13-mb-trento-gardolo-71-77/</loc>
+    <lastmod>2010-03-05T12:44:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-03-03-promozione/</loc>
+    <lastmod>2010-03-03T13:21:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-28-serie-d-cus-tn-gardolo-63-86/</loc>
+    <lastmod>2010-02-28T09:44:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-27-under-17-gardolo-a-villazzano-a-65-64/</loc>
+    <lastmod>2010-02-27T18:26:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-24-u14-europa-bz-gardolo-77-61/</loc>
+    <lastmod>2010-02-24T14:59:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-21-under-17-trentino-basket-gardolo-b-53-88/</loc>
+    <lastmod>2010-02-21T21:53:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-21-esor-mb-sudtirol-bz-b-mb-gardolo-19-74/</loc>
+    <lastmod>2010-02-21T21:51:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-21-under-17-gardolo-villazzano-65-64/</loc>
+    <lastmod>2010-02-21T15:21:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-18-under-17/</loc>
+    <lastmod>2010-02-18T09:14:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-18-u14-gardolo-piani-a-47-107/</loc>
+    <lastmod>2010-02-18T08:59:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-15-serie-d-gardolo-virtus-riva-63-61/</loc>
+    <lastmod>2010-02-15T08:25:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-15-u13-gardolo-pallrovereto-72-54/</loc>
+    <lastmod>2010-02-15T08:01:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-15-esor-virtus-riva-mb-gardolo-57-19/</loc>
+    <lastmod>2010-02-14T23:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-09-serie-d/</loc>
+    <lastmod>2010-02-09T09:33:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-08-u17-gardolo-b-piani-bz-101-103/</loc>
+    <lastmod>2010-02-08T19:21:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-07-serie-d-gardolo-maia-merano-75-54/</loc>
+    <lastmod>2010-02-07T21:12:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-07-u17-san-marco-gardolo-83-89/</loc>
+    <lastmod>2010-02-07T20:56:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-03-amare-considerazioni/</loc>
+    <lastmod>2010-02-02T23:48:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-01-u17-gardolo-a-arco-54-61/</loc>
+    <lastmod>2010-02-01T14:30:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-02-01-u17-bressanone-gardolo-b-58-64/</loc>
+    <lastmod>2010-02-01T10:12:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-26-u13-piani-b-gardolo-88-49/</loc>
+    <lastmod>2010-01-26T13:46:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-24-u17-gardolo-a-pergine-97-46/</loc>
+    <lastmod>2010-01-24T10:34:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-19-615/</loc>
+    <lastmod>2010-01-19T23:20:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-17-under-17-riva-b-gardolo-b-45-42/</loc>
+    <lastmod>2010-01-17T15:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-17-under-17-gardolo-b-belvedere-ravina-53-73/</loc>
+    <lastmod>2010-01-17T15:52:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-17-esor-mb-gardolo-mb-vallagarina-63-25/</loc>
+    <lastmod>2010-01-17T15:51:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-17-u14-apecheronza-avio-gardolo-89-75/</loc>
+    <lastmod>2010-01-17T10:30:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-13-u17-charly-merano-gardolo-a-46-102/</loc>
+    <lastmod>2010-01-13T20:49:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-12-corso-allievo-allenatore/</loc>
+    <lastmod>2010-01-12T10:59:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-11-u14-gardolo-pergine-80-76/</loc>
+    <lastmod>2010-01-11T13:26:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-11-u13-gardolo-pallacanestro-trento-51-93/</loc>
+    <lastmod>2010-01-11T13:18:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2010-01-11-serie-d-gardolo-ravina-91-48/</loc>
+    <lastmod>2010-01-11T12:54:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-23-u17-gardolo-a-europa-bz-122-44/</loc>
+    <lastmod>2009-12-23T07:41:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-21-vacanze-di-natale-allenamenti-giovanili/</loc>
+    <lastmod>2009-12-21T14:32:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-21-serie-d-charly-gardolo-54-69/</loc>
+    <lastmod>2009-12-21T14:29:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-21-u14-pallrovereto-gardolo-64-58/</loc>
+    <lastmod>2009-12-21T14:18:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-21-esor-gardolo-aquila-a-52-32/</loc>
+    <lastmod>2009-12-21T14:14:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-16-u17-gardolo-b-trentino-basket-60-66/</loc>
+    <lastmod>2009-12-16T14:52:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-15-festa-minibasket/</loc>
+    <lastmod>2009-12-15T18:22:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-15-appuntamento-direttivo-con-allenatori-ed-istruttori/</loc>
+    <lastmod>2009-12-15T18:12:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-14-u17-villazzano-a-gardolo-a-59-61/</loc>
+    <lastmod>2009-12-14T13:45:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-14-esor-pallbolzano-2002-gardolo-6-62/</loc>
+    <lastmod>2009-12-14T08:59:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-11-serie-d-gardolo-cus-trento-75-61/</loc>
+    <lastmod>2009-12-11T15:12:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-09-serie-d-gardolo-pergine-54-46/</loc>
+    <lastmod>2009-12-09T10:26:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-09-u14-gardolo-virtus-riva-42-132/</loc>
+    <lastmod>2009-12-09T10:20:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-07-prom-charly-gardolo-39-60/</loc>
+    <lastmod>2009-12-07T09:59:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-05-u13-gardolo-pergine-68-50/</loc>
+    <lastmod>2009-12-05T16:49:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-05-esordienti-villazzano-b-gardolo-45-43/</loc>
+    <lastmod>2009-12-05T16:37:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-03-prom-gardolo-bressanone-54-57/</loc>
+    <lastmod>2009-12-03T17:55:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-02-basketime-6-7-dicembre-2009/</loc>
+    <lastmod>2009-12-02T22:57:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-12-01-u13-trentino-basket-gardolo-50-72/</loc>
+    <lastmod>2009-12-01T13:06:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-30-u17-gardolo-a-trentino-basket-147-46/</loc>
+    <lastmod>2009-11-30T15:27:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-30-u17-villazzano-b-gardolo-a-54-86/</loc>
+    <lastmod>2009-11-30T15:22:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-30-titolo-il-gardolo-a-canestro-in-libreria/</loc>
+    <lastmod>2009-11-30T13:01:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-30-esor-gardolo-bolzano-suedtirol-60-17/</loc>
+    <lastmod>2009-11-30T12:57:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-30-u17-villazzano-a-gardolo-b-145-43/</loc>
+    <lastmod>2009-11-30T12:55:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-27-serie-d-pergine-gardolo-70-54/</loc>
+    <lastmod>2009-11-27T13:08:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-25-u13-villazzano-gardolo-75-33/</loc>
+    <lastmod>2009-11-25T20:05:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-24-prom-piani-bolzano-gardolo-68-66/</loc>
+    <lastmod>2009-11-24T21:00:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-22-u17-fondo-gardolo-b-59-77/</loc>
+    <lastmod>2009-11-22T17:58:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-20-u17-gardolo-a-ravina-106-55/</loc>
+    <lastmod>2009-11-20T08:13:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-19-u14-bolzano-basket-gardolo-59-71/</loc>
+    <lastmod>2009-11-19T09:53:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-16-aquilotti-torneo-della-castagna/</loc>
+    <lastmod>2009-11-16T13:07:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-16-under-14-gardolo-palltrento-36-92/</loc>
+    <lastmod>2009-11-16T10:09:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-15-u17-gardolo-b-pergine-49-81/</loc>
+    <lastmod>2009-11-15T13:27:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-14-prom-gardolo-europa-bz-78-60/</loc>
+    <lastmod>2009-11-14T16:14:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-09-i-giovani-e-lo-sport/</loc>
+    <lastmod>2009-11-09T09:36:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-09-u17-gardolo-b-villazzano-a-36-126/</loc>
+    <lastmod>2009-11-09T09:18:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-07-prom-villazzano-c-gardolo-31-61/</loc>
+    <lastmod>2009-11-07T16:36:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-06-serie-d-gardolo-cus-trento-67-80/</loc>
+    <lastmod>2009-11-06T09:43:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-03-under-14-piani-b-gardolo-30-79/</loc>
+    <lastmod>2009-11-03T11:03:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-02-under-17-trentino-basket-40-gardolo-a-128/</loc>
+    <lastmod>2009-11-02T20:21:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-11-02-prom-gardolo-maia-86-43/</loc>
+    <lastmod>2009-11-02T11:43:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-26-under-14-gardolo-villazzano-75-62/</loc>
+    <lastmod>2009-10-26T11:26:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-26-under-17-a-gardolo-a-villazzano-b-64-57/</loc>
+    <lastmod>2009-10-26T11:22:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-26-under-17-b-primi-due-incontri/</loc>
+    <lastmod>2009-10-26T11:15:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-25-promozione-fondo-gardolo-41-83/</loc>
+    <lastmod>2009-10-25T13:51:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-22-under-17-gardolo-a-ravina-117-36/</loc>
+    <lastmod>2009-10-22T10:20:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-21-serie-d-gardolo-ravina-69-43/</loc>
+    <lastmod>2009-10-21T10:43:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-20-under-14-7-memorial-gigi-caserotti/</loc>
+    <lastmod>2009-10-20T11:23:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-19-promozione-gardolo-lavis-88-60/</loc>
+    <lastmod>2009-10-19T08:42:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-15-serie-d-ultima-conferma/</loc>
+    <lastmod>2009-10-15T11:48:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-13-under-17-elite/</loc>
+    <lastmod>2009-10-13T11:10:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-12-coppa-zanelli-sconfitta-in-finale/</loc>
+    <lastmod>2009-10-12T12:52:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-07-under-14-torneo-ad-avio/</loc>
+    <lastmod>2009-10-07T11:53:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-06-coppa-zanelli-final-four/</loc>
+    <lastmod>2009-10-06T11:39:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-06-coppa-zanelli-cus-gardolo-70-76/</loc>
+    <lastmod>2009-10-06T10:10:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-05-serie-d-si-recupera-oggi-con-il-cus/</loc>
+    <lastmod>2009-10-05T08:37:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-10-01-under-17-open/</loc>
+    <lastmod>2009-10-01T10:27:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-09-28-inizio-campionati-company/</loc>
+    <lastmod>2009-09-28T19:27:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-09-28-coppa-zanelli-sconfitta-con-pergine/</loc>
+    <lastmod>2009-09-28T09:27:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-09-23-inizia-lavventura-della-serie-d/</loc>
+    <lastmod>2009-09-23T10:48:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-09-23-memorial-larentis/</loc>
+    <lastmod>2009-09-23T10:11:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-09-17-under-13-memorial-larentis/</loc>
+    <lastmod>2009-09-17T10:32:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-09-17-serie-d-coppa-zanelli/</loc>
+    <lastmod>2009-09-17T10:27:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-09-14-orari-giovanili/</loc>
+    <lastmod>2009-09-14T09:25:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-09-09-appuntamento-domenica-13-settembre-in-piazza-di-gardolo/</loc>
+    <lastmod>2009-09-09T15:35:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-09-02-serie-d-il-ritorno-di-pedrotti/</loc>
+    <lastmod>2009-09-02T11:07:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-09-01-under-17-e-iniziata-la-stagione/</loc>
+    <lastmod>2009-09-01T13:15:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-08-29-serie-d-prima-settimana/</loc>
+    <lastmod>2009-08-29T11:35:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-08-25-serie-d-inizio-preparazione/</loc>
+    <lastmod>2009-08-25T19:26:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-08-21-serie-d-proch-a-gardolo/</loc>
+    <lastmod>2009-08-21T14:48:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-08-21-pronta-la-squadra-degli-allenatori/</loc>
+    <lastmod>2009-08-21T06:41:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-08-20-serie-d-malaguti-e-il-secondo-rinforzo/</loc>
+    <lastmod>2009-08-20T20:29:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-08-10-primo-rinforzo-per-la-serie-d/</loc>
+    <lastmod>2009-08-10T14:54:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-08-07-serie-d-la-nuova-squadra/</loc>
+    <lastmod>2009-08-07T09:27:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-08-07-serie-d-lo-staff-per-la-nuova-stagione/</loc>
+    <lastmod>2009-08-07T08:28:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-08-07-novita-nel-settore-tecnico/</loc>
+    <lastmod>2009-08-07T08:04:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-07-30-simone-eglione-riconfermato-alla-guida-della-serie-d/</loc>
+    <lastmod>2009-07-30T11:37:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-07-30-il-centro-minibasket-alla-trentino-cup/</loc>
+    <lastmod>2009-07-30T11:28:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-07-18-la-nazionale-a-trento/</loc>
+    <lastmod>2009-07-18T13:12:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-07-15-3vs3-a-canova/</loc>
+    <lastmod>2009-07-15T10:26:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-07-08-congraturazioni-a-stefano-nardelli/</loc>
+    <lastmod>2009-07-08T15:33:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-07-08-elezioni-nuovo-direttivo/</loc>
+    <lastmod>2009-07-08T15:23:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-06-09-minibasket-risultati-aquilotti/</loc>
+    <lastmod>2009-06-09T12:23:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-06-01-torneo-dellamicizia-4-settimana/</loc>
+    <lastmod>2009-06-01T11:15:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-05-22-torneo-dellamicizia-3-settimana/</loc>
+    <lastmod>2009-05-22T10:43:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-05-18-torneo-dellamicizia-2-settimana/</loc>
+    <lastmod>2009-05-18T10:40:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-05-07-torneo-dellamicizia-1-settimana/</loc>
+    <lastmod>2009-05-07T10:19:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-04-30-torneo-dellamicizia-2/</loc>
+    <lastmod>2009-04-30T10:09:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-04-24-under-15-gardolo-pergine-89-68/</loc>
+    <lastmod>2009-04-24T10:36:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-04-16-harlem-globetrotters-a-bolzano/</loc>
+    <lastmod>2009-04-16T10:49:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-04-02-promozione-seconda-fase/</loc>
+    <lastmod>2009-04-02T10:49:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-03-30-torneo-join-the-game-2009-gara-da-tre-punti/</loc>
+    <lastmod>2009-03-30T10:58:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-03-30-under-15-fondo-gardolo-40-88/</loc>
+    <lastmod>2009-03-30T10:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-03-21-under-15-pergine-gardolo-86-74/</loc>
+    <lastmod>2009-03-21T10:32:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-03-16-under-15-gardolo-fondo-101-63/</loc>
+    <lastmod>2009-03-16T12:03:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-03-01-intervista-al-coach-simone-eglione/</loc>
+    <lastmod>2009-03-01T12:35:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-03-01-under-15-pergine-gardolo-81-98/</loc>
+    <lastmod>2009-03-01T12:32:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-02-22-under-15-gardolo-aquila-tn-59-65/</loc>
+    <lastmod>2009-02-22T12:19:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-02-10-torneo-di-carnevale/</loc>
+    <lastmod>2009-02-10T13:46:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-02-09-under-14-statistiche-punti/</loc>
+    <lastmod>2009-02-09T11:29:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-02-09-san-marco-rovereto-gardolo-61-97/</loc>
+    <lastmod>2009-02-09T11:18:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-02-02-serie-d-statistiche-ultime-2-partite/</loc>
+    <lastmod>2009-02-02T11:22:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-02-02-under-15-gardolo-villazzano-64-82/</loc>
+    <lastmod>2009-02-02T10:54:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-02-02-under-17-gardolo-villazzano-59-70/</loc>
+    <lastmod>2009-02-02T10:31:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-01-27-under-17-gardolo-europa-bz-127-44/</loc>
+    <lastmod>2009-01-27T11:45:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-01-22-basket-giovanile/</loc>
+    <lastmod>2009-01-22T12:21:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-01-18-under-15-trentino-gardolo-65-60/</loc>
+    <lastmod>2009-01-18T13:10:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-01-15-under-17-trentino-basket-gardolo-48-109/</loc>
+    <lastmod>2009-01-15T09:23:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2009-01-11-under-15-gardolo-riva-66-65/</loc>
+    <lastmod>2009-01-11T12:42:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-12-29-festa-di-natale/</loc>
+    <lastmod>2008-12-29T13:01:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-12-29-under-17-gardolo-riva-77-67/</loc>
+    <lastmod>2008-12-29T12:37:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-12-19-brindisi-di-natale/</loc>
+    <lastmod>2008-12-19T11:54:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-12-17-under-15-gardolo-pergine-91-60/</loc>
+    <lastmod>2008-12-17T08:26:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-12-13-vittoria-contro-audax-pergine-82-45/</loc>
+    <lastmod>2008-12-13T07:11:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-12-09-torneo-a-ravina-under-13/</loc>
+    <lastmod>2008-12-09T11:25:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-12-09-under-15-gardolo-rovereto-90-60/</loc>
+    <lastmod>2008-12-09T11:14:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-11-30-under-17-villazzano-b-gardolo-39-82/</loc>
+    <lastmod>2008-11-30T19:26:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-11-30-under-15-aquila-tn-gardolo-97-85/</loc>
+    <lastmod>2008-11-30T18:37:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-11-30-alla-scoperta-della-promozione-prima-puntata/</loc>
+    <lastmod>2008-11-30T13:07:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-11-24-under-17-gardolo-piani-94-40/</loc>
+    <lastmod>2008-11-24T12:54:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-11-15-under-15-gardolo-san-marco-rovereto-92-78/</loc>
+    <lastmod>2008-11-15T19:36:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-11-13-intervista-al-presidente/</loc>
+    <lastmod>2008-11-13T18:22:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-11-10-under-17-arco-gardolo-82-79/</loc>
+    <lastmod>2008-11-10T11:24:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-11-06-under-15-villazzano-gardolo-72-68/</loc>
+    <lastmod>2008-11-06T11:13:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-11-04-under-14-inizio-campionato/</loc>
+    <lastmod>2008-11-04T11:30:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-10-30-bfr-promotion-team-72-eurobrico-gardolo-84-2/</loc>
+    <lastmod>2008-10-30T12:58:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-10-30-presentazione-squadra-promozione-2008-2009/</loc>
+    <lastmod>2008-10-30T04:22:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-10-28-una-scuola-per-la-vita/</loc>
+    <lastmod>2008-10-28T20:56:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-10-27-under-17-gardolo-pergine-105-29/</loc>
+    <lastmod>2008-10-27T07:55:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-10-27-under-17-villazzano-gardolo-55-62/</loc>
+    <lastmod>2008-10-27T07:48:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-10-26-under-15-gardolo-trentino-basket-100-29/</loc>
+    <lastmod>2008-10-26T09:53:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-10-20-under-15-riva-gardolo-65-60/</loc>
+    <lastmod>2008-10-20T14:03:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-10-16-final-four-coppa-zanelli/</loc>
+    <lastmod>2008-10-16T12:37:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-10-11-serie-d-memorial-zanelli/</loc>
+    <lastmod>2008-10-11T16:11:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-09-27-serie-d-il-rooster/</loc>
+    <lastmod>2008-09-27T11:25:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-09-10-prova/</loc>
+    <lastmod>2008-09-10T13:54:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-09-03-inizia-la-nuova-stagione/</loc>
+    <lastmod>2008-09-03T09:29:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-04-21-torneo-dellamicizia/</loc>
+    <lastmod>2008-04-21T07:34:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-03-07-gita-sulla-neve/</loc>
+    <lastmod>2008-03-07T09:43:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-03-07-alberto-valer-in-nazionale/</loc>
+    <lastmod>2008-03-07T09:25:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-03-07-minibasket-98-99/</loc>
+    <lastmod>2008-03-07T09:13:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-02-24-lotta-salvezza/</loc>
+    <lastmod>2008-02-24T19:49:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-02-12-c2-poule-retrocessione/</loc>
+    <lastmod>2008-02-12T13:00:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-02-05-una-squadra-in-missione-play-off/</loc>
+    <lastmod>2008-02-05T17:43:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-01-30-under-19-fine-prima-fase/</loc>
+    <lastmod>2008-01-30T00:16:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-01-27-cambia-la-guida-della-c2/</loc>
+    <lastmod>2008-01-27T10:45:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2008-01-07-under-14-statistiche/</loc>
+    <lastmod>2008-01-07T12:05:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-12-25-buon-natale/</loc>
+    <lastmod>2007-12-25T09:22:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-12-17-under-15/</loc>
+    <lastmod>2007-12-17T09:05:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-12-13-il-punto-del-capitano/</loc>
+    <lastmod>2007-12-13T15:04:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-12-12-129/</loc>
+    <lastmod>2007-12-12T18:45:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-11-29-promozione-5andata/</loc>
+    <lastmod>2007-11-29T14:08:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-11-25-promozione-4andata/</loc>
+    <lastmod>2007-11-25T13:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-11-15-bc-gardolo-borgo-venezia-72-64/</loc>
+    <lastmod>2007-11-15T16:31:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-11-12-under-14-piani-bz-gardolo-26-94/</loc>
+    <lastmod>2007-11-12T11:04:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-11-12-promozione-3andata/</loc>
+    <lastmod>2007-11-12T08:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-11-02-bc-gardolo-b-san-vendemiano-57-61/</loc>
+    <lastmod>2007-11-02T14:12:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-30-promozione-2andata/</loc>
+    <lastmod>2007-10-30T09:42:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-26-promozione-1andata/</loc>
+    <lastmod>2007-10-26T11:39:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-25-under-14-inizia-la-nuova-stagione/</loc>
+    <lastmod>2007-10-25T08:35:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-22-sconfitta-a-padova/</loc>
+    <lastmod>2007-10-22T12:56:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-19-coppa-trentino-3giornata-gardolo-charly-53-64/</loc>
+    <lastmod>2007-10-19T12:10:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-17-premiazioni-squadre-2006-2007/</loc>
+    <lastmod>2007-10-17T12:22:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-14-prima-vittoria-per-i-ragazzi-di-dallenogare/</loc>
+    <lastmod>2007-10-14T08:20:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-09-esordio-vincente-in-casa/</loc>
+    <lastmod>2007-10-09T11:57:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-06-coppa-trentino-1giornata-gardolo-piani/</loc>
+    <lastmod>2007-10-06T12:45:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-02-brutta-partenza-a-conegliano/</loc>
+    <lastmod>2007-10-02T15:53:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-10-01-coppa-trentino/</loc>
+    <lastmod>2007-10-01T09:16:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-09-29-69/</loc>
+    <lastmod>2007-09-29T12:45:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/news/2007-09-18-benvenuti/</loc>
+    <lastmod>2007-09-18T17:06:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/cristiano-statico._index/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/marcello-frittura/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/polpetto-castoldo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/partite/squadra/promozione-19-20/</loc>
   </url>
   
   <url>
     <loc>http://example.org/partite/squadra/promozione-20-21/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/bernardino-fracalossi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/giocatori/qwerty._index/</loc>
   </url>
   
 </urlset>

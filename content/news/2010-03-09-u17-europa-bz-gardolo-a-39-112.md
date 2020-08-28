@@ -1,0 +1,5 @@
+---
+title: 'U17: Europa Bz-Gardolo A: 39-112'
+date: 2010-03-09T18:46:37+00:00
+---
+Nei primi 5 minuti i nostri ragazzi entravano in campo molto tranquilli e rilassati (come se fossero venuti in gita) e il punteggio era in equilibrio; iniziavano i primi cambi e per fortuna alcuni dei nostri erano più motivati di altri e riuscivano a scavare il primo gap della partita finendo il parziale avanti 28 a 14; a questo punto tutti i ragazzi finalmente entravano di nuovo convinti mettendoci la grinta e si andava a riposo con un cospicuo vantaggio 58 a 24; la partita proseguiva tranquilla negli ultimi 2 quarti e c’era spazio per tutti i ragazzi (stavolta era anche più semplice la rotazione dei giocatori essendo saliti a Bolzano solo in 10) , il risultato finale era 112 a 39 a nostro favore. Da segnalare l’ottima prestazione collettiva con 6 ragazzi andati in doppia cifra. Da annoverare anche l’ottima prestazione di Mattedovic come scorer. Mattedi G. 10, Amante 6, Trivarelli 13, Dallabetta 17, Martorano 15, Ambrosi, Bertoluzza 14, Segalla 8, Borgogno 14, Leitempergher 15. 3 punti: Mattedi G 1, Martorano 1, Borgogno 1.

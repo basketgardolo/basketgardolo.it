@@ -1,0 +1,5 @@
+---
+title: Under 17 B – primi due incontri
+date: 2009-10-26T11:15:41+00:00
+---
+PERGINE - GARDOLO 95-61 GARDOLO - FONDO 88-44 La neo-costituita squadra degli under 17 "B" in cui militano ragazzi in buona parte nati nel 1994 coadiuvati da un paio di 1993 e da alcuni 1995 ed inserita nel girone centro-nord comprendente due squadre di livello superiore (Villazzano e Pergine) ed una, come noi, in via di costruzione (Fondo) ha disputato le sue due prime partite ottenendo all'esordio una sconfitta contro Pergine e poi una confortante vittoria contro Fondo. Come tutte le squadre in via di assemblaggio si sono visti alti e bassi in entrambe le partite, alcune amnesie, soprattutto difensive e qualche errore di troppo in fase d'attacco. Per quanto riguarda i singoli, buone prestazioni di Coelli, Pederzolli e Guadagnini contro Pergine mentre contro Fondo si sono distinti Franzoi, Gambino, Consoli e Grassi. Da citare in ogni caso le buone prestazioni dei giocatori più giovani (1995) in entrambe le partite. Adesso ci aspetta un incontro proibitivo contro la "corazzata" Villazzano sabato prossimo ma sarà l'occasione per fare utile esperienza.

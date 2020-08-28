@@ -1,0 +1,5 @@
+---
+title: 'U17: Gardolo A-Charly Merano: 113-59'
+date: 2010-03-16T14:57:53+00:00
+---
+I nostri ragazzi entravano in campo, come spesso accade ultimamente, convinti probabilmente di aver già vinto la partita; ma si trovavano contro degli avversari molto ostici, più giovani, ma forti fisicamente e molto bravi anche tecnicamente. Il primo quarto ci vedeva comunque in vantaggio ma solo di 5 punti, 24 a 19, il secondo quarto continuava sulla stessa falsariga e ci vedeva in vantaggio 51 a 34; nello spogliatoio il coach Simone C. (che sostituiva il coach Rizzo, presente in panchina ma febbricitante) strigliava a dovere i ragazzi che nel terzo quarto rientravano aggressivi come non mai e il parziale del quarto era 40 a 16 a nostro favore; poi la partita filava via liscia nell’ultimo quarto e finiva 113 a 59. Anche in questa partita 6 giocatori in doppia cifra, e quasi tutti a canestro, a dimostrare ancora una volta un’ottima prestazione collettiva; da sottolineare l’ottima prestazione del piccolo “grosso” play Giulio che ha avuto un ottimo impatto sulla partita.

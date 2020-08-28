@@ -7,6 +7,8 @@ metaDataFormat = "yaml"
   "partite/squadre" = "partite/squadra"
   stagione = "stagioni"
   giocatore = "giocatori"
+  allenatore = "allenatori"
+
 [[menu.main]]
   name = "Home" 
   url = "/"
@@ -14,31 +16,25 @@ metaDataFormat = "yaml"
   weight = 1
 
 [[menu.main]]
-  name = "Partite"
-  url = "/partite/"
+  name = "La Società"
+  url = "/societa/"
   identifier = "fa fa-home"
   weight = 2
 
 [[menu.main]]
-  name = "Squadre"
-  url = "/squadre/"
+  name = "Le Squadre"
+  url = "/stagioni/2020-2021"
   identifier = "fa fa-newspaper-o"
   weight = 3
 
 [[menu.main]]
-  name = "Giocatori"
-  url = "/giocatori/"
+  name = "News"
+  url = "/news/"
   identifier = "fa fa-list"
   weight = 4
 
 [[menu.main]]
-  name = "Stagioni"
-  url = "/stagioni/"
+  name = "Iscrizione"
+  url = "/iscrizione"
   identifier = "fa fa-sitemap"
   weight = 5
-
-[[menu.main]]
-  name = "Iscrizione"
-  url = "/iscrizione/"
-  identifier = "fa fa-envelope-o"
-  weight = 6

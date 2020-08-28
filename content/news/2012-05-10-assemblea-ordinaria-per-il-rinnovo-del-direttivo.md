@@ -1,0 +1,5 @@
+---
+title: Assemblea ordinaria per il rinnovo del Direttivo
+date: 2012-05-10T17:08:19+00:00
+---
+Venerdì 25 Maggio alle ore 20.00 presso la sala don Motter (sopra l'oratorio di Gardolo), tutti i soci effettivi, i soci sostenitori ed i genitori degli atleti minorenni del Basket Club Gardolo 2000 sono invitati all'assemblea ordinaria per discutere e deliberare sul seguente ordine del giorno: \* Relazione morale del Presidente uscente \* Relazione finanziaria del Cassiere \* Bilancio dell'attività svolta nel periodo di mandato \* Votazione dei componenti del Consiglio Direttivo \* Nomina ufficiale dei membri eletti \* Festeggiamento termine stagione 2011/2012 \* Varie ed eventuali Vista l’importanza degli argomenti all’ordine del giorno, invitiamo caldamente tutti gli interessati a partecipare all’assemblea. RingraziandoVi fin d’ora per la Vostra presenza cogliamo l’occasione per salutarVi cordialmente. Basket Club Gardolo 2000 (Il Presidente Giuseppe Bosetti)

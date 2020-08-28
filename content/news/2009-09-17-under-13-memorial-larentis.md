@@ -1,0 +1,5 @@
+---
+title: Under 13 – Memorial Larentis
+date: 2009-09-17T10:32:56+00:00
+---
+La squadra \*\*Under 13\*\* parteciperà questo fine settimana al Torneo "Memorial Larentis", organizzato dall'Aquila Trento per ricordare Marcello giocatore di basket morto nel 2001, all’età di 21 anni, di leucemia. Due i giorni di torneo che vedrà la nostra squadra impegnata: sabato pomeriggio le partite del proprio girone e domenica semifinali e finali. Un buon test per iniziare la stagione! \*\*SABATO 19 SETTEMBRE 2009\*\* GIRONE A (palestra SANTA CHIARA) 14.30 PIANI BOLZANO vs \*\*GARDOLO\*\* 16.00 PONTEVECCHIO vs PIANI BOLZANO 17.30 PONTEVECCHIO vs \*\*GARDOLO\*\* GIRONE B (palestra MANAZZON) 14.45 AQUILA BASKET TRENTO vs BUSTER BASKET 16.15 BUSTER BASKET vs FELTRE 17.45 FELTRE vs AQUILA BASKET TRENTO \*\* DOMENICA 20 SETTEMBRE 2009\*\* Semifinali (palestra MANAZZON) 09.30 1^ Classificata girone A vs 2^ classificata girone B 11.15 1^ Classificata girone B vs 2^ classificata girone A Finali palestra MANAZZON 14.00 3^ Classificata girone A vs 3^ classificata girone B 15.45 Finale 3° - 4° posto 17.30 Finale 1° - 2° posto

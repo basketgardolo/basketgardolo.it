@@ -1,0 +1,5 @@
+---
+title: 'U13: Gardolo-Pallacanestro Trento: 51-93'
+date: 2010-01-11T13:18:59+00:00
+---
+Il Gardolo disputa una discreta prova contro i cugini di Trento. Al via della gara i gialloblu sono solo in 8, per assenze varie, ma riescono comunque a rimanere vicini nel punteggio agli avversari. A pochi minuti dall'intervallo sono addirittura a -2, ma nelle file ospiti rientrano i giocatori di maggior caratura tecnica e a metà partita il punteggio è di 43 a 28. Nel restante della gara il passivo aumenta, a causa di cali di concentrazione nei padroni di casa e della superiorità fisica e tecnica degli avversari. Complimenti a Cetto e Postal per i primi loro punti in una partita ufficiale e a Dallabetta per l'incredibile bottino di punti. Un bravo a chi continua a impegnarsi ad allenamento e un richiamo a quei ragazzi che mettono poca concentrazione negli allenamenti, dimenticandosi che il minibasket è finito. Bosetti, Dallabetta 28, Di Cataldo 9, Cetto 2, Pedri 6, Detone, Tonina 4, Postal 2. 3 punti: Dallabetta 1.

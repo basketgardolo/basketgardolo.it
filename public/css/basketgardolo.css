@@ -4,6 +4,27 @@
     border-bottom: solid 1px rgba(160, 160, 160, 0.3);
     border-right: solid 1px rgba(160, 160, 160, 0.3);
     border-left: solid 1px rgba(160, 160, 160, 0.3);
-    width: 90em;
     padding: 0 4.5em;
+}
+body header {
+    background-color: #20265a;
+    display: flex;
+    align-items: center;
+}
+.menu-links {
+    padding: 0 3rem;
+    color: #fff;
+}
+.menu-links:hover {
+    color: #fff;
+}
+
+body footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 21px;
+}
+
+body footer div {
+    padding: 4rem 2rem 2rem;
 }
