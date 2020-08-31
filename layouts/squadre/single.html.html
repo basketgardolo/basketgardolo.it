@@ -1,39 +1,72 @@
 {{ define "title" }}
-<h1>{{ .Title }}</h1>
+<h1 style="color: #20265a;">{{ .Title }}</h1>
 {{ with .Params.stagioni }}
 <p> Stagione <b>{{ . }}</b></p>
 {{ end }}
 {{ end }}
+
 {{ define "content" }}
-{{ with .Params.foto }}
-<img src="{{- .Params.foto -}}" alt="Foto di squadra {{ .Title }}" />
-{{ else }}
-<p>Nessuna foto di squadra... per ora ;)</p>
-{{end}}
-{{ $stagione := .Site.GetPage "/stagioni" .Params.stagioni }}
-<p>Stagione: <a href="{{ $stagione.RelPermalink }}">{{ $stagione.Title }}</a></p>
-<table>
-    <thead>
-        <th>Giocatore</th>
-        <th>Ruolo</th>
-    </thead>
-    <tbody>
-        {{ $k := .Site.GetPage "/giocatori" }}
-        {{ range .Params.Giocatori }}
-        {{ $page := $k.GetPage (. | urlize) }}
-        <tr>
-            <td><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></td>
-            <td>
-                {{with $page.Params.ruolo }}
-                {{ . }}
-                {{ else }}
-                -
-                {{end}}
-            </td>
-        </tr>
+<div class="row">
+    <div class="col">
+        <!-- FOTO -->
+
+        {{ with .Params.foto }}
+        <img class="img-fluid" src="{{- .Params.foto -}}" alt="Foto di squadra {{ .Title }}" />
+        {{ else }}
+        <div class="jumbotron border">Nessuna foto di squadra... per ora ;)</div>
+        {{end}}
+    </div>
+</div>
+<!-- ALLENATORI -->
+<div class="row">
+    <div class="col-12 col-md-6">
+        {{ with .Params.allenatori }}
+        <h3>Allenatori:</h3>
+        {{ $a := $.Site.GetPage "/allenatori" }}
+        {{ range . }}
+        {{ with $a.GetPage . }}
+        <p style="color: #20265a"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+        {{ else }}
+        <p style="color: #20265a">{{ . }}</p>
         {{ end }}
-    </tbody>
-</table>
-<a href="/partite/squadra/{{- .File.BaseFileName -}}">Partite di {{ .Title }}</a>
-{{ .Content }}
+        {{ end }}
+        {{ end }}
+    </div>
+    <div class="col-12 col-md-6">
+        <!-- GIOCATORI -->
+        <h3>Giocatori:</h3>
+        <table class="table table-striped">
+            <thead>
+                <th>Nome</th>
+                <th>Ruolo</th>
+            </thead>
+            <tbody>
+                {{ $k := .Site.GetPage "/giocatori" }}
+                {{ range .Params.Giocatori }}
+                {{ $page := $k.GetPage (. | urlize) }}
+                <tr>
+                    <td><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></td>
+                    <td>
+                        {{with $page.Params.ruolo }}
+                        {{ . }}
+                        {{ else }}
+                        -
+                        {{end}}
+                    </td>
+                </tr>
+                {{ end }}
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="row">
+    <div class="col">
+        {{ .Content }}
+    </div>
+</div>
+<div class="row">
+    <div class="col">
+        <a href="/partite/squadra/{{- .File.BaseFileName -}}">Partite di {{ .Title }}</a>
+    </div>
+</div>
 {{ end }}

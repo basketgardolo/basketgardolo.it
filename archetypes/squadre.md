@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: true
 foto: ""
 giocatori: []
-coach: []
+allenatori: []
 categorie:
 stagioni:
 ---

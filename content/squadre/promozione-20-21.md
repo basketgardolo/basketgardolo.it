@@ -7,6 +7,7 @@ giocatori:
   - Michael Jordan
 allenatori:
   - Steve Kerr
+  - Marco Rizzo Paoli
 categorie: promozione
 stagioni: 2020-2021
 ---

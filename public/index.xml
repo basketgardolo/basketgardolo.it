@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Gardolo - Piani Bolzano</title>
+      <link>http://example.org/partite/gardolo-piani-bolzano/</link>
+      <pubDate>Sat, 29 Aug 2020 00:30:16 +0200</pubDate>
+      
+      <guid>http://example.org/partite/gardolo-piani-bolzano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gardolo - Ravina</title>
       <link>http://example.org/partite/gardolo-ravina/</link>
       <pubDate>Sat, 29 Aug 2020 00:30:16 +0200</pubDate>
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>Promozione 19 20</title>
+      <title>Promozione</title>
       <link>http://example.org/squadre/promozione-19-20/</link>
       <pubDate>Sat, 29 Aug 2020 00:28:18 +0200</pubDate>
       
@@ -40,10 +49,10 @@
     
     <item>
       <title>Società</title>
-      <link>http://example.org/societa/</link>
+      <link>http://example.org/pagine/societa/</link>
       <pubDate>Fri, 28 Aug 2020 18:24:21 +0200</pubDate>
       
-      <guid>http://example.org/societa/</guid>
+      <guid>http://example.org/pagine/societa/</guid>
       <description>Società bla bla&amp;hellip;</description>
     </item>
     

@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/partite/gardolo-piani-bolzano/</loc>
+    <lastmod>2020-08-29T00:30:16+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/partite/gardolo-ravina/</loc>
     <lastmod>2020-08-29T00:30:16+02:00</lastmod>
   </url>
@@ -33,12 +38,12 @@
   </url>
   
   <url>
-    <loc>http://example.org/categorie/promozione/</loc>
+    <loc>http://example.org/squadre/promozione-19-20/</loc>
     <lastmod>2020-08-29T00:28:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/squadre/promozione-19-20/</loc>
+    <loc>http://example.org/categorie/promozione/</loc>
     <lastmod>2020-08-29T00:28:18+02:00</lastmod>
   </url>
   
@@ -63,7 +68,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/societa/</loc>
+    <loc>http://example.org/pagine/societa/</loc>
     <lastmod>2020-08-28T18:24:21+02:00</lastmod>
   </url>
   
