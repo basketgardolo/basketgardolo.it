@@ -18,13 +18,3 @@ body > header {
 .menu-links:hover {
     color: #fff;
 }
-
-body footer {
-    display: flex;
-    justify-content: space-between;
-    font-size: 21px;
-}
-
-body footer div {
-    padding: 4rem 2rem 2rem;
-}

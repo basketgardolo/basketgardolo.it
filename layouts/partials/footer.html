@@ -1,17 +1,49 @@
-<footer>
-  <div>
-    <p>Basket Club Gardolo 2000 ASD</p>
-    <p>via Soprasasso, 1 - Gardolo</p>
-    <p>38121 TRENTO</p>
-    <p>C.F. 96005430226</p>
-    <p>P.I. 01140120229</p>
-  </div>
-  <div>
-    <h3>Contatti:</h3>
-    <p>info@basketgardolo.it</p>
-    <p>335-5389483</p>
-  </div>
-</footer>
+<div class="container">
+  <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <div class="row">
+      <div class="col-12 col-md">
+        <img height="70" src="/images/logo_VINTAGE.png">
+        <ul class="list-unstyled">
+          <li>© 2020</li>
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Basket Club Gardolo 2000 ASD</h5>
+        <ul class="list-unstyled">
+          <li>via Soprasasso, 1 - Gardolo</li>
+          <li>38121 TRENTO</li>
+          <li>C.F. 96005430226</li>
+          <li>P.I. 01140120229</li>
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Contatti:</h5>
+        <ul class="list-unstyled">
+          <li>✉️ info@basketgardolo.it</li>
+          <li>📞 335-5389483</li>
+        </ul>
+      </div>
+      <div class="col-6 col-md">
+        <h5>Squadre:</h5>
+        {{ $anno := printf "%d-%d" now.Year (now.AddDate 1 0 0).Year }}
+        {{ if le now.Month 7 }}
+        {{ $anno = printf "%d-%d" (now.AddDate -1 0 0).Year now.Year }}
+        {{ end }}
+        <ul class="list-unstyled">
+          {{ $squadre := .Site.GetPage "/squadre"}}
+          {{ range $squadre.Pages }}
+          <li>
+            <a class="text-muted" href="{{.RelPermalink}}">
+              {{ .Title }}
+            </a>
+          </li>
+          <!--{{ printf "%#v" . }}-->
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </footer>
+</div>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <!-- jQuery plugin per mostrare il carousel -->
