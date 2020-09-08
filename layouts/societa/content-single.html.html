@@ -1,0 +1,18 @@
+<div class="container-fluid">
+    <ul class="nav nav-tabs" id="societa-tabs" role="tablist">
+        {{ range .Pages}}
+        <li class="nav-item" role="presentation">
+            <a class="nav-link" id="{{ .Title | urlize }}-tab" href="#{{ .Title | urlize }}" data-toggle="tab"
+                role="tab" aria-controls="{{ .Title | urlize }}" aria-selected="false">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+    <div class="tab-content">
+        {{ range .Pages }}
+        <div class="tab-pane fade" id="{{ .Title | urlize }}" role="tabpanel"
+            aria-labelledby="{{ .Title | urlize }}-tab">
+            {{ .Content }}
+        </div>
+        {{ end }}
+    </div>
+</div>
