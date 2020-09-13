@@ -1,3 +1,3 @@
 ---
-title: societa
+title: Società
 ---

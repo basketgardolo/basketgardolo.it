@@ -18,3 +18,9 @@ body > header {
 .menu-links:hover {
     color: #fff;
 }
+.nav-tabs {
+    margin-bottom: 1rem;
+}
+.title h1 {
+    margin: 2rem 0;
+}
