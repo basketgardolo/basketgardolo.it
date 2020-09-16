@@ -8,8 +8,8 @@
             <div class="col p-4 d-flex flex-column position-static">
                 <h3 class="mb-0">{{ .Title }}</h3>
                 <div class="mb-1 text-muted">{{ .Date.Day }} {{ index $month_names $month }} {{ .Date.Year }}</div>
-                <p class="card-text mb-auto">{{ .Content | safeHTML | truncate 70 }}</p>
-                <a href="{{ .RelPermalink }}" class="stretched-link">Continue reading</a>
+                <div class="card-text mb-auto">{{ .Summary | truncate 70 }}</div>
+                <a href="{{ .RelPermalink }}" class="stretched-link">Continua a leggere</a>
             </div>
             <div class="col-auto d-none d-lg-block">
                 <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,11 @@
     </div>
     {{ end }}
 </div>
-{{ if .Paginator.HasPrev }}
-<a href="{{ .Paginator.Prev.URL }}">Articoli più recenti</a>
-{{ end }}
-{{ if .Paginator.HasNext }}
-<a href="{{ .Paginator.Next.URL }}">Articoli più vecchi</a>
-{{ end }}
+<nav class="blog-pagination">
+    {{ if .Paginator.HasPrev }}
+    <a class="btn btn-outline-primary" href="{{ .Paginator.Prev.URL }}">Articoli più recenti</a>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <a class="btn btn-outline-primary" href="{{ .Paginator.Next.URL }}">Articoli più vecchi</a>
+    {{ end }}
+</nav>
