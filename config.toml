@@ -34,7 +34,7 @@ metaDataFormat = "yaml"
   weight = 4
 
 [[menu.main]]
-  name = "Iscrizione"
-  url = "/iscrizione"
+  name = "Calendari"
+  url = "/calendari"
   identifier = "fa fa-sitemap"
   weight = 5
