@@ -25,6 +25,7 @@
 				</ol>
 				<div class="carousel-inner">
 					<div class="carousel-item active">
+						{{/*  TODO range del carosello  */}}
 						{{ range last 1 (where .Site.RegularPages "Type" "partite") }}
 						<h3>{{ .Param "categoria" | title}}</h3>
 						<div>
@@ -144,6 +145,20 @@
 								News
 							</td>
 						</tr>
+						<tr>
+							<td>
+								Scopri le nostre squadre, a partire dai pulcini del minibasket fino ad arrivare ai giganti delle serie D
+							</td>
+							<td>
+								Incostra lo staff tecnico di tutte le nostre squadre
+							</td>
+							<td>
+								Non perdere nemmeno una partita al Palazzetto Trento Nord oppure in trasferta: scopri i nostri calendari
+							</td>
+							<td>
+								Rimani aggiornato con le ultima novità sulla società!
+							</td>
+						</tr>
 					</table>
 				</div>
 			</div>
@@ -174,5 +189,4 @@
 		</div>
 	</div>
 </div>
-<!--{{ partial "sidebar" . }}-->
 {{ partial "footer" . }}
