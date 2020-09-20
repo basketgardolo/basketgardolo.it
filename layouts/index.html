@@ -1,10 +1,16 @@
 {{ partial "header" . }}
 {{ $.Scratch.Set "shareNav" true }}
 {{ partial "navbar" . }}
-{{ .Render "sponsors" }}
+
 <!-- Main -->
 <div id="main" class="container-fluid">
 	<div class="row" style="padding: 1%;">
+		{{/*  TODO sistemare immagine a larghezza pagina e cambiare immagine  */}}
+		<img src="/images/copertina_statica.jpg" alt="Copertina">
+	</div>
+	<div class="row" style="padding: 1%;">
+		<hr style="background-color: #20265a;" /><p>&nbsp;</p>
+		{{/* TODO: Temporaneamente al posto dei "risultati" delle partite ci va messo il form di iscrizione online, almeno fino al 30/09  */}}
 		<h1>Ultime partite</h1>
 		{{ range last 3 (where .Site.RegularPages "Type" "partite") }}
 		<div class="col-sm-3">
@@ -38,6 +44,7 @@
 			</div>
 		</div>
 		{{ end }}
+	
 		<div class="col-sm-3" style="text-align: right;">
 			<div class="row">
 				<table>
@@ -71,18 +78,23 @@
 					</tr>
 				</table>
 			</div>
-			<div class="row">
-				<p>
-					Seguici sui social
-				</p>
-				<p>
-					Facebook: @basketgardolo
-				</p>
-				<p>
-					Instagram: @bcgardolo2000
-				</p>
-			</div>
 		</div>
+	</div>
+	<div class="row" style="padding: 1%;">
+		<hr style="background-color: #20265a;" /><p>&nbsp;</p>
+		<p>
+			Seguici sui social
+		</p>
+		<p>
+			Facebook: @basketgardolo
+		</p>
+		<p>
+			Instagram: @bcgardolo2000
+		</p>
+	</div>
+	<div class="row" style="padding: 1%;">
+		<hr style="background-color: #20265a;" /><p>&nbsp;</p>
+		{{ .Render "sponsors" }}
 	</div>
 </div>
 <!--{{ partial "sidebar" . }}-->
