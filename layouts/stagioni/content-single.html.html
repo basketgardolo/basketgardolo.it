@@ -1,1 +1,6 @@
 <h1>Squadre della stagione {{ .Params.anno }}</h1>
+<div class="row mb-2">
+    {{ range .Pages }}
+    {{ .Render "content-single" }}
+    {{ end }}
+</div>

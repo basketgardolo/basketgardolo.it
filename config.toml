@@ -38,3 +38,6 @@ metaDataFormat = "yaml"
   url = "/calendari"
   identifier = "fa fa-sitemap"
   weight = 5
+
+[outputs]
+  section = ["HTML", "JSON"]

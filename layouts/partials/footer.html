@@ -38,7 +38,6 @@
               {{ .Title }}
             </a>
           </li>
-          <!--{{ printf "%#v" . }}-->
           {{ end }}
         </ul>
       </div>
@@ -65,6 +64,19 @@
     });
   });
 </script>
+{{ with .Scratch.Get "calendar" }}
+<script src='/js/moment.min.js'></script>
+<script src='/js/jquery-ui.custom.min.js'></script>
+<script src='/js/fullcalendar.min.js'></script>
+<script>
+  $(document).ready(function () {
+    console.log("Ready...");
+    $('#calendar').fullCalendar({
+      events: '/partite/index.json'
+    })
+  });
+</script>
+{{ end }}
 </body>
 
 </html>

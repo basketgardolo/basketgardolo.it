@@ -1,261 +1,74 @@
-<!DOCTYPE html>
-<html lang="it">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Allenatori</title>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-        <link rel="stylesheet" href="static/css/basketgardolo.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-        <style>
-
-            header {
-                padding: 10px;
-                text-align: right;
-                background-color: #20265a;
-                color: white;
-            }
-            
-            footer {
-            padding: 10px;
-            background-color: #20265a;
-            color: white;
-            }
-            
-        </style>
-    </head>
-    <body>
-        <!-- HEADER: START -->
-        <header>
-            <div class="jumbotron text-center" style="background-color: #20265a;">
-                <div class="col-sm-3">
-                    <a href="index.html">
-                        <img src="/basketgardolo.it/static/images/logo_VECCHIO.png" alt="Logo Gardolo">
-                    </a>
-                </div>
-                <div class="col-sm-2">
-                    <h3><a href="societa.html" style="color: white;">La Società</a></h3>
-                </div>
-                <div class="col-sm-2">
-                    <div id="accordionSquadre">
-    
-                        <div class="card">
-                          <div class="card-header">
-                            <a class="card-link" data-toggle="collapse" href="#squadre" style="color: white;">
-                                <h3>Le Squadre</h3>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="squadre" class="collapse" data-parent="#accordionSquadre">
-                            <div class="card-body">
-                                <div class="container-fluid" style="background-color: #20265a;">
-                                    <div class="row" style="text-align: center;">
-                                        <table>
-                                            <tr>
-                                                <td>
-                                                    <a href="#" style="color: white;">Serie D</a></h3>
-                                                </td>
-                                                <td>
-                                                    U18A
-                                                </td>
-                                                <td>
-                                                    Esordienti
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    Promozione
-                                                </td>
-                                                <td>
-                                                    U18B
-                                                </td>
-                                                <td>
-                                                    Aquilotti
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <!-- VUOTA -->
-                                                </td>
-                                                <td>
-                                                    U16
-                                                </td>
-                                                <td>
-                                                    Scoiattoli
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <!-- VUOTA -->
-                                                </td>
-                                                <td>
-                                                    U13
-                                                </td>
-                                                <td>
-                                                    Pulcini
-                                                </td>
-                                            </tr>
-                                        </table>
-                                        <!-- più corretta ma da sistemare
-                                        <div class="col-sm-4">
-                                            <p>Serie D</p>
-                                            <p>Promozione</p>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <p>U18A</p>
-                                            <p>U18B</p>
-                                            <p>U16</p>
-                                            <p>U13</p>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <p>Esordienti</p>
-                                            <p>Aquilotti</p>
-                                            <p>Scoiattoli</p>
-                                            <p>Pulcini</p>
-                                        </div>
-                                        -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-    
-                    <!-- <h3><a href="#" style="color: white;">Le Squadre</a></h3>-->
-                </div>
-                <div class="col-sm-2">
-                    <h3><a href="allenatori.html" style="color: white;">Allenatori</a></h3>
-                </div>
-                <div class="col-sm-1">
-                    <h3><a href="#" style="color: white;">News</a></h3>
-                </div>
-                <div class="col-sm-2">
-                    <h3><a href="iscrizione.html" style="color: white;">Iscrizione</a></h3>
-                </div>
-            </div>
-    
-        </header>
-        <!-- SPONSORS -->
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div class="bxslider">
-                        {{ range ((.Site.GetPage "sponsors").Resources.ByType "page") }}
-                        <a href="{{ .Params.web }}"><img src="{{ .Params.logo }}" title="{{ .Title }}"></a>
-                        {{ end }}
-                    </div>
-                </div>
-            </div>
+<div class="container-fluid">
+    <div class="col-sm-8 col-sm-offset-2" style="align-content: center;">
+        <div class="row">
+            <h1 style="color: #20265a; text-align: center;"><strong>Serie D</strong></h1>
+            <h3 style="color: #20265a"><strong>Allenatore:</strong> Fabrizio Guastamacchia</h3>
+            <h3 style="color: #20265a"><strong>Assistente:</strong> Marco Paoli</h3>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Giocatore</th>
+                        <th>PTS</th>
+                        <th>G</th>
+                        <th>PPG</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>5</td>
+                        <td>
+                            <canvas id="CanvasPromo" width="20" height="30" style="border:1px solid #000000;"></canvas>
+                            John Doe
+                        </td>
+                        <td>51</td>
+                        <td>10</td>
+                        <td>5.1</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>
+                            <canvas id="CanvasPromo" width="20" height="30" style="border:1px solid #000000;"></canvas>
+                            Marion Moe
+                        </td>
+                        <td>15</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>
+                            <canvas id="CanvasPromo" width="20" height="30" style="border:1px solid #000000;"></canvas>
+                            July Dooley
+                        </td>
+                        <td>100</td>
+                        <td>10</td>
+                        <td>10</td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
-            
-        <!-- HEADER: END -->
-    
-        <!-- MAIN: START -->
-
-        <div class="container-fluid">
-            <div class="col-sm-2"></div>
-            <div class="col-sm-8" style="align-content: center;">
-                <div class="row">
-                    <h1 style="color: #20265a; text-align: center;"><strong>Serie D</strong></h1>
-                    <h3 style="color: #20265a"><strong>Allenatore:</strong> Fabrizio Guastamacchia</h3> 
-                    <h3 style="color: #20265a"><strong>Assistente:</strong> Marco Paoli</h3>
-                    <table class="table table-hover">
-                        <thead>
-                        <tr>
-                            <th>#</th>
-                            <th>Giocatore</th>
-                            <th>PTS</th>
-                            <th>G</th>
-                            <th>PPG</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>5</td>
-                                <td>
-                                    <canvas id="CanvasPromo" width="20" height="30" style="border:1px solid #000000;"></canvas>
-                                    John Doe
-                                </td>
-                                <td>51</td>
-                                <td>10</td>
-                                <td>5.1</td>
-                            </tr>
-                            <tr>
-                                <td>1</td>
-                                <td>
-                                    <canvas id="CanvasPromo" width="20" height="30" style="border:1px solid #000000;"></canvas>
-                                    Marion Moe
-                                </td>
-                                <td>15</td>
-                                <td>3</td>
-                                <td>5</td>
-                            </tr>
-                            <tr>
-                                <td>3</td>
-                                <td>
-                                    <canvas id="CanvasPromo" width="20" height="30" style="border:1px solid #000000;"></canvas>
-                                    July Dooley
-                                </td>
-                                <td>100</td>
-                                <td>10</td>
-                                <td>10</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-            <div class="col-sm-2"></div>
-            <div class="col-sm-12">
-                <div class="row">
-                    <!-- TODO: CAROSELLO MINIATURE FOTOGRAFIE GIOCATORI -->
-                    <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
-                    <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
-                    <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
-                    <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
-                    <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
-                    <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
-                    <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <h1 style="color: #20265a; text-align: center;"><strong>Ultima partita</strong></h1>
-            </div>
-            <div class="col-sm-4">
-                <h1 style="color: #20265a; text-align: center;"><strong>Prossime partite</strong></h1>
-            </div>
-            <div class="col-sm-4">
-                <h1 style="color: #20265a; text-align: center;"><strong>Partite passate</strong></h1>
-            </div>
+    </div>
+    <div class="col-sm-2"></div>
+    <div class="col-sm-12">
+        <div class="row">
+            <!-- TODO: CAROSELLO MINIATURE FOTOGRAFIE GIOCATORI -->
+            <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
+            <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
+            <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
+            <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
+            <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
+            <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
+            <canvas id="CanvasPromo" width="200" height="200" style="border:1px solid #000000;"></canvas>
         </div>
-
-        <!-- MAIN: END -->
-
-        <!-- FOOTER: START -->
-        <footer>
-            <div class="jumbotron text-center" style="background-color: #20265a;">
-                <div class="col-sm-5" style="text-align: left">
-                    <p>Basket Club Gardolo 2000 ASD</p>
-                    <p>via Soprasasso, 1 - Gardolo</p>
-                    <p>38121 TRENTO</p>
-                    <p>C.F. 96005430226</p>
-                    <p>P.I. 01140120229</p>
-                </div>
-                <div class="col-sm-3">
-                    
-                </div>
-                <div class="col-sm-4" style="text-align: right">
-                    <p><h3>Contatti:</h3></p>
-                    <p>info@basketgardolo.it</p>
-                    <p>335-5389483</p>
-                </div>
-            </div>
-            
-
-            <div class="row">
-                
-                
-            </div>
-        </footer>
-        <!-- FOOTER: END -->
-    </body>
-</html>
+    </div>
+    <div class="col-sm-4">
+        <h1 style="color: #20265a; text-align: center;"><strong>Ultima partita</strong></h1>
+    </div>
+    <div class="col-sm-4">
+        <h1 style="color: #20265a; text-align: center;"><strong>Prossime partite</strong></h1>
+    </div>
+    <div class="col-sm-4">
+        <h1 style="color: #20265a; text-align: center;"><strong>Partite passate</strong></h1>
+    </div>
+</div>
