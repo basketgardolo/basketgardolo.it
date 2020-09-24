@@ -31,24 +31,14 @@ fields:
       path: 
   label: Stagione
 - name: giocatori
-  type: field_group_list
-  fields:
-  - name: giocatore
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: pages
-        section: giocatori-6d82a491-4732-46c0-a2b6-22600713ec2a
-        file: 
-        path: 
-    label: Giocatore
+  type: list
   config:
+    use_select: true
     min: 
     max: 
-    labelField: 
+    source:
+      type: pages
+      section: giocatori-6d82a491-4732-46c0-a2b6-22600713ec2a
   label: Giocatori
 pages:
 - content/squadre/under-38.md
