@@ -12,10 +12,6 @@ fields:
 - type: text
   name: foto
   label: foto
-- name: giocatori
-  type: tag_list
-  default: []
-  label: Giocatori
 - type: list
   name: coach
   label: coach
@@ -34,5 +30,25 @@ fields:
       file: content/stagioni/2020-2021.md
       path: 
   label: Stagione
+- name: giocatori
+  type: field_group_list
+  fields:
+  - name: giocatore
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: giocatori-6d82a491-4732-46c0-a2b6-22600713ec2a
+        file: 
+        path: 
+    label: Giocatore
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Giocatori
 pages:
 - content/squadre/under-38.md
