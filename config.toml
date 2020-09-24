@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.basketgardolo.it/"
 languageCode = "it"
 title = "Basket Gardolo"
 metaDataFormat = "yaml"
