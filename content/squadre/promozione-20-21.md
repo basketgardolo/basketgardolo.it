@@ -6,8 +6,7 @@ giocatori:
 - giocatori/jorge-gutierrez/_index.md
 - giocatori/cristian-stenico/_index.md
 allenatori:
-- Steve Kerr
-- Marco Rizzo Paoli
+- allenatori/marco-rizzo-paoli/_index.md
 categorie: promozione
 stagioni: 2020-2021
 

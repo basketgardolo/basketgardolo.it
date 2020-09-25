@@ -8,10 +8,15 @@
 {{ define "content" }}
 <p>Squadre:</p>
 <ul>
-    {{ range .Data.Pages }}
+    {{ $title := printf "%s%s" ( .URL | relURL ) "_index.md" }}
+    {{ with $.Site.GetPage "squadre" }}
+    {{ range .Pages }}
+    {{ if in .Params.Giocatori (strings.TrimLeft "/" $title) }}
     <li>
         <a href="{{ .RelPermalink }}">{{ .Title }} ({{ .Params.stagioni }})</a>
     </li>
+    {{ end }}
+    {{ end }}
     {{ end }}
 </ul>
 {{ end }}

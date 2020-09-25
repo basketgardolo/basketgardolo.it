@@ -22,10 +22,10 @@
     <div class="col-12 col-md-6">
         {{ with .Params.allenatori }}
         <h3>Allenatori:</h3>
-        {{ $a := $.Site.GetPage "/allenatori" }}
         {{ range . }}
-        {{ with $a.GetPage . }}
-        <p style="color: #20265a"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+        {{ $allenatore := $.Site.GetPage ( replace . "_index.md" "" ) }}
+        {{ with $allenatore }}
+        <p style="color: #20265a"><a href="{{ $allenatore.RelPermalink }}">{{ $allenatore.Title }}</a></p>
         {{ else }}
         <p style="color: #20265a">{{ . }}</p>
         {{ end }}
@@ -41,19 +41,20 @@
                 <th>Ruolo</th>
             </thead>
             <tbody>
-                {{ $k := .Site.GetPage "/giocatori" }}
                 {{ range .Params.Giocatori }}
-                {{ $page := $k.GetPage (. | urlize) }}
+                {{ $giocatore := $.Site.GetPage ( path.Dir . ) }}
+                {{ with $giocatore }}
                 <tr>
-                    <td><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></td>
+                    <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
                     <td>
-                        {{with $page.Params.ruolo }}
+                        {{with .Params.ruolo }}
                         {{ . }}
                         {{ else }}
                         -
                         {{end}}
                     </td>
                 </tr>
+                {{ end }}
                 {{ end }}
             </tbody>
         </table>
