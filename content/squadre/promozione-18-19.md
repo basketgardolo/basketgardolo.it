@@ -1,7 +1,7 @@
 ---
 title: Promozione
 date: 2020-08-29T00:28:18.000+02:00
-foto: ''
+foto: /images/squadre/promozione-18-19.jpg
 giocatori:
 - giocatori/fauri-stefano/_index.md
 - giocatori/segalla-simone/_index.md
@@ -19,7 +19,9 @@ giocatori:
 - giocatori/dalpiaz-luca/_index.md
 - giocatori/spagnolo-thomas/_index.md
 - giocatori/brugnara-elia/_index.md
-coach: []
+allenatori:
+- allenatori/zatelli-claudio/_index.md
+- allenatori/conti-nicola/_index.md
 categorie: promozione
 stagioni: 2018-2019
 

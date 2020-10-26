@@ -1,7 +1,7 @@
 ---
 title: Promozione
 date: 2020-08-29T00:28:18.000+02:00
-foto: ''
+foto: ""
 giocatori:
 - giocatori/bosetti-tommaso/_index.md
 - giocatori/bosetti-michele/_index.md
@@ -21,8 +21,8 @@ giocatori:
 - giocatori/leonardi-matteo/_index.md
 - giocatori/spagnolo-thomas/_index.md
 - giocatori/brugnara-elia/_index.md
-coach: []
+allenatori:
+- allenatori/zatelli-claudio/_index.md
 categorie: promozione
 stagioni: 2019-2020
-
 ---

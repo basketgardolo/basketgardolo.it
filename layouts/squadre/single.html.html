@@ -9,31 +9,42 @@
 <div class="row">
     <div class="col">
         <!-- FOTO -->
-
         {{ with .Params.foto }}
-        <img class="img-fluid" src="{{- .Params.foto -}}" alt="Foto di squadra {{ .Title }}" />
+        <img class="img-fluid" src="{{- . -}}" alt="Foto di squadra {{ $.Title }}" />
         {{ else }}
         <div class="jumbotron border">Nessuna foto di squadra... per ora ;)</div>
         {{end}}
     </div>
 </div>
-<!-- ALLENATORI -->
 <div class="row">
     <div class="col-12 col-md-6">
+        <!-- ALLENATORI -->
         {{ with .Params.allenatori }}
         <h3>Allenatori:</h3>
-        {{ range . }}
-        {{ $allenatore := $.Site.GetPage ( replace . "_index.md" "" ) }}
-        {{ with $allenatore }}
-        <p style="color: #20265a"><a href="{{ $allenatore.RelPermalink }}">{{ $allenatore.Title }}</a></p>
-        {{ else }}
-        <p style="color: #20265a">{{ . }}</p>
-        {{ end }}
-        {{ end }}
+        <table class="table table-striped">
+            <thead>
+                <th>Nome</th>
+            </thead>
+            <tbody>
+                {{ range . }}
+                <tr>
+                    <td>
+                        {{ $allenatore := $.Site.GetPage ( replace . "_index.md" "" ) }}
+                        {{ with $allenatore }}
+                        <a href="{{ $allenatore.RelPermalink }}">{{ $allenatore.Title }}</a>
+                        {{ else }}
+                        {{ . }}
+                        {{ end }}
+                    </td>
+                </tr>
+                {{ end }}
+            </tbody>
+        </table>
         {{ end }}
     </div>
     <div class="col-12 col-md-6">
         <!-- GIOCATORI -->
+        {{ with .Params.giocatori }}
         <h3>Giocatori:</h3>
         <table class="table table-striped">
             <thead>
@@ -41,7 +52,7 @@
                 <th>Ruolo</th>
             </thead>
             <tbody>
-                {{ range .Params.Giocatori }}
+                {{ range . }}
                 {{ $giocatore := $.Site.GetPage ( path.Dir . ) }}
                 {{ with $giocatore }}
                 <tr>
@@ -58,6 +69,7 @@
                 {{ end }}
             </tbody>
         </table>
+        {{ end }}
     </div>
 </div>
 <div class="row">

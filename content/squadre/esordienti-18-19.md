@@ -1,7 +1,7 @@
 ---
 title: "Esordienti"
 date: 2020-09-26T17:36:42+02:00
-foto: ""
+foto: /images/squadre/esordienti-18-19.jpg
 giocatori:
 - giocatori/chiogna-michelangelo/_index.md
 - giocatori/chiste-matteo/_index.md
@@ -16,7 +16,9 @@ giocatori:
 - giocatori/donadoni-andrea/_index.md
 - giocatori/debortoli-federico/_index.md
 - giocatori/dolzani-gabriele/_index.md
-allenatori: []
+allenatori:
+- allenatori/prezzi-stefano/_index.md
+- allenatori/bosetti-tommaso/_index.md
 categorie: esordienti
 stagioni: 2018-2019
 ---

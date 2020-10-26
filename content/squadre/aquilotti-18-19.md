@@ -1,7 +1,7 @@
 ---
 title: "Aquilotti"
 date: 2020-09-26T17:36:42+02:00
-foto: ""
+foto: "/images/squadre/aquilotti-18-19.jpg"
 giocatori:
 - giocatori/bortolin-thomas/_index.md
 - giocatori/butturini-teodoro/_index.md
@@ -24,7 +24,9 @@ giocatori:
 - giocatori/tabarelli-mattia/_index.md
 - giocatori/tomasi-lorenzo/_index.md
 - giocatori/bejaoui-lilia/_index.md
-allenatori: []
+allenatori:
+- allenatori/prezzi-stefano/_index.md
+- allenatori/bosetti-tommaso/_index.md
 categorie: aquilotti
 stagioni: 2018-2019
 ---

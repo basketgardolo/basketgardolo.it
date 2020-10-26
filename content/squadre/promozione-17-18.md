@@ -1,7 +1,7 @@
 ---
 title: Promozione
 date: 2020-08-29T00:28:18.000+02:00
-foto: ''
+foto: /images/squadre/promozione-17-18.jpg
 giocatori:
 - giocatori/bosetti-tommaso/_index.md
 - giocatori/baldo-mirko/_index.md
@@ -21,8 +21,10 @@ giocatori:
 - giocatori/spagnolo-thomas/_index.md
 - giocatori/perini-alvise/_index.md
 - giocatori/brugnara-elia/_index.md
-coach: []
+allenatori:
+- allenatori/gozzer-nicola/_index.md
+- allenatori/zatelli-claudio/_index.md
+- allenatori/gilli-diego/_index.md
 categorie: promozione
 stagioni: 2017-2018
-
 ---

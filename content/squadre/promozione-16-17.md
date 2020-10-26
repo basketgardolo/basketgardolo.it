@@ -1,7 +1,7 @@
 ---
 title: Promozione
 date: 2020-08-29T00:28:18.000+02:00
-foto: ''
+foto: /images/squadre/promozione-16-17.jpg
 giocatori:
 - giocatori/baldo-mirko/_index.md
 - giocatori/bosetti-michele/_index.md
@@ -17,7 +17,8 @@ giocatori:
 - giocatori/malfer-michael/_index.md
 - giocatori/perini-alvise/_index.md
 - giocatori/testoni-mirko/_index.md
-coach: []
+allenatori:
+- allenatori/mattivi-roberto/_index.md
 categorie: promozione
 stagioni: 2016-2017
 ---
