@@ -1,7 +1,7 @@
 ---
 title: "Serie D"
 date: 2020-07-11T10:32:29+02:00
-foto: ""
+foto: /images/squadre/serie-d-17-18.jpg
 giocatori:
 - giocatori/osello-damiano/_index.md
 - giocatori/scagliarini-giovanni/_index.md
@@ -18,7 +18,8 @@ giocatori:
 - giocatori/gambino-lorenzo/_index.md
 - giocatori/naidon-giacomo/_index.md
 allenatori:
-  - marco-rizzo-paoli
+- allenatori/caracristi-luca/_index.md
+- allenatori/leonardelli-ivo-jose/_index.md
 categorie: serie-d
 stagioni: 2017-2018
 ---

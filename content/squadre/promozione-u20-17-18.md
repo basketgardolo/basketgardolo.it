@@ -13,7 +13,9 @@ giocatori:
 - giocatori/panizza-luca/_index.md
 - giocatori/rossi-luca/_index.md
 - giocatori/felicetti-marco/_index.md
-allenatori: []
+allenatori:
+- allenatori/mattivi-roberto/_index.md
+- allenatori/bertotti-nicola/_index.md
 categorie: promozione
 stagioni: 2017-2018
 

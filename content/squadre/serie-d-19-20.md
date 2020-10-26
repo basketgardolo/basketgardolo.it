@@ -17,7 +17,8 @@ giocatori:
 - giocatori/gambino-lorenzo/_index.md
 - giocatori/bevilacqua-federico/_index.md
 allenatori:
-  - marco-rizzo-paoli
+- allenatori/guastamacchia-fabrizio/_index.md
+- allenatori/marco-rizzo-paoli/_index.md
 categorie: serie-d
 stagioni: 2019-2020
 ---

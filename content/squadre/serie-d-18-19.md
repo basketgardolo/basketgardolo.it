@@ -1,7 +1,7 @@
 ---
 title: "Serie D"
 date: 2020-07-11T10:32:29+02:00
-foto: ""
+foto: /images/squadre/serie-d-18-19.jpg
 giocatori:
 - giocatori/bailoni-federico/_index.md
 - giocatori/savoia-mauro/_index.md
@@ -16,7 +16,8 @@ giocatori:
 - giocatori/perenzoni-stefano/_index.md
 - giocatori/gambino-lorenzo/_index.md
 allenatori:
-  - marco-rizzo-paoli
+- allenatori/bertotti-nicola/_index.md
+- allenatori/marco-rizzo-paoli/_index.md
 categorie: serie-d
 stagioni: 2018-2019
 ---
