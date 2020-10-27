@@ -60,7 +60,3 @@ GAMBINO
 
 **Commento:**  
 Brutta partita dei gardolotti, che giocano con intensità solo pochi minuti del match buoni per il 25-6 del primo parziale. La distanza tra le due formazioni rimane sempre intorno ai 20 punti, tranne che nei minuti finale in cui i gialloblu spengono la luce e incassano un pesante break; perfortuna Merano non riesce a raggiungerci e portiamo a casa, soffrendo più del dovuto, la vittoria. Partita quindi con troppi errori in attacco, poca attenzione difensiva, fretta e troppi giocatori che non hanno messo in campo il loro potenziale.
-
-[Pagina Under 17 >](http://www.basketgardolo.it/under-17)
-
-[Partite Under 17 >](http://www.basketgardolo.it/?tag=under-17&cat=11)

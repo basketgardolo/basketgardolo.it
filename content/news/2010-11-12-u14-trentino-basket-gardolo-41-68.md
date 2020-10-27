@@ -56,7 +56,3 @@ TORRESANI MATTEO
 
 **Commento:**  
 Finalmente è arrivata la prima vittoria anche dei nostri under 14, complimenti a tutti i ragazzi.
-
-[Pagina UNDER 14 >](http://www.basketgardolo.it/under-14)
-
-[Partite UNDER 14 >](http://www.basketgardolo.it/?tag=under-14&cat=11)

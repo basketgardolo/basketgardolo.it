@@ -60,7 +60,3 @@ BEVILACQUA FEDERICO
 
 **Commento:**  
 Bellissima partita, molto equilibrata per tutti e 4 i tempi; per fortuna alla fine sono riusciti a spuntarla i nostri ragazzi con un parziale dell’ultimo quarto di 27 a 14. Complimenti a tutti i ragazzi, continuiamo a lavorare così in palestra.
-
-[Pagina UNDER 15 >](http://www.basketgardolo.it/under-15)
-
-[Partite UNDER 15 >](http://www.basketgardolo.it/?tag=under-15&cat=11)

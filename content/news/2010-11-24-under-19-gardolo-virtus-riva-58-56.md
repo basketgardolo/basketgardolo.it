@@ -52,7 +52,3 @@ GAMBINO. L
 
 **Commento:**  
 Buon avvio di partita per i nostri ragazzi che chiudevano il primo quarto 19/8. Anche nel secondo e terzo quarto la squadra rimaneva molto concentrata e toccava anche il + 20. Molto male l’ultimo quarto. I nostri ragazzi subivano un parziale di 16/0, ma alla fine riescono a vincere la partita.
-
-[Pagina Under 19 >](http://www.basketgardolo.it/under-19)
-
-[Partite Under 19 >](http://www.basketgardolo.it/?tag=under-19&cat=11)

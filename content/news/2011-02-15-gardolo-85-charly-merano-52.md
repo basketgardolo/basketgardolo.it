@@ -60,7 +60,3 @@ GAMBINO
 
 **Commento:**  
 Bella vittoria in casa degli Under 17 che sconfiggono il charly Merano. Gardolo sempre avanti in tutta la partita, 40-26 all'intervallo e allungo nel punteggio nel quarto periodo. Ottima la fase offensiva contro la zona altoatesina, con tutti i 12 giocatori a referto.
-
-[Pagina Under 17 >](http://www.basketgardolo.it/under-17)
-
-[Partite Under 17 >](http://www.basketgardolo.it/?tag=under-17&cat=11)

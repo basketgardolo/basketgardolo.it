@@ -52,7 +52,3 @@ SPAGNOLO THOMAS
 
 **Commento:**  
 Buona partita dei nostri ragazzi che si impegnavano al massimo contro i più forti (sia fisicamente che tecnicamente) bolzanini. Crollo finale anche se siamo rimasto a 10 punti di distanza per gran parte della partita; si inizia a vedere qualche miglioramento di squadra, bravi ragazzi!!!
-
-[Pagina UNDER 14 >](http://www.basketgardolo.it/under-14)
-
-[Partite UNDER 14 >](http://www.basketgardolo.it/?tag=under-14&cat=11)

@@ -52,7 +52,3 @@ SPAGNOLO THOMAS
 
 **Commento:**  
 Partita già chiusa nel primo quarto con i nostri che chiudevano in vantaggio 38 a 4; poi la partita filava via liscia senza problemi e tutti i nostri giocatori iscrivevano il loro nome a referto.
-
-[Pagina UNDER 15 >](http://www.basketgardolo.it/under-15)
-
-[Partite UNDER 15 >](http://www.basketgardolo.it/?tag=under-15&cat=11)

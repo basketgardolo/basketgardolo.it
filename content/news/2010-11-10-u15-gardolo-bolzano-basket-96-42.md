@@ -52,7 +52,3 @@ BEVILACQUA FEDERICO
 
 **Commento:**  
 Partita già chiusa nel primo quarto con un parziale di 27 a 5, poi si andava al riposo sul 44 a 13; nel terzo quarto il parziale a nostro favore era netto 34 a 11, nell’ultimo quarto però c’era un netto e preoccupante calo di concentrazione e il parziale era 18 pari, il punteggio finale a nostro favore era 96 a 42
-
-[Pagina UNDER 15 >](http://www.basketgardolo.it/under-15)
-
-[Partite UNDER 15 >](http://www.basketgardolo.it/?tag=under-15&cat=11)

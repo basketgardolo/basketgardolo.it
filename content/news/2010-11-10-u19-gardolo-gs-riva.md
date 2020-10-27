@@ -52,7 +52,3 @@ GAMBINO. L
 
 **Commento:**  
 Buona prestazione dei ragazzi dell’under 19 che partono concentrati fin dall’inizio della partita, concludendo il primo quarto 26 - 8. Anche negli altri tre quarti successivi i ragazzi si impegnano molto, concludendo la partita 115 – 26. Da tutta la squadra, tanti auguri di buona guarigione a SIMPO, infortunato alla mano. Ti aspettiamo presto ciaaao
-
-[Pagina Under 19 >](http://www.basketgardolo.it/under-19)
-
-[Partite Under 19 >](http://www.basketgardolo.it/?tag=under-19&cat=11)

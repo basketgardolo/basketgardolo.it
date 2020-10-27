@@ -56,7 +56,3 @@ TORRESANI MATTEO
 
 **Commento:**  
 I nostri under 13 ipotecano la qualificazione al girone elite del campionato con una ottima prova difensiva (ma in attacco ci sarà da lavorare) e soprattutto permettendo al coach molti cambi senza cali di rendimento della squadra. Buona prova degli arbitri e della squadra avversaria. Sabato prossimo primo scontro importante della stagione contro Villazzano, servirà un impresa…
-
-[Pagina UNDER 13 >](http://www.basketgardolo.it/under-13)
-
-[Partite UNDER 13 >](http://www.basketgardolo.it/?tag=under-13&cat=11)

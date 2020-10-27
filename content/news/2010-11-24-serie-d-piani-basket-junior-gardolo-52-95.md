@@ -51,7 +51,3 @@ PEDROTTI. M
 11
 
 DALLABETTA. D
-
-[Pagina Serie D >](http://www.basketgardolo.it/serie-d)
-
-[Partite Serie D >](http://www.basketgardolo.it/?tag=serie-d&cat=11)

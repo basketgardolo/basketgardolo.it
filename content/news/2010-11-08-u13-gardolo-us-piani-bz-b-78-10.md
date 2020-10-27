@@ -60,7 +60,3 @@ BORTOLIN SAMUEL
 
 **Commento:**  
 Buon esordio dei nostri Under 13 (1998/199) che ottengono un largo margine già dal primo quarto di gioco contro una buona squadra bolzanina composta da tutti elementi nati nel 1999. Da segnalare l’esordio come capitano di Tommaso Lazzarotto (top scorer) complice l’assenza di Valentino Mazzalai, bloccato speriamo ancora non per molto dai regolamenti, e la grande grinta di Mattia “Lebron” Brustolini e Matteo Torresani, ma comunque tutti hanno fatto bene, alcuni al loro esordio, come Marco Fedrizzi, Fabio Veronesi e Davide Parzian. E adesso bisognerà lavorare ancora di più e meglio in settimana per affrontare i prossimi più impegnativi incontri.
-
-[Pagina UNDER 13 >](http://www.basketgardolo.it/)
-
-[Partite UNDER 13 >](http://www.basketgardolo.it/?tag=&cat=11)

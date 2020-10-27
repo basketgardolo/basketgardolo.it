@@ -13,4 +13,4 @@ Voglio far sapere a tutti che l'associazione ONLUS “Una scuola per la vita” 
 
 Contestualmente siamo stati tutti invitati ad una serata che si svolgerà il prossimo 31 ottobre presso il Teatro Auditurium Santa Chiara di Trento. Vi prego di seguire il link sottostante per ottenere maggiori informazioni in merito. Credo ne valga veramente la pena. Non vi anticipo la sorpresa!
 
-[http://unascuolaperlavita.org/serata.htm](http://unascuolaperlavita.org/serata.htm "Una scuola per la vita")
+[Una scuola per la vita](http://unascuolaperlavita.org/serata.htm)

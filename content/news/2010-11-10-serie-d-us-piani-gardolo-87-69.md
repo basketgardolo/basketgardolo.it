@@ -49,7 +49,3 @@ SEGALLA SIMONE
 DALLABETTA DANIEL
 
 0
-
-[Pagina SERIE D >](http://www.basketgardolo.it/serie-d)
-
-[Partite SERIE D >](http://www.basketgardolo.it/?tag=serie-d&cat=11)

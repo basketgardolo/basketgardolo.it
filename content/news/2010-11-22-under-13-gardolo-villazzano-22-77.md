@@ -60,7 +60,3 @@ MAZZALAI VALENTINO
 
 **Commento:**  
 Il risultato della partita dei nostri Under 13 evidenzia il divario oggi esistente con la compagine di Villazzano, molto più forte fisicamente ed in parte tecnicamente. La partenza peraltro aveva un po’ illuso i ragazzi ed i tifosi in palestra visto che il primo quarto si era concluso sul 12 a 4 in nostro favore ma poi l’evidente esuberanza fisica di Villazzano ha lasciato poco spazio ad ulteriori illusioni….. Comunque nessun problema, si torna al lavoro in palestra e si fa tesoro di quanto visto in campo per migliorare e cercare di ridurre il margine esistente con le squadre più forti partendo da una migliore precisione in attacco !
-
-[Pagina UNDER 13 >](http://www.basketgardolo.it/under-13)
-
-[Partite UNDER 13 >](http://www.basketgardolo.it/?tag=under-13&cat=11)
