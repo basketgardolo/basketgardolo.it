@@ -75,6 +75,6 @@ P.s: Dato l’esordio più che convincente, è ormai evidente come Christian sia
 
 Roby
 
-\*\*Villazzano:\*\* Giannini 4, Forti 6, Saltori 0, Cestari 0, Tomasi 0, Meneghini 6, Endrizzi 0, Scartezzini 0, Pedrotti 0, Giordani 4, Pizzini 8, Sartori 13. All. Bolner.
+**Villazzano:** Giannini 4, Forti 6, Saltori 0, Cestari 0, Tomasi 0, Meneghini 6, Endrizzi 0, Scartezzini 0, Pedrotti 0, Giordani 4, Pizzini 8, Sartori 13. All. Bolner.
 
-\*\*Tiri da 3:\*\* Gardolo 0, Villazzano 1 (Forti)
+**Tiri da 3:** Gardolo 0, Villazzano 1 (Forti)

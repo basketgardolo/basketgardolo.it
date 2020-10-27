@@ -62,8 +62,8 @@ Da segnalare inoltre la giovane età media della squadra bolzanina, priva di vet
 
 Lorenzo Gambino.
 
-\*\*Alto Adige Sudtirol:\*\*Sow 2, Marciano 0, Boldrin 8, Giuliani 10, Moser 0, De Castro 7, Wagner 0 ,Marcon 9, Ferro 0.
+**Alto Adige Sudtirol:**Sow 2, Marciano 0, Boldrin 8, Giuliani 10, Moser 0, De Castro 7, Wagner 0 ,Marcon 9, Ferro 0.
 
-\*\*Tiri da 3\*\*: Gardolo 3 (Mosna, Trivarelli 2), Alto Adige Sudtirol 3 (Boldrin 2, Wagner)
+**Tiri da 3**: Gardolo 3 (Mosna, Trivarelli 2), Alto Adige Sudtirol 3 (Boldrin 2, Wagner)
 
-\*\*Tiri liberi\*\*: Gardolo 5/7, Alto Adige Sudtirol 3/6.
+**Tiri liberi**: Gardolo 5/7, Alto Adige Sudtirol 3/6.

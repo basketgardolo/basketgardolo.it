@@ -54,8 +54,8 @@ Andare negli spogliatoi a metà partita con un leggero svantaggio permette a tut
 
 Si preannuncia un ultimo quarto di battaglia ed è quello che le due squadre offrono al pubblico nei minuti finali. Valer nei all'inizio fa capire agli universitari che recuperare sarebbe stato quantomeno difficile con alcuni canestri di grande importanza. Nonostante la sua prestazione gli avversari continuano a segnare canestri pesanti e in poco tempo. Gli ultimi 5 minuti si trasformano in un gioco a chi ha i nervi più saldi, gli avversari costretti a fare fallo per fermare il cronometro e cercare di segnare nel possesso successivo e noi a dover segnare ogni tiro libero ed evitare di perdere la palla una volta pressati. In questi casi l'esperienza viene a galla e negli ultimi 2 minuti capitan Mosna si prende l'onere di subire gli ultimi falli a disposizione degli avversari, con un sufficiente 4 su 6 li tiene a debita distanza.
 
-\*\*CUS Trento:\*\*Seck, Zini, Sissa 8, Bjedic 8, Porfido 7, Zago 3, Bodini 10, Agostini 14, Ciotoli 9
+**CUS Trento:**Seck, Zini, Sissa 8, Bjedic 8, Porfido 7, Zago 3, Bodini 10, Agostini 14, Ciotoli 9
 
-\*\*Tiri da 3:\*\* Gardolo 4 (Bertoluzza 2, Valer 2), CUS Trento 5 (Agostini 2, Porfido, Bjedic, Zago)
+**Tiri da 3:** Gardolo 4 (Bertoluzza 2, Valer 2), CUS Trento 5 (Agostini 2, Porfido, Bjedic, Zago)
 
-\*\*Tiri liberi:\*\* Gardolo 6/10, Charly Merano 8/14
+**Tiri liberi:** Gardolo 6/10, Charly Merano 8/14

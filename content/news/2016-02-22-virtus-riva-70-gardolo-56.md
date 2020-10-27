@@ -65,11 +65,11 @@ Prossima partita giovedì 25 in casa contro un Pergine rinforzato ma ancora alla
 
 Gamba#18
 
-\*\*Punti Virtus Riva\*\*  
+**Punti Virtus Riva**  
 Hainzl1, Zanoni 9, Lever 8, Volpi 15, Cugola 5, Mazza 2, Pace 2, Bedin 13, Proch 2, Stienen 15, Carretta n.e.;
 
-\*\*Tiri Liberi\*\*  
+**Tiri Liberi**  
 Virtus Riva 18/26, Gardolo 10/14
 
-\*\*Tiri da 3\*\*  
+**Tiri da 3**  
 Virtus Riva 4 (Stienen 3, Volpi), Gardolo 6 (Trivarelli 2, Bertotti, Valer, Gambino, Zampiero)

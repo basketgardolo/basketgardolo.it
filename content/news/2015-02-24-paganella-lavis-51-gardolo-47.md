@@ -57,8 +57,8 @@ Gardolo perde gara 2 dei quarti di finale del campionato Under 19. Una brutta pa
 
 **Paganella**: Maino 9, Nocini, Bonmassar 6, Tonina 13, Gorza 2, Zobele 13, Berti, Sicher 4, Ndiaye 2. All. Guastamacchia
 
-\*\*Parziali:\*\* 8-16, 21-6, 12-16, 10-8
+**Parziali:** 8-16, 21-6, 12-16, 10-8
 
-\*\*Tiri da 3\*\*: Gardolo 0 , Paganella 2 (Tonina 1, Zobele 1)
+**Tiri da 3**: Gardolo 0 , Paganella 2 (Tonina 1, Zobele 1)
 
-\*\*Usciti per falli\*\*: Rossi
+**Usciti per falli**: Rossi

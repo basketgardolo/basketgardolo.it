@@ -51,6 +51,6 @@ Nel secondo turno della Coppa Trentino Alto-Adige il Gardolo ospita in casa il C
 
 Tommy
 
-\*\*Charly Merano:\*\* Vigni 3, Guidaboni 3, Bottonelli 2, Tomissich 5, Rebecchi 0, Zanette 2, Bazzan 5, Pen Amida 0, Somvi 8, UnterHolzer 2, Diouf 7
+**Charly Merano:** Vigni 3, Guidaboni 3, Bottonelli 2, Tomissich 5, Rebecchi 0, Zanette 2, Bazzan 5, Pen Amida 0, Somvi 8, UnterHolzer 2, Diouf 7
 
-\*\*Tiri da 3:\*\* Gardolo 2 (Trivarelli 2), Charly Merano 4 (Vigni, Guidaboni, Tomissich, Bazzan)
+**Tiri da 3:** Gardolo 2 (Trivarelli 2), Charly Merano 4 (Vigni, Guidaboni, Tomissich, Bazzan)

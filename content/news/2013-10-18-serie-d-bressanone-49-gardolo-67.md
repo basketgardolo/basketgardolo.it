@@ -52,14 +52,14 @@ Buona la prima per il Gardolo che espugna Bressanone pur presentandosi a ranghi 
 
 Alla fine divario di 18 punti che ben descrive la partita. Ottimo l'arbitraggio.
 
-\*\*Parziali\*\*: 9-9, 21-25, 31-49, 49-67
+**Parziali**: 9-9, 21-25, 31-49, 49-67
 
-\*\*Punti Bressanone: \*\*Giacomuzzi 2, Kantioler 18, Nitz 2, Dalmas 0, Maly 3, Oberhuber 0, Velco 2, Mair 6, Festini 4, Di Stasio 12
+**Punti Bressanone:** Giacomuzzi 2, Kantioler 18, Nitz 2, Dalmas 0, Maly 3, Oberhuber 0, Velco 2, Mair 6, Festini 4, Di Stasio 12
 
-\*\*Tiri da 3 punti:\*\*  
-\*\*Gardolo:\*\* Valer 1, Mosna 1  
-\*\*Bressanone\*\* Kantioler 3
+**Tiri da 3 punti:**  
+**Gardolo:** Valer 1, Mosna 1  
+**Bressanone** Kantioler 3
 
-\*\*Tiri liberi: Bressanone\*\* 8/11; \*\*Gardolo\*\* 11/18
+**Tiri liberi: Bressanone** 8/11; **Gardolo** 11/18
 
-\*\*Usciti per falli:\*\* Velco
+**Usciti per falli:** Velco

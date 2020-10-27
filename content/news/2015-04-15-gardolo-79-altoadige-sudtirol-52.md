@@ -58,8 +58,8 @@ Per concludere posso dire che la squadra ha terminato la propria prestazione con
 Il prossimo impegno sarà fuori casa in quel di Merano contro gli agguerriti canguri del Charly alla ricerca dell'ultimo posto disponibile per i PlayOff.
 
 Gamba 🙂  
-\*\*AltoAdige Sudtirol:\*\* Wagner, Moser, Sow, Boldrin 6, Broggio 2, De Castro 9, Ba 8, Zuliani 12, Marcon 4, Usechensilye 5, Giuliani 6
+**AltoAdige Sudtirol:** Wagner, Moser, Sow, Boldrin 6, Broggio 2, De Castro 9, Ba 8, Zuliani 12, Marcon 4, Usechensilye 5, Giuliani 6
 
-\*\*Tiri da 3:\*\* Gardolo 9 (Lucchini, Trivarelli, Perenzoni, Josol 3, Gambino 3), AltoAdige Sudtirol 3 (De Castro 2, Usechensilye)
+**Tiri da 3:** Gardolo 9 (Lucchini, Trivarelli, Perenzoni, Josol 3, Gambino 3), AltoAdige Sudtirol 3 (De Castro 2, Usechensilye)
 
-\*\*Tiri liberi:\*\* Gardolo 9/13, AltoAdige Sudtirol 5/6
+**Tiri liberi:** Gardolo 9/13, AltoAdige Sudtirol 5/6

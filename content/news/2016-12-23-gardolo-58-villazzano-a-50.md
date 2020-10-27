@@ -68,6 +68,6 @@ Di nuovo BUON NATALE A TUTTI e fino alla fine forza Gardolo!
 
 Roby
 
-\*\*Villazzano A:\*\* Giannini 13, Saltori 0, Coiro 0, Cestari 5, Tomasi 2, Meneghini 1, Endrizzi 5, Scartezzini 2, Carrara 10, Giordani 6, Pizzini 0, Sartori 6. All. Bolner.
+**Villazzano A:** Giannini 13, Saltori 0, Coiro 0, Cestari 5, Tomasi 2, Meneghini 1, Endrizzi 5, Scartezzini 2, Carrara 10, Giordani 6, Pizzini 0, Sartori 6. All. Bolner.
 
-\*\*Tiri da 3:\*\* Gardolo: 3 (2 Dellai, Ambrosi), Villazzano A 2 (Carrara, Giannini).
+**Tiri da 3:** Gardolo: 3 (2 Dellai, Ambrosi), Villazzano A 2 (Carrara, Giannini).

@@ -2,11 +2,11 @@
 title: Under 14 – inizio campionato
 date: 2008-11-04T11:30:55+00:00
 ---
-![mauro.jpg](http://www.basketgardolo.it/wp-content/uploads/2008/11/mauro.jpg) \*\*PERGINE - GARDOLO: 40 - 72\*\*
+![mauro.jpg](http://www.basketgardolo.it/wp-content/uploads/2008/11/mauro.jpg) **PERGINE - GARDOLO: 40 - 72**
 
-\*\*GARDOLO - AQUILA TN: 24 - 160\*\*
+**GARDOLO - AQUILA TN: 24 - 160**
 
-\*\*GARDOLO - VILLAZZANO: 54 - 96\*\*
+**GARDOLO - VILLAZZANO: 54 - 96**
 
 Primo scorcio di campionato per i nostri under 14 _(allenati da coach Perissinotto - ritratto da C.Stenico)_ con risultati adeguati al livello delle squadre avversarie.
 

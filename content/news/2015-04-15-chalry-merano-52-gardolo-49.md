@@ -62,8 +62,8 @@ L'ultimo quarto ci vede reggere i colpi dei più freschi avversari fino a 4 minu
 
 Gamba 🙂
 
-\*\*Charly Merano:\*\* Vigni n.e, Guidoboni 4, Bottonelli 5, Tommisch, Brunoro 5, Rebecchi n.e, Zanette 6, Firinu, Dia 3, Somvi 17, Unterholzer 6, Diouf 6
+**Charly Merano:** Vigni n.e, Guidoboni 4, Bottonelli 5, Tommisch, Brunoro 5, Rebecchi n.e, Zanette 6, Firinu, Dia 3, Somvi 17, Unterholzer 6, Diouf 6
 
-\*\*Tiri da 3:\*\* Gardolo 9 (Lucchini, Bertoluzza, Trivarelli, Valer, Josol), Charly Merano 3 (Bottonelli, Brunoro, Zanette 2)
+**Tiri da 3:** Gardolo 9 (Lucchini, Bertoluzza, Trivarelli, Valer, Josol), Charly Merano 3 (Bottonelli, Brunoro, Zanette 2)
 
-\*\*Tiri liberi:\*\* Gardolo 12/13, Charly Merano 4/10
+**Tiri liberi:** Gardolo 12/13, Charly Merano 4/10

@@ -62,6 +62,6 @@ Sicuramente non una delle partite più scintillanti ma l'importante era vincere 
 
 Lucone
 
-\*\*Villazzano:\*\* Casagrande 2, Zanotto 4, Fonsatti 9, Dalla Porta 6, Murchio, Carbone, Piffer 2, Valla, Salvagno 5, Doriguzzi 2
+**Villazzano:** Casagrande 2, Zanotto 4, Fonsatti 9, Dalla Porta 6, Murchio, Carbone, Piffer 2, Valla, Salvagno 5, Doriguzzi 2
 
-\*\*Tiri da 3:\*\* Villazzano 1 (Fonsatti), Gardolo 4 (Gambino, Trivarelli, Rizi, Scagliarini)
+**Tiri da 3:** Villazzano 1 (Fonsatti), Gardolo 4 (Gambino, Trivarelli, Rizi, Scagliarini)

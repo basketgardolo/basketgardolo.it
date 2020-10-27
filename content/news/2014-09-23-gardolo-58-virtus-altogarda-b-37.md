@@ -55,8 +55,8 @@ Dopo l'intervallo in cui coach Tomazzolli cerca di risvegliare dal letargo estiv
 Dopo un paio di antisportivi ed un'espulsione, anche gli ultimi 2 quarti arrivano al termine con il tabellone che recita: 58­37.  
 Al termine della partita, giocatori, spettatori e allenatori, sono arrivati alla conclusione che ci sia da lavorare, ma la voglia è tanta e le basi sono buone. L'impegno non mancherà di certo e i risultati non tarderanno ad arrivare.
 
-\*\*Virtus Altogarda “B”:\*\* Macella 2, Detoni M. 12, Detoni G. 4, Tonelli 8, Lorenzin, Detoni L. 2, Pedrotti, Bardelloni 7, Palonbarini 2.
+**Virtus Altogarda “B”:** Macella 2, Detoni M. 12, Detoni G. 4, Tonelli 8, Lorenzin, Detoni L. 2, Pedrotti, Bardelloni 7, Palonbarini 2.
 
-\*\*Tiri da 3:\*\* Gardolo 6 (Valer 1, Trivarelli 1, Mosna 1, Bertoluzza 2, Perenzoni), Vistus Altogarda B 1(Bardelloni)
+**Tiri da 3:** Gardolo 6 (Valer 1, Trivarelli 1, Mosna 1, Bertoluzza 2, Perenzoni), Vistus Altogarda B 1(Bardelloni)
 
-\*\*5 falli/Espulsi:\*\* Gardolo: nessuno, Virtus Altogarda B: Macella, Detoni L.
+**5 falli/Espulsi:** Gardolo: nessuno, Virtus Altogarda B: Macella, Detoni L.

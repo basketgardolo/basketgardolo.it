@@ -8,7 +8,7 @@ GIU
 
 2013
 
-\*\*Punti segnati\*\*
+**Punti segnati**
 
 FRONZA ANDREA
 
@@ -57,13 +57,12 @@ Gara 5 è fatale al Gardolo. Il Cus Trento vince il campionato di serie D espugn
 
 E' probabilmente il capolinea di un gruppo che negli ultimi anni si è sempre espresso ad alto livello, non trovando però nei momenti decisivi lo spunto vincente. Peccato! Ma il basket continua…Forza Gardolo!
 
-\*\*Parziali\*\*: 6-15, 11-11, 14-14, 11-20  
-\*\*Punti Cus Trento: \*\* Giorgi, Gracis 9, Bisagno, Borsato 10, Chenet 2, Margoni, Piffer 2, Zanlucchi 19, Callegaro 2, Martini ne, Ciotoli 11, Bonelli 5. Coach: Eglione.\*\*\*\*  
-\*\*Tiri da 3 punti:\*\*  
-\*\*Gardolo 0:\*\*  
-\*\*Cus Trento 6:\*\* Zanlucchi 3, Borsato 2, Gracis 1.
+**Parziali**: 6-15, 11-11, 14-14, 11-20  
+**Punti Cus Trento:** Giorgi, Gracis 9, Bisagno, Borsato 10, Chenet 2, Margoni, Piffer 2, Zanlucchi 19, Callegaro 2, Martini ne, Ciotoli 11, Bonelli 5. Coach: Eglione.
+**Tiri da 3 punti:**  
+**Gardolo 0:**  
+**Cus Trento 6:** Zanlucchi 3, Borsato 2, Gracis 1.
 
-\*\*Tiri liberi: Gardolo\*\* 12/24; \*\*Cus Trento\*\* 7/14
+**Tiri liberi: Gardolo** 12/24; **Cus Trento** 7/14
 
-\*\* Usciti per falli:\*\* Nessuno_\*\*  
-\*\*_
+**Usciti per falli:** Nessuno

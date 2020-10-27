@@ -60,4 +60,4 @@ Gardolo vince e si aggiudica il primo posto in testa alla classifica.. Giocherem
 
 Gamba
 
-\*\*Belvedere Ravina:\*\* Ciola 0, Pedrotti 8, Slucca 0, Gardumi 5, Pedrotti 7, Angelini 9, Ropele 2, Forti 4, Vigano 4, Ropele 6, Pulin 2, Incobong 0
+**Belvedere Ravina:** Ciola 0, Pedrotti 8, Slucca 0, Gardumi 5, Pedrotti 7, Angelini 9, Ropele 2, Forti 4, Vigano 4, Ropele 6, Pulin 2, Incobong 0

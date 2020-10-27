@@ -8,7 +8,7 @@ MAR
 
 2011
 
-\*\*Punti segnati\*\*
+**Punti segnati**
 
 MATTEDI
 
@@ -56,7 +56,7 @@ GAMBINO
 
 6
 
-\*\*Commento:\*\*  
+**Commento:**  
 Vittoria a Ravina per il Gardolo, che seppur senza brillare coglie una facile vittoria. Discreta difesa che concede pochi punti ai padroni di casa, un po' di fatica in attacco con qualche errore di troppo. Venerdì prossimo 1 aprile ultima partita del campionato contro Rovereto, ore 19.30 Pigarelli.
 
 [Pagina Under 17 >](http://www.basketgardolo.it/under-17)

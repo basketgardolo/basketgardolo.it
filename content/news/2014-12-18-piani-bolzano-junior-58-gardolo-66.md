@@ -57,6 +57,6 @@ Nota negativa: l’infortunio di Bertotti ancora nel primo tempo. GET WELL SOON 
 
 Jack.
 
-\*\*Tiri da 3\*\*: 1 Lucchini, 2 Mosna
+**Tiri da 3**: 1 Lucchini, 2 Mosna
 
-\*\*Tiri liberi\*\*: Gardolo 19/25.
+**Tiri liberi**: Gardolo 19/25.

@@ -58,8 +58,8 @@ Al ritorno in campo dopo la pausa lunga i ragazzi di coach Tomazzolli aggredisco
 E' nell'ultimo quarto che riva riesce a superarci al livello mentale, la pressione portata avanti tutto l'incontro ci fa più male e noi andiamo sotto fisicamente e di concentrazione. Il tentativo di pressione sul finale ci fa capire come dobbiamo essere più duri psicologicamente e più uniti tra compagni.  
 Quindi, nonostante la sconfitta subita per 65 a 51, usciamo dalla palestra rivana consapevoli di avere molto su cui lavorare e questo può solo essere positivo.
 
-\*\*Riva:\*\* Hainzl 2, Zanoni 9, Fia 10, Lever 0 , Volpi 4 , Cugola 11, Mazza 10, Bedin 13, Benedetti 0, Proch 5, Carretta 0, Finarolli 2
+**Riva:** Hainzl 2, Zanoni 9, Fia 10, Lever 0 , Volpi 4 , Cugola 11, Mazza 10, Bedin 13, Benedetti 0, Proch 5, Carretta 0, Finarolli 2
 
-\*\*Tiri da 3:\*\* Riva 3 (Cugola, Zanoni, Mazza), Gardolo 3 (Trivarelli, Josol 2)
+**Tiri da 3:** Riva 3 (Cugola, Zanoni, Mazza), Gardolo 3 (Trivarelli, Josol 2)
 
-\*\*Tiri liberi:\*\* Riva: 14/20, Gardolo: 12/15
+**Tiri liberi:** Riva: 14/20, Gardolo: 12/15

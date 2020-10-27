@@ -8,7 +8,7 @@ NOV
 
 2012
 
-\*\*Punti segnati\*\*
+**Punti segnati**
 
 MASSIMO SOVILLA
 

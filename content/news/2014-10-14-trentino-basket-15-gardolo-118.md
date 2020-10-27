@@ -62,8 +62,8 @@ SPAGNOLO THOMAS
 Esordio agevole per gli Under 19 contro un giovane e inesperto Trentino Basket. I gardoloti dopo un paio di minuti di studio sul 5-2 ingranano la marcia giusta e chiudono il primo quarto sul 40-4, grazie ad una buona pressione difensiva. Nel secondo quarto il copione non cambia e si va al riposo sul 67-6. Nei successivi due quarti il Gardolo trova ancora molti punti in velocità, portando 6 giocatori in doppia cifra, fino al 118-15 finale. C'è però molto da migliorare sull"attenzione, l'intensità e i fondamentali individuali.  
 La prossima settimana esordio casalingo per i nostri giovani gialloblu, vi aspettiamo!
 
-\*\*Trentino Basket A\*\*: Bruzzi 8, Potrich, Arise 2, Antonio, Caravello 2, El Attar, Dellaidotti, Slanzi 2, Furlani 1, Zara Rayan. All. Tomasi
+**Trentino Basket A**: Bruzzi 8, Potrich, Arise 2, Antonio, Caravello 2, El Attar, Dellaidotti, Slanzi 2, Furlani 1, Zara Rayan. All. Tomasi
 
-\*\*Tiri da 3\*\*: Trentino Basket 1 ( Bruzzi 1), Gardolo 1 (Lazzarotto 1).
+**Tiri da 3**: Trentino Basket 1 ( Bruzzi 1), Gardolo 1 (Lazzarotto 1).
 
-\*\*Usciti per falli\*\*: nessuno
+**Usciti per falli**: nessuno

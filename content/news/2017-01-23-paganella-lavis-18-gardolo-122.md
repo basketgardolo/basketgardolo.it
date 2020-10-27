@@ -53,6 +53,6 @@ Il resto della gara è tutto in discesa e coach Paoli ne approfitta per dare spa
 
 Nonostante l'evidente differenza tecnica tra le due formazioni sono da lodare la grinta dei ragazzi di Lavis, che non hanno mai mollato giocando fino alla fine, e l'approccio positivo da parte dei giocatori gardoloti fin dal primo minuto di gioco. Prossimo appuntamento martedì 24 gennaio contro Pergine.
 
-\*\*Lavis:\*\* Cammelli Mar. 4, Cammelli Mat., Pisoni 3, Marchesi, Fedrizzi 2, Piffer, Rizzoli, Parzian 1, Rossi 1, Troier 5, Kulyas 2. Coach Consoli G.
+**Lavis:** Cammelli Mar. 4, Cammelli Mat., Pisoni 3, Marchesi, Fedrizzi 2, Piffer, Rizzoli, Parzian 1, Rossi 1, Troier 5, Kulyas 2. Coach Consoli G.
 
-\*\*Tiri da 3:\*\* Lavis 1 (Pisoni), Gardolo 4 (3 Dellai, Veronesi).
+**Tiri da 3:** Lavis 1 (Pisoni), Gardolo 4 (3 Dellai, Veronesi).

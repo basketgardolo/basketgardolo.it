@@ -58,8 +58,8 @@ MARGONI MICHELE
 
 **Virtus Altogarda A:** Palladino, Bressan, Toblini, Alimov 5, Felipe 16, Lutterotti 8, Bernardi 5, Planchestainer, Gasperi 6, Bonora. Coach La Fauci
 
-\*\*Parziali:\*\* 11-12, 13-11, 14-11, 15-16
+**Parziali:** 11-12, 13-11, 14-11, 15-16
 
-\*\*Tiri da 3\*\*: Gardolo 4 (Fauri 2, Pedri 1, Rossi 1) Virtus Altogarda A 3 (Lutterotti 1, Bernardi 1, Felipe 1)
+**Tiri da 3**: Gardolo 4 (Fauri 2, Pedri 1, Rossi 1) Virtus Altogarda A 3 (Lutterotti 1, Bernardi 1, Felipe 1)
 
-\*\*Usciti per falli\*\*: Lutterotti, Gasperi.
+**Usciti per falli**: Lutterotti, Gasperi.

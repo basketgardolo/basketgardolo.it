@@ -57,8 +57,8 @@ I primi due quarti si concludono con la realizzazione di 2 tiri liberi per i nos
 Al rientro in campo, l'atletismo dei nostri avversari inizia a farsi sentire, la loro pressione unita alla nostra mancanza di cambi e la giornata piuttosto sfortunata al tiro riesce a farli allontanare leggermente, ma con impegno riusciamo a rimanere sotto la doppia cifra di svantaggio.  
 L'ultimo quarto inizia sul 54 - ­44, la stanchezza si sente e non riusciamo a recuperare abbastanza palloni per riagguantare i rivani che gestendo il finale riescono a portare a casa il risultato. La partita finisce con un giusto 67 - ­61 in favore dei padroni di casa.
 
-\*\*Virtus Altogarda A\*\*: Zanoni 2, Fia 3, Spagnolli 6, Volpi 12, Danti 10, Mazza 7, Benedetti 2, Nicolodi, Proch 11, Stienen, Finarolli 3.
+**Virtus Altogarda A**: Zanoni 2, Fia 3, Spagnolli 6, Volpi 12, Danti 10, Mazza 7, Benedetti 2, Nicolodi, Proch 11, Stienen, Finarolli 3.
 
-\*\*Tiri da 3\*\*: Virtus Altogarda A 2 ( Danti 1, Volpi 1), Gardolo 3 (Mosna 1, Valer 1, Rosatti 1).
+**Tiri da 3**: Virtus Altogarda A 2 ( Danti 1, Volpi 1), Gardolo 3 (Mosna 1, Valer 1, Rosatti 1).
 
-\*\*Usciti per falli\*\*: nessuno
+**Usciti per falli**: nessuno

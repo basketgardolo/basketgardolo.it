@@ -8,7 +8,7 @@ Feb
 
 2013
 
-\*\*Punti segnati\*\*
+**Punti segnati**
 
 LUCCHINI DANIELE
 
@@ -54,20 +54,20 @@ GAMBINO LORENZO
 
 FRANZOI NICOLA
 
-\*\*Commento:\*\*  
+**Commento:**  
 Gardolo vince in casa contro Europa Bolzano. Il primo quarto è all'insegna dell'equilibrio: a Bazzan e all'ispirato Broggio rispondono Bijedic e Lucchini, ma Gardolo tira e tirerà tutta la partita con percentuali bassissime. Nel secondo quarto l'intensità dei gialloblu permette di andare alla pausa sul 30-23. Nella ripresa Gardolo sbaglia ancora molto, ma grazie ad una buona difesa incrementa ancora il vantaggio: 45-33 alla fine della terza frazione. Nell'ultimo quarto i gardoloti si muovono abbastanza bene contro la zona avversaria, aumentando ancora il vantaggio fino al 64-42 finale.
 
 [Pagina Serie D >](http://www.basketgardolo.it/serie-d)
 
 [Partite Serie D >](http://www.basketgardolo.it/?tag=serie-d&cat=11)
 
-\*\*Parziali\*\*: 12-13, 18-10, 15-10, 19-9
+**Parziali**: 12-13, 18-10, 15-10, 19-9
 
-\*\*Punti Europa:\*\* Garbin, Angioletti 8, Busato 1, Broggio 11, Bazzan 7, Ciriaci 2, Ronconi 13, Toniatti. All: Capon
+**Punti Europa:** Garbin, Angioletti 8, Busato 1, Broggio 11, Bazzan 7, Ciriaci 2, Ronconi 13, Toniatti. All: Capon
 
-\*\*Tiri da 3 punti:\*\*  
-\*\*Gardolo 3:\*\* Bijedic 2, Mattedi 1  
-\*\*Europa 3:\*\* Broggio 3
+**Tiri da 3 punti:**  
+**Gardolo 3:** Bijedic 2, Mattedi 1  
+**Europa 3:** Broggio 3
 
-\*\*Tiri liberi: Gardolo\*\* 15/25; \*\*Europa\*\* 8/24  
-\*\*Usciti per falli: \*\*Ronconi, Bazzan
+**Tiri liberi: Gardolo** 15/25; **Europa** 8/24  
+**Usciti per falli:** Ronconi, Bazzan

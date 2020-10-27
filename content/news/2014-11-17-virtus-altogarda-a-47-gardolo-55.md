@@ -50,8 +50,8 @@ SPAGNOLO THOMAS
 
 **Virtus Altogarda A:** Bressan, Zanin, Felipe 14, Lutterotti 9, Nicolaci 8, Bernardi 13, Planchestainer ne, Cappelletti, Gasperi 3, Bonora ne, Toblini. Coach La Fauci
 
-\*\*Parziali:\*\* 14-18, 14-5, 10-16, 9-16
+**Parziali:** 14-18, 14-5, 10-16, 9-16
 
-\*\*Tiri da 3\*\*: Gardolo 0, Virtus Altogarda A 2 (Lutterotti 1, Bernardi 1)
+**Tiri da 3**: Gardolo 0, Virtus Altogarda A 2 (Lutterotti 1, Bernardi 1)
 
-\*\*Usciti per falli\*\*: Felipe
+**Usciti per falli**: Felipe

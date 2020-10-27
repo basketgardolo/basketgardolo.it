@@ -8,7 +8,7 @@ APR
 
 2012
 
-\*\*Punti segnati\*\*
+**Punti segnati**
 
 RODLER DANIELE
 
@@ -54,18 +54,17 @@ PEDERZOLLI FEDERICO
 
 4
 
-\*\*Commento:\*\*  
+**Commento:**  
 Gardolo vince a Villazzano dopo una partita dagli scarsi contenuti tecnici, con momenti di grande confusione in campo: sicuramente non un bello spettacolo per il numeroso pubblico accorso in palestra. Primo quarto equilibrato 14-14, ma nella seconda frazione Gardolo si porta avanti fino al 34-21 dell'intervallo. Nella ripresa il copione non cambia: i gardoloti incrementano il vantaggio con giocate in velocità. Nella confusione dell'ultimo quarto è ancora il Gardolo che trova con continuità il canestro fino al 76-40 finale. Sabato prossimo ultima gara di regular season contro Pergine, in palio il primo posto in classifica.
 
 [Pagina Serie D >](http://www.basketgardolo.it/serie-d)
 
 [Partite Serie D >](http://www.basketgardolo.it/?tag=serie-d&cat=11)
 
-\*\*\*\*\*\*Villazzano:\*\* Bianchini 3, Magnocavallo 11, Caldara 4, Costanzo 2, Iori 3, Forti, Rizzonelli 7, Franceschi 3, Sighel, Bonmassar 2, Oberosler 5. All: Gregorelli.\*\*\*\*
+**Villazzano:** Bianchini 3, Magnocavallo 11, Caldara 4, Costanzo 2, Iori 3, Forti, Rizzonelli 7, Franceschi 3, Sighel, Bonmassar 2, Oberosler 5. All: Gregorelli.
 
-\*\*Tiri da 3 punti:\*\*\*\* Gardolo 3:\*\* Gambino 2 Bertoluzza 1;\*\* Villazzano 3: \*\*Magnocavallo 2, Oberosler 1.\*\*  
-\*\*
+**Tiri da 3 punti: Gardolo 3:** Gambino 2 Bertoluzza 1;**Villazzano 3:** Magnocavallo 2, Oberosler 1.
 
-\*\*Tiri liberi:\*\* Gardolo 11/20, Villazzano 7/18
+**Tiri liberi:** Gardolo 11/20, Villazzano 7/18
 
-\*\*Usciti per falli:\*\* Oberosler, Casagrande
+**Usciti per falli:** Oberosler, Casagrande

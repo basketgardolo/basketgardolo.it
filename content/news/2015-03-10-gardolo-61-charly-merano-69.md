@@ -59,8 +59,8 @@ Bella partita quella andata in scena giovedì 5 marzo a Gardolo, degna di una se
 
 **Charly**: Tirello ne, Guidoboni 27, Botticelli 9, Brunoro 13, Rebecchi, Stefanovich 3, Reolon 12, Cominelli 3, Beltrami 2, Bellini ne, Ben hmida ne, Altomare. Coach Corinaldesi.
 
-\*\*Parziali:\*\* 13-16, 15-15, 14-15, 19-23
+**Parziali:** 13-16, 15-15, 14-15, 19-23
 
-\*\*Tiri da 3\*\*: Gardolo 1 (Fauri 1), Charly 9 (Guidoboni 5, Brunoro 2, Bottonelli 1, Cominelli 1)
+**Tiri da 3**: Gardolo 1 (Fauri 1), Charly 9 (Guidoboni 5, Brunoro 2, Bottonelli 1, Cominelli 1)
 
-\*\*Usciti per falli\*\*: nessuno
+**Usciti per falli**: nessuno

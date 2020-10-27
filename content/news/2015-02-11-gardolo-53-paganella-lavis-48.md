@@ -51,8 +51,8 @@ Gli Under 19 vincono gara 1 dei quarti di playoff contro Paganella Lavis. Partit
 
 **Paganella**: Maino 14, Nocini 4, Bonmassar 5, Tonina 16, Zobele 4, Berti 2, Valer 2, Sicher, Ndiaye 1. All. Guastamacchia
 
-\*\*Parziali:\*\* 12-9, 14-21, 14-5, 13-13
+**Parziali:** 12-9, 14-21, 14-5, 13-13
 
-\*\*Tiri da 3\*\*: Gardolo 5 (Fauri 2, Zampiero 1, Rossi 1, Dallabetta 1) Paganella 2 (Tonina 2)
+**Tiri da 3**: Gardolo 5 (Fauri 2, Zampiero 1, Rossi 1, Dallabetta 1) Paganella 2 (Tonina 2)
 
-\*\*Usciti per falli\*\*: Maino, Tonina
+**Usciti per falli**: Maino, Tonina

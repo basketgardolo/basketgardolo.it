@@ -53,8 +53,8 @@ Partita dal doppio volto per i nostri: 3 quarti giocati discretamente contro uno
 
 Jack
 
-\*\*Virtus Altogarda:\*\*Zanoni 14, Fia 18, Volpi 2, Danti 0, Mazza 0, Pastori 9, Proch 11, Stienen 8, Carretta, Finarolli 2
+**Virtus Altogarda:**Zanoni 14, Fia 18, Volpi 2, Danti 0, Mazza 0, Pastori 9, Proch 11, Stienen 8, Carretta, Finarolli 2
 
-\*\*Tiri da 3:\*\* Gardolo 5 (Mosna, Valer, Trivarelli 3), Virtus Altogarda 2 (Zanoni 2)
+**Tiri da 3:** Gardolo 5 (Mosna, Valer, Trivarelli 3), Virtus Altogarda 2 (Zanoni 2)
 
-\*\*Tiri liberi:\*\* Gardolo 4/5, Charly Merano 10/13
+**Tiri liberi:** Gardolo 4/5, Charly Merano 10/13

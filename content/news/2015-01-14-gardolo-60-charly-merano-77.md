@@ -57,8 +57,8 @@ Nelle partite si riporta quanto costruito durante gli allenamenti. Pochi Under 1
 
 **Charly**: Tirello, Guidoboni 17, Botticelli ne, Berrera, Rebecchi 7, Stefanovich 13, Reolon 25, Mascotto, Beltrami 8,  Ben hmida ne, Altomare, Cominelli. Coach Corinaldesi.
 
-\*\*Parziali:\*\* 19-14, 14-23, 13-27, 14-13
+**Parziali:** 19-14, 14-23, 13-27, 14-13
 
-\*\*Tiri da 3\*\*: Gardolo 3 (Zampiero 2, Fauri 1), Charly 4 (Guidoboni 1, Rebecchi 1, Reolon 1, Beltrami 1)
+**Tiri da 3**: Gardolo 3 (Zampiero 2, Fauri 1), Charly 4 (Guidoboni 1, Rebecchi 1, Reolon 1, Beltrami 1)
 
-\*\*Usciti per falli\*\*: nessuno
+**Usciti per falli**: nessuno

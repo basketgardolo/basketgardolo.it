@@ -61,4 +61,4 @@ Appuntamento a sabato 28 marzo per la partita contro l'AltoAdige SuedTirol in ca
 
 Lorenzo Gambino
 
-\*\*SanMarco Rovereto:\*\*CUGOLA 15, BRUNORI 12, NOVALI 7, ROSANI 4, BUMBLI 8, NICOLI 7, VUGDALIC, PREZZI 5, DELLANTONIO, MAZZUCCATO 5, TODESCHI 13
+**SanMarco Rovereto:** CUGOLA 15, BRUNORI 12, NOVALI 7, ROSANI 4, BUMBLI 8, NICOLI 7, VUGDALIC, PREZZI 5, DELLANTONIO, MAZZUCCATO 5, TODESCHI 13

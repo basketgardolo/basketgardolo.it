@@ -8,7 +8,7 @@ GIU
 
 2012
 
-\*\*Punti segnati\*\*
+**Punti segnati**
 
 FRONZA ANDREA
 
@@ -52,21 +52,20 @@ PEDERZOLLI FEDERICO
 
 2
 
-\*\*Commento:\*\*  
+**Commento:**  
 Pergine vince il campionato di Serie D battendo Gardolo in gara 4 e aggiudicandosi la serie 3-1. I gialloblu recuperano Fronza e Bijedic e il risultato si vede nei primi due quarti con Gardolo sempre vicino ai valsuganotti: 46-42 all'intervallo. E' nel terzo quarto che si decide la partita (come in gara 3), troppi errori dei gardoloti, che sbagliano alcune conclusioni da sotto canestro oltre ad un 0/6 ai liberi, nel contempo Pergine piazza canestri pesanti. Nel finale gli ospiti cercano di non mollare, ma ormai le energie non ci sono più. Vince pergine 93-77.
 
 [Pagina Serie D >](http://www.basketgardolo.it/serie-d)
 
 [Partite Serie D >](http://www.basketgardolo.it/?tag=serie-d&cat=11)
 
-\*\*Parziali\*\*: 20-17, 26-25, 26-10, 21-25  
+**Parziali**: 20-17, 26-25, 26-10, 21-25  
 
-\*\*Punti Pergine:\*\* Bonelli 14, Camera 22, Fonsatti 1, Marchetti 10, Berti 15, Agostini 4, Paoli 14, Roccabruna 4, Seck, Zago 7, De Palo, Zavarise. Coach Russo.\*\*\*\*
+**Punti Pergine:** Bonelli 14, Camera 22, Fonsatti 1, Marchetti 10, Berti 15, Agostini 4, Paoli 14, Roccabruna 4, Seck, Zago 7, De Palo, Zavarise. Coach Russo.
 
-\*\*Tiri da 3 punti:\*\*  
-\*\*Gardolo 5:\*\* Fronza 2, Bijedic 1, Casagrande 1, Mosna 1.  
-\*\*Pergine 7: \*\*Camera 3, Marchetti 2, Berti 1, Bonelli 1\*\*  
-\*\*
+**Tiri da 3 punti:**  
+**Gardolo 5:** Fronza 2, Bijedic 1, Casagrande 1, Mosna 1.  
+**Pergine 7:** Camera 3, Marchetti 2, Berti 1, Bonelli 1
 
-\*\*Tiri liberi: Gardolo\*\* 22/36; \*\*Pergine\*\* 30/52  
-\*\*Usciti per falli:\*\* Lucchini, Mattedi, Pedrotti
+**Tiri liberi: Gardolo** 22/36; **Pergine** 30/52  
+**Usciti per falli:** Lucchini, Mattedi, Pedrotti

@@ -59,8 +59,8 @@ Gardolo trova il quarto successo stagionale in casa contro Paganella Lavis. Dopo
 
 **Paganella Lavis**: Felicetti, Nocini 1, Bonmassar 9, Tonina 5, Maino 21, Zobele 13, Berti 2, Mattioli 9, Valer ne, Sicher, Nardon ne, Feller ne, All.re: Magnocavallo,
 
-\*\*Parziali:\*\* 19-14, 17-13, 13-19, 19-14
+**Parziali:** 19-14, 17-13, 13-19, 19-14
 
-\*\*Tiri da 3\*\*: Gardolo 4 (Zampiero 2, Rossi 1, Lazzarotto 1), Paganella 2 (Tonina 1, Mattioli 1)
+**Tiri da 3**: Gardolo 4 (Zampiero 2, Rossi 1, Lazzarotto 1), Paganella 2 (Tonina 1, Mattioli 1)
 
-\*\*Usciti per falli\*\*: Tonina
+**Usciti per falli**: Tonina

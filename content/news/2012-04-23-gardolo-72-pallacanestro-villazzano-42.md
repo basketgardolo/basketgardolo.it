@@ -8,7 +8,7 @@ APR
 
 2012
 
-\*\*Punti segnati\*\*
+**Punti segnati**
 
 BALDO MIRKO
 
@@ -60,7 +60,7 @@ BEVILACQUA FEDERICO
 
 [Partite UNDER 17 >](http://www.basketgardolo.it/?tag=under-17&cat=11)
 
-\*\*Commento:\*\*  
+**Commento:**  
 Dopo varie discussioni tra Federazione Veneto e Trentino ci trovavamo costretti a giocare la finale venerdì 20 aprile alle 18.30 in casa, quindi 2 giorni dopo la semifinale; riuscivamo quindi a fare un solo allenamento preparatorio e nemmeno al palazzetto, mentre i nostri avversari si allenavano in casa nostra….  
 Avevamo terminato la fase regolare imbattuti, 18 vittorie su 18 partite, ma questo non bastava, perché quest’anno, dopo tanti anni, c’erano le final four, quindi c’erano da giocare altre 2 partite per confermare il primo posto.  
 Il grande giorno arrivava, venerdì 20 aprile, il primo obiettivo era già stato raggiunto, la finale, ora dovevamo dimostrare che il primo posto era meritato e che eravamo veramente i più forti.  

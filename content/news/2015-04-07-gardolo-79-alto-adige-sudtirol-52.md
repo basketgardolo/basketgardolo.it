@@ -51,8 +51,8 @@ Partita quindi portata a casa senza problemi, vista anche la caratura degli avve
 Al termine della gara grandi festeggiamenti nello spogliatoio gialloblu, e non solo per la vittoria ( e nemmeno per l'apertura della nuova sede). Per cos'altro vi state chiedendo? Con un po’ di pazienza lo scoprirete tutti 😉  
 Jack
 
-\*\*Alto Adige:\*\* Wagner, Moser, Sow, Boldrin 6, Broggio 2, De Castro 9, Ba 8, Zuliani 12, Marcon 4, Usechensilye 5, Giuliani 6
+**Alto Adige:** Wagner, Moser, Sow, Boldrin 6, Broggio 2, De Castro 9, Ba 8, Zuliani 12, Marcon 4, Usechensilye 5, Giuliani 6
 
-\*\*Tiri da 3:\*\* Gardolo 9 (Lucchini, Trivarelli, Perenzoni, Josol 3, Gambino 3), Alto Adige 3 (De Castro 2, Usechensilye)
+**Tiri da 3:** Gardolo 9 (Lucchini, Trivarelli, Perenzoni, Josol 3, Gambino 3), Alto Adige 3 (De Castro 2, Usechensilye)
 
-\*\*Tiri liberi:\*\* Gardolo 9/13, Alto Adige 5/6
+**Tiri liberi:** Gardolo 9/13, Alto Adige 5/6

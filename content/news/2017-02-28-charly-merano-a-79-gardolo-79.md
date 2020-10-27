@@ -75,6 +75,6 @@ Vi aspettiamo numerosi al fine di sostenere la squadra, forza Gardolo!!!
 
 Roby.
 
-\*\*Charly Merano A:\*\* Cominelli 25, Bartola 9, Tirello 10, Stefanovich 10, Quaresima 7, Beltrami 11, Berrera 5, Catibog NE, Zerbini. All. Corinaldesi.
+**Charly Merano A:** Cominelli 25, Bartola 9, Tirello 10, Stefanovich 10, Quaresima 7, Beltrami 11, Berrera 5, Catibog NE, Zerbini. All. Corinaldesi.
 
-\*\*Tiri da 3:\*\* Charly Merano A: 5 (4 Cominelli, Tirello), Gardolo: 6 (4 Dellai, Titon, Tani)
+**Tiri da 3:** Charly Merano A: 5 (4 Cominelli, Tirello), Gardolo: 6 (4 Dellai, Titon, Tani)

@@ -84,6 +84,6 @@ P.S: Ringraziamo calorosamente “Rizzo” per la generosità nell’aver offert
 Fino alla fine forza… Gardolo!!!  
 Roby
 
-\*\*Villazzano B:\*\* Dorigatti, Piccolotto 1, Sebastiani 10, Rubino, Boccalini 2, Maccani 9, Valla 9, Maccani, Chiarani 2, Lunardelli, Amorth, Ioriatti 1. All. Bertoldi.
+**Villazzano B:** Dorigatti, Piccolotto 1, Sebastiani 10, Rubino, Boccalini 2, Maccani 9, Valla 9, Maccani, Chiarani 2, Lunardelli, Amorth, Ioriatti 1. All. Bertoldi.
 
-\*\*Tiri da 3:\*\* Gardolo: 6 (Osello 2, Buffa, Ambrosi, Rossi), Villazzano B 0.
+**Tiri da 3:** Gardolo: 6 (Osello 2, Buffa, Ambrosi, Rossi), Villazzano B 0.

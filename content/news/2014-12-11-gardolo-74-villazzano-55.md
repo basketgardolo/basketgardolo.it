@@ -55,8 +55,8 @@ Gli Under 19 escono vincitori dal campo di Villazzano. Al via i gialloblu sbagli
 
 **Villazzano**: Silvani 12, Gasperotti, Gottardi, Tessari 11, Huber 9, Passerini 2, Cimino 2, Rotoli 8, Gilmozzi 2, Calliari 4, Berlanda 5, Montagnaro. All. Ravagni
 
-\*\*Parziali:\*\* 14-19, 16-24, 14-17, 11-14
+**Parziali:** 14-19, 16-24, 14-17, 11-14
 
-\*\*Tiri da 3\*\*: Villazzano 6 (Silvani 2, Rotoli 2, Tessari 1, Huber 1) Gardolo 0.
+**Tiri da 3**: Villazzano 6 (Silvani 2, Rotoli 2, Tessari 1, Huber 1) Gardolo 0.
 
-\*\*Usciti per falli\*\*: Calliari
+**Usciti per falli**: Calliari

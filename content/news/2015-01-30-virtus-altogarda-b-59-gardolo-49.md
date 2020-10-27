@@ -59,8 +59,8 @@ Nell'ultima partita della regular season gli Under 19 vengono sconfitti a Riva d
 
 **Virtus Altogarda B:** Meroni, Bertolini 4, Moratelli, Bonisolli 4, Lever 10, Madella, Perrucci 9, Giordano 17, Manzoni 4, Gazzini 2, Bedin 9. Coach: Zanoni
 
-\*\*Parziali:\*\* 18-9, 15-14, 15-16, 11-10
+**Parziali:** 18-9, 15-14, 15-16, 11-10
 
-\*\*Tiri da 3\*\*: Gardolo 2 (Bosetti 1, Fauri 1), Virtus Altogarda B 3 (Giordano 1, Bedin 1, Perrucci 1)
+**Tiri da 3**: Gardolo 2 (Bosetti 1, Fauri 1), Virtus Altogarda B 3 (Giordano 1, Bedin 1, Perrucci 1)
 
-\*\*Usciti per falli\*\*: Bertolini, Lazzarotto
+**Usciti per falli**: Bertolini, Lazzarotto

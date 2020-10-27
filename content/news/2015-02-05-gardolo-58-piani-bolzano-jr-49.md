@@ -57,8 +57,8 @@ Prossimo impegno sabato 7 febbraio in casa del fanalino di cosa Suedtirol Bolzan
 
 Jack
 
-\*\*Piani Bolzano:\*\* Lombardi 5, Lazzeri 1, Profaiser 2, Allen, Bazzan 4, D'Alessandro 4, Fox, Moretti Mar. 24, Braghin 8, Moretti Matt. 1, Marchesini
+**Piani Bolzano:** Lombardi 5, Lazzeri 1, Profaiser 2, Allen, Bazzan 4, D'Alessandro 4, Fox, Moretti Mar. 24, Braghin 8, Moretti Matt. 1, Marchesini
 
-\*\*Tiri da 3:\*\* Gardolo 5 (Trivarelli 2, Bertotti, Valer, Gambino), Piani Bz 2 (Lombardi, Braghin)
+**Tiri da 3:** Gardolo 5 (Trivarelli 2, Bertotti, Valer, Gambino), Piani Bz 2 (Lombardi, Braghin)
 
-\*\*Tiri liberi:\*\* Gardolo 15/22, Piani Bz 10/23
+**Tiri liberi:** Gardolo 15/22, Piani Bz 10/23

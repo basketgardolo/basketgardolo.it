@@ -57,8 +57,8 @@ Gardolo vince gara 2 classificandosi 3° nel campionato regionale Under 19. L'av
 
 **Villazzano**: Silvani 21, Gasperotti, Gottardi ne, Tessari 19, Andreatta 2, Passerini 5, Rotoli 2, Gilmozzi 6, Serati 2, Calliari 3, Berlanda, Montagnaro. All. Ravagni
 
-\*\*Parziali:\*\* 9-24, 25-13, 12-12, 14-15
+**Parziali:** 9-24, 25-13, 12-12, 14-15
 
-\*\*Tiri da 3\*\*: Gardolo 2 (Fauri 2), Villazzano 7 (Silvani 5, Passerini 1, Gilmozzi 1)
+**Tiri da 3**: Gardolo 2 (Fauri 2), Villazzano 7 (Silvani 5, Passerini 1, Gilmozzi 1)
 
-\*\*Usciti per falli\*\*: Passerini, Calliari, Berlanda
+**Usciti per falli**: Passerini, Calliari, Berlanda

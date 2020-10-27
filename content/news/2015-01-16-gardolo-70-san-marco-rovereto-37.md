@@ -57,8 +57,8 @@ Nel recupero del campionato Under 19 Gardolo torna alla vittoria contro San Marc
 
 **Rovereto**: Battistotti 9, Festini 2, Brussich 6, Ondertoller 3, Miorandi, Prosser 4, Degiampietro 4, Piacini ne, Vugdalic 2, Poteaca 7, Filipovic. All. Paissan
 
-\*\*Parziali:\*\* 10-8, 20-11, 26-9, 14-9
+**Parziali:** 10-8, 20-11, 26-9, 14-9
 
-\*\*Tiri da 3\*\*: Gardolo 3 (Zampiero 2, Lazzarotto 1), Rovereto 2 (Battistotti 1, Brussich 1)
+**Tiri da 3**: Gardolo 3 (Zampiero 2, Lazzarotto 1), Rovereto 2 (Battistotti 1, Brussich 1)
 
-\*\*Usciti per falli\*\*: nessuno
+**Usciti per falli**: nessuno

@@ -61,8 +61,8 @@ Arriva la seconda vittoria stagionale per i ragazzi della serie D. Sabato 25 ott
 
 Jack.
 
-\*\*US Piani\*\*: Bettoni, Bazzan 5, Moretti Matteo 17, Lazzeri 5, Profeiser 6, Allen 9, Di Stasio 3, Braghin, Marchesini 4, Dwomo, Paiola, Moretti M.
+**US Piani**: Bettoni, Bazzan 5, Moretti Matteo 17, Lazzeri 5, Profeiser 6, Allen 9, Di Stasio 3, Braghin, Marchesini 4, Dwomo, Paiola, Moretti M.
 
-\*\*Tiri da 3\*\*: Alto Adige 3 (De Castro 2, Marcon), Gardolo 4 (Josol, Trivarelli, Valer, Lazzarotto).
+**Tiri da 3**: Alto Adige 3 (De Castro 2, Marcon), Gardolo 4 (Josol, Trivarelli, Valer, Lazzarotto).
 
-\*\*Tiri liberi\*\*: Alto Adige 9/17, Gardolo 8/11
+**Tiri liberi**: Alto Adige 9/17, Gardolo 8/11

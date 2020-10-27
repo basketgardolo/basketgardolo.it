@@ -55,6 +55,6 @@ Per la serie D, il lavoro da fare in palestra non è tanto…. Ma di più!! Forz
 
 Jack.
 
-\*\*Tiri da 3\*\*: Trivarelli 2, Valer 2, Gambino
+**Tiri da 3**: Trivarelli 2, Valer 2, Gambino
 
-\*\*Usciti per falli:\*\* Valer
+**Usciti per falli:** Valer

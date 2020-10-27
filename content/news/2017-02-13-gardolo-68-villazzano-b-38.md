@@ -83,6 +83,6 @@ Fino alla fine forza Gardolo!
 
 Roby
 
-\*\*Villazzano B:\*\* Dorigatti, Piccolotto , Sebastiani 5, Rubino 2, Boccalini , Maccani 12, Valla 6, Chiarani 7, Cunial 2, Lunardelli 1, Amorth 3. All. Bertoldi.
+**Villazzano B:** Dorigatti, Piccolotto , Sebastiani 5, Rubino 2, Boccalini , Maccani 12, Valla 6, Chiarani 7, Cunial 2, Lunardelli 1, Amorth 3. All. Bertoldi.
 
-\*\*Tiri da 3:\*\* Gardolo 0, Villazzano B 1 (Chiarani).
+**Tiri da 3:** Gardolo 0, Villazzano B 1 (Chiarani).

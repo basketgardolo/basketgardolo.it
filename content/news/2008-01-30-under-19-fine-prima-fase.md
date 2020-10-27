@@ -2,7 +2,7 @@
 title: UNDER 19 – Fine prima fase
 date: 2008-01-30T00:16:08+00:00
 ---
-![under-19.jpg](http://www.basketgardolo.it/wp-content/uploads/2008/01/under-19.jpg)
+![under-19.jpg](/images/articoli/under-19.jpg)
 
 Siamo arrivati quasi alla fine della regular season per quanto riguarda il girone “Elite” campionato quest’anno di livello abbastanza alto con tutte le compagini avversarie formate in prevalenza da giocatori classe 89 con esperienza anche in serie superiori, ciononostante abbiamo disputato quasi tutte le partite giocandole alla pari con gli avversari per buona parte del tempo, e alcune le abbiamo perse per distrazioni ed errori abbastanza grossolani. L’inserimento dei nuovi compagni Ceri Stefano, Casagrande Alessandro e Bitteleri Alessandro, ci ha consentito di infoltire il gruppo storico e dopo un naturale rodaggio iniziale di migliorare le prestazioni in campo,anche grazie al ritorno di Alberto Farza, per quanto riguarda gli altri giocatori rimane il costante impegno del capitano Ros Alessandro, che ha giocato nonostante il mal di schiena, la grinta di Badu Brentari, i balletti in mezzo al campo di Fabrizio Guasta, la difesa del muro Light Matteo, le fantastiche torte di Stefano Ratatuille Endrighi, ci sono mancati punti del Big Max De prà miglior realizzatore lo scorso anno, e in tutt’altre faccende affacendato quest’anno, gli slalom di Yuri che buca la difesa di giganti alti esattamente il doppio di lui. Da ultimo voglio segnalare l’immagine indelebile del gigante Elia Brugnara che si è esibito in un contropiede cast to coast. Ragazzi vi aspetto tutti in palestra per iniziare al meglio la seconda fase e cominciare finalmente a vincere.YELLOW POWER!
 

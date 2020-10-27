@@ -57,8 +57,8 @@ Gli Under 19 concludono l'anno vincendo a Mezzolombardo, contro il Paganella Lav
 
 **Paganella**: Maino 15, Nocini 1, Bonmassar 10, Tonina 7, Gorza 9, Berti 2, Feller, Valer, Nardon, Ndiaye 2. All. Consoli
 
-\*\*Parziali:\*\* 13-17, 12-13, 12-19, 9-22
+**Parziali:** 13-17, 12-13, 12-19, 9-22
 
-\*\*Tiri da 3\*\*: Paganella 1 (Tonina 1) Gardolo 0.
+**Tiri da 3**: Paganella 1 (Tonina 1) Gardolo 0.
 
-\*\*Usciti per falli\*\*: Berti, Berloffa, Rossi
+**Usciti per falli**: Berti, Berloffa, Rossi

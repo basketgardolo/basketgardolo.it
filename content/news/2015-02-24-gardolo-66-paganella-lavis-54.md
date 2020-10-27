@@ -57,8 +57,8 @@ Gli Under 19 vincono la decisiva gara 3 e accedono alle semifinali del campionat
 
 **Paganella**: Maino 8, Nocini, Bonmassar 5, Tonina 4, Gorza 5, Zobele 28, Berti, Sicher 4, Ndiaye . All. Guastamacchia
 
-\*\*Parziali:\*\* 19-12, 18-24, 8-7, 21-11
+**Parziali:** 19-12, 18-24, 8-7, 21-11
 
-\*\*Tiri da 3\*\*: Gardolo 4 (Zampiero 3, Dallabetta 1) , Paganella 2 (Tonina 1, Zobele 1)
+**Tiri da 3**: Gardolo 4 (Zampiero 3, Dallabetta 1) , Paganella 2 (Tonina 1, Zobele 1)
 
-\*\*Usciti per falli\*\*: Berti
+**Usciti per falli**: Berti

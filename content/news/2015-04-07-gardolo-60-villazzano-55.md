@@ -57,8 +57,8 @@ Gardolo vince una combattuta gara 1 della finale terzo posto contro Villazzano. 
 
 **Villazzano**: Silvani 6, Gasperotti, Gottardi ne, Tessari 19, Huber 9, Andreatta 4, Passerini 2, Rotoli 3, Gilmozzi 4, Calliari 6, Berlanda 2, Montagnaro. All. Ravagni
 
-\*\*Parziali:\*\* 15-8, 18-18, 8-15, 19-14
+**Parziali:** 15-8, 18-18, 8-15, 19-14
 
-\*\*Tiri da 3\*\*: Gardolo 3 (Fauri 1, Dallabetta 1, Rossi 1), Villazzano 2 (Silvani 1, Rotoli 1)
+**Tiri da 3**: Gardolo 3 (Fauri 1, Dallabetta 1, Rossi 1), Villazzano 2 (Silvani 1, Rotoli 1)
 
-\*\*Usciti per falli\*\*: Fauri
+**Usciti per falli**: Fauri

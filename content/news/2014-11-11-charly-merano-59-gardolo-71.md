@@ -57,8 +57,8 @@ Gardolo sbanca il campo di Merano, nel big match del campionato Under 19. I gia
 
 **Charly Merano:** Tirello, Bottonelli 16, Botticelli, Berrera, Brunoro 8, Ladurner, Frinu 6, Lorenzi 9, Beltrami 15,  Ben hmida, Altomare 1, Cominelli 3. Coach Corinaldesi.
 
-\*\*Parziali:\*\* 8-12, 20-17, 15-19, 16-23
+**Parziali:** 8-12, 20-17, 15-19, 16-23
 
-\*\*Tiri da 3\*\*: Gardolo 4 (Zampiero 1, Rossi 1, Lazzarotto 1, Fauri 1), Charly Merano 1 (Cominelli 1)
+**Tiri da 3**: Gardolo 4 (Zampiero 1, Rossi 1, Lazzarotto 1, Fauri 1), Charly Merano 1 (Cominelli 1)
 
-\*\*Usciti per falli\*\*: nessuno
+**Usciti per falli**: nessuno

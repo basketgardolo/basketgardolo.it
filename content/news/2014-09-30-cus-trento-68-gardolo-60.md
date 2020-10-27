@@ -50,10 +50,10 @@ Arriva il primo referto giallo della stagione per la nostra serie D. Nella parti
 Partita che confrontata alla prima stagionale fa sorridere (più o meno) coach Tomazzolli: si sono visti infatti dei miglioramenti sia in difesa sia in attacco (soprattutto la riduzione del numero di palleggi e il parallelo aumento di quello dei passaggi), tuttavia i punti su cui lavorare sono ancora tanti, tantissimi: le palle perse sono state forse la pecca principale della partita, spesso dettate dalla fretta, così come scelte errate in diverse situazioni di gioco.  
 Infine, sottolineo il debutto in prima squadra del playmaker under 19 (classe ’96) Stefano Fauri, a cui ci si è messa anche la sfortuna per negare la gioia del primo canestro in serie D (per la gioia dei suoi compagni di squadra che oltre alle paste per il debutto, potranno chiedere anche quelle per il primo canestro che, siamo sicuri non tarderà ad arrivare).
 
-\*\*Cus Trento\*\*: Tacconi, Sissa 6, Parise 2, Berti 14, Bijedic 8, Agostini 2, Porfido 10, Seck 2, Zago 4, Zini 3, Bodini, Ciotoli 17.
+**Cus Trento**: Tacconi, Sissa 6, Parise 2, Berti 14, Bijedic 8, Agostini 2, Porfido 10, Seck 2, Zago 4, Zini 3, Bodini, Ciotoli 17.
 
-\*\*Tiri da 3\*\*: CUS 5 ( Porfido 2, Berti 2, Zini), Gardolo 5 (Bertoluzza 2, Trivarelli 2, Mosna).
+**Tiri da 3**: CUS 5 ( Porfido 2, Berti 2, Zini), Gardolo 5 (Bertoluzza 2, Trivarelli 2, Mosna).
 
-\*\*Tiri Liberi\*\*: Gardolo 15/20
+**Tiri Liberi**: Gardolo 15/20
 
-\*\*Usciti per falli\*\*: nessuno
+**Usciti per falli**: nessuno

@@ -8,7 +8,7 @@ NOV
 
 2012
 
-\*\*Punti segnati\*\*
+**Punti segnati**
 
 FRONZA ANDREA
 
@@ -52,20 +52,20 @@ FRANZOI NICOLA
 
 ne
 
-\*\*Commento:\*\*  
+**Commento:**  
 Gardolo vince in casa contro Charly Merano, in una gara in cui l'unica cosa da salvare sono solo i due punti conquistati. Merano parte bene trovando con continuità il canestro sia in penetrazione che dalla lunga distanza, Gardolo fatica in difesa e spreca in attacco: 17-20 per gli ospiti nel primo quarto e 31-33 alla pausa. Nella ripresa i gardoloti sembrano non riuscire a cambiare inerzia alla partita, Merano si porta fino al +8, con Gardolo che non trova più la via del canestro, nonostante i tanti recuperi difensivi. Nel finale di terzo quarto Gardolo riduce lo svantaggio e si riporta a -1 nonostante i molti errori dalla lunetta. Nell'ultima frazione finalmente i gialloblu sistemano l'attacco e riescono a portarsi in vantaggio chiudendo 64-53.
 
 [Pagina Serie D >](http://www.basketgardolo.it/serie-d)
 
 [Partite Serie D >](http://www.basketgardolo.it/?tag=serie-d&cat=11)
 
-\*\*Parziali\*\*: 17-20, 14-13, 10-9, 23-11
+**Parziali**: 17-20, 14-13, 10-9, 23-11
 
-\*\*Punti Merano: \*\*Vigni 8, Tomissich 6, Negrisolo 11, Diouf 2, Unterholzer 2, Resca 4, Spera, Zanette, Mantovani, Dia 20. All. Schwienbacher\*\*\*\*
+**Punti Merano: **Vigni 8, Tomissich 6, Negrisolo 11, Diouf 2, Unterholzer 2, Resca 4, Spera, Zanette, Mantovani, Dia 20. All. Schwienbacher****
 
-\*\*Tiri da 3 punti:\*\*  
-\*\*Gardolo 3:\*\* Fronza 1, Bijedic 1, Lucchini 1  
-\*\*Merano 7:\*\* Negrisolo 3, Tomissich 2, Dia 2
+**Tiri da 3 punti:**  
+**Gardolo 3:** Fronza 1, Bijedic 1, Lucchini 1  
+**Merano 7:** Negrisolo 3, Tomissich 2, Dia 2
 
-\*\*Tiri liberi: Gardolo\*\* 15/32; \*\*Merano\*\* 2/6  
-\*\*Usciti per falli: \*\*Unterholzer
+**Tiri liberi: Gardolo** 15/32; **Merano** 2/6  
+**Usciti per falli:** Unterholzer

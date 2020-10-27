@@ -59,10 +59,10 @@ SPAGNOLO THOMAS
 **Commento:**  
 Facile affermazione nella prima giornata di ritorno per gli Under 19, che sconfiggono il Trentino Basket. Gardolo parte bene in attacco trovando una buona circolazione che porta 9 punti di Spagnolo, 8 di Fauri e 6 di Venturini, ma la difesa concede qualche canestro facile agli ospiti. Nel secondo quarto Lazzarotto mette a segno ben 15 punti trovando facili penetrazioni nella difesa del Trentino Basket, andando alla pausa sul 56-14. Al ritorno in campo la concentrazione dei gardoloti comincia a venir meno, concedendo qualcosa di troppo in difesa. In attacco invece vanno a segno ben 8 giocatori diversi. Nell'ultimo quarto i gialloblu trovano ancora diversi punti nel colorato con Berloffa e Bevilacqua. Negli ultimi minuti l'intensità del Gardolo torna a vedersi per cercare di raggiungere la soglia dei 100 punti, trovati con un 2/2 dalla lunetta da Rossi.
 
-\*\*Trentino Basket\*\*: Campaldini 17, Arsiè 4, Slanzi 6, Dellaidotti, Bruzzi 6, Ramazzotti 2. Coach Tomasi
+**Trentino Basket**: Campaldini 17, Arsiè 4, Slanzi 6, Dellaidotti, Bruzzi 6, Ramazzotti 2. Coach Tomasi
 
-\*\*Parziali:\*\* 29-8, 27-6, 24-10, 21-11
+**Parziali:** 29-8, 27-6, 24-10, 21-11
 
-\*\*Tiri da 3\*\*: Gardolo 4 (Fauri 2, Lazzarotto 1, Spagnolo 1)
+**Tiri da 3**: Gardolo 4 (Fauri 2, Lazzarotto 1, Spagnolo 1)
 
-\*\*Usciti per falli\*\*: nessuno
+**Usciti per falli**: nessuno

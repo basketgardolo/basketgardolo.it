@@ -59,8 +59,8 @@ Gli Under 19 portano a casa una vittoria sull'ostico campo di Rovereto. Al via i
 
 **Rovereto**: Battistotti 4 Brussich, Ondertoller 8, Hamzaj 8, Dellantonio 10, Prosser 2, Degiampietro 2, Vugdalic 9, Poteaca 3, Miorandi 2, Filipovic ne. All. Paissan
 
-\*\*Parziali:\*\* 13-7, 11-21, 9-10, 15-24
+**Parziali:** 13-7, 11-21, 9-10, 15-24
 
-\*\*Tiri da 3\*\*: Rovereto 1 ( Vugdalic 1), Gardolo 2 (Zampiero 1, Fauri 1).
+**Tiri da 3**: Rovereto 1 ( Vugdalic 1), Gardolo 2 (Zampiero 1, Fauri 1).
 
-\*\*Usciti per falli\*\*: Venturini
+**Usciti per falli**: Venturini

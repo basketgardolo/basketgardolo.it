@@ -58,8 +58,8 @@ Purtroppo nell'ultimo quarto le cose non vanno meglio e gli attenti rivani ci im
 
 Lorenzo Gambino.
 
-\*\*Virtus Altogarda\*\*:Hainzl 7, Zanoni 16, Fia 4, Spagnolli, Volpi 19, Mazza, Pastori 8, Benedetti, Proch 7, Stienen 3, Carretta, Finarolli 4. (Coach Torboli S.)
+**Virtus Altogarda**:Hainzl 7, Zanoni 16, Fia 4, Spagnolli, Volpi 19, Mazza, Pastori 8, Benedetti, Proch 7, Stienen 3, Carretta, Finarolli 4. (Coach Torboli S.)
 
-\*\*Tiri da 3\*\*: Virtus Altogarda 5 (Hainzl, Zanoni 2, Volpi, Stienen), Gardolo 2 (Bertoluzza, Trivarelli).
+**Tiri da 3**: Virtus Altogarda 5 (Hainzl, Zanoni 2, Volpi, Stienen), Gardolo 2 (Bertoluzza, Trivarelli).
 
-\*\*Tiri liberi\*\*: Virtus Altogarda 15/19, Gardolo 15/25.
+**Tiri liberi**: Virtus Altogarda 15/19, Gardolo 15/25.

@@ -12,37 +12,37 @@ Venduto da
 
 1°
 
-\*\*0046\*\*
+**0046**
 
 Massimiliano Pegoretti
 
 2°
 
-\*\*1061\*\*
+**1061**
 
 Nicola Gozzer
 
 3°
 
-\*\*3156\*\*
+**3156**
 
 Livia Jobstraibizer
 
 4°
 
-\*\*1605\*\*
+**1605**
 
 Stefano Prezzi
 
 5°
 
-\*\*4056\*\*
+**4056**
 
 Gianni Baldo
 
 6°
 
-\*\*3254\*\*
+**3254**
 
 Gianni Baldo
 

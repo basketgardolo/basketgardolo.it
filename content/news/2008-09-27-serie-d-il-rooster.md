@@ -2,19 +2,19 @@
 title: SERIE D – il roster
 date: 2008-09-27T11:25:56+00:00
 ---
- \*\*NOME\*\*
+**NOME**
 
-\*\*COGNOME\*\*
+**COGNOME**
 
-\*\*Anno\*\*
+**Anno**
 
-\*\*Cm\*\*
+**Cm**
 
-\*\*Ruolo\*\*
+**Ruolo**
 
-\*\*Gianfranco\*\*
+**Gianfranco**
 
-\*\*Anfora\*\*
+**Anfora**
 
 1972
 
@@ -22,9 +22,9 @@ date: 2008-09-27T11:25:56+00:00
 
 Ala/Pivot
 
-\*\*Andrea\*\*
+**Andrea**
 
-\*\*Massignani\*\*
+**Massignani**
 
 1981
 
@@ -32,9 +32,9 @@ Ala/Pivot
 
 Ala
 
-\*\*Matteo\*\*
+**Matteo**
 
-\*\*Mosna\*\*
+**Mosna**
 
 1982
 
@@ -42,9 +42,9 @@ Ala
 
 Play/Guardia
 
-\*\*Andrea\*\*
+**Andrea**
 
-\*\*Fronza\*\*
+**Fronza**
 
 1982
 
@@ -52,9 +52,9 @@ Play/Guardia
 
 Guardia
 
-\*\*Daniele\*\*
+**Daniele**
 
-\*\*Casagrande\*\*
+**Casagrande**
 
 1983
 
@@ -62,9 +62,9 @@ Guardia
 
 Ala
 
-\*\*Daniele \*\*
+**Daniele**
 
-\*\*Rodler\*\*
+**Rodler**
 
 1985
 
@@ -72,9 +72,9 @@ Ala
 
 Play
 
-\*\*Jovan\*\*
+**Jovan**
 
-\*\*Bjedic\*\*
+**Bjedic**
 
 1986
 
@@ -82,9 +82,9 @@ Play
 
 Guardia
 
-\*\*Daniele\*\*
+**Daniele**
 
-\*\*Lucchini\*\*
+**Lucchini**
 
 1987
 
@@ -92,9 +92,9 @@ Guardia
 
 Guardia
 
-\*\*Federico \*\*
+**Federico**
 
-\*\*Pederzolli\*\*
+**Pederzolli**
 
 1987
 
@@ -102,9 +102,9 @@ Guardia
 
 Guardia
 
-\*\*Michele\*\*
+**Michele**
 
-\*\*Bosetti\*\*
+**Bosetti**
 
 1987
 
@@ -112,9 +112,9 @@ Guardia
 
 Play/Guardia
 
-\*\*Massimo \*\*
+**Massimo**
 
-\*\*Sovilla\*\*
+**Sovilla**
 
 1987
 
@@ -122,9 +122,9 @@ Play/Guardia
 
 Guardia
 
-\*\*Emanuele\*\*
+**Emanuele**
 
-\*\*Margoni\*\*
+**Margoni**
 
 1988
 
@@ -132,9 +132,9 @@ Guardia
 
 Guardia
 
-\*\*Fabrizio\*\*
+**Fabrizio**
 
-\*\*Guastamacchia\*\*
+**Guastamacchia**
 
 1989
 
@@ -142,9 +142,9 @@ Guardia
 
 Play
 
-\*\*Massimiliano\*\*
+**Massimiliano**
 
-\*\*De Prà\*\*
+**De Prà**
 
 1989
 
@@ -152,9 +152,9 @@ Play
 
 Ala
 
-\*\*Alessandro\*\*
+**Alessandro**
 
-\*\*Rosatti\*\*
+**Rosatti**
 
 1989
 
@@ -162,9 +162,9 @@ Ala
 
 Ala
 
-\*\*Alberto\*\*
+**Alberto**
 
-\*\*Franzoi\*\*
+**Franzoi**
 
 1989
 
@@ -172,9 +172,9 @@ Ala
 
 Ala
 
-\*\*Matteo\*\*
+**Matteo**
 
-\*\*Lion\*\*
+**Lion**
 
 1989
 
@@ -184,4 +184,4 @@ Ala
 
 coach
 
-\*\*Simone Eglione\*\*
+**Simone Eglione**

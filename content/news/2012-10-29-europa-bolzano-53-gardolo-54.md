@@ -8,7 +8,7 @@ OTT
 
 2012
 
-\*\*Punti segnati\*\*
+**Punti segnati**
 
 MICHELE BOSETTI
 

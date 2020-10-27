@@ -71,6 +71,6 @@ P.s: Anche in questo caso, come ormai da tradizione, data la prestazione eccelle
 
 Roby
 
-\*\*Pergine:\*\* Zavarise 6, Xausa 11, Eccher 0 , Zanella 6, Valcanover 9, Slanzi 2, Argentieri 0, Beber 2, Betti 7, Riccamboni 0, Maffei 0, Gjonaj 6. All. Delibori.
+**Pergine:** Zavarise 6, Xausa 11, Eccher 0 , Zanella 6, Valcanover 9, Slanzi 2, Argentieri 0, Beber 2, Betti 7, Riccamboni 0, Maffei 0, Gjonaj 6. All. Delibori.
 
-\*\*Tiri da 3:\*\* Gardolo: 2 (Osello, Ambrosi), Pergine: 3 (Valcanover, Betti, Zanella)
+**Tiri da 3:** Gardolo: 2 (Osello, Ambrosi), Pergine: 3 (Valcanover, Betti, Zanella)

@@ -59,8 +59,8 @@ Dopo la partita momento di festa e svago presso la nostra pizzeria di fiducia in
 
 Jack
 
-\*\*Rovereto:\*\* Todeschi 10, Nicoli 10, Piacini 8, Brunori 16, Vugdalic 3, Novali 2, Gentili, Dellantonio 4, Bumbli 12, Mazzucato 4
+**Rovereto:** Todeschi 10, Nicoli 10, Piacini 8, Brunori 16, Vugdalic 3, Novali 2, Gentili, Dellantonio 4, Bumbli 12, Mazzucato 4
 
-\*\*Tiri da 3:\*\* Gardolo 6 (Trivarelli 3, Bertotti, Gambino 2), Rovereto 9 (Bumbli 4, Todeschi 2, Nicoli, Vigdalic, Piacini)
+**Tiri da 3:** Gardolo 6 (Trivarelli 3, Bertotti, Gambino 2), Rovereto 9 (Bumbli 4, Todeschi 2, Nicoli, Vigdalic, Piacini)
 
-\*\*Tiri liberi:\*\* Gardolo 15/27, Rovereto 16/21
+**Tiri liberi:** Gardolo 15/27, Rovereto 16/21

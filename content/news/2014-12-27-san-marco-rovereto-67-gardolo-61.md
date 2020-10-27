@@ -61,5 +61,5 @@ Coach Tomazzolli e i ragazzi avranno sicuramente da lavorare a partire dagli err
 
 Jack.
 
-\*\*San Marco:\*\*Cugola 12, Brunori 2, Rosani 2, Bumbli 13, Nicoli 6, Vugdalic 3, Festini, Prezzi 13, Basso 6, Dellantonio, Todeschi 10  
+**San Marco:**Cugola 12, Brunori 2, Rosani 2, Bumbli 13, Nicoli 6, Vugdalic 3, Festini, Prezzi 13, Basso 6, Dellantonio, Todeschi 10  
 All. Ferraglia

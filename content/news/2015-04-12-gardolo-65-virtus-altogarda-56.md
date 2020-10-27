@@ -56,8 +56,8 @@ Alla sirena il punteggio è di 65-46 per i padroni di casa.
 Ottima vittoria che serve sia a consolidare il terzo posto in classifica prendendo le distanze da Rovereto e Merano entrambe in cerca della quarta piazza, sia a dare morale e fiducia ai nostri (partita che ha dimostrato che i gialloblu se la possono giocare davvero con tutti) in vista degli imminenti play off (dove con tutta probabilità sarà ancora Virtus la nostra avversaria).  
 Jack
 
-\*\*Virtus Altogarda:\*\* Hainzl 12, Zanoni 11, Volpi 10, Danti, Morghen 9, Mazza, Proch 2, Stienen, Carretta, Finarolli 2
+**Virtus Altogarda:** Hainzl 12, Zanoni 11, Volpi 10, Danti, Morghen 9, Mazza, Proch 2, Stienen, Carretta, Finarolli 2
 
-\*\*Tiri da 3:\*\* Gardolo 7 (Trivarelli 2, Bertotti 2, Valer 2, Gambino), Virtus Altogarda 2 (Zanoni, Volpi)
+**Tiri da 3:** Gardolo 7 (Trivarelli 2, Bertotti 2, Valer 2, Gambino), Virtus Altogarda 2 (Zanoni, Volpi)
 
-\*\*Tiri liberi:\*\* Gardolo 12/22, Virtus Altogarda 8/14
+**Tiri liberi:** Gardolo 12/22, Virtus Altogarda 8/14

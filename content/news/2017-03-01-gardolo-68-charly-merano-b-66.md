@@ -97,6 +97,6 @@ Fino alla fine forza Gardolo!
 
 Roby.
 
-\*\*Charly Merano B:\*\* Battisti NE, Reolon, Cinus 17, Erschbaumer NE, Giaquinta, Zambarda 4, Lorenzi 38, Receku NE, Bonanno, Ndiaye NE, Golinelli 7. All. Schulderbacher.
+**Charly Merano B:** Battisti NE, Reolon, Cinus 17, Erschbaumer NE, Giaquinta, Zambarda 4, Lorenzi 38, Receku NE, Bonanno, Ndiaye NE, Golinelli 7. All. Schulderbacher.
 
-\*\*Tiri da 3:\*\* Gardolo: 2 (2 Dellai), Charly Merano B: 7 (6 Lorenzi, Cinus)
+**Tiri da 3:** Gardolo: 2 (2 Dellai), Charly Merano B: 7 (6 Lorenzi, Cinus)

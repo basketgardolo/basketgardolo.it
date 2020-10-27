@@ -59,8 +59,8 @@ Si interrompe la striscia vincente dei nostri Under 19 per mano della giovane Vi
 
 **Virtus Altogarda B:** Bertolini 6, Moratelli 6, Malfer, Lever 13, Madella, Perrucci 10, Giordano 22, Manzoni 4, Gazzini 3, Bedin 8. Coach: Zanoni
 
-\*\*Parziali:\*\* 17-15, 14-23, 18-20, 7-14
+**Parziali:** 17-15, 14-23, 18-20, 7-14
 
-\*\*Tiri da 3\*\*: Gardolo 1 (Zampiero 1), Virtus Altogarda B 5 (Giordano 2, Moratelli 2, Perrucci 1)
+**Tiri da 3**: Gardolo 1 (Zampiero 1), Virtus Altogarda B 5 (Giordano 2, Moratelli 2, Perrucci 1)
 
-\*\*Usciti per falli\*\*: Bevilacqua, Berloffa, Bedin
+**Usciti per falli**: Bevilacqua, Berloffa, Bedin

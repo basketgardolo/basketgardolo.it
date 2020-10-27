@@ -16,8 +16,8 @@ Il Capitano Bachir Hamoudi
 
 Il coach allora aggiunge…
 
-\*\*Crescere, assimilare e migliorare i concetti e la motricità conseguenti a spaziature, letture, collaborazioni, tecnica individuale e lavoro fisico. Tutto questo voglio sia per voi una partita… un'ennesima forma di allenamento in un diverso contesto… se poi sono 40 minuti di zona usiamoli per imparare!!!
+Crescere, assimilare e migliorare i concetti e la motricità conseguenti a spaziature, letture, collaborazioni, tecnica individuale e lavoro fisico. Tutto questo voglio sia per voi una partita… un'ennesima forma di allenamento in un diverso contesto… se poi sono 40 minuti di zona usiamoli per imparare!!!
 
 Troppo spesso nelle giovanili si vuole il "risultato" e si vuole già "usare" quel che si è imparato… io vi assicuro che il tempo del "risultato" e dell'"usare", almeno con me, è molto, molto lontano e sarà allora ben più appagante… certo ci vuole oggi una grande volontà e impegno.
 
-Il "fantomatico risultato" di questa partita non lo conosco… conosco invece, molto molto bene, come avete giocato.\*\*
+Il "fantomatico risultato" di questa partita non lo conosco… conosco invece, molto molto bene, come avete giocato.

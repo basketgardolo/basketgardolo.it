@@ -61,8 +61,8 @@ Vittoria che di fatto garantisce al Gardolo l’accesso alle Final Four di coppa
 
 Jack
 
-\*\*San Marco Rovereto:\*\* Todeschi 9, Nicoli 6, Piacini 3, Brunori 7, Vugdalic 2, Teosanof 2, Novali 2, Zuin 2, Gentili, Dellantonio, Bumbli 5, Mazzuccato 18
+**San Marco Rovereto:** Todeschi 9, Nicoli 6, Piacini 3, Brunori 7, Vugdalic 2, Teosanof 2, Novali 2, Zuin 2, Gentili, Dellantonio, Bumbli 5, Mazzuccato 18
 
-\*\*Tiri da 3:\*\* Gardolo 1 (Trivarelli), San Marco Rovereto 6 (Todeschi 2, Bumbli, Mazzuccato, Nicoli, Piacini)
+**Tiri da 3:** Gardolo 1 (Trivarelli), San Marco Rovereto 6 (Todeschi 2, Bumbli, Mazzuccato, Nicoli, Piacini)
 
-\*\*Tiri liberi:\*\* Gardolo 18/25; San Marco Rovereto 8/19
+**Tiri liberi:** Gardolo 18/25; San Marco Rovereto 8/19
