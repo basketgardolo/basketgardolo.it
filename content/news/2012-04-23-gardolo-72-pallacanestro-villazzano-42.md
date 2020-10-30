@@ -1,64 +1,22 @@
 ---
 title: Gardolo 72 – Pall. Villazzano 42
-date: 2012-04-23T17:57:41+00:00
+date: 2012-04-20T17:57:41+00:00
 ---
-APR
 
-20
-
-2012
-
-**Punti segnati**
-
-BALDO MIRKO
-
-2
-
-NDOME KHADIM
-
-9
-
-MATTIOLI ROBERTO
-
-5
-
-TROIANO NICOLO’
-
-RIGATO NICOLO’
-
-N.E.
-
-TOMASI OMAR
-
-N.E.
-
-DALLABETTA MICHAEL
-
-10
-
-MARGONI MICHELE
-
-2
-
-ZENI FILIPPO
-
-3
-
-BERLOFFA RICCARDO
-
-7
-
-VENTURA THOMAS
-
-19
-
-BEVILACQUA FEDERICO
-
-15
-
-[Pagina UNDER 17 >](http://www.basketgardolo.it/under-17)
-
-[Partite UNDER 17 >](http://www.basketgardolo.it/?tag=under-17&cat=11)
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO MIRKO | 2 |
+| NDOME KHADIM | 9 |
+| MATTIOLI ROBERTO | 5 |
+| TROIANO NICOLO’ | 0 |
+| RIGATO NICOLO’ | N.E. |
+| TOMASI OMAR | N.E. |
+| DALLABETTA MICHAEL | 10 |
+| MARGONI MICHELE | 2 |
+| ZENI FILIPPO | 3 |
+| BERLOFFA RICCARDO | 7 |
+| VENTURA THOMAS | 19 |
+| BEVILACQUA FEDERICO | 15 |
 
 **Commento:**  
 Dopo varie discussioni tra Federazione Veneto e Trentino ci trovavamo costretti a giocare la finale venerdì 20 aprile alle 18.30 in casa, quindi 2 giorni dopo la semifinale; riuscivamo quindi a fare un solo allenamento preparatorio e nemmeno al palazzetto, mentre i nostri avversari si allenavano in casa nostra….  

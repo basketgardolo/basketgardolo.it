@@ -1,63 +1,24 @@
 ---
 title: Pergine 93 – Gardolo 77
-date: 2012-06-08T10:34:01+00:00
+date: 2012-06-06T10:34:01+00:00
 ---
-GIU
-
-6
-
-2012
-
-**Punti segnati**
-
-FRONZA ANDREA
-
-10
-
-LUCCHINI DANIELE
-
-4
-
-DALLABETTA DANIEL
-
-MATTEDI GIULIO
-
-2
-
-BIJEDIC JOVAN
-
-18
-
-CASAGRANDE DANIELE
-
-19
-
-MOSNA MATTEO
-
-5
-
-TRIVARELLI GIACOMO
-
-PEDROTTI MARCO
-
-5
-
-GAMBINO LORENZO
-
-BAFTIRI ARBEN
-
-12
-
-PEDERZOLLI FEDERICO
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FRONZA ANDREA | 10 |
+| LUCCHINI DANIELE | 4 |
+| DALLABETTA DANIEL | 0 |
+| MATTEDI GIULIO | 2 |
+| BIJEDIC JOVAN | 18 |
+| CASAGRANDE DANIELE | 19 |
+| MOSNA MATTEO | 5 |
+| TRIVARELLI | GIACOMO |
+| PEDROTTI MARCO | 5 |
+| GAMBINO LORENZO | 0 |
+| BAFTIRI ARBEN | 12 |
+| PEDERZOLLI FEDERICO | 2 |
 
 **Commento:**  
 Pergine vince il campionato di Serie D battendo Gardolo in gara 4 e aggiudicandosi la serie 3-1. I gialloblu recuperano Fronza e Bijedic e il risultato si vede nei primi due quarti con Gardolo sempre vicino ai valsuganotti: 46-42 all'intervallo. E' nel terzo quarto che si decide la partita (come in gara 3), troppi errori dei gardoloti, che sbagliano alcune conclusioni da sotto canestro oltre ad un 0/6 ai liberi, nel contempo Pergine piazza canestri pesanti. Nel finale gli ospiti cercano di non mollare, ma ormai le energie non ci sono più. Vince pergine 93-77.
-
-[Pagina Serie D >](http://www.basketgardolo.it/serie-d)
-
-[Partite Serie D >](http://www.basketgardolo.it/?tag=serie-d&cat=11)
 
 **Parziali**: 20-17, 26-25, 26-10, 21-25  
 
