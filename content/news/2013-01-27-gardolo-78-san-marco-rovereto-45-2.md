@@ -1,63 +1,24 @@
 ---
 title: Gardolo 78 – San Marco Rovereto 45
-date: 2013-01-27T08:41:47+00:00
+date: 2013-01-26T08:41:47+00:00
 ---
-GEN
-
-26
-
-2012
-
-**Punti segnati**
-
-FRONZA ANDREA
-
-2
-
-LUCCHINI DANIELE
-
-18
-
-MATTEDI GIULIO
-
-4
-
-BIJEDIC JOVAN
-
-8
-
-CASAGRANDE DANIELE
-
-8
-
-CONSOLI ALESSANDRO
-
-2
-
-MOSNA MATTEO
-
-13
-
-PEDROTTI MARCO
-
-3
-
-PERISSINOTTO MATTEO
-
-BAFTIRI ARBEN
-
-12
-
-GAMBINO LORENZO
-
-8
-
-BERTOLUZZA DAVIDE
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FRONZA ANDREA | 2 |
+| LUCCHINI DANIELE | 18 |
+| MATTEDI GIULIO | 4 |
+| BIJEDIC JOVAN | 8 |
+| CASAGRANDE DANIELE | 8 |
+| CONSOLI ALESSANDRO | 2 |
+| MOSNA MATTEO | 13 |
+| PEDROTTI MARCO | 3 |
+| PERISSINOTTO MATTEO | 0 |
+| BAFTIRI ARBEN | 12 |
+| GAMBINO LORENZO | 8 |
+| BERTOLUZZA DAVIDE | 0 |
 
 **Commento:**  
-Gardolo vince contro Rovereto in una partita sempre a senso unico. Pronti via: bombe di Mosna e Bijedic, e canestri di Baftiri, Gambino e Lucchini per il 12-0 gardoloto. I gialloblu giocano bene e chiudono il quarto sul 23-10. Nella seconda frazione l'intensità difensiva dei padroni di casa non cala, in attacco 8 punti di Casagrande e altrettanti di Lucchini portano alla pausa lunga sul 49-17. Al ritorno in campo Gardolo parte bene aumentando ulteriormente il divario, con Gambino e Baftiri a dettar legge nel colorato. Nell'ultimo quarto l'intensità difensiva e la lucidità in attacco calano; Baftiri, Lucchini e il recuperato Pedrotti trovano il canestro per il 78-45 finale.[Pagina Serie D >](http://www.basketgardolo.it/serie-d)
-
-[Partite Serie D >](http://www.basketgardolo.it/?tag=serie-d&cat=11)
+Gardolo vince contro Rovereto in una partita sempre a senso unico. Pronti via: bombe di Mosna e Bijedic, e canestri di Baftiri, Gambino e Lucchini per il 12-0 gardoloto. I gialloblu giocano bene e chiudono il quarto sul 23-10. Nella seconda frazione l'intensità difensiva dei padroni di casa non cala, in attacco 8 punti di Casagrande e altrettanti di Lucchini portano alla pausa lunga sul 49-17. Al ritorno in campo Gardolo parte bene aumentando ulteriormente il divario, con Gambino e Baftiri a dettar legge nel colorato. Nell'ultimo quarto l'intensità difensiva e la lucidità in attacco calano; Baftiri, Lucchini e il recuperato Pedrotti trovano il canestro per il 78-45 finale.
 
 **Parziali**: 23-10, 26-7, 18-14, 11-14
 
