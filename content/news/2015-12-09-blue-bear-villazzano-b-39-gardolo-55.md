@@ -1,50 +1,18 @@
 ---
 title: Blue Bear Villazzano B 39 – Gardolo 55
-date: 2015-12-09T08:59:40+00:00
+date: 2015-12-07T08:59:40+00:00
 ---
-DIC
-
-07
-
-2015
-
-**Punti segnati**
-
-STENICO CRISTIAN
-
-8
-
-BALDO YURI
-
-13
-
-SOVILLA MASSIMO
-
-6
-
-FRANZOI NICOLA
-
-5
-
-DALPIAZ LUCA
-
-1
-
-MALFER MICHAEL
-
-3
-
-BOSETTI MICHELE
-
-4
-
-BRUGNARA ELIA
-
-11
-
-SACCOMAN LORENZO
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| STENICO CRISTIAN | 8 |
+| BALDO YURI | 13 |
+| SOVILLA MASSIMO | 6 |
+| FRANZOI NICOLA | 5 |
+| DALPIAZ LUCA | 1 |
+| MALFER MICHAEL | 3 |
+| BOSETTI MICHELE | 4 |
+| BRUGNARA ELIA | 11 |
+| SACCOMAN LORENZO | 4 |
 
 **Commento:**  
 Promozione che torna alla vittoria continuando il saliscendi di prestazioni che sta caratterizzando questo inizio di stagione.

@@ -1,62 +1,22 @@
 ---
 title: Gardolo 94 – Brunico 38
-date: 2016-10-24T20:47:48+00:00
+date: 2016-10-23T20:47:48+00:00
 ---
-OTT
 
-23
-
-2016
-
-**Punti segnati**
-
-BALDO MIRKO
-
-9
-
-BOSETTI MICHELE
-
-7
-
-DALLAPICCOLA LUCA
-
-5
-
-RAGGI DAVIDE
-
-6
-
-DALLABETTA DANIEL
-
-2
-
-STENICO CRISTIAN
-
-12
-
-PERINI ALVISE
-
-15
-
-SACCOMAN LORENZO
-
-6
-
-DALPIAZ LUCA
-
-15
-
-MALFER MICHAEL
-
-5
-
-BERLOFFA RICCARDO
-
-10
-
-UGBEYI KESSE IJI
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO MIRKO | 9 |
+| BOSETTI MICHELE | 7 |
+| DALLAPICCOLA LUCA | 5 |
+| RAGGI DAVIDE | 6 |
+| DALLABETTA DANIEL | 2 |
+| STENICO CRISTIAN | 12 |
+| PERINI ALVISE | 15 |
+| SACCOMAN LORENZO | 6 |
+| DALPIAZ LUCA | 15 |
+| MALFER MICHAEL | 5 |
+| BERLOFFA RICCARDO | 10 |
+| UGBEYI KESSE IJI | 2 |
 
 **Commento:**  
 Pronti… Via! Il BC GARDOLO del neotecnico Mattivi parte in quarta con un asfissiante pressing a tutto campo che durerà per tutti i 40 minuti di gioco.  

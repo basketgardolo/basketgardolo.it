@@ -1,42 +1,17 @@
 ---
 title: Gardolo 58 – Villazzano A 50
-date: 2016-12-23T13:59:26+00:00
+date: 2016-12-17T13:59:26+00:00
 ---
-DIC
-
-17
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-DELLAI MATTEO
-
-14
-
-TANI EUGENIO
-
-2
-
-BUFFA ROBERTO
-
-17
-
-OSELLO DAMIANO
-
-11
-
-AMBROSI GIOVANNI
-
-8
-
-PANIZZA LUCA
-
-6
-
-BALDESSARI PIETRO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 0 |
+| DELLAI MATTEO | 14 |
+| TANI EUGENIO | 2 |
+| BUFFA ROBERTO | 17 |
+| OSELLO DAMIANO | 11 |
+| AMBROSI GIOVANNI | 8 |
+| PANIZZA LUCA | 6 |
+| BALDESSARI PIETRO | 0 |
 
 **Commento:**  
 Settima vittoria consecutiva per i ragazzi U18 di Marco “Rizzo” Paoli, i quali, pur con un eccesso di sofferenza ma allo stesso tempo freddezza e lucidità, prevalgono sulla compagine avversaria e consolidano il tanto ambito e desiderato primato nel girone B (Trentino).

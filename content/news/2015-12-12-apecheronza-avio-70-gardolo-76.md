@@ -1,50 +1,18 @@
 ---
-title: Apecheronza Avio 70 -Gardolo 76
-date: 2015-12-12T19:22:48+00:00
+title: Apecheronza Avio 70 - Gardolo 76
+date: 2015-12-11T19:22:48+00:00
 ---
-DIC
-
-11
-
-2015
-
-**Punti segnati**
-
-STENICO CRISTIAN
-
-11
-
-DALLAPICCOLA LUCA
-
-4
-
-UGBEYI KESSEY
-
-14
-
-FRANZOI NICOLA
-
-2
-
-PERISSINOTTO MATTEO
-
-11
-
-VALER ALESSANDRO
-
-4
-
-BOSETTI MICHELE
-
-17
-
-BRUGNARA ELIA
-
-4
-
-SACCOMAN LORENZO
-
-9
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| STENICO CRISTIAN | 11 |
+| DALLAPICCOLA LUCA | 4 |
+| UGBEYI KESSEY | 14 |
+| FRANZOI NICOLA | 2 |
+| PERISSINOTTO MATTEO | 11 |
+| VALER ALESSANDRO | 4 |
+| BOSETTI MICHELE | 17 |
+| BRUGNARA ELIA | 4 |
+| SACCOMAN LORENZO | 9 |
 
 **Commento:**  
 Ultima partita dell'anno solare archiviata con successo fuori casa. Si nota che la squadra sta affrontando un percorso che sicuramente è lontano dall'essere compiuto ma che sta dando buoni segnali per il futuro.

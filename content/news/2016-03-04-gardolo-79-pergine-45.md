@@ -1,54 +1,20 @@
 ---
 title: Gardolo 79 – Pergine 45
-date: 2016-03-04T08:00:37+00:00
+date: 2016-02-27T08:00:37+00:00
 ---
-FEB
-
-27
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-TORRESANI MATTEO
-
-4
-
-DELLAI MATTEO
-
-25
-
-TANI EUGENIO
-
-2
-
-BUFFA ROBERTO
-
-2
-
-MALUAL DHIEU
-
-4
-
-AMBROSI GIOVANNI
-
-10
-
-BORTOLIN SAMUEL
-
-4
-
-LAZZAROTTO TOMMASO
-
-21
-
-PERENZONI STEFANO
-
-7
-
-PANIZZA LUCA
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 0 |
+| TORRESANI MATTEO | 4 |
+| DELLAI MATTEO | 25 |
+| TANI EUGENIO | 2 |
+| BUFFA ROBERTO | 2 |
+| MALUAL DHIEU | 4 |
+| AMBROSI GIOVANNI | 10 |
+| BORTOLIN SAMUEL | 4 |
+| LAZZAROTTO TOMMASO | 21 |
+| PERENZONI STEFANO | 7 |
+| PANIZZA LUCA | 0 |
 
 **Commento:**  
 Tornano alla vittoria i ragazzi under 18 di Marco "Rizzo" Paoli, che disputano una gara molto attenta e condannano i 7 volenterosi ragazzi di Pergine ad una sconfitta piuttosto sonora. Il primo quarto vede Gardolo attaccare con estrema facilità il canestro avversario anche grazie all'enorme prestazione di Della(10 punti nel solo primo periodo) e alla rapida circolazione di palla(26-10 dopo 10′).

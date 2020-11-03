@@ -23,10 +23,13 @@ La [Promozione](http://www.basketgardolo.it/promozione-2018-2019/) con i suoi pi
 La [SerieD](http://www.basketgardolo.it/serie-d-2018-2019/) accompagnata da un sempre presente [Marco Rizzo Paoli](http://www.basketgardolo.it/staff/marco-paoli/).  
 In più il preparatore atletico della società [Ale Polastri](http://www.basketgardolo.it/staff/polastri-alessandro/) (in ginocchio a sinistra), l'istruttore minibasket [Stefano Prezzi](http://www.basketgardolo.it/staff/stefano-prezzi/) (in ginocchio a destra) e due esponenti della Promo: Tommaso Bosetti (secondo da sinistra) e Thomas Spagnolo (ultimo a destra).
 
-Passion Brewery™ sponsorizza anche gli \[Under 18B\]\[1\] di \[Ivo Leonardelli\]\[2\] "purtroppo" impegnato in una partita di Serie D nelle vesti di head coach con l'Audace Pergine. Un ringraziamento speciale va a \[Mauro Savoia\]\[3\] (link al profilo \[instagram\]\[4\]) che oltre ad essere un validissimo compagno di squadra per i ragazzi della serie D ha anche ottime doti grafiche. Purtroppo un infortunio al ginocchio lo sta tenendo lontano dai campi ma contribuisce alla vita societaria in modo attivo, infatti è di sua invenzione/produzione il dettaglio che abbellisce la maglietta. Un calice di birra la cui schiuma è rappresentata da un pallone da basket. Il tutto a identificare l'unione tra uno sport e un ottimo integratore di sali minerali. Ovviamente sempre con moderazione 🤣.
+Passion Brewery™ sponsorizza anche gli [Under 18B][1] di [Ivo Leonardelli][2] "purtroppo" impegnato in una partita di Serie D nelle vesti di head coach con l'Audace Pergine. Un ringraziamento speciale va a [Mauro Savoia][3] (link al profilo [instagram][4]) che oltre ad essere un validissimo compagno di squadra per i ragazzi della serie D ha anche ottime doti grafiche. Purtroppo un infortunio al ginocchio lo sta tenendo lontano dai campi ma contribuisce alla vita societaria in modo attivo, infatti è di sua invenzione/produzione il dettaglio che abbellisce la maglietta. Un calice di birra la cui schiuma è rappresentata da un pallone da basket. Il tutto a identificare l'unione tra uno sport e un ottimo integratore di sali minerali. Ovviamente sempre con moderazione 🤣.
 
 ![](http://www.basketgardolo.it/wp-content/uploads/2019/03/grafica_BC_Passion_blu-nuovo-1.png)
 
 Il dettaglio inserito nella maglietta by Mauro Savoia
 
-\[1\]: http://www.basketgardolo.it/under-18-b-2018-2019/ \[2\]: http://www.basketgardolo.it/staff/ivo-j-leonardelli/ \[3\]: http://www.basketgardolo.it/player/savoia-mauro/ \[4\]: https://www.instagram.com/mauro.sav/?hl=it
+[1]: http://www.basketgardolo.it/under-18-b-2018-2019/
+[2]: http://www.basketgardolo.it/staff/ivo-j-leonardelli/
+[3]: http://www.basketgardolo.it/player/savoia-mauro/
+[4]: https://www.instagram.com/mauro.sav/?hl=it

@@ -1,13 +1,7 @@
 ---
 title: Piani Bolzano 67 – Gardolo 53
-date: 2017-03-23T10:31:31+00:00
+date: 2017-03-06T10:31:31+00:00
 ---
-MAR
-
-06
-
-2017
-
 **Commento:**  
 Brutta partita degli Under 18 di Marco “Rizzo” Paoli che sul parquet della palestra delle scuole E.Fermi decidono di scendere con la brutta copia della squadra che abbiamo visto ed ammirato lungo tutta la stagione. In tutti i 40’ i gardoloti si sono trovati a inseguire gli avversari e negli ultimi 20 sono crollati in difesa consegnando al Piani una facile vittoria.
 

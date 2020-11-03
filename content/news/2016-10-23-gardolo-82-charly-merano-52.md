@@ -1,50 +1,19 @@
 ---
 title: Gardolo 82 – Charly Merano 52
-date: 2016-10-23T06:51:47+00:00
+date: 2016-10-22T06:51:47+00:00
 ---
-OTT
-
-22
-
-2016
-
-**Punti segnati**
-
-CROVO DAVIDE
-
-9
-
-SCAGLIARINI GIOVANNI
-
-11
-
-ZAMPIERO ERMANNO
-
-6
-
-ANGELINI PIERO
-
-DALLABETTA MICHAEL
-
-14
-
-BALAARA ANGELO
-
-14
-
-LAZZAROTTO TOMMASO
-
-6
-
-PERENZONI STEFANO
-
-8
-
-SPAGNOLO THOMAS
-
-SISSA GIANMARIA
-
-14
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+|CROVO DAVIDE | 9 |
+|SCAGLIARINI GIOVANNI | 11 |
+|ZAMPIERO ERMANNO | 6 |
+|ANGELINI PIERO | 0 |
+|DALLABETTA MICHAEL | 14 |
+|BALAARA ANGELO | 14 |
+|LAZZAROTTO TOMMASO | 6 |
+|PERENZONI STEFANO | 8 |
+|SPAGNOLO THOMAS | 0 |
+|SISSA GIANMARIA | 14 |
 
 **Commento:**
 
@@ -64,7 +33,3 @@ Gardolo 9: Sissa 2, Crovo 2, Dallabetta 2, Scagliarini 1 Balaara 1, Lazzarotto 
 Charly 2: Tirello 1, Tomissich 1
 
 Usciti per falli: nessuno
-
-[![](http://localhost:8080/wp-content/uploads/2016/10/Gardolo-Charly-22-10-2016_3-150x150.jpg)](http://localhost:8080/?attachment_id=4986)
-
-[![](http://localhost:8080/wp-content/uploads/2016/10/Gardolo-Charly-22-10-2016-150x150.jpg)](http://localhost:8080/?attachment_id=4985)

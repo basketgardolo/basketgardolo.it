@@ -9,7 +9,3 @@ A dispetto dell'orario mattutino domenicale, ci siamo presentati molto svegli e 
 Il pomeriggio invece affrontando Aquila Basket abbiamo capito che, pur essendo sulla strada giusta, dobbiamo compiere dei passi da gigante in modo da presentarci al meglio all'imminente incontro tra il MiniBasket e la Pallacanestro.
 
 In attesa del campionato che inizierà a breve continuiamo a imparare e migliorare in palestra.
-
-[![](http://localhost:8080/wp-content/uploads/2016/10/image1-150x150.jpg)](http://localhost:8080/?attachment_id=4995)
-
-[![](http://localhost:8080/wp-content/uploads/2016/10/image2-150x150.jpg)](http://localhost:8080/?attachment_id=4996)

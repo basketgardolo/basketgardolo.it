@@ -1,56 +1,20 @@
 ---
 title: 'Coppa Zanelli: Gardolo 74 – Blue Bear 45'
-date: 2016-10-07T07:29:25+00:00
+date: 2016-10-06T07:29:25+00:00
 ---
-OTT
-
-06
-
-2016
-
-**Punti segnati**
-
-CROVO DAVIDE
-
-6
-
-SCAGLIARINI GIOVANNI
-
-9
-
-LAZZAROTTO TOMMASO
-
-6
-
-ZAMPIERO ERMANNO
-
-11
-
-DALLABETTA MICHAEL
-
-11
-
-SAVOIA MAURO
-
-7
-
-BALAARA ANGELO
-
-3
-
-RIZI GIOVANNI
-
-5
-
-PERENZONI STEFANO
-
-SISSA GIANMARIA
-
-11
-
-SPAGNOLO THOMAS
-
-5
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| CROVO DAVIDE | 6 |
+| SCAGLIARINI GIOVANNI | 9 |
+| LAZZAROTTO TOMMASO | 6 |
+| ZAMPIERO ERMANNO | 11 |
+| DALLABETTA MICHAEL | 11 |
+| SAVOIA MAURO | 7 |
+| BALAARA ANGELO | 3 |
+| RIZI GIOVANNI | 5 |
+| PERENZONI STEFANO | 0 |
+| SISSA GIANMARIA | 11 |
+| SPAGNOLO THOMAS | 5 |
 
 **Commento:**
 
@@ -66,5 +30,3 @@ Gardolo 10 (Zampiero 3, Dallabetta 2, Scagliarini 2, Savoia 1, Sissa 1, Spagnolo
 Blue Bear 0
 
 Usciti per falli: Scagliarini
-
-![Logo Basket Gardolo](http://www.basketgardolo.it/wp-content/uploads/2014/09/logo_basket_gardolo-266x300.png)

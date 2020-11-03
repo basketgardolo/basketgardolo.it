@@ -1,50 +1,18 @@
 ---
 title: Gardolo 70 – Maia Merano 42
-date: 2016-01-16T18:01:58+00:00
+date: 2016-01-14T18:01:58+00:00
 ---
-GEN
-
-14
-
-2016
-
-**Punti segnati**
-
-BALDO YURI
-
-2
-
-SOVILLA MASSIMO
-
-6
-
-STENICO CRISTIAN
-
-5
-
-MALFER MICHAEL
-
-5
-
-SACCOMAN LORENZO
-
-11
-
-VALER ALESSANDRO
-
-21
-
-MATTEDI GIULIO
-
-1
-
-DALLAPICCOLA LUCA
-
-2
-
-DALPIAZ LUCA
-
-17
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 2 |
+| SOVILLA MASSIMO | 6 |
+| STENICO CRISTIAN | 5 |
+| MALFER MICHAEL | 5 |
+| SACCOMAN LORENZO | 11 |
+| VALER ALESSANDRO | 21 |
+| MATTEDI GIULIO | 1 |
+| DALLAPICCOLA LUCA | 2 |
+| DALPIAZ LUCA | 17 |
 
 **Commento:**  
 Ottimo esordio in panchina per il nostro Daniel Dallabetta che, non potendo giocare quest'anno, sta aiutando coach Gozzer a gestire gli allenamenti della squadra.

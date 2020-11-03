@@ -1,58 +1,20 @@
 ---
 title: 'Coppa Zanelli: Brunico 66 – Gardolo 95'
-date: 2016-10-12T06:18:40+00:00
+date: 2016-10-11T06:18:40+00:00
 ---
-OTT
-
-11
-
-2016
-
-**Punti segnati**
-
-CROVO DAVIDE
-
-5
-
-SCAGLIARINI GIOVANNI
-
-8
-
-ZAMPIERO ERMANNO
-
-2
-
-ANGELINI PIERO
-
-7
-
-DALLABETTA MICHAEL
-
-9
-
-BALAARA ANGELO
-
-21
-
-LAZZAROTTO TOMMASO
-
-5
-
-RIZI GIOVANNI
-
-10
-
-PERENZONI STEFANO
-
-4
-
-SPAGNOLO THOMAS
-
-6
-
-SISSA GIANMARIA
-
-18
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| CROVO DAVIDE | 5 |
+| SCAGLIARINI GIOVANNI | 8 |
+| ZAMPIERO ERMANNO | 2 |
+| ANGELINI PIERO | 7 |
+| DALLABETTA MICHAEL | 9 |
+| BALAARA ANGELO | 21 |
+| LAZZAROTTO TOMMASO | 5 |
+| RIZI GIOVANNI | 10 |
+| PERENZONI STEFANO | 4 |
+| SPAGNOLO THOMAS | 6 |
+| SISSA GIANMARIA | 18 |
 
 **Commento:**
 

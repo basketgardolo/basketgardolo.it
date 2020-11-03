@@ -1,54 +1,20 @@
 ---
 title: Gardolo 62 – Charly Merano A 65
-date: 2016-02-15T14:49:48+00:00
+date: 2016-02-13T14:49:48+00:00
 ---
-FEB
-
-13
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-TORRESANI MATTEO
-
-5
-
-DELLAI MATTEO
-
-13
-
-BUFFA ROBERTO
-
-5
-
-OSELLO DAMIANO
-
-8
-
-SANTONI EDOARDO
-
-2
-
-AMBROSI GIOVANNI
-
-7
-
-LAZZAROTTO TOMMASO
-
-16
-
-PERENZONI STEFANO
-
-4
-
-PANIZZA LUCA
-
-2
-
-MALUAL DHIEU
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 0 |
+| TORRESANI MATTEO | 5 |
+| DELLAI MATTEO | 13 |
+| BUFFA ROBERTO | 5 |
+| OSELLO DAMIANO | 8 |
+| SANTONI EDOARDO | 2 |
+| AMBROSI GIOVANNI | 7 |
+| LAZZAROTTO TOMMASO | 16 |
+| PERENZONI STEFANO | 4 |
+| PANIZZA LUCA | 2 |
+| MALUAL DHIEU | 0 |
 
 **Commento:**  
 Grandissima prestazione dei ragazzi U18 di Marco "Rizzo" Paoli che dimostrano grande concentrazione nel corso della partita ed escono a testa alta dal confronto contro il forte Charly Merano A.

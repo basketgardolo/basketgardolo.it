@@ -1,48 +1,18 @@
 ---
 title: Rovereto 65 – Gardolo 67
-date: 2016-04-29T07:52:50+00:00
+date: 2016-04-28T07:52:50+00:00
 ---
-APR
-
-28
-
-2016
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-9
-
-BALDO YURI
-
-2
-
-BRUGNARA ELIA
-
-MALFER MICHAEL
-
-7
-
-UGBEYI KESSEY
-
-7
-
-VALER ALESSANDRO
-
-8
-
-MATTEDI GIULIO
-
-8
-
-SOVILLA MASSIMO
-
-8
-
-DALPIAZ LUCA
-
-18
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 9 |
+| BALDO YURI | 2 |
+| BRUGNARA ELIA | 0 |
+| MALFER MICHAEL | 7 |
+| UGBEYI KESSEY | 7 |
+| VALER ALESSANDRO | 8 |
+| MATTEDI GIULIO | 8 |
+| SOVILLA MASSIMO | 8 |
+| DALPIAZ LUCA | 18 |
 
 **Commento:**  
 Se dopo Gara 1 era (troppo ottimisticamente?) lecito aspettarsi il passaggio del turno senza troppi patemi, nella partita di ieri ci siamo accorti che non è andata esattamente così, anche se alla fine la vittoria e l'accesso ai quarti di finale sono arrivati.

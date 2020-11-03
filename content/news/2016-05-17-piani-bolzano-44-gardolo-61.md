@@ -1,50 +1,18 @@
 ---
 title: Piani Bolzano 44 – Gardolo 61
-date: 2016-05-17T07:20:46+00:00
+date: 2016-05-16T07:20:46+00:00
 ---
-MAG
-
-16
-
-2016
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-3
-
-BALDO YURI
-
-11
-
-SACCOMAN LORENZO
-
-4
-
-BRUGNARA ELIA
-
-5
-
-UGBEYI KESSEY
-
-9
-
-VALER ALESSANDRO
-
-9
-
-MATTEDI GIULIO
-
-5
-
-SOVILLA MASSIMO
-
-6
-
-DALPIAZ LUCA
-
-9
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 3 |
+| BALDO YURI | 11 |
+| SACCOMAN LORENZO | 4 |
+| BRUGNARA ELIA | 5 |
+| UGBEYI KESSEY | 9 |
+| VALER ALESSANDRO | 9 |
+| MATTEDI GIULIO | 5 |
+| SOVILLA MASSIMO | 6 |
+| DALPIAZ LUCA | 9 |
 
 **Commento:**  
 Vittoria convincente che ci permette di essere la prima semifinalista del campionato e quindi di godersi l'attesa di conoscere la nostra prossima avversaria.  

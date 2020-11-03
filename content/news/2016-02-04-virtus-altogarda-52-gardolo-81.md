@@ -1,56 +1,21 @@
 ---
 title: Virtus Altogarda 52 – Gardolo 81
-date: 2016-02-04T09:14:30+00:00
+date: 2016-02-01T09:14:30+00:00
 ---
-FEB
-
-01
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-TORRESANI MATTEO
-
-11
-
-DELLAI MATTEO
-
-13
-
-BUFFA ROBERTO
-
-8
-
-OSELLO DAMIANO
-
-10
-
-SANTONI EDOARDO
-
-14
-
-AMBROSI GIOVANNI
-
-2
-
-LAZZAROTTO TOMMASO
-
-14
-
-PERENZONI STEFANO
-
-6
-
-PANIZZA LUCA
-
-4
-
-PANIZZA LUCA
-
-BALDESSARI PIETRO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 0 |
+| TORRESANI MATTEO | 11 |
+| DELLAI MATTEO | 13 |
+| BUFFA ROBERTO | 8 |
+| OSELLO DAMIANO | 10 |
+| SANTONI EDOARDO | 14 |
+| AMBROSI GIOVANNI | 2 |
+| LAZZAROTTO TOMMASO | 14 |
+| PERENZONI STEFANO | 6 |
+| PANIZZA LUCA | 4 |
+| PANIZZA LUCA | 0 |
+| BALDESSARI PIETRO | 0 |
 
 **Commento:**  
 Quinta vittoria consecutiva e 4° posto ormai consolidato per i giovani ragazzi U18 di coach Marco "Rizzo" Paoli che sbancano il palazzetto di Riva del Garda al termine di una partita non troppo esaltante ma ben gestita nei momenti chiave.

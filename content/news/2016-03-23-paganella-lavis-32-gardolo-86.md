@@ -1,58 +1,21 @@
 ---
 title: Paganella Lavis 32 – Gardolo 86
-date: 2016-03-23T13:58:03+00:00
+date: 2016-03-16T13:58:03+00:00
 ---
-MAR
-
-16
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-2
-
-FELICETTI MARCO
-
-11
-
-TORRESANI MATTEO
-
-17
-
-DELLAI MATTEO
-
-8
-
-TANI EUGENIO
-
-4
-
-VERONESI FABIO
-
-17
-
-BUFFA ROBERTO
-
-8
-
-MALUAL DHIEU
-
-2
-
-AMBROSI GIOVANNI
-
-7
-
-BORTOLIN SAMUEL
-
-10
-
-PERENZONI STEFANO
-
-PANIZZA LUCA
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 2 |
+| FELICETTI MARCO | 11 |
+| TORRESANI MATTEO | 17 |
+| DELLAI MATTEO | 8 |
+| TANI EUGENIO | 4 |
+| VERONESI FABIO | 17 |
+| BUFFA ROBERTO | 8 |
+| MALUAL DHIEU | 2 |
+| AMBROSI GIOVANNI | 7 |
+| BORTOLIN SAMUEL | 10 |
+| PERENZONI STEFANO | 0 |
+| PANIZZA LUCA | 0 |
 
 **Commento:**  
 Buona prestazione dei ragazzi di coach Marco "Rizzo" Paoli che superano Paganella Lavis al termine di una partita dall'esito positivo nonostante l'inizio molto difficoltoso.

@@ -1,48 +1,18 @@
 ---
 title: Gardolo 72 – Rovereto 65
-date: 2016-10-31T14:20:01+00:00
+date: 2016-10-22T14:20:01+00:00
 ---
-OTT
-
-22
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-2
-
-DELLAI MATTEO
-
-18
-
-TANI EUGENIO
-
-5
-
-BUFFA ROBERTO
-
-11
-
-OSELLO DAMIANO
-
-17
-
-AMBROSI GIOVANNI
-
-17
-
-TITON JULIAN
-
-2
-
-PANIZZA LUCA
-
-BALDESSARI PIETRO
-
-ne
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 2 |
+| DELLAI MATTEO | 18 |
+| TANI EUGENIO | 5 |
+| BUFFA ROBERTO | 11 |
+| OSELLO DAMIANO | 17 |
+| AMBROSI GIOVANNI | 17 |
+| TITON JULIAN | 2 |
+| PANIZZA LUCA | 0 |
+| BALDESSARI PIETRO | ne |
 
 **Commento:**  
 Nel 1° parziale, complice un atteggiamento decisamente rinunciatario e passivo nella copertura difensiva, Gardolo subisce una serie di 4 conclusioni dietro all’arco dei 6,75 m che assieme ai contropiedi rapidi, permettono a Rovereto, nonostante una discreta fase offensiva della squadra di casa, di incrementare il punteggio fino al 17-26 al termine dei primi 10 minuti.

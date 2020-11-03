@@ -1,54 +1,19 @@
 ---
 title: Gardolo 71 – Maia Merano 49
-date: 2016-06-14T13:14:13+00:00
+date: 2016-06-09T13:14:13+00:00
 ---
-GIU
-
-09
-
-2016
-
-**Punti segnati**
-
-DALLAPICCOLA LUCA
-
-11
-
-MATTEDI LUCA
-
-3
-
-GILLI DIEGO
-
-2
-
-BRUGNARA ELIA
-
-12
-
-STENICO CRISTIAN
-
-8
-
-VALER ALESSANDRO
-
-13
-
-SACCOMAN LORENZO
-
-8
-
-SOVILLA MASSIMO
-
-5
-
-DALPIAZ LUCA
-
-7
-
-DALLABETTA DANIEL
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| DALLAPICCOLA LUCA | 11 |
+| MATTEDI LUCA | 3 |
+| GILLI DIEGO | 2 |
+| BRUGNARA ELIA | 12 |
+| STENICO CRISTIAN | 8 |
+| VALER ALESSANDRO | 13 |
+| SACCOMAN LORENZO | 8 |
+| SOVILLA MASSIMO | 5 |
+| DALPIAZ LUCA | 7 |
+| DALLABETTA DANIEL | 2 |
 
 **Commento:**  
 Ultima partita di questa lunghissima stagione che ci vede in campo per giocarci la finale 3°-4° posto ma soprattutto per farci terminare il campionato con un po' di entusiasmo dopo l'amara sconfitta in semifinale.

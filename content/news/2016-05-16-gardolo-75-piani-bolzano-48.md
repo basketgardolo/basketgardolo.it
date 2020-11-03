@@ -1,50 +1,19 @@
 ---
 title: Gardolo 75 – Piani Bolzano 48
-date: 2016-05-16T12:07:51+00:00
+date: 2016-05-12T12:07:51+00:00
 ---
-MAG
 
-12
-
-2016
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-6
-
-BALDO YURI
-
-7
-
-SACCOMAN LORENZO
-
-4
-
-MALFER MICHAEL
-
-11
-
-UGBEYI KESSEY
-
-13
-
-VALER ALESSANDRO
-
-12
-
-MATTEDI GIULIO
-
-7
-
-SOVILLA MASSIMO
-
-6
-
-DALPIAZ LUCA
-
-9
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 6 |
+| BALDO YURI | 7 |
+| SACCOMAN LORENZO | 4 |
+| MALFER MICHAEL | 11 |
+| UGBEYI KESSEY | 13 |
+| VALER ALESSANDRO | 12 |
+| MATTEDI GIULIO | 7 |
+| SOVILLA MASSIMO | 6 |
+| DALPIAZ LUCA | 9 |
 
 **Commento:**  
 Dopo l'incredibile gara 2 di ottavi di finale a Rovereto (con una rimonta di 8 punti negli ultimi 90 secondi di partita), affrontiamo gara dei quarti di finale fiduciosi ma consapevoli di dover mantenere alta l'attenzione e l'intensità.

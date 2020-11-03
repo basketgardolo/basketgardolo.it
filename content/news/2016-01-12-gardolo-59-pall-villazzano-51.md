@@ -1,54 +1,21 @@
 ---
 title: Gardolo 59 – Pall. Villazzano 51
-date: 2016-01-12T10:14:39+00:00
+date: 2016-01-08T10:14:39+00:00
 ---
-GEN
-
-08
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-1
-
-TORRESANI MATTEO
-
-3
-
-DELLAI MATTEO
-
-9
-
-BUFFA ROBERTO
-
-OSELLO DAMIANO
-
-19
-
-JOHN DHIEU
-
-AMBROSI GIOVANNI
-
-7
-
-LAZZAROTTO TOMMASO
-
-14
-
-PERENZONI STEFANO
-
-4
-
-SANTONI EDOARDO
-
-2
-
-PANIZZA LUCA
-
-BALDESSARI PIETRO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 1 |
+| TORRESANI MATTEO | 3 |
+| DELLAI MATTEO | 9 |
+| BUFFA ROBERTO | 0 |
+| OSELLO DAMIANO | 19 |
+| JOHN DHIEU | 0 |
+| AMBROSI GIOVANNI | 7 |
+| LAZZAROTTO TOMMASO | 14 |
+| PERENZONI STEFANO | 4 |
+| SANTONI EDOARDO | 2 |
+| PANIZZA LUCA | 0 |
+| BALDESSARI PIETRO | 0 |
 
 **Commento:**  
 Partita molto bella ed equilibrata quella che si svolgeva venerdì 8 gennaio a Gardolo, la posta in palio era molto alta. Iniziavano molto bene i nostri ragazzi che terminavano il primo parziale 18 a 8; nel secondo quarto però i ragazzi avversari reagivano con orgoglio e aumentavano l’aggressività difensiva riportandosi sotto nel punteggio e terminando in vantaggio il secondo quarto; la nostra squadra nel secondo quarto realizzava solo 6 punti e andavamo al riposo sotto di 3 lunghezze, 24 a 27; dopo la strigliata del coach i nostri ragazzi ritornavano dagli spogliatoi con un’altra faccia e con un po’ più di voglia di vincere, così vincevamo il parziale del quarto per 17 a 9, in pratica iniziavamo l’ultimo quarto in vantaggio di 5, 41 a 36.  

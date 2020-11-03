@@ -1,54 +1,20 @@
 ---
 title: Piani BZ 45 – Gardolo 88
-date: 2016-10-31T09:09:15+00:00
+date: 2016-10-30T09:09:15+00:00
 ---
-OTT
 
-30
-
-2016
-
-**Punti segnati**
-
-SCAGLIARINI GIOVANNI
-
-8
-
-DELLAI MATTEO
-
-20
-
-ZAMPIERO ERMANNO
-
-14
-
-DALLABETTA MICHAEL
-
-7
-
-BALAARA ANGELO
-
-15
-
-SAVOIA MAURO
-
-11
-
-LAZZAROTTO TOMMASO
-
-1
-
-RIZI GIOVANNI
-
-6
-
-PERENZONI STEFANO
-
-2
-
-TACCONI GIOVANNI
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| SCAGLIARINI GIOVANNI | 8 |
+| DELLAI MATTEO | 20 |
+| ZAMPIERO ERMANNO | 14 |
+| DALLABETTA MICHAEL | 7 |
+| BALAARA ANGELO | 15 |
+| SAVOIA MAURO | 11 |
+| LAZZAROTTO TOMMASO | 1 |
+| RIZI GIOVANNI | 6 |
+| PERENZONI STEFANO | 2 |
+| TACCONI GIOVANNI | 4 |
 
 **Commento:**
 
@@ -66,15 +32,3 @@ Gardolo 12: Zampiero 4, Savoia 3, Dellai 2, Dallabetta 1, Scagliarini 1 Balaara
 Piani BZ 2: Montali 1, Tognotti 1.
 
 Usciti per falli: nessuno
-
-[![](http://localhost:8080/wp-content/uploads/2016/10/Piani-Gardolo-e1477905629621-150x150.jpg)](http://localhost:8080/?attachment_id=5011)
-
-Jpeg
-
-[![](http://localhost:8080/wp-content/uploads/2016/10/Piani-Gardolo2-e1477905656609-150x150.jpg)](http://localhost:8080/?attachment_id=5010)
-
-Jpeg
-
-[![](http://localhost:8080/wp-content/uploads/2016/10/Piano-Gardolo1-e1477914537729-150x150.jpg)](http://localhost:8080/?attachment_id=5012)
-
-Jpeg

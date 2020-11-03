@@ -1,54 +1,20 @@
 ---
 title: 'Coppa Zanelli semifinale: Charly Merano 73 – Gardolo 71'
-date: 2016-10-16T19:24:29+00:00
+date: 2016-10-15T19:24:29+00:00
 ---
-OTT
-
-15
-
-2016
-
-**Punti segnati**
-
-CROVO DAVIDE
-
-5
-
-SCAGLIARINI GIOVANNI
-
-1
-
-ZAMPIERO ERMANNO
-
-6
-
-ANGELINI PIERO
-
-12
-
-DALLABETTA MICHAEL
-
-4
-
-BALAARA ANGELO
-
-7
-
-LAZZAROTTO TOMMASO
-
-3
-
-RIZI GIOVANNI
-
-6
-
-PERENZONI STEFANO
-
-SPAGNOLO THOMAS
-
-SISSA GIANMARIA
-
-24
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| CROVO DAVIDE | 5 |
+| SCAGLIARINI GIOVANNI | 1 |
+| ZAMPIERO ERMANNO | 6 |
+| ANGELINI PIERO | 12 |
+| DALLABETTA MICHAEL | 4 |
+| BALAARA ANGELO | 7 |
+| LAZZAROTTO TOMMASO | 3 |
+| RIZI GIOVANNI | 6 |
+| PERENZONI STEFANO | 0 |
+| SPAGNOLO THOMAS | 0 |
+| SISSA GIANMARIA | 24 |
 
 **Commento:**
 

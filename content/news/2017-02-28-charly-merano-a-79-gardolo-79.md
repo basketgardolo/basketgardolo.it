@@ -1,48 +1,18 @@
 ---
 title: CHARLY MERANO A 79 – GARDOLO 76
-date: 2017-02-28T16:57:30+00:00
+date: 2017-02-18T16:57:30+00:00
 ---
-FEB
-
-18
-
-2017
-
-**Punti segnati**
-
-ROSSI LUCA
-
-2
-
-DELLAI MATTEO
-
-24
-
-TANI EUGENIO
-
-7
-
-BUFFA ROBERTO
-
-5
-
-OSELLO DAMIANO
-
-14
-
-AMBROSI GIOVANNI
-
-9
-
-CLAUS CHRISTIAN
-
-8
-
-TITON JULIAN
-
-7
-
-PANIZZA LUCA
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 2 |
+| DELLAI MATTEO | 24 |
+| TANI EUGENIO | 7 |
+| BUFFA ROBERTO | 5 |
+| OSELLO DAMIANO | 14 |
+| AMBROSI GIOVANNI | 9 |
+| CLAUS CHRISTIAN | 8 |
+| TITON JULIAN | 7 |
+| PANIZZA LUCA | 0 |
 
 **Commento:**  
 Prima sconfitta stagionale per i ragazzi U18 di Marco “Rizzo” Paoli, i quali pur disputando una partita ad alta intensità e ben interpretata sia dal punto di vista tecnico che fisico, escono sconfitti di misura sul difficilissimo campo quale la Palestra Segantini di Merano.

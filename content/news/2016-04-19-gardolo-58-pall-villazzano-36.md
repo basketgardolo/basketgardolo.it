@@ -1,50 +1,18 @@
 ---
 title: Gardolo 58 – Pall. Villazzano 36
-date: 2016-04-19T11:38:44+00:00
+date: 2016-04-14T11:38:44+00:00
 ---
-APR
-
-14
-
-2016
-
-**Punti segnati**
-
-DALLAPICCOLA LUCA
-
-3
-
-BALDO YURI
-
-8
-
-FRANZOI NICOLA
-
-7
-
-VALER ALESSANDRO
-
-8
-
-MATTEDI GIULIO
-
-5
-
-SACCOMAN LORENZO
-
-1
-
-STENICO CRISTIAN
-
-6
-
-SOVILLA MASSIMO
-
-6
-
-DALPIAZ LUCA
-
-14
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| DALLAPICCOLA LUCA | 3 |
+| BALDO YURI | 8 |
+| FRANZOI NICOLA | 7 |
+| VALER ALESSANDRO | 8 |
+| MATTEDI GIULIO | 5 |
+| SACCOMAN LORENZO | 1 |
+| STENICO CRISTIAN | 6 |
+| SOVILLA MASSIMO | 6 |
+| DALPIAZ LUCA | 14 |
 
 **Commento:**  
 Arrivati all'ultima partita di regular season, possiamo dire che la strada intrapresa nell'ultimo mese fa ben sperare per gli imminenti playoff.  

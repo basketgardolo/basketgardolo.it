@@ -1,50 +1,18 @@
 ---
 title: Virtus Altogarda B 58 – Gardolo 55
-date: 2016-04-13T09:27:12+00:00
+date: 2016-03-17T09:27:12+00:00
 ---
-MAR
-
-17
-
-2016
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-11
-
-BALDO YURI
-
-5
-
-DALLAPICCOLA LUCA
-
-2
-
-PERISSINOTTO MATTEO
-
-8
-
-FRANZOI NICOLA
-
-4
-
-BRUGNARA ELIA
-
-5
-
-STENICO CRISTIAN
-
-5
-
-SOVILLA MASSIMO
-
-6
-
-MALFER MICHAEL
-
-9
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 11 |
+| BALDO YURI | 5 |
+| DALLAPICCOLA LUCA | 2 |
+| PERISSINOTTO MATTEO | 8 |
+| FRANZOI NICOLA | 4 |
+| BRUGNARA ELIA | 5 |
+| STENICO CRISTIAN | 5 |
+| SOVILLA MASSIMO | 6 |
+| MALFER MICHAEL | 9 |
 
 **Commento:**  
 Finalmente uno spiraglio dopo l'ultimo mese di orrori cestistici.  

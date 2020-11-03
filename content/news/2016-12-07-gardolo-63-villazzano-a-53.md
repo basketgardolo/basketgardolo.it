@@ -1,54 +1,20 @@
 ---
 title: Gardolo 63 – Villazzano A 53
-date: 2016-12-07T23:48:42+00:00
+date: 2016-11-27T23:48:42+00:00
 ---
-NOV
-
-27
-
-2016
-
-**Punti segnati**
-
-BALDO MIRKO
-
-2
-
-BOSETTI MICHELE
-
-DALLAPICCOLA LUCA
-
-MALFER MICHAEL
-
-16
-
-DALLABETTA DANIEL
-
-4
-
-STENICO CRISTIAN
-
-8
-
-PERINI ALVISE
-
-9
-
-SACCOMAN LORENZO
-
-4
-
-DALPIAZ LUCA
-
-5
-
-VALER ALESSANDRO
-
-9
-
-TESTONI MIRKO
-
-6
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO MIRKO | 2 |
+| BOSETTI MICHELE | 0 |
+| DALLAPICCOLA LUCA | 0 |
+| MALFER MICHAEL | 16 |
+| DALLABETTA DANIEL | 4 |
+| STENICO CRISTIAN | 8 |
+| PERINI ALVISE | 9 |
+| SACCOMAN LORENZO | 4 |
+| DALPIAZ LUCA | 5 |
+| VALER ALESSANDRO | 9 |
+| TESTONI MIRKO | 6 |
 
 **Commento:**  
 Quest'anno sembra che le mura di casa ci facciamo decisamente bene e infatti centriamo la terza vittoria casalinga consecutiva giocando un buon basket.

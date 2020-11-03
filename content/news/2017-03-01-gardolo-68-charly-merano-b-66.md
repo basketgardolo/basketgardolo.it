@@ -1,50 +1,19 @@
 ---
 title: Gardolo 68 – Charly Merano B 66
-date: 2017-03-01T16:33:45+00:00
+date: 2017-02-23T16:33:45+00:00
 ---
-FEB
-
-23
-
-2017
-
-**Punti segnati**
-
-ROSSI LUCA
-
-DELLAI MATTEO
-
-23
-
-TANI EUGENIO
-
-6
-
-VERONESI FABIO
-
-2
-
-BUFFA ROBERTO
-
-12
-
-OSELLO DAMIANO
-
-6
-
-AMBROSI GIOVANNI
-
-6
-
-CLAUS CHRISTIAN
-
-11
-
-TITON JULIAN
-
-2
-
-PANIZZA LUCA
+| **Nome | **Punti segnati** |
+| ------ | ----------------- |
+| ROSSI LUCA | 0 |
+| DELLAI MATTEO | 23 |
+| TANI EUGENIO | 6 |
+| VERONESI FABIO | 2 |
+| BUFFA ROBERTO | 12 |
+| OSELLO DAMIANO | 6 |
+| AMBROSI GIOVANNI | 6 |
+| CLAUS CHRISTIAN | 11 |
+| TITON JULIAN | 2 |
+| PANIZZA LUCA | 0 |
 
 **Commento:**  
 Vittoria al cardiopalma quella conseguita dai ragazzi U18 di Marco “Rizzo” Paoli, i quali al termine di una partita gravosa dal punto di vista fisico e mentale prevalgono sulla giovane compagine meranese allenata da Coach Schulderbacher.

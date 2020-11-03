@@ -1,54 +1,21 @@
 ---
 title: 'Coppa Zanelli: Gardolo 65 – Audace Pergine 58'
-date: 2016-09-30T06:41:45+00:00
+date: 2016-09-29T06:41:45+00:00
 ---
-SET
 
-29
-
-2016
-
-**Punti segnati**
-
-CROVO DAVIDE
-
-3
-
-SCAGLIARINI GIOVANNI
-
-DELLAI MATTEO
-
-ZAMPIERO ERMANNO
-
-3
-
-DALLABETTA MICHAEL
-
-2
-
-SAVOIA MAURO
-
-16
-
-BALAARA ANGELO
-
-11
-
-RIZI GIOVANNI
-
-6
-
-PERENZONI STEFANO
-
-2
-
-SISSA GIANMARIA
-
-19
-
-SPAGNOLO THOMAS
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| CROVO DAVIDE | 3 |
+| SCAGLIARINI GIOVANNI | 0 |
+| DELLAI MATTEO | 0 |
+| ZAMPIERO ERMANNO | 3 |
+| DALLABETTA MICHAEL | 2 |
+| SAVOIA MAURO | 16 |
+| BALAARA ANGELO | 11 |
+| RIZI GIOVANNI | 6 |
+| PERENZONI STEFANO | 2 |
+| SISSA GIANMARIA | 19 |
+| SPAGNOLO THOMAS | 4 |
 
 **Commento:**
 
@@ -62,5 +29,3 @@ Audace Pergine: De Paris 2, Battisti 12, Piva 11, Allen 3, Beber 0, Filippi 3, O
 Tiri da 3 punti:  
 Gardolo 10 (Savoia 5, Sissa 4, Spagnolo 1)  
 Pergine 4 (Casagranda 3, Filippi 1)
-
-![Logo Basket Gardolo](http://www.basketgardolo.it/wp-content/uploads/2014/09/logo_basket_gardolo-266x300.png)

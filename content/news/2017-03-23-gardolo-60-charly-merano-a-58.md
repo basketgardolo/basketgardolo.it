@@ -1,50 +1,19 @@
 ---
 title: Gardolo 60 – Charly Merano A 58
-date: 2017-03-23T10:44:01+00:00
+date: 2017-03-15T10:44:01+00:00
 ---
-MAR
-
-15
-
-2017
-
-**Punti segnati**
-
-ROSSI LUCA
-
-DELLAI MATTEO
-
-23
-
-TANI EUGENIO
-
-6
-
-VERONESI FABIO
-
-2
-
-BUFFA ROBERTO
-
-12
-
-OSELLO DAMIANO
-
-6
-
-AMBROSI GIOVANNI
-
-6
-
-CLAUS CHRISTIAN
-
-11
-
-TITON JULIAN
-
-2
-
-PANIZZA LUCA
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 0 |
+| DELLAI MATTEO | 23 |
+| TANI EUGENIO | 6 |
+| VERONESI FABIO | 2 |
+| BUFFA ROBERTO | 12 |
+| OSELLO DAMIANO | 6 |
+| AMBROSI GIOVANNI | 6 |
+| CLAUS CHRISTIAN | 11 |
+| TITON JULIAN | 2 |
+| PANIZZA LUCA | 0 |
 
 **Commento:**  
 Vittoria importantissima per il team Under 18 di Marco “Rizzo” Paoli che contro Merano rivendica la sconfitta subita poche settimane fa con una buona prestazione su entrambi i lati del campo.

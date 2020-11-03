@@ -1,46 +1,18 @@
 ---
 title: Gardolo 49 – Blue Bear A 67
-date: 2016-02-26T19:52:57+00:00
+date: 2016-02-25T19:52:57+00:00
 ---
-FEB
-
-25
-
-2016
-
-**Punti segnati**
-
-DALLAPICCOLA LUCA
-
-4
-
-GUADAGNINI FEDERICO
-
-5
-
-SOVILLA MASSIMO
-
-6
-
-FRANZOI NICOLA
-
-BRUGNARA ELIA
-
-6
-
-PERISSINOTTO MATTEO
-
-12
-
-MATTEDI GIULIO
-
-4
-
-UGBEYI KESSEY
-
-12
-
-MALFER MICHAEL
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| DALLAPICCOLA LUCA | 4 |
+| GUADAGNINI FEDERICO | 5 |
+| SOVILLA MASSIMO | 6 |
+| FRANZOI NICOLA | 0 |
+| BRUGNARA ELIA | 6 |
+| PERISSINOTTO MATTEO | 12 |
+| MATTEDI GIULIO | 4 |
+| UGBEYI KESSEY | 12 |
+| MALFER MICHAEL | 0 |
 
 **Commento:**  
 Partita casalinga che ci vede affrontare il Blue Bear A di Villazzano in uno scontro al vertice che potrebbe potenzialmente portare la nostra squadra alla nona vittoria consecutiva e in testa al girone. Inoltre, all'andata abbiamo subito una meritata sconfitta per cui non dovrebbero servire particolari stimoli per affrontare questa partita con la giusta mentalità.  

@@ -1,46 +1,18 @@
 ---
 title: Piani Junior BZ 78 – Gardolo 43
-date: 2016-12-11T09:28:09+00:00
+date: 2016-12-11009:28:09+00:00
 ---
-DIC
-
-10
-
-2016
-
-**Punti segnati**
-
-CROVO DAVIDE
-
-5
-
-VENTURINI FEDERICO
-
-ZAMPIERO ERMANNO
-
-5
-
-ANGELINI PIERO
-
-3
-
-DALLABETTA MICHAEL
-
-6
-
-BALAARA ANGELO
-
-12
-
-SAVOIA MAURO
-
-8
-
-LAZZAROTTO TOMMASO
-
-4
-
-PERENZONI STEFANO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| CROVO DAVIDE | 5 |
+| VENTURINI FEDERICO | 0 |
+| ZAMPIERO ERMANNO | 5 |
+| ANGELINI PIERO | 3 |
+| DALLABETTA MICHAEL | 6 |
+| BALAARA ANGELO | 12 |
+| SAVOIA MAURO | 8 |
+| LAZZAROTTO TOMMASO | 4 |
+| PERENZONI STEFANO | 0 |
 
 **Commento:**
 

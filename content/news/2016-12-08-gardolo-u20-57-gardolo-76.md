@@ -1,54 +1,20 @@
 ---
 title: Gardolo U20 57 – Gardolo 76
-date: 2016-12-08T21:30:53+00:00
+date: 2016-12-07T21:30:53+00:00
 ---
-DIC
-
-07
-
-2016
-
-**Punti segnati**
-
-BALDO MIRKO
-
-15
-
-BOSETTI MICHELE
-
-2
-
-DALLAPICCOLA LUCA
-
-8
-
-BERLOFFA RICCARDO
-
-9
-
-DALLABETTA DANIEL
-
-7
-
-STENICO CRISTIAN
-
-6
-
-PERINI ALVISE
-
-SACCOMAN LORENZO
-
-DALPIAZ LUCA
-
-13
-
-VALER ALESSANDRO
-
-13
-
-TESTONI MIRKO
-
-3
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO MIRKO | 15 |
+| BOSETTI MICHELE | 2 |
+| DALLAPICCOLA LUCA | 8 |
+| BERLOFFA RICCARDO | 9 |
+| DALLABETTA DANIEL | 7 |
+| STENICO CRISTIAN | 6 |
+| PERINI ALVISE | 0 |
+| SACCOMAN LORENZO | 0 |
+| DALPIAZ LUCA | 13 |
+| VALER ALESSANDRO | 13 |
+| TESTONI MIRKO | 3 |
 
 **Commento:**  
 Giornata storica, questa, per il Basket Gardolo! Infatti per la prima volta da quando è stata fondata la società ci siamo trovati di fronte ad un incontro tra due compagini gardolotte. Gardolo contro Gardolo, quindi, ma non solo: sono ben due le coppie di fratelli che si affrontano per la prima volta da avversari.

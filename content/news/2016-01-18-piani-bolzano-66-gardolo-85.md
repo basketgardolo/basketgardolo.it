@@ -1,54 +1,21 @@
 ---
 title: Piani Bolzano 66 – Gardolo 85
-date: 2016-01-18T15:36:41+00:00
+date: 2016-01-16T15:36:41+00:00
 ---
-GEN
-
-16
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-TORRESANI MATTEO
-
-14
-
-DELLAI MATTEO
-
-13
-
-BUFFA ROBERTO
-
-8
-
-OSELLO DAMIANO
-
-11
-
-TANI EUGENIO
-
-AMBROSI GIOVANNI
-
-6
-
-LAZZAROTTO TOMMASO
-
-20
-
-PERENZONI STEFANO
-
-8
-
-SANTONI EDOARDO
-
-5
-
-PANIZZA LUCA
-
-SIMIC PETAR
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 0 |
+| TORRESANI MATTEO | 14 |
+| DELLAI MATTEO | 13 |
+| BUFFA ROBERTO | 8 |
+| OSELLO DAMIANO | 11 |
+| TANI EUGENIO | 0 |
+| AMBROSI GIOVANNI | 6 |
+| LAZZAROTTO TOMMASO | 20 |
+| PERENZONI STEFANO | 8 |
+| SANTONI EDOARDO | 5 |
+| PANIZZA LUCA | 0 |
+| SIMIC PETAR | 0 |
 
 **Commento:**  
 Prima partita del girone di ritorno giocata in casa del Piani Bolzano.

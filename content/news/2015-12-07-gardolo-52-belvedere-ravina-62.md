@@ -1,48 +1,18 @@
 ---
 title: Gardolo 52 – Belvedere Ravina 62
-date: 2015-12-07T10:39:45+00:00
+date: 2015-11-29T10:39:45+00:00
 ---
-NOV
-
-29
-
-2015
-
-**Punti segnati**
-
-MATTEDI LUCA
-
-2
-
-MATTEDI GIULIO
-
-6
-
-SOVILLA MASSIMO
-
-8
-
-VALER ALESSANDRO
-
-10
-
-DALPIAZ LUCA
-
-8
-
-PERISSINOTTO MATTEO
-
-BOSETTI MICHELE
-
-11
-
-BRUGNARA ELIA
-
-5
-
-UGBEJI KESSEY
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MATTEDI LUCA | 2 |
+| MATTEDI GIULIO | 6 |
+| SOVILLA MASSIMO | 8 |
+| VALER ALESSANDRO | 10 |
+| DALPIAZ LUCA | 8 |
+| PERISSINOTTO MATTEO | 0 |
+| BOSETTI MICHELE | 11 |
+| BRUGNARA ELIA | 5 |
+| UGBEJI KESSEY | 2 |
 
 **Commento:**  
 Purtroppo sembra che in quest'inizio di stagione non si riesca a giocare bene con continuità, e ci si ritrova a commentare una partita che avrebbe potuto (e dovuto, dal nostro punto di vista) andare diversamente.

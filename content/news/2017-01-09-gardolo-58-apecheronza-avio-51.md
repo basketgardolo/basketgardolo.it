@@ -1,56 +1,21 @@
 ---
 title: Gardolo 58 – Apecheronza Avio 51
-date: 2017-01-09T20:31:10+00:00
+date: 2016-12-18T20:31:10+00:00
 ---
-DIC
-
-18
-
-2016
-
-**Punti segnati**
-
-BALDO MIRKO
-
-4
-
-BOSETTI MICHELE
-
-DALLAPICCOLA LUCA
-
-3
-
-STENICO CRISTIAN
-
-2
-
-PERINI ALVISE
-
-12
-
-SACCOMAN LORENZO
-
-DALPIAZ LUCA
-
-7
-
-VALER ALESSANDRO
-
-7
-
-TESTONI MIRKO
-
-MALFER MICHAEL
-
-2
-
-DALLABETTA DANIEL
-
-3
-
-BERLOFFA RICCARDO
-
-17
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO MIRKO | 4 |
+| BOSETTI MICHELE | 0 |
+| DALLAPICCOLA LUCA | 3 |
+| STENICO CRISTIAN | 2 |
+| PERINI ALVISE | 12 |
+| SACCOMAN LORENZO | 0 |
+| DALPIAZ LUCA | 7 |
+| VALER ALESSANDRO | 7 |
+| TESTONI MIRKO | 0 |
+| MALFER MICHAEL | 2 |
+| DALLABETTA DANIEL | 3 |
+| BERLOFFA RICCARDO | 17 |
 
 **Commento:**  
 L'ultima partita dell'anno solare si chiude con una vittoria che ci permette di mantenere l'imbattibilità casalinga e di passare serenamente le festività natalizie!

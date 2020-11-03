@@ -1,50 +1,18 @@
 ---
 title: BlueBear Villazzano A 59 – Gardolo 47
-date: 2015-11-25T10:28:19+00:00
+date: 2015-11-24T10:28:19+00:00
 ---
-NOV
-
-24
-
-2015
-
-**Punti segnati**
-
-MATTEDI GIULIO
-
-11
-
-MALFER MICHAEL
-
-4
-
-BALDO YURI
-
-2
-
-VALER ALESSANDRO
-
-9
-
-DALPIAZ LUCA
-
-5
-
-FRANZOI NICOLA
-
-2
-
-BOSETTI MICHELE
-
-9
-
-SOVILLA MASSIMO
-
-3
-
-UGBEJI KESSEY
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MATTEDI GIULIO | 11 |
+| MALFER MICHAEL | 4 |
+| BALDO YURI | 2 |
+| VALER ALESSANDRO | 9 |
+| DALPIAZ LUCA | 5 |
+| FRANZOI NICOLA | 2 |
+| BOSETTI MICHELE | 9 |
+| SOVILLA MASSIMO | 3 |
+| UGBEJI KESSEY | 2 |
 
 **Commento:**  
 Seconda partita stagionale che purtroppo non conferma le cose buone viste all'esordio stagionale. Anzi, tutt'altro: abbiamo affrontato la partita (contro una buona squadra, va detto) senza grinta né in attacco né in difesa, senza dare l'impressione di avere quell'amalgama che ci ha permesso di vincere brillantemente 10 giorni fa, senza di fatto aver mai impensierito gli avversari, che hanno condotto in tranquillità tutto l'incontro.

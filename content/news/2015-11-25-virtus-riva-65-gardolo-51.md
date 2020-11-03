@@ -1,52 +1,20 @@
 ---
 title: Virtus Riva 65 – Gardolo 51
-date: 2015-11-25T14:31:33+00:00
+date: 2015-11-20T14:31:33+00:00
 ---
-NOV
-
-20
-
-2015
-
-**Punti segnati**
-
-TRIVARELLI GIACOMO
-
-5
-
-CHISTÈ
-
-JOSOL JAN RAVEN
-
-8
-
-VALER ALBERTO
-
-10
-
-SCAGLIARINI
-
-1
-
-GAMBINO LORENZO
-
-16
-
-MOSNA MATTEO
-
-7
-
-BERTOTTI NICOLA
-
-1
-
-RIZI GIOVANNI
-
-BEVILACQUA FEDERICO
-
-3
-
-ASANI
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| TRIVARELLI GIACOMO | 5 |
+| CHISTÈ | 0 |
+| JOSOL JAN RAVEN | 8 |
+| VALER ALBERTO | 10 |
+| SCAGLIARINI | 1 |
+| GAMBINO LORENZO | 16 |
+| MOSNA MATTEO | 7 |
+| BERTOTTI NICOLA | 1 |
+| RIZI GIOVANNI | 0 |
+| BEVILACQUA FEDERICO | 3 |
+| ASANI | 0 |
 
 **Commento:**  
 A causa di uno spostamento di partita da sabato 21 a venerdì 20 la nostra serie D si è trovata a giocare fuori casa in turno infrasettimanale a Riva del Garda. Lo spostamento ha fatto si che il nostro Valer potesse prendere parte alla partita assieme anche ad alcuni U20, che sabato avrebbero giocato il loro campionato di promozione.  

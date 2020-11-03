@@ -1,48 +1,20 @@
 ---
 title: Villazzano A 41 – Gardolo 64
-date: 2016-11-17T13:38:27+00:00
+date: 2016-11-13T13:38:27+00:00
 ---
-NOV
 
-13
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-CLAUS CHRISTIAN
-
-14
-
-DELLAI MATTEO
-
-17
-
-TANI EUGENIO
-
-BUFFA ROBERTO
-
-7
-
-OSELLO DAMIANO
-
-11
-
-AMBROSI GIOVANNI
-
-5
-
-TITON JULIAN
-
-PANIZZA LUCA
-
-8
-
-BALDESSARI PIETRO
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 0 |
+| CLAUS CHRISTIAN | 14 |
+| DELLAI MATTEO | 17 |
+| TANI EUGENIO | 0 |
+| BUFFA ROBERTO | 7 |
+| OSELLO DAMIANO | 11 |
+| AMBROSI GIOVANNI | 5 |
+| TITON JULIAN | 0 |
+| PANIZZA LUCA | 8 |
+| BALDESSARI PIETRO | 2 |
 
 **Commento:**  
 Grandissima prestazione degli U18 di Marco “Rizzo” Paoli, che all’esordio tra le “mura nemiche” prevalgono sulla compagine locale (prevalentemente di annata ‘99) allenata da G. Bolner al termine di una gara amministrata nel migliore dei modi sia dal punto di vista fisico che mentale e naturalmente nel punteggio.

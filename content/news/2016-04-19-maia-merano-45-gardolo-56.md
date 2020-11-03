@@ -1,50 +1,18 @@
 ---
 title: Maia Merano 45 – Gardolo 56
-date: 2016-04-19T06:58:34+00:00
+date: 2016-04-07T06:58:34+00:00
 ---
-APR
-
-07
-
-2016
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-2
-
-BALDO YURI
-
-6
-
-FRANZOI NICOLA
-
-2
-
-BRUGNARA ELIA
-
-7
-
-UGBEYI KESSEY
-
-11
-
-SACCOMAN LORENZO
-
-2
-
-STENICO CRISTIAN
-
-8
-
-SOVILLA MASSIMO
-
-12
-
-MALFER MICHAEL
-
-6
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 2 |
+| BALDO YURI | 6 |
+| FRANZOI NICOLA | 2 |
+| BRUGNARA ELIA | 7 |
+| UGBEYI KESSEY | 11 |
+| SACCOMAN LORENZO | 2 |
+| STENICO CRISTIAN | 8 |
+| SOVILLA MASSIMO | 12 |
+| MALFER MICHAEL | 6 |
 
 **Commento:**  
 Continua il periodo di crescita della nostra squadra dopo le terribili prestazioni di Marzo, e per una volta dopo tanto (troppo) tempo possiamo dire di aver giocato bene.

@@ -1,44 +1,17 @@
 ---
 title: Gardolo 66 – Pergine 49
-date: 2016-11-22T21:15:08+00:00
+date: 2016-11-19T21:15:08+00:00
 ---
-NOV
-
-19
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-5
-
-TANI EUGENIO
-
-8
-
-BUFFA ROBERTO
-
-8
-
-OSELLO DAMIANO
-
-21
-
-AMBROSI GIOVANNI
-
-10
-
-TITON JULIAN
-
-8
-
-PANIZZA LUCA
-
-6
-
-BALDESSARI PIETRO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 5 |
+| TANI EUGENIO | 8 |
+| BUFFA ROBERTO | 8 |
+| OSELLO DAMIANO | 21 |
+| AMBROSI GIOVANNI | 10 |
+| TITON JULIAN | 8 |
+| PANIZZA LUCA | 6 |
+| BALDESSARI PIETRO | 0 |
 
 **Commento:**  
 Altra convincente vittoria dei ragazzi di Marco “Rizzo” Paoli, i quali mantengono la salda posizione di vertice della classifica del girone B (Trentino) al termine di un incontro avvincente e giocato con sprazzi di buona pallacanestro da parte di entrambe le squadre.

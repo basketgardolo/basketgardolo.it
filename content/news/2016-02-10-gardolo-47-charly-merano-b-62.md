@@ -1,56 +1,21 @@
 ---
 title: Gardolo 47 – Charly Merano B 62
-date: 2016-02-10T08:03:18+00:00
+date: 2016-02-06T08:03:18+00:00
 ---
-FEB
-
-06
-
-2016
-
-**Punti segnati**
-
-TANI EUGENIO
-
-4
-
-TORRESANI MATTEO
-
-5
-
-DELLAI MATTEO
-
-8
-
-BUFFA ROBERTO
-
-2
-
-OSELLO DAMIANO
-
-8
-
-SANTONI EDOARDO
-
-AMBROSI GIOVANNI
-
-3
-
-LAZZAROTTO TOMMASO
-
-7
-
-PERENZONI STEFANO
-
-8
-
-PANIZZA LUCA
-
-MALUAL DHIEU
-
-VERONESI FABIO
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| TANI EUGENIO | 4 |
+| TORRESANI MATTEO | 5 |
+| DELLAI MATTEO | 8 |
+| BUFFA ROBERTO | 2 |
+| OSELLO DAMIANO | 8 |
+| SANTONI EDOARDO | 0 |
+| AMBROSI GIOVANNI | 3 |
+| LAZZAROTTO TOMMASO | 7 |
+| PERENZONI STEFANO | 8 |
+| PANIZZA LUCA | 0 |
+| MALUAL DHIEU | 0 |
+| VERONESI FABIO | 2 |
 
 **Commento:**  
 Prima sconfitta tra le mure amiche per i ragazzi U18 di Marco "Rizzo" Paoli, che soccombono agli attacchi ospiti al termine di una partita molto intensa.

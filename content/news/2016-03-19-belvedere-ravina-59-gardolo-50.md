@@ -1,48 +1,18 @@
 ---
 title: Belvedere Ravina 59 – Gardolo 50
-date: 2016-03-19T10:39:17+00:00
+date: 2016-03-02T10:39:17+00:00
 ---
-MAR
-
-02
-
-2016
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-2
-
-BALDO YURI
-
-9
-
-SOVILLA MASSIMO
-
-8
-
-DALPIAZ LUCA
-
-6
-
-BRUGNARA ELIA
-
-5
-
-SACCOMAN LORENZO
-
-11
-
-STENICO CRISTIAN
-
-4
-
-UGBEYI KESSEY
-
-5
-
-MALFER MICHAEL
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 2 |
+| BALDO YURI | 9 |
+| SOVILLA MASSIMO | 8 |
+| DALPIAZ LUCA | 6 |
+| BRUGNARA ELIA | 5 |
+| SACCOMAN LORENZO | 11 |
+| STENICO CRISTIAN | 4 |
+| UGBEYI KESSEY | 5 |
+| MALFER MICHAEL | 0 |
 
 **Commento:**  
 Partita decisamente anomala, quella giocata in casa dei ravinensi, durante la quale abbiamo perso 4 giocatori e che ci ha costretti a finire in 5 gli ultimi 7 minuti della gara.  

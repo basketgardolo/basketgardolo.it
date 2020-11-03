@@ -1,46 +1,18 @@
 ---
 title: Gardolo 84 – Piani Bolzano 52
-date: 2015-11-30T09:03:03+00:00
+date: 2015-11-29T09:03:03+00:00
 ---
-NOV
-
-29
-
-2015
-
-**Punti segnati**
-
-STENICO CRISTIAN
-
-9
-
-SACCOMAN LORENZO
-
-BALDO YURI
-
-2
-
-VALER ALESSANDRO
-
-7
-
-DALPIAZ LUCA
-
-22
-
-PERISSINOTTO MATTEO
-
-18
-
-BOSETTI MICHELE
-
-BRUGNARA ELIA
-
-10
-
-UGBEJI KESSEY
-
-16
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| STENICO CRISTIAN | 9 |
+| SACCOMAN LORENZO | 0 |
+| BALDO YURI | 2 |
+| VALER ALESSANDRO | 7 |
+| DALPIAZ LUCA | 22 |
+| PERISSINOTTO MATTEO | 18 |
+| BOSETTI MICHELE | 0 |
+| BRUGNARA ELIA | 10 |
+| UGBEJI KESSEY | 16 |
 
 **Commento:**  
 Inizio di stagione altalenante, quello della Promozione: dopo la prima esaltante vittoria in casa del Virtus Riva e la pessima prestazione contro il Blue Bear di Villazzano, torniamo in carreggiata con un prestazione più che convincente nella prima partita stagionale giocata tra le mura amiche.

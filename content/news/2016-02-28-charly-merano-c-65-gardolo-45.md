@@ -1,54 +1,21 @@
 ---
 title: Charly Merano C 65 – Gardolo 45
-date: 2016-02-28T13:49:35+00:00
+date: 2016-02-24T13:49:35+00:00
 ---
-FEB
-
-24
-
-2016
-
-**Punti segnati**
-
-DELLAI MATTEO
-
-20
-
-AMBROSI GIOVANNI
-
-1
-
-VERONESI FABIO
-
-2
-
-BORTOLIN SAMUEL
-
-PERENZONI STEFANO
-
-8
-
-TANI EUGENIO
-
-2
-
-LAZZAROTTO TOMMASO
-
-7
-
-ROSSI LUCA
-
-PANIZZA LUCA
-
-4
-
-TORRESANI MATTEO
-
-1
-
-FELICETTI MARCO
-
-BUFFA ROBERTO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| DELLAI MATTEO | 20 |
+| AMBROSI GIOVANNI | 1 |
+| VERONESI FABIO | 2 |
+| BORTOLIN SAMUEL | 0 |
+| PERENZONI STEFANO | 8 |
+| TANI EUGENIO | 2 |
+| LAZZAROTTO TOMMASO | 7 |
+| ROSSI LUCA | 0 |
+| PANIZZA LUCA | 4 |
+| TORRESANI MATTEO | 1 |
+| FELICETTI MARCO | 0 |
+| BUFFA ROBERTO | 0 |
 
 **Commento:**  
 I nostri under 18 sbagliano forse la partita più importante del campionato uscendo sconfitti dal campo del Charly Merano “C” per 65-45. La partita, valida per il 4° posto in campionato, ultimo che permetterebbe l’accesso ai playoff, non è sembrata mai in discussione, complice l’assenza di elementi importanti all’interno del roster e della poca grinta e voglia dimostrata dai nostri ragazzi.

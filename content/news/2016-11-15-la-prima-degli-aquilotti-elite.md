@@ -1,13 +1,7 @@
 ---
 title: La prima degli Aquilotti elite!
-date: 2016-11-15T18:39:22+00:00
+date: 2016-11-12T18:39:22+00:00
 ---
-NOV
-
-12
-
-2016
-
 **Commento:**  
 Sabato 12 novembre alle ore 18 è andata in "scena la prima" dei nostri Aquilotti elite nel massimo campionato di categoria al Palazzetto di Gardolo.
 

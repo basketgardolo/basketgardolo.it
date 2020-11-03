@@ -1,50 +1,18 @@
 ---
 title: Pall. Villazzano 52 – Gardolo 64
-date: 2016-01-27T08:06:33+00:00
+date: 2016-01-25T08:06:33+00:00
 ---
-GEN
-
-25
-
-2016
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-15
-
-BALDO YURI
-
-4
-
-SOVILLA MASSIMO
-
-3
-
-FRANZOI NICOLA
-
-4
-
-GUADAGNINI FEDERICO
-
-2
-
-BRUGNARA ELIA
-
-6
-
-MATTEDI GIULIO
-
-5
-
-UGBEYI KESSEY
-
-2
-
-DALPIAZ LUCA
-
-23
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 15 |
+| BALDO YURI | 4 |
+| SOVILLA MASSIMO | 3 |
+| FRANZOI NICOLA | 4 |
+| GUADAGNINI FEDERICO | 2 |
+| BRUGNARA ELIA | 6 |
+| MATTEDI GIULIO | 5 |
+| UGBEYI KESSEY | 2 |
+| DALPIAZ LUCA | 23 |
 
 **Commento:**  
 Ultima partita di andata per i nostri ragazzi sul campo del villazzano.

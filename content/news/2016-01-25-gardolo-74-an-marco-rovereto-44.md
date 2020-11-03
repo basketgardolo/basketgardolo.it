@@ -1,58 +1,21 @@
 ---
 title: Gardolo 74 – San Marco Rovereto 44
-date: 2016-01-25T15:16:27+00:00
+date: 2016-01-23T15:16:27+00:00
 ---
-GEN
-
-23
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-2
-
-TORRESANI MATTEO
-
-DELLAI MATTEO
-
-6
-
-BUFFA ROBERTO
-
-2
-
-OSELLO DAMIANO
-
-16
-
-TANI EUGENIO
-
-4
-
-AMBROSI GIOVANNI
-
-10
-
-LAZZAROTTO TOMMASO
-
-24
-
-PERENZONI STEFANO
-
-2
-
-JOHN MAJAC D.
-
-4
-
-PANIZZA LUCA
-
-4
-
-BALDESSARI PIETRO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 2 |
+| TORRESANI MATTEO | 0 |
+| DELLAI MATTEO | 6 |
+| BUFFA ROBERTO | 2 |
+| OSELLO DAMIANO | 16 |
+| TANI EUGENIO | 4 |
+| AMBROSI GIOVANNI | 10 |
+| LAZZAROTTO TOMMASO | 24 |
+| PERENZONI STEFANO | 2 |
+| JOHN MAJAC D. | 4 |
+| PANIZZA LUCA | 4 |
+| BALDESSARI PIETRO | 0 |
 
 **Commento:**  
 Altra convincente vittoria per i ragazzi U18 di coach Marco "Rizzo" Paoli che superano per 74-44 San Marco Rovereto in una partita non troppo avvincente rispetto ad altre precedenti.

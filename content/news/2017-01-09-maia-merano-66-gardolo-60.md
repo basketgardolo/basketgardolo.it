@@ -1,52 +1,19 @@
 ---
 title: Maia Merano 66 – Gardolo 60
-date: 2017-01-09T20:29:37+00:00
+date: 2016-12-15T20:29:37+00:00
 ---
-DIC
-
-15
-
-2016
-
-**Punti segnati**
-
-BALDO MIRKO
-
-4
-
-BOSETTI MICHELE
-
-4
-
-DALLAPICCOLA LUCA
-
-3
-
-STENICO CRISTIAN
-
-4
-
-PERINI ALVISE
-
-3
-
-SACCOMAN LORENZO
-
-10
-
-DALPIAZ LUCA
-
-9
-
-VALER ALESSANDRO
-
-13
-
-TESTONI MIRKO
-
-MALFER MICHAEL
-
-8
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO MIRKO | 4 |
+| BOSETTI MICHELE | 4 |
+| DALLAPICCOLA LUCA | 3 |
+| STENICO CRISTIAN | 4 |
+| PERINI ALVISE | 3 |
+| SACCOMAN LORENZO | 10 |
+| DALPIAZ LUCA | 9 |
+| VALER ALESSANDRO | 13 |
+| TESTONI MIRKO | 0 |
+| MALFER MICHAEL | 8 |
 
 **Commento:**  
 Partita decisamente da dimenticare, questa.

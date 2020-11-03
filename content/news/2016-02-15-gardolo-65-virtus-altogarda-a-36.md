@@ -1,48 +1,18 @@
 ---
 title: Gardolo 65 – Virtus Altogarda A 36
-date: 2016-02-15T10:30:14+00:00
+date: 2016-02-11T10:30:14+00:00
 ---
-FEB
-
-11
-
-2016
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-10
-
-BALDO YURI
-
-SOVILLA MASSIMO
-
-15
-
-FRANZOI NICOLA
-
-7
-
-BRUGNARA ELIA
-
-10
-
-SACCOMAN LORENZO
-
-5
-
-MATTEDI GIULIO
-
-8
-
-UGBEYI KESSEY
-
-2
-
-DALPIAZ LUCA
-
-8
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 10 |
+| BALDO YURI | 0 |
+| SOVILLA MASSIMO | 15 |
+| FRANZOI NICOLA | 7 |
+| BRUGNARA ELIA | 10 |
+| SACCOMAN LORENZO | 5 |
+| MATTEDI GIULIO | 8 |
+| UGBEYI KESSEY | 2 |
+| DALPIAZ LUCA | 8 |
 
 **Commento:**  
 Seconda partita del girone di ritorno che ci vede uscire vittoriosi grazie ad un primo tempo di bel gioco e di ottime percentuali al tiro, probabilmente aiutati anche dalla eccessiva arrendevolezza degli avversari.

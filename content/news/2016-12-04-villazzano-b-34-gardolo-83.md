@@ -1,56 +1,21 @@
 ---
 title: Villazzano B 34 – Gardolo 83
-date: 2016-12-04T10:28:18+00:00
+date: 2016-11-26T10:28:18+00:00
 ---
-NOV
 
-26
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-9
-
-IOBSTRAIBIZER MARCO
-
-DELLAI MATTEO
-
-11
-
-TANI EUGENIO
-
-2
-
-OSELLO DAMIANO
-
-12
-
-AMBROSI GIOVANNI
-
-9
-
-BUFFA ROBERTO
-
-14
-
-CLAUS CHRISTIAN
-
-14
-
-TITON JULIAN
-
-7
-
-PANIZZA LUCA
-
-2
-
-BALDESSARI PIETRO
-
-3
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 9 |
+| IOBSTRAIBIZER MARCO | 0 |
+| DELLAI MATTEO | 11 |
+| TANI EUGENIO | 2 |
+| OSELLO DAMIANO | 12 |
+| AMBROSI GIOVANNI | 9 |
+| BUFFA ROBERTO | 14 |
+| CLAUS CHRISTIAN | 14 |
+| TITON JULIAN | 7 |
+| PANIZZA LUCA | 2 |
+| BALDESSARI PIETRO | 3 |
 
 **Commento:**  
 Quinta vittoria in altrettante partite e girone d’andata in archivio per i ragazzi di Marco “Rizzo” Paoli, che sbancano nuovamente l’ostico palazzetto di Gabbiolo conquistando un successo ampiamente meritato e ben giocato su entrambi i lati del parquet.

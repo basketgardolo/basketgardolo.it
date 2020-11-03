@@ -1,54 +1,20 @@
 ---
 title: Gardolo 68 – Villazzano B 38
-date: 2017-02-13T20:37:28+00:00
+date: 2017-02-03T20:37:28+00:00
 ---
-FEB
-
-03
-
-2017
-
-**Punti segnati**
-
-ROSSI LUCA
-
-6
-
-DELLAI MATTEO
-
-10
-
-TANI EUGENIO
-
-6
-
-VERONESI FABIO
-
-10
-
-BUFFA ROBERTO
-
-11
-
-OSELLO DAMIANO
-
-11
-
-AMBROSI GIOVANNI
-
-CLAUS CHRISTIAN
-
-6
-
-TITON JULIAN
-
-2
-
-SANTONI EDOARDO
-
-6
-
-BALDESSARI PIETRO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 6 |
+| DELLAI MATTEO | 10 |
+| TANI EUGENIO | 6 |
+| VERONESI FABIO | 10 |
+| BUFFA ROBERTO | 11 |
+| OSELLO DAMIANO | 11 |
+| AMBROSI GIOVANNI | 0 |
+| CLAUS CHRISTIAN | 6 |
+| TITON JULIAN | 2 |
+| SANTONI EDOARDO | 6 |
+| BALDESSARI PIETRO | 0 |
 
 **Commento:**  
 Decima vittoria in altrettante gare ed imbattibilità conseguita per i ragazzi di Marco “Rizzo” Paoli, i quali pur non disputando la miglior prestazione stagionale, prevalgono notevolmente sulla compagine avversaria.

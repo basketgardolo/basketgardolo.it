@@ -1,54 +1,19 @@
 ---
 title: Gardolo 63 – Belvedere Ravina 60
-date: 2017-02-23T19:43:24+00:00
+date: 2017-02-19T19:43:24+00:00
 ---
-FEB
-
-19
-
-2017
-
-**Punti segnati**
-
-BALDO MIRKO
-
-10
-
-BOSETTI MICHELE
-
-12
-
-DALLAPICCOLA LUCA
-
-3
-
-PERINI ALVISE
-
-2
-
-STENICO CRISTIAN
-
-2
-
-SACCOMAN LORENZO
-
-7
-
-DALPIAZ LUCA
-
-2
-
-VALER ALESSANDRO
-
-5
-
-DALLABETTA DANIEL
-
-18
-
-TESTONI MIRKO
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO MIRKO | 10 |
+| BOSETTI MICHELE | 12 |
+| DALLAPICCOLA LUCA | 3 |
+| PERINI ALVISE | 2 |
+| STENICO CRISTIAN | 2 |
+| SACCOMAN LORENZO | 7 |
+| DALPIAZ LUCA | 2 |
+| VALER ALESSANDRO | 5 |
+| DALLABETTA DANIEL | 18 |
+| TESTONI MIRKO | 2 |
 
 **Commento:**  
 Partita da ricordare, questa! E verrà ricordata senza troppa fatica non solo da noi giocatori, ma anche dal fortunato pubblico che si è visto testimone di uno spettacolo raro.

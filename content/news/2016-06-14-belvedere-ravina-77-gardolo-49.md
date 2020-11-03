@@ -1,46 +1,19 @@
 ---
 title: Belvedere Ravina 77 – Gardolo 49
-date: 2016-06-14T10:24:41+00:00
+date: 2016-05-16T10:24:41+00:00
 ---
-MAG
 
-16
-
-2016
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-9
-
-BALDO YURI
-
-10
-
-MALFER MICHAEL
-
-BRUGNARA ELIA
-
-3
-
-UGBEYI KESSEY
-
-5
-
-VALER ALESSANDRO
-
-15
-
-MATTEDI GIULIO
-
-4
-
-SOVILLA MASSIMO
-
-3
-
-DALPIAZ LUCA
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 9 |
+| BALDO YURI | 10 |
+| MALFER MICHAEL | 0 |
+| BRUGNARA ELIA | 3 |
+| UGBEYI KESSEY | 5 |
+| VALER ALESSANDRO | 15 |
+| MATTEDI GIULIO | 4 |
+| SOVILLA MASSIMO | 3 |
+| DALPIAZ LUCA | 0 |
 
 **Commento:**  
 Partita che purtroppo per noi non è mai cominciata.  

@@ -1,48 +1,18 @@
 ---
 title: Junior Rovereto 43 – Gardolo 87
-date: 2016-01-25T15:00:35+00:00
+date: 2016-01-19T15:00:35+00:00
 ---
-GEN
-
-19
-
-2016
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-12
-
-MATTEDI LUCA
-
-1
-
-STENICO CRISTIAN
-
-5
-
-MALFER MICHAEL
-
-5
-
-SACCOMAN LORENZO
-
-BRUGNARA ELIA
-
-16
-
-MATTEDI GIULIO
-
-13
-
-UGBEYI KESSEY
-
-22
-
-DALPIAZ LUCA
-
-13
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 12 |
+| MATTEDI LUCA | 1 |
+| STENICO CRISTIAN | 5 |
+| MALFER MICHAEL | 5 |
+| SACCOMAN LORENZO | 0 |
+| BRUGNARA ELIA | 16 |
+| MATTEDI GIULIO | 13 |
+| UGBEYI KESSEY | 22 |
+| DALPIAZ LUCA | 13 |
 
 **Commento:**  
 Siamo felici di non esserci sbagliati nelle partite scorse nel vedere un costante miglioramente della squadra, sia nel gioco che nella diminuizione delle palle perse.  

@@ -1,50 +1,19 @@
 ---
 title: Gardolo 59 – Europa Bolzano 62
-date: 2016-03-23T13:46:59+00:00
+date: 2016-03-16T13:46:59+00:00
 ---
-MAR
-
-16
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-n.e.
-
-TORRESANI MATTEO
-
-3
-
-DELLAI MATTEO
-
-12
-
-VERONESI FABIO
-
-13
-
-BUFFA ROBERTO
-
-MALUAL DHIEU
-
-AMBROSI GIOVANNI
-
-3
-
-BORTOLIN SAMUEL
-
-10
-
-LAZZAROTTO TOMMASO
-
-14
-
-PERENZONI STEFANO
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | n.e. |
+| TORRESANI MATTEO | 3 |
+| DELLAI MATTEO | 12 |
+| VERONESI FABIO | 13 |
+| BUFFA ROBERTO | 0 |
+| MALUAL DHIEU | 0 |
+| AMBROSI GIOVANNI | 3 |
+| BORTOLIN SAMUEL | 10 |
+| LAZZAROTTO TOMMASO | 14 |
+| PERENZONI STEFANO | 4 |
 
 **Commento:**  
 Si spegne sul ferro del PalaGardolo l'ultima occasione per i ragazzi di coach Marco "Rizzo" Paoli, che disputano una prestazione generosa ma alla fine non riescono nell'impresa di raggiungere la fase finale del torneo.

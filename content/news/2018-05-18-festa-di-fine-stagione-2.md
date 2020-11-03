@@ -6,7 +6,3 @@ Dopo una stupenda stagione agonistica ricca di emozioni, allenamenti e partite, 
 - pollo 🍗
 - patatine 🍟
 - bibita/birra 🍟🍺 Costo euro 10
-
-**Link** per il modulo di iscrizione da restituire compilato entro il 25 maggio: [Festa di fine stagione][1] [foogallery id="7955"]
-
-[1]: http://www.basketgardolo.it/wp-content/uploads/2018/05/Festa-di-fine-stagione.pdf

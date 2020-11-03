@@ -1,50 +1,18 @@
 ---
 title: Piani Junior 79 – Gardolo 70
-date: 2017-04-03T14:45:01+00:00
+date: 2017-04-02T14:45:01+00:00
 ---
-APR
-
-2
-
-2017
-
-**Punti segnati**
-
-BERTOLUZZA DAVIDE
-
-4
-
-SCAGLIARINI GIOVANNI
-
-12
-
-ZAMPIERO ERMANNO
-
-2
-
-ANGELINI PIERO
-
-10
-
-BALAARA ANGELO
-
-5
-
-SAVOIA MAURO
-
-19
-
-LAZZAROTTO TOMMASO
-
-4
-
-SPAGNOLO THOMAS
-
-ne
-
-SISSA GIANMARIA
-
-14
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BERTOLUZZA DAVIDE | 4 |
+| SCAGLIARINI GIOVANNI | 12 |
+| ZAMPIERO ERMANNO | 2 |
+| ANGELINI PIERO | 10 |
+| BALAARA ANGELO | 5 |
+| SAVOIA MAURO | 19 |
+| LAZZAROTTO TOMMASO | 4 |
+| SPAGNOLO THOMAS | ne |
+| SISSA GIANMARIA | 14 |
 
 **Commento:**
 

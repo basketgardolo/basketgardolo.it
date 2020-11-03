@@ -1,50 +1,20 @@
 ---
 title: Virtus Riva 70 – Gardolo 56
-date: 2016-02-22T15:11:24+00:00
+date: 2016-02-20T15:11:24+00:00
 ---
-FEB
-
-20
-
-2016
-
-**Punti segnati**
-
-CHISTÈ
-
-SCAGLIARINI
-
-4
-
-PEDERZOLLI
-
-TRIVARELLI
-
-13
-
-BERTOTTI
-
-6
-
-VALER
-
-13
-
-GAMBINO
-
-12
-
-SECK
-
-7
-
-ASANI
-
-BEVILACQUA
-
-ZAMPIERO
-
-3
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| CHISTÈ | 0 |
+| SCAGLIARINI | 4 |
+| PEDERZOLLI | 0 |
+| TRIVARELLI | 13 |
+| BERTOTTI | 6 |
+| VALER | 13 |
+| GAMBINO | 12 |
+| SECK | 7 |
+| ASANI | 0 |
+| BEVILACQUA | 0 |
+| ZAMPIERO | 3 |
 
 **Commento:**  
 La serie D di Gardolo si presenta alla palestra Impera di Riva del Garda per la partita valida per il primato in campionato, priva di alcuni giocatori determinanti: Mosna, a causa di un infortunio muscolare è costretto a guardare la partita da spettatore mentre Lucchini e Perenzoni non sono della comitiva.

@@ -1,60 +1,21 @@
 ---
 title: Villazzano 40 – Gardolo 75
-date: 2016-04-10T13:29:22+00:00
+date: 2016-03-16T13:29:22+00:00
 ---
-MAR
-
-16
-
-2016
-
-**Punti segnati**
-
-ROSSI LUCA
-
-3
-
-DELLAI MATTEO
-
-13
-
-TANI EUGENIO
-
-5
-
-VERONESI FABIO
-
-2
-
-BUFFA ROBERTO
-
-3
-
-MALUAL DHIU
-
-8
-
-AMBROSI GIOVANNI
-
-9
-
-BORTOLIN SAMUEL
-
-7
-
-LAZZAROTTO TOMMASO
-
-12
-
-PANIZZA LUCA
-
-4
-
-SANTONI EDOARDO
-
-OSELLO DAMIANO
-
-9
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 3 |
+| DELLAI MATTEO | 13 |
+| TANI EUGENIO | 5 |
+| VERONESI FABIO | 2 |
+| BUFFA ROBERTO | 3 |
+| MALUAL DHIU | 8 |
+| AMBROSI GIOVANNI | 9 |
+| BORTOLIN SAMUEL | 7 |
+| LAZZAROTTO TOMMASO | 12 |
+| PANIZZA LUCA | 4 |
+| SANTONI EDOARDO | 0 |
+| OSELLO DAMIANO | 9 |
 
 **Commento:**  
 Grandissima prestazione dei ragazzi U18 di coach Marco "Rizzo" Paoli che disputano una partita sensazionale e si aggiudicano il derby regionale contro la compagine di Villazzano.
