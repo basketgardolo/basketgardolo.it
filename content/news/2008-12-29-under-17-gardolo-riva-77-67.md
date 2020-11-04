@@ -8,4 +8,6 @@ Il gruppo è cresciuto molto sia dal punto di vista tecnico che dal punto di vis
 
 Mi scusa coi genitori per il mio nervosismo esagerato in panchina e soprattutto per le parolacce scappate, purtroppo molto spesso la tensione è forte anche per l’allenatore.
 
-Auguro a tutti un buon 2009 e speriamo che la nostra squadra possa continuare così. \_Rizzo\_ PARZIALI: 27 - 14, 13 - 16, 22 - 18, 15 - 19 PALLE PERSE = 25 PALLE RECUP. = 15 T/2 = 32/58 T/3 = 1/6 T/LIBERI = 10/28 RIMB. DIF. = 42 RIMB. OFF. = 6DANIEL DALLABETTA 9,    DANIEL DALLABETTA 9, ELIA AQUILINI, YURI BALDO 10, MATTEO TAMBORSKY 10, BORTO 27, LORENZO BORGOGNO 8, LUCA MARTORANO 5, ROBERTO PEDROTTI N.E, DAVIDE COELLI N.E, NICOLA ECCHER N.E, LUCA MATTEDI 0, SIMONE SEGALLA 8
+Auguro a tutti un buon 2009 e speriamo che la nostra squadra possa continuare così. _Rizzo_
+
+PARZIALI: 27 - 14, 13 - 16, 22 - 18, 15 - 19 PALLE PERSE = 25 PALLE RECUP. = 15 T/2 = 32/58 T/3 = 1/6 T/LIBERI = 10/28 RIMB. DIF. = 42 RIMB. OFF. = 6DANIEL DALLABETTA 9,    DANIEL DALLABETTA 9, ELIA AQUILINI, YURI BALDO 10, MATTEO TAMBORSKY 10, BORTO 27, LORENZO BORGOGNO 8, LUCA MARTORANO 5, ROBERTO PEDROTTI N.E, DAVIDE COELLI N.E, NICOLA ECCHER N.E, LUCA MATTEDI 0, SIMONE SEGALLA 8
