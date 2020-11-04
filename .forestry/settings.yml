@@ -10,10 +10,12 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/news/**/*
+  path: content/news
   label: News
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - articolo
 - type: directory
   path: content/giocatori
   label: Giocatori
