@@ -1,50 +1,18 @@
 ---
 title: Gardolo 79 – Europa Bolzano 50
-date: 2013-12-13T22:54:28+00:00
+date: 2013-12-12T22:54:28+00:00
 ---
-DIC
-
-12
-
-2013
-
-**Punti segnati**
-
-BALDO YURI
-
-14
-
-DALLABETTA DANIEL
-
-10
-
-DALPIAZ LUCA
-
-9
-
-MALFER MICHAEL
-
-8
-
-MATTEDI LUCA
-
-5
-
-SACCOMAN LORENZO
-
-8
-
-SOVILLA MASSIMO
-
-14
-
-UGBEYI KESSEY
-
-4
-
-VALER ALESSANDRO
-
-7
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 14 |
+| DALLABETTA DANIEL | 10 |
+| DALPIAZ LUCA | 9 |
+| MALFER MICHAEL | 8 |
+| MATTEDI LUCA | 5 |
+| SACCOMAN LORENZO | 8 |
+| SOVILLA MASSIMO | 14 |
+| UGBEYI KESSEY | 4 |
+| VALER ALESSANDRO | 7 |
 
 **Commento:**
 

@@ -1,48 +1,18 @@
 ---
 title: Paganella Lavis A 69 – Gardolo 57
-date: 2013-12-02T07:26:41+00:00
+date: 2013-12-01T07:26:41+00:00
 ---
-DIC
-
-1
-
-2013
-
-**Punti segnati**
-
-BALDO YURI
-
-4
-
-BOSETTI MICHELE
-
-DALPIAZ LUCA
-
-12
-
-FRANZOI NICOLA
-
-2
-
-MALFER MICHAEL
-
-4
-
-PEDERZOLLI FEDERICO
-
-6
-
-SOVILLA MASSIMO
-
-8
-
-STENICO CRISTIAN
-
-3
-
-VALER ALESSANDRO
-
-18
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 4 |
+| BOSETTI MICHELE | 0 |
+| DALPIAZ LUCA | 12 |
+| FRANZOI NICOLA | 2 |
+| MALFER MICHAEL | 4 |
+| PEDERZOLLI FEDERICO | 6 |
+| SOVILLA MASSIMO | 8 |
+| STENICO CRISTIAN | 3 |
+| VALER ALESSANDRO | 18 |
 
 **Commento:**
 

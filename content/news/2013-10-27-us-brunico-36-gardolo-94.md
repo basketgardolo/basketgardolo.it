@@ -2,49 +2,17 @@
 title: US Brunico 36 – Gardolo 94
 date: 2013-10-27T09:40:08+00:00
 ---
-OTT
-
-27
-
-2013
-
-**Punti segnati**
-
-BALDO YURI
-
-11
-
-BOSETTI MICHELE
-
-7
-
-DALPIAZ LUCA
-
-14
-
-FRANZOI NICOLA
-
-6
-
-PEDERZOLLI FEDERICO
-
-10
-
-SACCOMAN LORENZO
-
-2
-
-SOVILLA MASSIMO
-
-9
-
-STENICO CRISTIAN
-
-20
-
-VALER ALESSANDRO
-
-15
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 11 |
+| BOSETTI MICHELE | 7 |
+| DALPIAZ LUCA | 14 |
+| FRANZOI NICOLA | 6 |
+| PEDERZOLLI FEDERICO | 10 |
+| SACCOMAN LORENZO | 2 |
+| SOVILLA MASSIMO | 9 |
+| STENICO CRISTIAN | 20 |
+| VALER ALESSANDRO | 15 |
 
 **Commento:**
 

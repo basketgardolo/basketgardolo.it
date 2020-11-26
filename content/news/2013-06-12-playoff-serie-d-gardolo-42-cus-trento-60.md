@@ -1,56 +1,21 @@
 ---
 title: 'Playoff Serie D: Gardolo 42 – Cus Trento 60'
-date: 2013-06-12T18:49:21+00:00
+date: 2013-06-8T18:49:21+00:00
 ---
-GIU
-
-8
-
-2013
-
-**Punti segnati**
-
-FRONZA ANDREA
-
-7
-
-LUCCHINI DANIELE
-
-2
-
-MATTEDI GIULIO
-
-3
-
-BIJEDIC JOVAN
-
-7
-
-CASAGRANDE DANIELE
-
-8
-
-CONSOLI ALESSANDRO
-
-ne
-
-MOSNA MATTEO
-
-TRIVARELLI GIACOMO
-
-PEDROTTI MARCO
-
-2
-
-BAFTIRI ARBEN
-
-9
-
-GAMBINO LORENZO
-
-4
-
-BERTOLUZZA DAVIDE
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FRONZA ANDREA | 7 |
+| LUCCHINI DANIELE | 2 |
+| MATTEDI GIULIO | 3 |
+| BIJEDIC JOVAN | 7 |
+| CASAGRANDE DANIELE | 8 |
+| CONSOLI ALESSANDRO | ne |
+| MOSNA MATTEO | 0 |
+| TRIVARELLI GIACOMO | 0 |
+| PEDROTTI MARCO | 2 |
+| BAFTIRI ARBEN | 9 |
+| GAMBINO LORENZO | 4 |
+| BERTOLUZZA DAVIDE | 0 |
 
 **Commento:**  
 Gara 5 è fatale al Gardolo. Il Cus Trento vince il campionato di serie D espugnando il Palazzetto di Trento Nord, inviolato fino a questa partita. Gli universitari arrivano più carichi, mentalmente e soprattutto fisicamente, a giocarsi la terza partita in sei giorni. Il Gardolo, invece, trova una serata disastrosa al tiro, con molti giocatori spenti e senza la grinta e la determinazione necessaria. Ne esce una brutta partita che lascia l'amaro in bocca per quello che invece si è visto durante tutta la stagione. Il Cus trova il vantaggio nel primo quarto e mantiene il controllo per tutta la gara incrementando il divario nel finale.

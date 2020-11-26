@@ -1,54 +1,20 @@
 ---
 title: Virtus Altogarda 76 – Gardolo 73
-date: 2013-10-01T17:09:22+00:00
+date: 2013-09-30T17:09:22+00:00
 ---
-SET
-
-30
-
-2013
-
-**Punti segnati**
-
-BALDO YURI
-
-12
-
-BOSETTI MICHELE
-
-9
-
-DALLAPICCOLA LUCA
-
-DALPIAZ LUCA
-
-15
-
-FRANZOI NICOLA
-
-2
-
-GILLI DIEGO
-
-4
-
-GUADAGNINI FEDERICO
-
-10
-
-GUASTAMACCHIA FABRIZIO
-
-PEDERZOLLI FEDERICO
-
-13
-
-SACCOMAN LORENZO
-
-2
-
-UGBEYI KESSEY
-
-6
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 12 |
+| BOSETTI MICHELE | 9 |
+| DALLAPICCOLA LUCA | 0 |
+| DALPIAZ LUCA | 15 |
+| FRANZOI NICOLA | 2 |
+| GILLI DIEGO | 4 |
+| GUADAGNINI FEDERICO | 10 |
+| GUASTAMACCHIA FABRIZIO | 0 |
+| PEDERZOLLI FEDERICO | 13 |
+| SACCOMAN LORENZO | 2 |
+| UGBEYI KESSEY | 6 |
 
 **Commento:**Dopo la trasferta di venerdì a Rovereto la nostra "Promozione" torna subito in campo di lunedì sul campo della giovane Virtus Riva.Ritmi altissimi dei nostri avversari che impongono il loro gioco a tutto campo e ci puniscono in continuazione in contropiede. Il primo quarto ci vede sotto 31 a 12!
 

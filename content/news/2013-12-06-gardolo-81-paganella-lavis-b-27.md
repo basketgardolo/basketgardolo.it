@@ -1,50 +1,18 @@
 ---
 title: Gardolo 81 – Paganella Lavis B 27
-date: 2013-12-06T07:27:26+00:00
+date: 2013-12-05T07:27:26+00:00
 ---
-DIC
-
-5
-
-2013
-
-**Punti segnati**
-
-DALLABETTA DANIEL
-
-2
-
-DALLAPICCOLA LUCA
-
-6
-
-GUADAGNINI FEDERICO
-
-13
-
-MALFER MICHAEL
-
-2
-
-MATTEDI LUCA
-
-7
-
-SACCOMAN LORENZO
-
-13
-
-SOVILLA MASSIMO
-
-22
-
-UGBEYI KESSEY
-
-15
-
-VALER ALESSANDRO
-
-1
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| DALLABETTA DANIEL | 2 |
+| DALLAPICCOLA LUCA | 6 |
+| GUADAGNINI FEDERICO | 13 |
+| MALFER MICHAEL | 2 |
+| MATTEDI LUCA | 7 |
+| SACCOMAN LORENZO | 13 |
+| SOVILLA MASSIMO | 22 |
+| UGBEYI KESSEY | 15 |
+| VALER ALESSANDRO | 1 |
 
 **Commento:**
 

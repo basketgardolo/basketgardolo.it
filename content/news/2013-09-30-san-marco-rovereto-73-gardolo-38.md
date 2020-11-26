@@ -1,54 +1,20 @@
 ---
 title: San Marco Rovereto 73 – Gardolo 38
-date: 2013-09-30T07:08:05+00:00
+date: 2013-09-27T07:08:05+00:00
 ---
-SET
-
-27
-
-2013
-
-**Punti segnati**
-
-BALDO YURI
-
-8
-
-BOSETTI MICHELE
-
-2
-
-BRUGNARA ELIA
-
-DALPIAZ LUCA
-
-14
-
-GUASTAMACCHIA FABRIZIO
-
-1
-
-PEDERZOLLI FEDERICO
-
-4
-
-SACCOMAN LORENZO
-
-SOVILLA MASSIMO
-
-2
-
-STENICO CRISTIAN
-
-3
-
-UGBEYI KESSEY
-
-2
-
-VALER ALESSANDRO
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 8 |
+| BOSETTI MICHELE | 2 |
+| BRUGNARA ELIA | 0 |
+| DALPIAZ LUCA | 14 |
+| GUASTAMACCHIA FABRIZIO | 1 |
+| PEDERZOLLI FEDERICO | 4 |
+| SACCOMAN LORENZO | 0 |
+| SOVILLA MASSIMO | 2 |
+| STENICO CRISTIAN | 3 |
+| UGBEYI KESSEY | 2 |
+| VALER ALESSANDRO | 2 |
 
 **Commento:**
 

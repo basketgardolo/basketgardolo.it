@@ -1,62 +1,21 @@
 ---
 title: Unimondo Gardolo 55 – Villazzano 35
-date: 2013-11-24T08:23:51+00:00
+date: 2013-11-18T08:23:51+00:00
 ---
-NOV
-
-18
-
-2013
-
-**Punti segnati**
-
-DUò RICARDO
-
-4
-
-ZENI FILIPPO
-
-0
-
-N'DOME KHADIM
-
-0
-
-BALDO MIRKO
-
-2
-
-BERLOFFA RICCARDO
-
-7
-
-ROSSI RACCAGNI MARCO
-
-1
-
-BORTOLOTTI ANDREA
-
-0
-
-TROIANO NICOLò
-
-4
-
-BEVILACQUA FEDERICO
-
-21
-
-PERENZONI LUCA
-
-2
-
-FAURI STEFANO
-
-8
-
-DALLABETTA MICHAEL
-
-6
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| DUò RICARDO | 4 |
+| ZENI FILIPPO | 0 |
+| N'DOME KHADIM | 0 |
+| BALDO MIRKO | 2 |
+| BERLOFFA RICCARDO | 7 |
+| ROSSI RACCAGNI MARCO | 1 |
+| BORTOLOTTI ANDREA | 0 |
+| TROIANO NICOLò | 4 |
+| BEVILACQUA FEDERICO | 21 |
+| PERENZONI LUCA | 2 |
+| FAURI STEFANO | 8 |
+| DALLABETTA MICHAEL | 6 |
 
 **Commento:**
 

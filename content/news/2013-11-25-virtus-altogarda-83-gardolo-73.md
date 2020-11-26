@@ -1,58 +1,20 @@
 ---
 title: Virtus Altogarda 83 – Gardolo 73
-date: 2013-11-25T21:08:53+00:00
+date: 2013-11-16T21:08:53+00:00
 ---
-NOV
-
-16
-
-2013
-
-**Punti segnati**
-
-ROSSI LUCA
-
-7
-
-TRENTI MATTEO
-
-0
-
-VERONESI FABIO
-
-12
-
-BUFFA ROBERTO
-
-14
-
-HAMOUDI BACHIR
-
-2
-
-RUSU VICTOR
-
-2
-
-BALDESSARI PIETRO
-
-3
-
-IOBSTRAIBIZZER MARCO
-
-4
-
-SIMIC PETAR
-
-18
-
-PANIZZA LUCA
-
-2
-
-ZOUITA SAMIR
-
-9
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ROSSI LUCA | 7 |
+| TRENTI MATTEO | 0 |
+| VERONESI FABIO | 12 |
+| BUFFA ROBERTO | 14 |
+| HAMOUDI BACHIR | 2 |
+| RUSU VICTOR | 2 |
+| BALDESSARI PIETRO | 3 |
+| IOBSTRAIBIZZER MARCO | 4 |
+| SIMIC PETAR | 18 |
+| PANIZZA LUCA | 2 |
+| ZOUITA SAMIR | 9 |
 
 **Commento:**
 

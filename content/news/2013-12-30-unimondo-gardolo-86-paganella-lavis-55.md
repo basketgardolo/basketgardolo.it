@@ -1,62 +1,21 @@
 ---
 title: Unimondo Gardolo 86 – Paganella Lavis 55
-date: 2013-12-30T08:24:41+00:00
+date: 2013-12-09T08:24:41+00:00
 ---
-DIC
-
-09
-
-2013
-
-**Punti segnati**
-
-ZENI FILIPPO
-
-4
-
-N'DOME KHADIM
-
-10
-
-BALDO MIRKO
-
-6
-
-MARGONI MICHELE
-
-0
-
-BERLOFFA RICCARDO
-
-2
-
-ROSSI RACCAGNI MARCO
-
-0
-
-TROIANO NICOLò
-
-0
-
-BEVILACQUA FEDERICO
-
-18
-
-PERENZONI LUCA
-
-19
-
-FAURI STEFANO
-
-13
-
-DALLABETTA MICHAEL
-
-13
-
-ZAMPIERO ERMANNO
-
-1
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ZENI FILIPPO | 4 |
+| N'DOME KHADIM | 10 |
+| BALDO MIRKO | 6 |
+| MARGONI MICHELE | 0 |
+| BERLOFFA RICCARDO | 2 |
+| ROSSI RACCAGNI MARCO | 0 |
+| TROIANO NICOLò | 0 |
+| BEVILACQUA FEDERICO | 18 |
+| PERENZONI LUCA | 19 |
+| FAURI STEFANO | 13 |
+| DALLABETTA MICHAEL | 13 |
+| ZAMPIERO ERMANNO | 1 |
 
 **Commento:**
 

@@ -1,50 +1,18 @@
 ---
 title: Gardolo 82 – Blue Bear Villazzano A 70
-date: 2013-11-08T10:23:11+00:00
+date: 2013-11-07T10:23:11+00:00
 ---
-NOV
-
-07
-
-2013
-
-**Punti segnati**
-
-BALDO YURI
-
-11
-
-DALLABETTA DANIEL
-
-7
-
-DALPIAZ LUCA
-
-20
-
-DE MARE PAOLO
-
-2
-
-FRANZOI NICOLA
-
-10
-
-GUADAGNINI FEDERICO
-
-7
-
-PEDERZOLLI FEDERICO
-
-8
-
-STENICO CRISTIAN
-
-10
-
-VALER ALESSANDRO
-
-7
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 11 |
+| DALLABETTA DANIEL | 7 |
+| DALPIAZ LUCA | 20 |
+| DE MARE PAOLO | 2 |
+| FRANZOI NICOLA | 10 |
+| GUADAGNINI FEDERICO | 7 |
+| PEDERZOLLI FEDERICO | 8 |
+| STENICO CRISTIAN | 10 |
+| VALER ALESSANDRO | 7 |
 
 **Commento:**
 

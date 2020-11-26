@@ -1,54 +1,20 @@
 ---
 title: Gardolo 62 – CUS Trento 76
-date: 2013-10-07T06:23:47+00:00
+date: 2013-10-06T06:23:47+00:00
 ---
-OTT
-
-06
-
-2013
-
-**Punti segnati**
-
-BALDO YURI
-
-9
-
-BOSETTI MICHELE
-
-11
-
-DALLABETTA DANIEL
-
-3
-
-DALPIAZ LUCA
-
-11
-
-DE MARE PAOLO
-
-FRANZOI NICOLA
-
-5
-
-MALFER MICHAEL
-
-4
-
-SOVILLA MASSIMO
-
-PEDERZOLLI FEDERICO
-
-15
-
-UGBEYI KESSEY
-
-2
-
-VALER ALESSANDRO
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 9 |
+| BOSETTI MICHELE | 11 |
+| DALLABETTA DANIEL | 3 |
+| DALPIAZ LUCA | 11 |
+| DE MARE PAOLO | 0 |
+| FRANZOI NICOLA | 5 |
+| MALFER MICHAEL | 4 |
+| SOVILLA MASSIMO | 0 |
+| PEDERZOLLI FEDERICO | 15 |
+| UGBEYI KESSEY | 2 |
+| VALER ALESSANDRO | 2 |
 
 **Commento:**
 

@@ -1,52 +1,21 @@
 ---
 title: 'Playoff Serie D: Gardolo 60 – Cus Trento 50'
-date: 2013-05-27T14:16:43+00:00
+date: 2013-05-26T14:16:43+00:00
 ---
-MAG
-
-26
-
-2013
-
-**Punti segnati**
-
-FRONZA ANDREA
-
-7
-
-LUCCHINI DANIELE
-
-17
-
-MATTEDI GIULIO
-
-PEDERZOLLI FEDERICO
-
-BIJEDIC JOVAN
-
-CASAGRANDE DANIELE
-
-12
-
-CONSOLI ALESSANDRO
-
-ne
-
-MOSNA MATTEO
-
-3
-
-TRIVARELLI GIACOMO
-
-PEDROTTI MARCO
-
-5
-
-BAFTIRI ARBEN
-
-16
-
-GAMBINO LORENZO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FRONZA ANDREA | 7 |
+| LUCCHINI DANIELE | 17 |
+| MATTEDI GIULIO | 0 |
+| PEDERZOLLI FEDERICO | 0 |
+| BIJEDIC JOVAN | 0 |
+| CASAGRANDE DANIELE | 12 |
+| CONSOLI ALESSANDRO | ne |
+| MOSNA MATTEO | 3 |
+| TRIVARELLI GIACOMO | 0 |
+| PEDROTTI MARCO | 5 |
+| BAFTIRI ARBEN | 16 |
+| GAMBINO LORENZO | 0 |
 
 **Commento:**  
 Gardolo vince gara 1 delle finali di Serie D. Partita tesa e non certo bella quella di domenica sera al Palazzetto di Gardolo, davanti ad una bella e calorosa cornice di pubblico. Gardolo parte con Mattedi, Trivarelli, Fronza, Casagrande e Baftiri, mentre il Cus Trento schiera Bonelli, Borsato, Callegaro, Chenet e Zanlucchi. Nei primi minuti è il Cus in vantaggio, ma Gardolo recupera con i canestri di Casagrande e Lucchini, che con 7 punti finali nel quarto porta i gialloblu sul 15-14. Il secondo periodo vede gli attacchi stentare; Gardolo conduce di qualche lunghezza fino al 26-22 della pausa lunga. Nel terzo periodo il Cus si fa sotto e torna in parità ma i gialloblu reagiscono trascinati da Baftiri, Nell'ultima frazione Gardolo trova l'allungo decisivo grazie ai canestri di Lucchini, Baftiri e alle bombe di Pedrotti e quella di Fronza che vale il +12 e chiude il match. Si replica giovedì 30 maggio alle ore 21.00 sempre al palazzetto di Gardolo.

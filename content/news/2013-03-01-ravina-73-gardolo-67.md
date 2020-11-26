@@ -1,56 +1,20 @@
 ---
 title: Ravina 73 – Gardolo 67
-date: 2013-03-01T15:55:39+00:00
+date: 2013-03-27T15:55:39+00:00
 ---
-Feb
-
-27
-
-2013
-
-**Punti segnati**
-
-FRONZA ANDREA
-
-7
-
-LUCCHINI DANIELE
-
-18
-
-MATTEDI GIULIO
-
-PEDERZOLLI FEDERICO
-
-2
-
-BIJEDIC JOVAN
-
-17
-
-CASAGRANDE DANIELE
-
-4
-
-MOSNA MATTEO
-
-7
-
-TRIVARELLI GIACOMO
-
-1
-
-PEDROTTI MARCO
-
-3
-
-BAFTIRI ARBEN
-
-8
-
-BERTOLUZZA DAVIDE
-
-ne
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FRONZA ANDREA | 7 |
+| LUCCHINI DANIELE | 18 |
+| MATTEDI GIULIO | 0 |
+| PEDERZOLLI FEDERICO | 2 |
+| BIJEDIC JOVAN | 17 |
+| CASAGRANDE DANIELE | 4 |
+| MOSNA MATTEO | 7 |
+| TRIVARELLI GIACOMO | 1 |
+| PEDROTTI MARCO | 3 |
+| BAFTIRI ARBEN | 8 |
+| BERTOLUZZA DAVIDE | ne |
 
 **Commento:**
 

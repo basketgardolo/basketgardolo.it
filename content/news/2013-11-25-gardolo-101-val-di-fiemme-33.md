@@ -1,50 +1,18 @@
 ---
 title: Gardolo 101 – Val di Fiemme 33
-date: 2013-11-25T11:34:56+00:00
+date: 2013-11-24T11:34:56+00:00
 ---
-NOV
-
-24
-
-2013
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-7
-
-DALLABETTA DANIEL
-
-8
-
-DALPIAZ LUCA
-
-22
-
-DEMARE PAOLO
-
-6
-
-FRANZOI NICOLA
-
-19
-
-MATTEDI LUCA
-
-2
-
-SOVILLA MASSIMO
-
-23
-
-UGBEYI KESSEY
-
-8
-
-VALER ALESSANDRO
-
-6
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 7 |
+| DALLABETTA DANIEL | 8 |
+| DALPIAZ LUCA | 22 |
+| DEMARE PAOLO | 6 |
+| FRANZOI NICOLA | 19 |
+| MATTEDI LUCA | 2 |
+| SOVILLA MASSIMO | 23 |
+| UGBEYI KESSEY | 8 |
+| VALER ALESSANDRO | 6 |
 
 **Commento:**
 

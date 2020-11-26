@@ -1,50 +1,18 @@
 ---
 title: Maia Merano 54 – Gardolo 80
-date: 2013-11-15T18:13:16+00:00
+date: 2013-11-14T18:13:16+00:00
 ---
-NOV
-
-14
-
-2013
-
-**Punti segnati**
-
-BALDO YURI
-
-5
-
-BOSETTI MICHELE
-
-15
-
-DALLABETTA DANIEL
-
-9
-
-DALPIAZ LUCA
-
-8
-
-PEDERZOLLI FEDERICO
-
-6
-
-SACCOMAN LORENZO
-
-7
-
-SOVILLA MASSIMO
-
-15
-
-STENICO CRISTIAN
-
-3
-
-VALER ALESSANDRO
-
-12
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 5 |
+| BOSETTI MICHELE | 15 |
+| DALLABETTA DANIEL | 9 |
+| DALPIAZ LUCA | 8 |
+| PEDERZOLLI FEDERICO | 6 |
+| SACCOMAN LORENZO | 7 |
+| SOVILLA MASSIMO | 15 |
+| STENICO CRISTIAN | 3 |
+| VALER ALESSANDRO | 12 |
 
 **Commento:**
 

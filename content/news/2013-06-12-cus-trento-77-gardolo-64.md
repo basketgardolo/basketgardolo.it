@@ -1,58 +1,21 @@
 ---
 title: 'Playoff Serie D: Cus Trento 77 – Gardolo 64'
-date: 2013-06-12T18:28:25+00:00
+date: 2013-06-06T18:28:25+00:00
 ---
-GIU
-
-6
-
-2013
-
-**Punti segnati**
-
-FRONZA ANDREA
-
-2
-
-LUCCHINI DANIELE
-
-12
-
-MATTEDI GIULIO
-
-6
-
-PEDERZOLLI FEDERICO
-
-BIJEDIC JOVAN
-
-16
-
-CASAGRANDE DANIELE
-
-4
-
-MOSNA MATTEO
-
-TRIVARELLI GIACOMO
-
-5
-
-PEDROTTI MARCO
-
-8
-
-BAFTIRI ARBEN
-
-9
-
-GAMBINO LORENZO
-
-2
-
-BERTOLUZZA DAVIDE
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FRONZA ANDREA | 2 |
+| LUCCHINI DANIELE | 12 |
+| MATTEDI GIULIO | 6 |
+| PEDERZOLLI FEDERICO | 0 |
+| BIJEDIC JOVAN | 16 |
+| CASAGRANDE DANIELE | 4 |
+| MOSNA MATTEO | 0 |
+| TRIVARELLI GIACOMO | 5 |
+| PEDROTTI MARCO | 8 |
+| BAFTIRI ARBEN | 9 |
+| GAMBINO LORENZO | 2 |
+| BERTOLUZZA DAVIDE | 2 |
 
 **Commento:**  
 Gardolo viene sconfitto anche in gara 4. L'avvio della partita mostra però un Gardolo che sembra ritrovare il suo gioco: 16-0 è il parziale inflitto agli universitari, che hanno però la bravura di rientrare in partita, complice una grande serata al tiro. A pochi minuti dalla pausa lunga il Cus trova il vantaggio. Alla ripresa del gioco la partita è equilibrata, ma i tiri da fuori fanno allungare i padroni di casa che trovano la meritata vittoria.
