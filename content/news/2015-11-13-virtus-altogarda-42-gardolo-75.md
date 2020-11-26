@@ -1,50 +1,18 @@
 ---
 title: Virtus Altogarda 42 – Gardolo 75
-date: 2015-11-13T21:12:15+00:00
+date: 2015-11-12T21:12:15+00:00
 ---
-NOV
-
-12
-
-2015
-
-**Punti segnati**
-
-MATTEDI GIULIO
-
-4
-
-PERISSINOTTO MATTEO
-
-10
-
-BALDO YURI
-
-10
-
-VALER ALESSANDRO
-
-13
-
-DALPIAZ LUCA
-
-8
-
-FRANZOI NICOLA
-
-4
-
-BOSETTI MICHELE
-
-12
-
-SOVILLA MASSIMO
-
-10
-
-SACCOMAN LORENZO
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MATTEDI GIULIO | 4 |
+| PERISSINOTTO MATTEO | 10 |
+| BALDO YURI | 10 |
+| VALER ALESSANDRO | 13 |
+| DALPIAZ LUCA | 8 |
+| FRANZOI NICOLA | 4 |
+| BOSETTI MICHELE | 12 |
+| SOVILLA MASSIMO | 10 |
+| SACCOMAN LORENZO | 4 |
 
 **Commento:**  
 Si riapre il nostro campionato nel migliore dei modi per noi: avendo rinviato la prima partita stagionale contro il Piani Bolzano, ci troviamo ad inaugurare la stagione contro la squadra che 5 mesi fa ci ha sconfitto nei quarti di finale di playoff, l'occasione perfetta per esorcizzare l'amaro in bocca che abbiamo da quel giorno.

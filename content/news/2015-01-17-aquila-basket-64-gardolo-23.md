@@ -1,14 +1,7 @@
 ---
 title: Aquila Basket 64 – Gardolo 23
-date: 2015-01-17T20:09:54+00:00
+date: 2014-12-21T20:09:54+00:00
 ---
-DIC
-
-21
-
-2014
-
-**Commento:**  
 L'ultima partita del 2014 rappresenta per noi la possibilità di dimostrare che possiamo impensierire chiunque.  
 Ecco dunque l'Aquila Basket. Sfida affascinante conoscendo la forza della squadra e il fatto di trovare, seppur da avversario, Giovanni, nostro ex compagno che per tanti anni ha giocato con noi.
 

@@ -1,50 +1,18 @@
 ---
 title: Gardolo 64 – Virtus Altogarda B 67
-date: 2015-05-15T08:22:42+00:00
+date: 2015-05-10T08:22:42+00:00
 ---
-MAG
-
-10
-
-2015
-
-**Punti segnati**
-
-MATTEDI GIULIO
-
-15
-
-MALFER MICHAEL
-
-4
-
-DALLABETTA DANIEL
-
-5
-
-VALER ALESSANDRO
-
-4
-
-UGBEY KESSEY
-
-9
-
-FRANZOI NICOLA
-
-3
-
-BOSETTI MICHELE
-
-12
-
-SOVILLA MASSIMO
-
-8
-
-SACCOMAN LORENZO
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MATTEDI GIULIO | 15 |
+| MALFER MICHAEL | 4 |
+| DALLABETTA DANIEL | 5 |
+| VALER ALESSANDRO | 4 |
+| UGBEY KESSEY | 9 |
+| FRANZOI NICOLA | 3 |
+| BOSETTI MICHELE | 12 |
+| SOVILLA MASSIMO | 8 |
+| SACCOMAN LORENZO | 4 |
 
 **Commento:**  
 Si chiude con amarezza la nostra stagione e con essa la nostra voglia di confermare il titolo vinto l'anno scorso.

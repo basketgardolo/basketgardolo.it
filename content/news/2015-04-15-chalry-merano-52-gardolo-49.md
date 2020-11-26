@@ -1,52 +1,19 @@
 ---
 title: Charly Merano 52 – Gardolo 49
-date: 2015-04-15T17:09:33+00:00
+date: 2015-04-01T17:09:33+00:00
 ---
-APR
-
-01
-
-2015
-
-**Punti segnati**
-
-TRIVARELLI GIACOMO
-
-6
-
-CASAGRANDE DANIELE
-
-9
-
-JAN JOSOL
-
-3
-
-GAMBINO LORENZO
-
-6
-
-ZAMPIERO ERMANNO
-
-LUCCHINI DANIELE
-
-5
-
-LAZZAROTTO TOMMASO
-
-2
-
-VALER ALBERTO
-
-9
-
-PERENZONI LUCA
-
-2
-
-BERTOLUZZA DAVIDE
-
-7
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| TRIVARELLI GIACOMO | 6 |
+| CASAGRANDE DANIELE | 9 |
+| JAN JOSOL | 3 |
+| GAMBINO LORENZO | 6 |
+| ZAMPIERO ERMANNO | 0 |
+| LUCCHINI DANIELE | 5 |
+| LAZZAROTTO TOMMASO | 2 |
+| VALER ALBERTO | 9 |
+| PERENZONI LUCA | 2 |
+| BERTOLUZZA DAVIDE | 7 |
 
 **Commento:**  
 Trasferta altoatesina per i gialloblu che sono ospiti dei giovani canguri del Charly Merano. Partita abbastanza importante per entrambe le compagini che si trovano nelle posizioni vicine all'ultima disponibile per andare ai PlayOff; Gardolo in terza posizione, volenterosa di non mettere in discussione la propria partecipazione alla post season e Merano ad occupare la quinta piazza alla ricerca dei 2 punti necessari per avvicinarsi a Rovereto.

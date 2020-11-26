@@ -1,50 +1,20 @@
 ---
 title: Gardolo 58 – Piani Bolzano jr. 49
-date: 2015-02-05T20:51:04+00:00
+date: 2015-01-31T20:51:04+00:00
 ---
-GEN
-
-31
-
-2015
-
-**Punti segnati**
-
-LAZZAROTTO TOMMASO
-
-TRIVARELLI GIACOMO
-
-10
-
-CASAGRANDE DANIELE
-
-MOSNA MATTEO
-
-12
-
-GAMBINO LORENZO
-
-10
-
-ZAMPIERO ERMANNO
-
-2
-
-LUCCHINI DANIELE
-
-7
-
-BERTOLUZZA DAVIDE
-
-VALER ALBERTO
-
-13
-
-PERENZONI LUCA
-
-BERTOTTI NICOLA
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| LAZZAROTTO TOMMASO | 0 |
+| TRIVARELLI GIACOMO | 10 |
+| CASAGRANDE DANIELE | 0 |
+| MOSNA MATTEO | 12 |
+| GAMBINO LORENZO | 10 |
+| ZAMPIERO ERMANNO | 2 |
+| LUCCHINI DANIELE | 7 |
+| BERTOLUZZA DAVIDE | 0 |
+| VALER ALBERTO | 13 |
+| PERENZONI LUCA | 0 |
+| BERTOTTI NICOLA | 4 |
 
 **Commento:**  
 Altra partita importante quella andata in scena sabato 31 gennaio a Gardolo: per la terza volta in stagione, i nostri ragazzi si ritrovano contro la formazione bolzanina dei Piani Bolzano, sempre sconfitta in questa stagione ma che ha comunque sempre creato problemi ai gialloblu. Il primo quarto vede i padroni di casa decisamente sottotono: gli altoatesini ne approfittano e scappano sul +5, andando alla prima pausa sul punteggio di 11-16. Nel secondo quarto ecco la prima timida reazione dei gardoloti che, riuscendo a costruire qualcosa di buono in attacco, trovano il canestro con più continuità (19 pti segnati nel secondo quarto, rispetto agli 11 del primo). Alla pausa lunga però il risultato non è sufficientemente rassicurante, vedendo i nostri ragazzi avanti di appena 2 punti (30-28), data una difesa non sempre perfetta soprattutto su alcuni elementi avversari.

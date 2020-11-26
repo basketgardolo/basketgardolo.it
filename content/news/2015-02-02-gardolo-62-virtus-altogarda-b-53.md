@@ -1,50 +1,18 @@
 ---
 title: Gardolo 62 – Virtus Altogarda B 53
-date: 2015-02-02T19:43:11+00:00
+date: 2015-01-29T19:43:11+00:00
 ---
-GEN
-
-29
-
-2015
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-12
-
-UGBEYI KESSEY
-
-7
-
-STENICO CRISTIAN
-
-3
-
-DALPIAZ LUCA
-
-6
-
-MATTEDI GIULIO
-
-7
-
-VALER ALESSANDRO
-
-9
-
-SOVILLA MASSIMO
-
-6
-
-FRANZOI NICOLA
-
-4
-
-SACCOMAN LORENZO
-
-8
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 12 |
+| UGBEYI KESSEY | 7 |
+| STENICO CRISTIAN | 3 |
+| DALPIAZ LUCA | 6 |
+| MATTEDI GIULIO | 7 |
+| VALER ALESSANDRO | 9 |
+| SOVILLA MASSIMO | 6 |
+| FRANZOI NICOLA | 4 |
+| SACCOMAN LORENZO | 8 |
 
 **Commento:**  
 Dopo quattro sconfitte consecutive sfidiamo in casa la squadra rivana che in questo momento è davanti a noi in classifica.

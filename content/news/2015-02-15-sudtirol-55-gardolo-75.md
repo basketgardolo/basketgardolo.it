@@ -1,52 +1,20 @@
 ---
 title: SudTirol 55 – Gardolo 75
-date: 2015-02-15T13:23:31+00:00
+date: 2015-02-07T13:23:31+00:00
 ---
-FEB
-
-7
-
-2015
-
-**Punti segnati**
-
-LAZZAROTTO TOMMASO
-
-TRIVARELLI GIACOMO
-
-23
-
-CASAGRANDE DANIELE
-
-11
-
-MOSNA MATTEO
-
-4
-
-GAMBINO LORENZO
-
-13
-
-PEDERZOLLI FEDERICO
-
-LUCCHINI DANIELE
-
-4
-
-BERTOLUZZA DAVIDE
-
-5
-
-VALER ALBERTO
-
-13
-
-PERENZONI LUCA
-
-JOSOL JAN
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| LAZZAROTTO TOMMASO | 0 |
+| TRIVARELLI GIACOMO | 23 |
+| CASAGRANDE DANIELE | 11 |
+| MOSNA MATTEO | 4 |
+| GAMBINO LORENZO | 13 |
+| PEDERZOLLI FEDERICO | 0 |
+| LUCCHINI DANIELE | 4 |
+| BERTOLUZZA DAVIDE | 5 |
+| VALER ALBERTO | 13 |
+| PERENZONI LUCA | 0 |
+| JOSOL JAN | 2 |
 
 **Commento:**  
 Nella quattordicesima giornata del campionato di serie D, la nostra squadra si reca in Altro-Adige per la partita contro la giovane formazione del Alto-Adige SuedTirol, compagine priva di veterani e ancora a secco di vittorie.

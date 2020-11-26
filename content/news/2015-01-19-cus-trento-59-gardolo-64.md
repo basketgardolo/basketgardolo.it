@@ -1,48 +1,20 @@
 ---
 title: CUS Trento 59 – Gardolo 64
-date: 2015-01-19T15:31:31+00:00
+date: 2015-01-09T15:31:31+00:00
 ---
-GEN
-
-09
-
-2015
-
-**Punti segnati**
-
-FURIA MATTIA
-
-TRIVARELLI GIACOMO
-
-2
-
-CASAGRANDE DANIELE
-
-4
-
-MOSNA MATTEO
-
-12
-
-GAMBINO LORENZO
-
-2
-
-ZAMPIERO ERMANO
-
-JAN JOSOL
-
-BERTOLUZZA DAVIDE
-
-9
-
-LAZZAROTTO TOMMASO
-
-VALER ALBERTO
-
-29
-
-PEDERZOLLI FEDERICO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FURIA MATTIA | 0 |
+| TRIVARELLI GIACOMO | 2 |
+| CASAGRANDE DANIELE | 4 |
+| MOSNA MATTEO | 12 |
+| GAMBINO LORENZO | 2 |
+| ZAMPIERO ERMANO | 0 |
+| JAN JOSOL | 0 |
+| BERTOLUZZA DAVIDE | 9 |
+| LAZZAROTTO TOMMASO | 0 |
+| VALER ALBERTO | 29 |
+| PEDERZOLLI FEDERICO | 0 |
 
 **Commento:**  
 Grande vittoria nella prima giornata successiva alla lunga pausa natalizia per i ragazzi di coach Tomazzolli che si impongono 59 a 64 contro la dominatrice del campionato Cus Trento. Si tratta infatti della prima sconfitta per gli universitari che, come era successo l'anno scorso subiscono il poco allenamento dovuto al rientro a casa per le festività dei propri giocatori-­studenti.

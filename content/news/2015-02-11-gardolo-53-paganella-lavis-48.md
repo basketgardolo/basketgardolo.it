@@ -1,50 +1,20 @@
 ---
 title: Gardolo 53 – Paganella Lavis 48
-date: 2015-02-11T07:56:37+00:00
+date: 2015-02-09T07:56:37+00:00
 ---
-FEB
-
-9
-
-2015
-
-**Punti segnati**
-
-MAZZALAI VALENTINO
-
-BERLOFFA RICCARDO
-
-ZAMPIERO ERMANNO
-
-9
-
-FAURI STEFANO
-
-9
-
-DALLABETTA MICHAEL
-
-16
-
-ROSSI MATTEO
-
-8
-
-LAZZAROTTO TOMMASO
-
-6
-
-VENTURINI FEDERICO
-
-MARGONI MICHELE
-
-3
-
-PEDRI MATTIA
-
-SPAGNOLO THOMAS
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MAZZALAI VALENTINO | 0 |
+| BERLOFFA RICCARDO | 0 |
+| ZAMPIERO ERMANNO | 9 |
+| FAURI STEFANO | 9 |
+| DALLABETTA MICHAEL | 16 |
+| ROSSI MATTEO | 8 |
+| LAZZAROTTO TOMMASO | 6 |
+| VENTURINI FEDERICO | 0 |
+| MARGONI MICHELE | 3 |
+| PEDRI MATTIA | 0 |
+| SPAGNOLO THOMAS | 2 |
 
 **Commento:**  
 Gli Under 19 vincono gara 1 dei quarti di playoff contro Paganella Lavis. Partita non bella, segnata da tanti errori da entrambe le parti. Al via gli ospiti si portano su 0-5, ma i gardoloti con alcune buone giocate dal perimetro si portano in vantaggio chiudendo il quarto 12-9. Nel tempo successivo la partita prosegue punto a punto con Lavis che approfitta di alcuni errori offensivi per trovare facili canestri in contropiede e chiudere avanti alla pausa lunga 26-30. Nella ripresa i gardoloti chiudono le maglie della difesa, concedendo solo 5 punti agli avversari e tornando in vantaggio 40-35. Nell'ultima frazione alcune buone azioni contro la zona degli ospiti permettono di segnare punti importanti. Decisivi un paio di rimbalzi offensivi negli ultimi possessi che permettono di chiudere 53-48. Venerdì 20 febbraio a Mezzolombardo gara 2.

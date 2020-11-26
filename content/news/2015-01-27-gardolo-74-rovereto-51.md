@@ -1,60 +1,21 @@
 ---
 title: Gardolo 74 – Rovereto 51
-date: 2015-01-27T09:04:17+00:00
+date: 2015-01-24T09:04:17+00:00
 ---
-GEN
-
-24
-
-2015
-
-**Punti segnati**
-
-FAURI STEFANO
-
-2
-
-TRIVARELLI GIACOMO
-
-7
-
-CASAGRANDE DANIELE
-
-8
-
-MOSNA MATTEO
-
-3
-
-GAMBINO LORENZO
-
-9
-
-ZAMPIERO ERMANNO
-
-3
-
-JAN JOSOL
-
-5
-
-BERTOLUZZA DAVIDE
-
-9
-
-VALER ALBERTO
-
-11
-
-PEDERZOLLI FEDERICO
-
-BERTOTTI NICOLA
-
-9
-
-PERENZONI LUCA
-
-8
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FAURI STEFANO | 2 |
+| TRIVARELLI GIACOMO | 7 |
+| CASAGRANDE DANIELE | 8 |
+| MOSNA MATTEO | 3 |
+| GAMBINO LORENZO | 9 |
+| ZAMPIERO ERMANNO | 3 |
+| JAN JOSOL | 5 |
+| BERTOLUZZA DAVIDE | 9 |
+| VALER ALBERTO | 11 |
+| PEDERZOLLI FEDERICO | 0 |
+| BERTOTTI NICOLA | 9 |
+| PERENZONI LUCA | 8 |
 
 **Commento:**  
 Sabato 24 gennaio va in scena al Palagardolo una classica sfida di serie D che vede opporsi ai nostri ragazzi, reduci da un importante vittoria contro il Cus, Rovereto squadra che in più di un occasione ha messo in difficoltà la compagine gardolotta. Il primo quarto parte all'insegna dell'equilibrio con la squadra di casa che tenta di imporsi con non troppi risultati, la prima frazione va quindi in archivio con un misero +2 a favore del Gardolo.

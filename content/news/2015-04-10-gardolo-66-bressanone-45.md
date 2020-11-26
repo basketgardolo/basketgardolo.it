@@ -1,48 +1,18 @@
 ---
 title: Gardolo 66 – Bressanone 45
-date: 2015-04-10T07:15:35+00:00
+date: 2015-04-09T07:15:35+00:00
 ---
-APR
-
-09
-
-2015
-
-**Punti segnati**
-
-MATTEDI GIULIO
-
-7
-
-MALFER MICHAEL
-
-11
-
-BALDO YURI
-
-8
-
-VALER ALESSANDRO
-
-2
-
-UGBEY KESSEY
-
-10
-
-SACCOMAN LORENZO
-
-BOSETTI MICHELE
-
-8
-
-SOVILLA MASSIMO
-
-14
-
-DALPIAZ LUCA
-
-6
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MATTEDI GIULIO | 7 |
+| MALFER MICHAEL | 11 |
+| BALDO YURI | 8 |
+| VALER ALESSANDRO | 2 |
+| UGBEY KESSEY | 10 |
+| SACCOMAN LORENZO | 0 |
+| BOSETTI MICHELE | 8 |
+| SOVILLA MASSIMO | 14 |
+| DALPIAZ LUCA | 6 |
 
 **Commento:**  
 Iniziano finalmente i playoff!

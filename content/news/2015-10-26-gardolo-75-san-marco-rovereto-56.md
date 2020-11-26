@@ -1,56 +1,21 @@
 ---
 title: Gardolo 75 – San Marco Rovereto 56
-date: 2015-10-26T18:31:18+00:00
+date: 2015-10-15T18:31:18+00:00
 ---
-OTT
-
-15
-
-2015
-
-**Punti segnati**
-
-TRIVARELLI GIACOMO
-
-16
-
-LUCCHINI DANIELE
-
-17
-
-CHISTE'
-
-VALER ALBERTO
-
-10
-
-LAZZAROTTO TOMMASO
-
-3
-
-GAMBINO LORENZO
-
-14
-
-SCAGLIARINI
-
-PERENZONI LUCA
-
-2
-
-BEVILACQUA FEDERICO
-
-1
-
-RIZI GIOVANNI
-
-3
-
-JOSOL JAN RAVEN
-
-9
-
-ASANI
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| TRIVARELLI GIACOMO | 16 |
+| LUCCHINI DANIELE | 17 |
+| CHISTE' | 0 |
+| VALER ALBERTO | 10 |
+| LAZZAROTTO TOMMASO | 3 |
+| GAMBINO LORENZO | 14 |
+| SCAGLIARINI | 0 |
+| PERENZONI LUCA | 2 |
+| BEVILACQUA FEDERICO | 1 |
+| RIZI GIOVANNI | 3 |
+| JOSOL JAN RAVEN | 9 |
+| ASANI | 0 |
 
 **Commento:**  
 Terza partita della prima fase di coppa TAA per i gialloblu, che fino ad ora hanno ottenuto due vittorie nelle prime due sfide; avversari i roveretani del San Marco, imbattuti anche loro e con una partita giocata in più. Chi segue la nostra squadra sa bene come le partite contro Rovereto siano sempre state avvincenti nelle ultime stagioni, e così è stato anche in quest’occasione (per lo meno per buona parte della gara).

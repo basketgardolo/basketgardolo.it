@@ -1,46 +1,19 @@
 ---
 title: Gardolo 59 – Virtus Altogarda 68
-date: 2015-01-17T19:16:58+00:00
+date: 2015-01-06T19:16:58+00:00
 ---
-GEN
-
-06
-
-2014
-
-**Punti segnati**
-
-FURIA MATTIA
-
-TRIVARELLI GIACOMO
-
-12
-
-CASAGRANDE DANIELE
-
-7
-
-MOSNA MATTEO
-
-9
-
-GAMBINO LORENZO
-
-5
-
-ZAMPIERO ERMANO
-
-PERENZONI LUCA
-
-BERTOLUZZA DAVIDE
-
-7
-
-LAZZAROTTO TOMMASO
-
-VALER ALBERTO
-
-19
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FURIA MATTIA | 0 |
+| TRIVARELLI GIACOMO | 12 |
+| CASAGRANDE DANIELE | 7 |
+| MOSNA MATTEO | 9 |
+| GAMBINO LORENZO | 5 |
+| ZAMPIERO ERMANO | 0 |
+| PERENZONI LUCA | 0 |
+| BERTOLUZZA DAVIDE | 7 |
+| LAZZAROTTO TOMMASO | 0 |
+| VALER ALBERTO | 19 |
 
 **Commento:**  
 Inizio con chiedere scusa per il notevole ritardo nella pubblicazione dell’articolo, ma per il sottoscritto le ultime sono state settimane particolarmente dense 😛

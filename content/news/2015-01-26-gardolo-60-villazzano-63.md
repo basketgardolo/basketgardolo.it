@@ -1,48 +1,18 @@
 ---
 title: Gardolo 60 – Villazzano 63
-date: 2015-01-26T08:59:19+00:00
+date: 2015-01-25T08:59:19+00:00
 ---
-GEN
-
-25
-
-2015
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-10
-
-UGBEYI KESSEY
-
-4
-
-GUADAGNINI FEDERICO
-
-DALPIAZ LUCA
-
-5
-
-MATTEDI GIULIO
-
-9
-
-BRUGNARA ELIA
-
-5
-
-SOVILLA MASSIMO
-
-11
-
-FRANZOI NICOLA
-
-12
-
-BALDO YURI
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 10 |
+| UGBEYI KESSEY | 4 |
+| GUADAGNINI FEDERICO | 0 |
+| DALPIAZ LUCA | 5 |
+| MATTEDI GIULIO | 9 |
+| BRUGNARA ELIA | 5 |
+| SOVILLA MASSIMO | 11 |
+| FRANZOI NICOLA | 12 |
+| BALDO YURI | 4 |
 
 **Commento:**  
 Reduci da tre sconfitte consecutive affrontiamo la squadra del Villazzano nella notra prima partita di ritorno dopo aver riposato la prima giornata.  

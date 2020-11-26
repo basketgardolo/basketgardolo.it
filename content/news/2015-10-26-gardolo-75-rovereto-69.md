@@ -1,52 +1,19 @@
 ---
 title: Gardolo 75 – Rovereto 69
-date: 2015-10-26T22:34:13+00:00
+date: 2015-10-25T22:34:13+00:00
 ---
-OTT
-
-25
-
-2015
-
-**Punti segnati**
-
-TRIVARELLI GIACOMO
-
-14
-
-LUCCHINI DANIELE
-
-7
-
-JOSOL JAN RAVEN
-
-5
-
-VALER ALBERTO
-
-8
-
-PEDERZOLLI FEDERICO
-
-GAMBINO LORENZO
-
-13
-
-MOSNA MATTEO
-
-8
-
-BERTOTTI NICOLA
-
-5
-
-RIZI GIOVANNI
-
-4
-
-PERENZONI LUCA
-
-11
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| TRIVARELLI GIACOMO | 14 |
+| LUCCHINI DANIELE | 7 |
+| JOSOL JAN RAVEN | 5 |
+| VALER ALBERTO | 8 |
+| PEDERZOLLI FEDERICO | 0 |
+| GAMBINO LORENZO | 13 |
+| MOSNA MATTEO | 8 |
+| BERTOTTI NICOLA | 5 |
+| RIZI GIOVANNI | 4 |
+| PERENZONI LUCA | 11 |
 
 **Commento:**  
 Domenica 25 ottobre 2015, ore 18:00, palestra Damiano Chiesa a Rovereto: eccoci qui a giocarci il primo traguardo importante di questa stagione iniziata da poco. Va in scena la finale della Coppa Zanelli che ci vede contrapposti alla squadra di casa del San Marco, iscritti a referto come ospiti solo per il miglior piazzamento dei gardoloti nel girone di qualificazione.

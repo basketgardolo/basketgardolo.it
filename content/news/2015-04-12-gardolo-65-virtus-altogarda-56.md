@@ -1,52 +1,20 @@
 ---
 title: Gardolo 65 – Virtus Altogarda 46
-date: 2015-04-12T16:06:40+00:00
+date: 2015-04-09T16:06:40+00:00
 ---
-APR
-
-09
-
-2015
-
-**Punti segnati**
-
-TRIVARELLI GIACOMO
-
-14
-
-CASAGRANDE DANIELE
-
-8
-
-JAN JOSOL
-
-4
-
-GAMBINO LORENZO
-
-9
-
-ZAMPIERO ERMANNO
-
-BERTOTTI NICOLA
-
-10
-
-LAZZAROTTO TOMMASO
-
-VALER ALBERTO
-
-17
-
-PERENZONI LUCA
-
-BERTOLUZZA DAVIDE
-
-2
-
-MOSNA MATTEO
-
-1
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| TRIVARELLI GIACOMO | 14 |
+| CASAGRANDE DANIELE | 8 |
+| JAN JOSOL | 4 |
+| GAMBINO LORENZO | 9 |
+| ZAMPIERO ERMANNO | 0 |
+| BERTOTTI NICOLA | 10 |
+| LAZZAROTTO TOMMASO | 0 |
+| VALER ALBERTO | 17 |
+| PERENZONI LUCA | 0 |
+| BERTOLUZZA DAVIDE | 2 |
+| MOSNA MATTEO | 1 |
 
 **Commento:**  
 Partita importante quella giocata giovedì sera a Gardolo dalla nostra serie D, contro un avversario già incontrato 4 volte in questa stagione e che in ogni occasione ci ha messo in seria difficoltà (4 sconfitte su 4 partite per i nostri, e tutte con margine). La vigilia non è delle migliori: Lucchini è costretto a dare forfait a causa di un problema al tendine d’Achille, e complici le vacanze di pasqua e i turni di lavoro la presenza ad allenamento nelle ultime due settimane non è stata ottimale, per usare un eufemismo. La Virtus si presenta a ranghi ridotti a causa dell’assenza importante di Pastori ma può comunque contare sui suoi pezzi da 90, come Proch, Morghen, Zanoni e Volpi. Il primo quarto è tutto di marchio gialloblu; i gardoloti infatti giocano bene soprattutto in difesa, costringendo gli avversari a segnare appena 6 punti (15-6 alla prima sirena). Nel secondo parziale Gardolo prova l’allungo e ancora, grazie ad un ottima difesa che limita l’attacco gardesano ad appena 9 punti, va al riposo lungo con un margine di 18 punti (33-15).  

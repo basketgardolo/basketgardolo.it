@@ -1,14 +1,8 @@
 ---
 title: Gardolo 52 – Europa Bolzano 75
-date: 2015-02-12T12:13:17+00:00
+date: 2015-02-08T12:13:17+00:00
 ---
-FEB
-
-08
-
-2015
-
-Beh che dire…. Una seconda partita un po' deludente che ha spento l'entusiasmo della prima partita (vinta) contro Piani Bolzano "B".  
+Beh che dire… Una seconda partita un po' deludente che ha spento l'entusiasmo della prima partita (vinta) contro Piani Bolzano "B".  
 Abbiamo sbagliato tanto sia sotto canestro che in contropiede, sono convinto che se avessimo ascoltato di più il coach la partita avrebbe potuto avere un altro finale.  
 L'articolo è già finito perché sinceramente non avevo molto da dire…
 

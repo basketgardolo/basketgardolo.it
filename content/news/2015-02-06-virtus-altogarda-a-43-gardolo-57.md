@@ -1,46 +1,18 @@
 ---
 title: Virtus Altogarda A 43 – Gardolo 57
-date: 2015-02-06T09:46:21+00:00
+date: 2015-02-05T09:46:21+00:00
 ---
-FEB
-
-05
-
-2015
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-5
-
-UGBEYI KESSEY
-
-12
-
-MALFER MICHAEL
-
-1
-
-DALPIAZ LUCA
-
-9
-
-BALDO YURI
-
-5
-
-VALER ALESSANDRO
-
-20
-
-SOVILLA MASSIMO
-
-5
-
-FRANZOI NICOLA
-
-SACCOMAN LORENZO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 5 |
+| UGBEYI KESSEY | 12 |
+| MALFER MICHAEL | 1 |
+| DALPIAZ LUCA | 9 |
+| BALDO YURI | 5 |
+| VALER ALESSANDRO | 20 |
+| SOVILLA MASSIMO | 5 |
+| FRANZOI NICOLA | 0 |
+| SACCOMAN LORENZO | 0 |
 
 **Commento:**  
 Dopo essere tornati alla vittoria in casa contro Riva stavolta siamo noi a scendere nella busa per sfidare la squadra arcense.  

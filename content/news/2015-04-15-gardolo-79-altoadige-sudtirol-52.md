@@ -1,48 +1,19 @@
 ---
 title: Gardolo 79 – AltoAdige Sudtirol 52
-date: 2015-04-15T16:59:05+00:00
+date: 2015-03-28T16:59:05+00:00
 ---
-MAR
-
-28
-
-2015
-
-**Punti segnati**
-
-TRIVARELLI GIACOMO
-
-13
-
-CASAGRANDE DANIELE
-
-JAN JOSOL
-
-9
-
-GAMBINO LORENZO
-
-15
-
-ZAMPIERO ERMANNO
-
-LUCCHINI DANIELE
-
-14
-
-LAZZAROTTO TOMMASO
-
-VALER ALBERTO
-
-13
-
-PERENZONI LUCA
-
-9
-
-BERTOLUZZA DAVIDE
-
-6
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| TRIVARELLI GIACOMO | 13 |
+| CASAGRANDE DANIELE | 0 |
+| JAN JOSOL | 9 |
+| GAMBINO LORENZO | 15 |
+| ZAMPIERO ERMANNO | 0 |
+| LUCCHINI DANIELE | 14 |
+| LAZZAROTTO TOMMASO | 0 |
+| VALER ALBERTO | 13 |
+| PERENZONI LUCA | 9 |
+| BERTOLUZZA DAVIDE | 6 |
 
 **Commento:**  
 Nella 23esima giornata del campionato di serie D il PalaGardolo è teatro dell'ultimo incontro di quest'anno contro la compagine bolzanina dell'Alto Adige Südtirol.

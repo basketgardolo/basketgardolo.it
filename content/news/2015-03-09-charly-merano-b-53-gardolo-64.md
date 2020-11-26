@@ -1,14 +1,7 @@
 ---
 title: Charly Merano B 53 – Gardolo 64
-date: 2015-03-09T21:13:07+00:00
+date: 2015-02-28T21:13:07+00:00
 ---
-FEB
-
-28
-
-2015
-
-**Commento:**  
 Questo incontro, valido per la terza giornata del girone 9º-16º posto, è stato davvero particolare perché ho avuto l'occasione di osservare la squadra come spettatore visto l'infortunio alla gamba che mi si è verificato nel corso della settimana, grazie al quale ho dovuto dare forfait.  
 Ho seguito naturalmente la squadra e posso constatare come la stessa sia stata presente nell'incontro ma che spesso non abbia avuto la concentrazione giusta che sarebbe servita per disputare questa partita. Infatti, abbiamo concesso troppi rimbalzi offensivi ai meranesi, che attuando la difesa a zona, ci hanno ostacolati nel creare azioni offensive pericolose.  
 Nonostante ciò, ci siamo aggiudicati l'incontro, vincendo 53-64.

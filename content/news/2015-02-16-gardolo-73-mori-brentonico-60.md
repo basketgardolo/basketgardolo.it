@@ -1,50 +1,18 @@
 ---
 title: Gardolo 73 – Mori Brentonico 60
-date: 2015-02-16T14:23:20+00:00
+date: 2015-02-15T14:23:20+00:00
 ---
-FEB
-
-15
-
-2015
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-23
-
-UGBEYI KESSEY
-
-8
-
-MATTEDI GIULIO
-
-6
-
-MALFER MICHAEL
-
-13
-
-DALLAPICCOLA LUCA
-
-3
-
-VALER ALESSANDRO
-
-9
-
-SOVILLA MASSIMO
-
-5
-
-FRANZOI NICOLA
-
-4
-
-SACCOMAN LORENZO
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 23 |
+| UGBEYI KESSEY | 8 |
+| MATTEDI GIULIO | 6 |
+| MALFER MICHAEL | 13 |
+| DALLAPICCOLA LUCA | 3 |
+| VALER ALESSANDRO | 9 |
+| SOVILLA MASSIMO | 5 |
+| FRANZOI NICOLA | 4 |
+| SACCOMAN LORENZO | 2 |
 
 **Commento:**  
 È ancora un ottimo primo quarto di partita che ci permette di andare a sederci alla prima pausa sul punteggio di 21 a 11. Riusciamo a mantenere i dieci punti di vantaggio sfruttando al meglio gli schemi dalle rimesse, e trovando fluidità di gioco in attacco e andiamo alla pausa lunga sul punteggio di 39 a 29.

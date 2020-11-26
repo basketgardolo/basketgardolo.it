@@ -1,50 +1,18 @@
 ---
 title: Ravina 64 – Gardolo 44
-date: 2015-03-09T12:19:21+00:00
+date: 2015-03-04T12:19:21+00:00
 ---
-MAR
-
-4
-
-2015
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-1
-
-FRANZOI NICOLA
-
-2
-
-BALDO YURI
-
-6
-
-VALER ALESSANDRO
-
-6
-
-SACCOMAN LORENZO
-
-7
-
-UGBEYI KESSEY
-
-6
-
-DALLABETTA DANIEL
-
-4
-
-SOVILLA MASSIMO
-
-1
-
-DALPIAZ LUCA
-
-11
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 1 |
+| FRANZOI NICOLA | 2 |
+| BALDO YURI | 6 |
+| VALER ALESSANDRO | 6 |
+| SACCOMAN LORENZO | 7 |
+| UGBEYI KESSEY | 6 |
+| DALLABETTA DANIEL | 4 |
+| SOVILLA MASSIMO | 1 |
+| DALPIAZ LUCA | 11 |
 
 **Commento:**  
 Brutta prestazione per la nostra squadra nello scontro diretto per il terzo posto.

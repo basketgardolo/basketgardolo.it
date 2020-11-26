@@ -1,50 +1,19 @@
 ---
 title: San Marco Rovereto 76 – Gardolo 67
-date: 2015-03-23T18:47:18+00:00
+date: 2015-03-19T18:47:18+00:00
 ---
-MAR
-
-19
-
-2015
-
-**Punti segnati**
-
-TRIVARELLI GIACOMO
-
-6
-
-CASAGRANDE DANIELE
-
-5
-
-MOSNA MATTEO
-
-GAMBINO LORENZO
-
-14
-
-PEDERZOLLI FEDERICO
-
-LUCCHINI DANIELE
-
-17
-
-BERTOTTI NICOLA
-
-12
-
-VALER ALBERTO
-
-9
-
-PERENZONI LUCA
-
-2
-
-BERTOLUZZA DAVIDE
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| TRIVARELLI GIACOMO | 6 |
+| CASAGRANDE DANIELE | 5 |
+| MOSNA MATTEO | 0 |
+| GAMBINO LORENZO | 14 |
+| PEDERZOLLI FEDERICO | 0 |
+| LUCCHINI DANIELE | 17 |
+| BERTOTTI NICOLA | 12 |
+| VALER ALBERTO | 9 |
+| PERENZONI LUCA | 2 |
+| BERTOLUZZA DAVIDE | 2 |
 
 **Commento:**  
 Trasferta infrasettimanale quella di giovedì 19 marzo per la serie D gardolotta, che affronta il San Marco Rovereto per la terza volta in questo campionato.

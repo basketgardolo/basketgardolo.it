@@ -1,50 +1,18 @@
 ---
 title: Bressanone 58 – Gardolo 57
-date: 2015-04-22T07:39:42+00:00
+date: 2015-04-16T07:39:42+00:00
 ---
-APR
-
-16
-
-2015
-
-**Punti segnati**
-
-MATTEDI GIULIO
-
-4
-
-MALFER MICHAEL
-
-5
-
-BALDO YURI
-
-4
-
-VALER ALESSANDRO
-
-2
-
-UGBEY KESSEY
-
-16
-
-FRANZOI NICOLA
-
-7
-
-BOSETTI MICHELE
-
-13
-
-SOVILLA MASSIMO
-
-4
-
-BRUGNARA ELIA
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MATTEDI GIULIO | 4 |
+| MALFER MICHAEL | 5 |
+| BALDO YURI | 4 |
+| VALER ALESSANDRO | 2 |
+| UGBEY KESSEY | 16 |
+| FRANZOI NICOLA | 7 |
+| BOSETTI MICHELE | 13 |
+| SOVILLA MASSIMO | 4 |
+| BRUGNARA ELIA | 2 |
 
 **Commento:**  
 Gara 2 giocata in quel di Bressanone che avrebbe potuto chiudere in anticipo la questione Ottavi di finale e che invece ci vede uscire sconfitti e ci obbliga a giocarci tutto in Gara 3.  

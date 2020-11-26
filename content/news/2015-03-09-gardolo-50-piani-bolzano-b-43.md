@@ -2,13 +2,6 @@
 title: Gardolo 50 – Piani Bolzano B 43
 date: 2015-03-09T21:07:26+00:00
 ---
-FEB
-
-08
-
-2015
-
-**Commento:**  
 Eccoci arrivati dunque alla prima giornata del girone valido per il 9º-16º posto che ci vedrà impegnati per quasi due mesi che si riveleranno davvero intensi.  
 Si affrontano Gardolo e Piani Bolzano B, entrambe uscenti eliminate dal rispettivo girone preliminare.  
 La partita prende una piega favorevole per i padroni di casa che mostrano superiorità tecnica e agonistica.  
@@ -23,5 +16,3 @@ Probabilmente posso sembrare monotono però vanno nuovamente tanti complimenti a
 Forza Gardolo!
 
 Roby
-
-V

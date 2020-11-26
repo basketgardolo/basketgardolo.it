@@ -18,8 +18,3 @@ con il seguente ordine del giorno:
 * **Chi esercita la patria potestà degli atleti minorenni** 
 
 A tal proposito chiunque fosse interessato a candidarsi all’interno del consiglio direttivo è pregato di comunicarlo direttamente all’indirizzo mail della segreteria: . Vi preghiamo di diffondere la convocazione a tutti i nostri tesserati.
-[> Scarica Convocazione][1]
-[> Scarica Delega][2]
-
-[1]: http://www.basketgardolo.it/wp-content/uploads/2015/09/ConvocazioneAssemblea.pdf
-[2]: http://www.basketgardolo.it/wp-content/uploads/2015/09/delegaAsd.pdf

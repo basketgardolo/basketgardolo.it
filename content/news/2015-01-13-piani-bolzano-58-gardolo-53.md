@@ -1,48 +1,18 @@
 ---
 title: Piani Bolzano 58 – Gardolo 53
-date: 2015-01-13T09:57:41+00:00
+date: 2015-01-12T09:57:41+00:00
 ---
-GEN
-
-12
-
-2015
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-7
-
-VALER ALESSANDRO
-
-7
-
-STENICO CRISTIAN
-
-9
-
-DALPIAZ LUCA
-
-15
-
-DALLABETTA DANIEL
-
-BRUGNARA ELIA
-
-2
-
-LORENZO SACCOMAN
-
-2
-
-DALLAPICCOLA LUCA
-
-5
-
-BALDO YURI
-
-6
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 7 |
+| VALER ALESSANDRO | 7 |
+| STENICO CRISTIAN | 9 |
+| DALPIAZ LUCA | 15 |
+| DALLABETTA DANIEL | 0 |
+| BRUGNARA ELIA | 2 |
+| LORENZO SACCOMAN | 2 |
+| DALLAPICCOLA LUCA | 5 |
+| BALDO YURI | 6 |
 
 **Commento:**  
 Ultima giornata di andata dove noi veniamo da due sconfitte consecutive subite contro le prime due della classe.  

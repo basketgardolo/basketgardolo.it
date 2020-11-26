@@ -1,44 +1,18 @@
 ---
 title: Pergine 53 – Gardolo 48
-date: 2015-03-22T12:17:48+00:00
+date: 2015-03-19T12:17:48+00:00
 ---
-MAR
-
-19
-
-2015
-
-**Punti segnati**
-
-MATTEDI GIULIO
-
-FRANZOI NICOLA
-
-BALDO YURI
-
-5
-
-VALER ALESSANDRO
-
-8
-
-BOSETTI MICHELE
-
-9
-
-UGBEYI KESSEY
-
-7
-
-MALFER MICHAEL
-
-9
-
-SOVILLA MASSIMO
-
-10
-
-DALPIAZ LUCA
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MATTEDI GIULIO | 0 |
+| FRANZOI NICOLA | 0 |
+| BALDO YURI | 5 |
+| VALER ALESSANDRO | 8 |
+| BOSETTI MICHELE | 9 |
+| UGBEYI KESSEY | 7 |
+| MALFER MICHAEL | 9 |
+| SOVILLA MASSIMO | 10 |
+| DALPIAZ LUCA | 0 |
 
 **Commento:**  
 Clima play-off in quel di Pergine.  

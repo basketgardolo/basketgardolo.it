@@ -1,50 +1,18 @@
 ---
 title: Gardolo 64 – JBR Rovereto 62
-date: 2015-03-13T08:54:19+00:00
+date: 2015-03-12T08:54:19+00:00
 ---
-MAR
-
-12
-
-2015
-
-**Punti segnati**
-
-MATTEDI GIULIO
-
-3
-
-FRANZOI NICOLA
-
-2
-
-BALDO YURI
-
-14
-
-VALER ALESSANDRO
-
-8
-
-GUADAGNINI FEDERICO
-
-6
-
-UGBEYI KESSEY
-
-6
-
-MALFER MICHAEL
-
-5
-
-SOVILLA MASSIMO
-
-3
-
-DALPIAZ LUCA
-
-17
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MATTEDI GIULIO | 3 |
+| FRANZOI NICOLA | 2 |
+| BALDO YURI | 14 |
+| VALER ALESSANDRO | 8 |
+| GUADAGNINI FEDERICO | 6 |
+| UGBEYI KESSEY | 6 |
+| MALFER MICHAEL | 5 |
+| SOVILLA MASSIMO | 3 |
+| DALPIAZ LUCA | 17 |
 
 **Commento:**  
 Dopo la pesante sconfitta subita a Ravina ci troviamo ad affrontare il JBR Rovereto.  

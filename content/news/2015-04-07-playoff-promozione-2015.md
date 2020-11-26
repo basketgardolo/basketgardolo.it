@@ -12,8 +12,8 @@ Giovedì 9 Aprile 2015 inizieranno i playoff per la nostra Promozione, che ha fi
 **GARA 1:** [Virtus Altogarda B 79 - Gardolo 63][4]
 **GARA 2:** [Gardolo 64 - Virtus Altogarda B 67][5]
 
-[1]: http://www.basketgardolo.it/2015/04/gardolo-66-bressanone-45/
-[2]: http://www.basketgardolo.it/2015/04/bressanone-58-gardolo-57/
-[3]: http://www.basketgardolo.it/2015/04/gardolo-83-bressanone-30/
-[4]: http://www.basketgardolo.it/2015/05/virtus-altogarda-b-79-gardolo-63/
-[5]: http://www.basketgardolo.it/2015/05/gardolo-64-virtus-altogarda-b-67/
+[1]: /news/2015-04-10-gardolo-66-bressanone-45
+[2]: /news/2015-04-bressanone-58-gardolo-57/
+[3]: /news/2015-04-gardolo-83-bressanone-30/
+[4]: /news/2015-05-virtus-altogarda-b-79-gardolo-63/
+[5]: /news/2015-05-gardolo-64-virtus-altogarda-b-67/

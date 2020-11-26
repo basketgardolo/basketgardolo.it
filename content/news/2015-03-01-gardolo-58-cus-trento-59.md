@@ -1,54 +1,21 @@
 ---
 title: Gardolo 58 – CUS Trento 59
-date: 2015-03-01T23:02:57+00:00
+date: 2015-02-24T23:02:57+00:00
 ---
-FEB
-
-24
-
-2015
-
-**Punti segnati**
-
-ZAMPIERO ERMANNO
-
-TRIVARELLI GIACOMO
-
-15
-
-CASAGRANDE DANIELE
-
-6
-
-MOSNA MATTEO
-
-2
-
-GAMBINO LORENZO
-
-9
-
-PEDERZOLLI FEDERICO
-
-LUCCHINI DANIELE
-
-7
-
-BERTOTTI NICOLA
-
-5
-
-VALER ALBERTO
-
-11
-
-PERENZONI LUCA
-
-JOSOL JAN
-
-3
-
-LAZZAROTTO TOMMASO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| ZAMPIERO ERMANNO | 0 |
+| TRIVARELLI GIACOMO | 15 |
+| CASAGRANDE DANIELE | 6 |
+| MOSNA MATTEO | 2 |
+| GAMBINO LORENZO | 9 |
+| PEDERZOLLI FEDERICO | 0 |
+| LUCCHINI DANIELE | 7 |
+| BERTOTTI NICOLA | 5 |
+| VALER ALBERTO | 11 |
+| PERENZONI | LUCA |
+| JOSOL JAN | 3 |
+| LAZZAROTTO TOMMASO | 0 |
 
 **Commento:**  
 Partita di cartello quella andata in scena martedì 24 febbraio a Gardolo, tra i padroni di casa e gli universitari del Cus Trento. Partita importante sia per il primo storico arbitraggio regionale tutto al femminile (fatto già evidenziato sufficientemente dai giornali) sia per il livello delle due squadra contrapposte, che negli ultimi anni hanno dato vita a partite avvincenti e equilibrate.  

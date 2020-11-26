@@ -1,60 +1,21 @@
 ---
 title: Rovereto 54 – Gardolo 84
-date: 2015-11-02T18:10:07+00:00
+date: 2015-10-26T18:10:07+00:00
 ---
-OTT
-
-26
-
-2015
-
-**Punti segnati**
-
-DELLAI MATTEO
-
-15
-
-AMBROSI GIOVANNI
-
-8
-
-TORRESANI MATTEO
-
-5
-
-DAMIANO OSELLO
-
-3
-
-PERENZONI STEFANO
-
-6
-
-DHIEU JHONNY
-
-4
-
-ZOUITA SAMIR
-
-2
-
-LAZZAROTTO TOMMASO
-
-22
-
-BORTOLIN SAMUEL
-
-14
-
-BUFFA ROBERTO
-
-3
-
-ROSSI LUCA
-
-SANTONI EDOARDO
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| DELLAI MATTEO | 15 |
+| AMBROSI GIOVANNI | 8 |
+| TORRESANI MATTEO | 5 |
+| DAMIANO OSELLO | 3 |
+| PERENZONI STEFANO | 6 |
+| DHIEU JHONNY | 4 |
+| ZOUITA SAMIR | 2 |
+| LAZZAROTTO TOMMASO | 22 |
+| BORTOLIN SAMUEL | 4 |
+| BUFFA ROBERTO | 3 |
+| ROSSI LUCA | 0 |
+| SANTONI EDOARDO | 4 |
 
 **Commento:**  
 Gardolo infila la seconda vittoria consecutiva questa volta contro i pari età del San Marco Rovereto. La partita inizia bene per i gardoloti che si portano subito sul 8-0, poi però non teniamo alta la concentrazione permettendo a Rovereto di rifarsi sotto chiudendo il primo quarto in vantaggio 13-17.

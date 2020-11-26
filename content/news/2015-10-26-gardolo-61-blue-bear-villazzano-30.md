@@ -1,58 +1,21 @@
 ---
 title: Gardolo 61 – Blue Bear Villazzano 30
-date: 2015-10-26T22:24:03+00:00
+date: 2015-10-24T22:24:03+00:00
 ---
-OTT
-
-24
-
-2015
-
-**Punti segnati**
-
-LUCCHINI DANIELE
-
-4
-
-CHISTE'
-
-SCAGLIARINI
-
-3
-
-PEDERZOLLI FEDERICO
-
-TRIVARELLI GIACOMO
-
-7
-
-MOSNA MATTEO
-
-1
-
-BERTOTTI NICOLA
-
-3
-
-VALER ALBERTO
-
-9
-
-LAZZAROTTO TOMMASO
-
-6
-
-RIZI GIOVANNI
-
-10
-
-GAMBINO LORENZO
-
-5
-
-PERENZONI LUCA
-
-12
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| LUCCHINI DANIELE | 4 |
+| CHISTE' | 0 |
+| SCAGLIARINI | 3 |
+| PEDERZOLLI FEDERICO | 0 |
+| TRIVARELLI GIACOMO | 7 |
+| MOSNA MATTEO | 1 |
+| BERTOTTI NICOLA | 3 |
+| VALER ALBERTO | 9 |
+| LAZZAROTTO TOMMASO | 6 |
+| RIZI GIOVANNI | 10 |
+| GAMBINO LORENZO | 5 |
+| PERENZONI LUCA | 12 |
 
 **Commento:**  
 Semifinale della 14° edizione Coppa Trentino Alto Adige. L'avversario è il Blue Bear Villazzano, sulla carta una partita facile ma che per i primi due quarti non lo è stata. La partita comincia a ritmi bassi si gioca poco di squadra e il risultato del primo quarto ne è la prova, finisce 12-9 per Gardolo.

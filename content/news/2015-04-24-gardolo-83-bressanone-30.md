@@ -1,50 +1,18 @@
 ---
 title: Gardolo 83 – Bressanone 30
-date: 2015-04-24T07:06:49+00:00
+date: 2015-04-23T07:06:49+00:00
 ---
-APR
-
-23
-
-2015
-
-**Punti segnati**
-
-MATTEDI GIULIO
-
-10
-
-MALFER MICHAEL
-
-10
-
-BALDO YURI
-
-15
-
-VALER ALESSANDRO
-
-10
-
-UGBEY KESSEY
-
-17
-
-DALPIAZ LUCA
-
-2
-
-BOSETTI MICHELE
-
-5
-
-SOVILLA MASSIMO
-
-7
-
-SACCOMAN LORENZO
-
-7
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MATTEDI GIULIO | 10 |
+| MALFER MICHAEL | 10 |
+| BALDO YURI | 15 |
+| VALER ALESSANDRO | 10 |
+| UGBEY KESSEY | 17 |
+| DALPIAZ LUCA | 2 |
+| BOSETTI MICHELE | 5 |
+| SOVILLA MASSIMO | 7 |
+| SACCOMAN LORENZO | 7 |
 
 **Commento:**  
 C'è davvero poco da dire di questa partita, ma, a differenza di Gara 2, per un motivo più che positivo.

@@ -1,48 +1,19 @@
 ---
 title: Gardolo 79 – Alto Adige Sudtirol 52
-date: 2015-04-07T13:06:06+00:00
+date: 2015-03-27T13:06:06+00:00
 ---
-MAR
-
-27
-
-2015
-
-**Punti segnati**
-
-TRIVARELLI GIACOMO
-
-13
-
-CASAGRANDE DANIELE
-
-JAN JOSOL
-
-9
-
-GAMBINO LORENZO
-
-15
-
-ZAMPIERO ERMANNO
-
-LUCCHINI DANIELE
-
-14
-
-LAZZAROTTO TOMMASO
-
-VALER ALBERTO
-
-13
-
-PERENZONI LUCA
-
-9
-
-BERTOLUZZA DAVIDE
-
-6
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| TRIVARELLI GIACOMO | 13 |
+| CASAGRANDE DANIELE | 0 |
+| JAN JOSOL | 9 |
+| GAMBINO LORENZO | 15 |
+| ZAMPIERO ERMANNO | 0 |
+| LUCCHINI DANIELE | 14 |
+| LAZZAROTTO TOMMASO | 0 |
+| VALER ALBERTO | 13 |
+| PERENZONI LUCA | 9 |
+| BERTOLUZZA DAVIDE | 6 |
 
 **Commento:**  
 Vittoria nella partita di sabato sera per i nostri ragazzi della serie D contro il fanalino di coda del campionato, l’Alto Adige Suedtirol, ancora a secco di vittorie. Nonostante alcune assenze importanti come quelle di capitan Mosna e Bertotti (costretti da guai fisici a guardare la partita dagli spalti), giocatori a mezzo servizio come il sottoscritto (fastidio alla spalla) e Zampiero (appena rientrato da una gita scolastica) e una settimana dove per un motivo o per l’altro la presenza agli allenamenti è stata ridotta, i nostri riescono a cogliere un’importante vittoria che vuole dire quasi certezza di playoff, visti i 4 scontri diretti a favore con l’inseguitrice Piani.  
