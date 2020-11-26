@@ -1,56 +1,20 @@
 ---
 title: Gardolo 64 – Piani Bolzano Junior 49
-date: 2014-10-20T12:19:12+00:00
+date: 2014-10-18T12:19:12+00:00
 ---
-OTT
-
-18
-
-2014
-
-**Punti segnati**
-
-BERTOTTI NICOLA
-
-8
-
-PEDERZOLLI FEDERICO
-
-ne
-
-BERTOLUZZA DAVIDE
-
-7
-
-TRIVARELLI GIACOMO
-
-12
-
-CASAGRANDE DANIELE
-
-3
-
-MOSNA MATTEO
-
-5
-
-VALER ALBERTO
-
-10
-
-JAN JOSOL
-
-1
-
-GAMBINO LORENZO
-
-4
-
-LAZZAROTTO TOMMASO
-
-PERENZONI LUCA
-
-14
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BERTOTTI NICOLA | 8 |
+| PEDERZOLLI FEDERICO | ne |
+| BERTOLUZZA DAVIDE | 7 |
+| TRIVARELLI GIACOMO | 12 |
+| CASAGRANDE DANIELE | 3 |
+| MOSNA MATTEO | 5 |
+| VALER ALBERTO | 10 |
+| JAN JOSOL | 1 |
+| GAMBINO LORENZO | 4 |
+| LAZZAROTTO TOMMASO | 0 |
+| PERENZONI LUCA | 14 |
 
 **Commento:**  
 Esordio nel campionato regionale per la nostra serie D che sabato sera affrontava in casa il Piani Bolzano Junior, vincendo la partita per 64 a 49.  

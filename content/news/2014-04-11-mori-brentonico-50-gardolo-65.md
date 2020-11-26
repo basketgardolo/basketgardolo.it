@@ -1,48 +1,18 @@
 ---
 title: Mori Brentonico 50 – Gardolo 65
-date: 2014-04-11T19:26:21+00:00
+date: 2014-04-10T19:26:21+00:00
 ---
-APR
-
-10
-
-2014
-
-**Punti segnati**
-
-SACCOMAN LORENZO
-
-6
-
-VALER ALESSANDRO
-
-10
-
-BALDO YURI
-
-8
-
-DALPIAZ LUCA
-
-11
-
-KESSEY UGBEYI
-
-6
-
-STENICO CRISTIAN
-
-FRANZOI NICOLA
-
-4
-
-SOVILLA MASSIMO
-
-15
-
-DALLABETTA DANIEL
-
-5
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| SACCOMAN LORENZO | 6 |
+| VALER ALESSANDRO | 10 |
+| BALDO YURI | 8 |
+| DALPIAZ LUCA | 11 |
+| KESSEY UGBEYI | 6 |
+| STENICO CRISTIAN | 0 |
+| FRANZOI NICOLA | 4 |
+| SOVILLA MASSIMO | 15 |
+| DALLABETTA DANIEL | 5 |
 
 **Commento:**
 

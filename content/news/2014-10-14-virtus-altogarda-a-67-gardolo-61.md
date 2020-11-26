@@ -1,50 +1,19 @@
 ---
 title: Virtus Altogarda A 67 – Gardolo 61
-date: 2014-10-14T07:15:25+00:00
+date: 2014-10-07T07:15:25+00:00
 ---
-OTT
-
-07
-
-2014
-
-**Punti segnati**
-
-FAURI STEFANO
-
-2
-
-PEDERZOLLI FEDERICO
-
-3
-
-BERTOLUZZA DAVIDE
-
-6
-
-TRIVARELLI GIACOMO
-
-8
-
-CASAGRANDE DANIELE
-
-MOSNA MATTEO
-
-9
-
-VALER ALBERTO
-
-18
-
-JAN JOSOL
-
-GAMBINO LORENZO
-
-12
-
-ROSATTI ALESSANDRO
-
-3
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FAURI STEFANO | 2 |
+| PEDERZOLLI FEDERICO | 3 |
+| BERTOLUZZA DAVIDE | 6 |
+| TRIVARELLI GIACOMO | 8 |
+| CASAGRANDE DANIELE | 0 |
+| MOSNA MATTEO | 9 |
+| VALER ALBERTO | 18 |
+| JAN JOSOL | 0 |
+| GAMBINO LORENZO | 12 |
+| ROSATTI ALESSANDRO | 3 |
 
 **Commento:**  
 Si sa, le trasferte a Riva del Garda o in Alto Adige, per di più infrasettimanali sono sempre abbastanza pesanti, nonostante questo la truppa della Serie D si fa trovare pronta e 10 dei suoi ragazzi arrivano puntuali alla palestra Imperia di Riva per scontrarsi con la prima squadra della società Rivana che, composta principalmente da giovani molto atletici e veloci, possiede anche un paio di assi nella manica che forniscono l'esperienza essenziale per poter fare veramente bene nel nostro campionato: Proch, rimasto a Riva nonostante la retrocessione subita dalla formazione rivana che militava il campionato di C2 dell'anno scorso e Volpi che nella passata stagione ha ben figurato nel campionato di Serie D nel roster dell'Audace Pergine.

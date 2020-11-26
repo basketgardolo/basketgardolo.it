@@ -2,12 +2,6 @@
 title: Il punto sulla stagione Under 14 e Under 15
 date: 2014-12-11T13:56:28+00:00
 ---
-DIC
-
-11
-
-2014
-
 VILLAZZANO- GARDOLO (U15)
 =========================
 

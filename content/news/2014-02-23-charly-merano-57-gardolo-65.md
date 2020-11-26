@@ -1,54 +1,19 @@
 ---
 title: Charly Merano 57 – Gardolo 65
-date: 2014-02-23T08:00:52+00:00
+date: 2014-02-22T08:00:52+00:00
 ---
-FEB
-
-22
-
-2014
-
-**Punti segnati**
-
-MOSNA MATTEO
-
-9
-
-LAZZAROTTO TOMMASO
-
-n.e.
-
-BAFTIRI ARBEN
-
-8
-
-CASAGRANDE DANIELE
-
-2
-
-LUCCHINI DANIELE
-
-18
-
-TRIVARELLI GIACOMO
-
-11
-
-PERISSINOTTO MATTEO
-
-8
-
-GAMBINO LORENZO
-
-1
-
-MATTEDI GIULIO
-
-1
-
-VALER ALBERTO
-
-7
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MOSNA MATTEO | 9 |
+| LAZZAROTTO TOMMASO | ne |
+| BAFTIRI ARBEN | 8 |
+| CASAGRANDE DANIELE | 2 |
+| LUCCHINI DANIELE | 18 |
+| TRIVARELLI GIACOMO | 11 |
+| PERISSINOTTO MATTEO | 8 |
+| GAMBINO LORENZO | 1 |
+| MATTEDI GIULIO | 1 |
+| VALER ALBERTO | 7 |
 
 **Commento:**
 

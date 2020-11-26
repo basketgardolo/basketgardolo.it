@@ -1,48 +1,18 @@
 ---
 title: Blue Bear Villazzano 48 – Gardolo 62
-date: 2014-10-29T17:31:45+00:00
+date: 2014-10-28T17:31:45+00:00
 ---
-OTT
-
-28
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-4
-
-VALER ALESSANDRO
-
-10
-
-MATTEDI GIULIO
-
-9
-
-SOVILLA MASSIMO
-
-3
-
-DALPIAZ LUCA
-
-7
-
-SACCOMAN LORENZO
-
-DALLABETTA DANIEL
-
-6
-
-BOSETTI MICHELE
-
-14
-
-UGBEYI KESSEY
-
-9
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 4 |
+| VALER ALESSANDRO | 10 |
+| MATTEDI GIULIO | 9 |
+| SOVILLA MASSIMO | 3 |
+| DALPIAZ LUCA | 7 |
+| SACCOMAN LORENZO | 0 |
+| DALLABETTA DANIEL | 6 |
+| BOSETTI MICHELE | 14 |
+| UGBEYI KESSEY | 9 |
 
 **Commento:**  
 Dopo aver riposato alla prima giornata finalmente cominciano le nostre partite di campionato! Campionato di promozione che vede iscritte 21 squadre: 11 (compresa la nostra) nel girone gold e altre 10 nel girone silver.

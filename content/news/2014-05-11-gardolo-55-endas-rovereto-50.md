@@ -2,47 +2,17 @@
 title: Gardolo 55 – Endas Rovereto 50
 date: 2014-05-11T23:01:58+00:00
 ---
-MAG
-
-11
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-10
-
-VALER ALESSANDRO
-
-8
-
-BOSETTI MICHELE
-
-15
-
-DALPIAZ LUCA
-
-7
-
-KESSEY UGBEYI
-
-9
-
-FRANZOI NICOLA
-
-2
-
-STENICO CRISTIAN
-
-2
-
-SOVILLA MASSIMO
-
-SACCOMAN LORENZO
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 10 |
+| VALER ALESSANDRO | 8 |
+| BOSETTI MICHELE | 15 |
+| DALPIAZ LUCA | 7 |
+| KESSEY UGBEYI | 9 |
+| FRANZOI NICOLA | 2 |
+| STENICO CRISTIAN | 2 |
+| SOVILLA MASSIMO | 0 |
+| SACCOMAN LORENZO | 2 |
 
 **Commento:**
 

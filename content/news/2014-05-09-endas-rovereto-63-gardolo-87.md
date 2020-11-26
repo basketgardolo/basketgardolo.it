@@ -1,48 +1,18 @@
 ---
 title: Endas Rovereto 63 – Gardolo 87
-date: 2014-05-09T07:14:14+00:00
+date: 2014-05-08T07:14:14+00:00
 ---
-MAG
-
-08
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-4
-
-VALER ALESSANDRO
-
-11
-
-BOSETTI MICHELE
-
-10
-
-DALPIAZ LUCA
-
-20
-
-KESSEY UGBEYI
-
-15
-
-NICOLA FRANZOI
-
-6
-
-PEDERZOLLI FEDERICO
-
-SOVILLA MASSIMO
-
-18
-
-DALLABETTA DANIEL
-
-3
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 4 |
+| VALER ALESSANDRO | 11 |
+| BOSETTI MICHELE | 10 |
+| DALPIAZ LUCA | 20 |
+| KESSEY UGBEYI | 15 |
+| NICOLA FRANZOI | 6 |
+| PEDERZOLLI FEDERICO | 0 |
+| SOVILLA MASSIMO | 18 |
+| DALLABETTA DANIEL | 3 |
 
 **Commento:**
 

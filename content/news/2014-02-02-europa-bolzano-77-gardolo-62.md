@@ -1,54 +1,19 @@
 ---
 title: Europa Bolzano 77 – Gardolo 62
-date: 2014-02-02T08:18:44+00:00
+date: 2014-02-01T08:18:44+00:00
 ---
-FEB
-
-01
-
-2014
-
-**Punti segnati**
-
-MOSNA MATTEO
-
-7
-
-BAILONI FEDERICO
-
-11
-
-LUCCHINI DANIELE
-
-6
-
-CASAGRANDE DANIELE
-
-4
-
-BAFTIRI ARBEN
-
-5
-
-TRIVARELLI GIACOMO
-
-7
-
-VALER ALBERTO
-
-6
-
-GAMBINO LORENZO
-
-4
-
-MATTEDI GIULIO
-
-2
-
-BIJEDIC JOVAN
-
-10
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MOSNA MATTEO | 7 |
+| BAILONI FEDERICO | 11 |
+| LUCCHINI DANIELE | 6 |
+| CASAGRANDE DANIELE | 4 |
+| BAFTIRI ARBEN | 5 |
+| TRIVARELLI GIACOMO | 7 |
+| VALER ALBERTO | 6 |
+| GAMBINO LORENZO | 4 |
+| MATTEDI GIULIO | 2 |
+| BIJEDIC JOVAN | 10 |
 
 **Commento:**
 

@@ -1,48 +1,19 @@
 ---
 title: Piani Junior 54 – Gardolo 50
-date: 2014-09-30T07:03:12+00:00
+date: 2014-09-29T07:03:12+00:00
 ---
-SET
-
-29
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-6
-
-VALER ALESSANDRO
-
-10
-
-MATTEDI LUCA
-
-SOVILLA MASSIMO
-
-11
-
-KESSEY UGBEYI
-
-9
-
-SACCOMAN LORENZO
-
-MICHELE BOSETTI
-
-4
-
-STENICO CRISTIAN
-
-8
-
-BRUGNARA ELIA
-
-GUADAGNINI FEDERICO
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 6 |
+| VALER ALESSANDRO | 10 |
+| MATTEDI LUCA | 0 |
+| SOVILLA MASSIMO | 11 |
+| KESSEY UGBEYI | 9 |
+| SACCOMAN LORENZO | 0 |
+| MICHELE BOSETTI | 4 |
+| STENICO CRISTIAN | 8 |
+| BRUGNARA ELIA | 0 |
+| GUADAGNINI FEDERICO | 2 |
 
 **Commento:**
 

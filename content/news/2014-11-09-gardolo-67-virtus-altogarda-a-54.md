@@ -2,49 +2,17 @@
 title: Gardolo 67 – Virtus Altogarda A 54
 date: 2014-11-09T23:04:48+00:00
 ---
-NOV
-
-09
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-4
-
-VALER ALESSANDRO
-
-10
-
-MALFER MICHAEL
-
-5
-
-SOVILLA MASSIMO
-
-5
-
-DALPIAZ LUCA
-
-13
-
-UGBEYI KESSEY
-
-9
-
-DALLABETTA DANIEL
-
-2
-
-BOSETTI MICHELE
-
-5
-
-FRANZOI NICOLA
-
-14
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 4 |
+| VALER ALESSANDRO | 10 |
+| MALFER MICHAEL | 5 |
+| SOVILLA MASSIMO | 5 |
+| DALPIAZ LUCA | 13 |
+| UGBEYI KESSEY | 9 |
+| DALLABETTA DANIEL | 2 |
+| BOSETTI MICHELE | 5 |
+| FRANZOI NICOLA | 14 |
 
 **Commento:**  
 Siamo alla prima in casa. Contro Arco.  

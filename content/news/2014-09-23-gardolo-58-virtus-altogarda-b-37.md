@@ -1,48 +1,18 @@
 ---
 title: Gardolo 58 – Virtus Altogarda B 37
-date: 2014-09-23T17:28:56+00:00
+date: 2014-09-22T17:28:56+00:00
 ---
-SET
-
-22
-
-2014
-
-**Punti segnati**
-
-LAZZAROTTO TOMMASO
-
-PEDERZOLLI FEDERICO
-
-3
-
-BERTOLUZZA DAVIDE
-
-12
-
-TRIVARELLI GIACOMO
-
-5
-
-LUCCHINI DANIELE
-
-2
-
-MOSNA MATTEO
-
-7
-
-VALER ALBERTO
-
-6
-
-PERENZONI LUCA
-
-13
-
-GAMBINO LORENZO
-
-10
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| LAZZAROTTO TOMMASO | 0 |
+| PEDERZOLLI FEDERICO | 3 |
+| BERTOLUZZA DAVIDE | 12 |
+| TRIVARELLI GIACOMO | 5 |
+| LUCCHINI DANIELE | 2 |
+| MOSNA MATTEO | 7 |
+| VALER ALBERTO | 6 |
+| PERENZONI LUCA | 13 |
+| GAMBINO LORENZO | 10 |
 
 **Commento:**
 

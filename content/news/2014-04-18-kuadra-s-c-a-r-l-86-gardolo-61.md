@@ -1,54 +1,19 @@
 ---
 title: Kuadra S.C.A.R.L. 86 – Gardolo 61
-date: 2014-04-18T20:47:45+00:00
+date: 2014-04-10T20:47:45+00:00
 ---
-MAR
-
-10
-
-2014
-
-**Punti segnati**
-
-DUò RICARDO
-
-4
-
-BALDO MIRKO
-
-12
-
-BERLOFFA RICCARDO
-
-6
-
-TROIANO NICOLò
-
-3
-
-BEVILACQUA FEDERICO
-
-13
-
-PERENZONI LUCA
-
-3
-
-MARGONI MICHELE
-
-0
-
-FAURI STEFANO
-
-7
-
-DALLABETTA MICHAEL
-
-3
-
-ZENI FILIPPO
-
-10
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| DUò RICARDO | 4 |
+| BALDO MIRKO | 12 |
+| BERLOFFA RICCARDO | 6 |
+| TROIANO NICOLò | 3 |
+| BEVILACQUA FEDERICO | 13 |
+| PERENZONI LUCA | 3 |
+| MARGONI MICHELE | 0 |
+| FAURI STEFANO | 7 |
+| DALLABETTA MICHAEL | 3 |
+| ZENI FILIPPO | 10 |
 
 **Commento:**
 

@@ -1,48 +1,18 @@
 ---
 title: Virtus Altogarda B 81 – Gardolo 77
-date: 2014-10-31T20:42:37+00:00
+date: 2014-10-30T20:42:37+00:00
 ---
-OTT
-
-30
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-4
-
-VALER ALESSANDRO
-
-4
-
-DALLAPICCOLA LUCA
-
-2
-
-SOVILLA MASSIMO
-
-17
-
-DALPIAZ LUCA
-
-18
-
-STENICO CRISTIAN
-
-4
-
-DALLABETTA DANIEL
-
-17
-
-BOSETTI MICHELE
-
-11
-
-BRUGNARA ELIA
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 4 |
+| VALER ALESSANDRO | 4 |
+| DALLAPICCOLA LUCA | 2 |
+| SOVILLA MASSIMO | 17 |
+| DALPIAZ LUCA | 18 |
+| STENICO CRISTIAN | 4 |
+| DALLABETTA DANIEL | 17 |
+| BOSETTI MICHELE | 11 |
+| BRUGNARA ELIA | 0 |
 
 **Commento:**  
 Come dall'altra parte dell'oceano la nostra Promozione ha iniziato il proprio campionato martedì 28 novembre, e i ritmi di questa prima settimana di gioco sembrano essere proprio come quelli dell'NBA visto che dopo l'esordio vittorioso si gioca subito a distanza di due giorni ancora in trasferta, questa volta a Riva del Garda.

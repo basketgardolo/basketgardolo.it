@@ -1,48 +1,18 @@
 ---
 title: Virtus Altogarda B 68 – Gardolo 51
-date: 2014-05-23T12:25:34+00:00
+date: 2014-05-22T12:25:34+00:00
 ---
-MAG
-
-22
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-7
-
-VALER ALESSANDRO
-
-3
-
-BOSETTI MICHELE
-
-4
-
-DALPIAZ LUCA
-
-9
-
-KESSEY UGBEYI
-
-6
-
-SACCOMAN LORENZO
-
-2
-
-DALLABETTA DANIEL
-
-11
-
-SOVILLA MASSIMO
-
-9
-
-PEDERZOLLI FEDERICO
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 7 |
+| VALER ALESSANDRO | 3 |
+| BOSETTI MICHELE | 4 |
+| DALPIAZ LUCA | 9 |
+| KESSEY UGBEYI | 6 |
+| SACCOMAN LORENZO | 2 |
+| DALLABETTA DANIEL | 11 |
+| SOVILLA MASSIMO | 9 |
+| PEDERZOLLI FEDERICO | 0 |
 
 **Commento:**
 

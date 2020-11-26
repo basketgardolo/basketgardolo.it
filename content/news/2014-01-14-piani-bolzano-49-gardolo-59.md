@@ -1,50 +1,18 @@
 ---
 title: Piani Bolzano 49 – Gardolo 59
-date: 2014-01-14T19:03:24+00:00
+date: 2014-01-13T19:03:24+00:00
 ---
-GEN
-
-13
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-2
-
-DALLABETTA DANIEL
-
-3
-
-DALPIAZ LUCA
-
-13
-
-BOSETTI MICHELE
-
-8
-
-PEDERZOLLI FEDERICO
-
-6
-
-GUADAGNINI FEDERICO
-
-2
-
-STENICO CRISTIAN
-
-2
-
-UGBEYI KESSEY
-
-19
-
-FRANZOI NICOLA
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 2 |
+| DALLABETTA DANIEL | 3 |
+| DALPIAZ LUCA | 13 |
+| BOSETTI MICHELE | 8 |
+| PEDERZOLLI FEDERICO | 6 |
+| GUADAGNINI FEDERICO | 2 |
+| STENICO CRISTIAN | 2 |
+| UGBEYI KESSEY | 19 |
+| FRANZOI NICOLA | 4 |
 
 **Commento:**
 

@@ -1,48 +1,18 @@
 ---
 title: CUS Trento 68 – Gardolo 60
-date: 2014-09-30T14:53:57+00:00
+date: 2014-09-26T14:53:57+00:00
 ---
-SET
-
-26
-
-2014
-
-**Punti segnati**
-
-FAURI STEFANO
-
-PEDERZOLLI FEDERICO
-
-2
-
-BERTOLUZZA DAVIDE
-
-10
-
-TRIVARELLI GIACOMO
-
-12
-
-CASAGRANDE DANIELE
-
-7
-
-MOSNA MATTEO
-
-10
-
-VALER ALBERTO
-
-14
-
-PERENZONI LUCA
-
-3
-
-GAMBINO LORENZO
-
-2
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FAURI STEFANO | 0 |
+| PEDERZOLLI FEDERICO | 2 |
+| BERTOLUZZA DAVIDE | 10 |
+| TRIVARELLI GIACOMO | 12 |
+| CASAGRANDE DANIELE | 7 |
+| MOSNA MATTEO | 10 |
+| VALER ALBERTO | 14 |
+| PERENZONI LUCA | 3 |
+| GAMBINO LORENZO | 2 |
 
 **Commento:**
 

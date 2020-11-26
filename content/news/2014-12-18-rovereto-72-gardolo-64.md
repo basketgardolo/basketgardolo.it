@@ -1,48 +1,18 @@
 ---
 title: Rovereto 72 – Gardolo 64
-date: 2014-12-18T13:19:42+00:00
+date: 2014-12-17T13:19:42+00:00
 ---
-DIC
-
-17
-
-2014
-
-**Punti segnati**
-
-STENICO CRISTIAN
-
-10
-
-VALER ALESSANDRO
-
-15
-
-MATTEDI GIULIO
-
-3
-
-BALDO YURI
-
-11
-
-GUADAGNINI FEDERICO
-
-3
-
-BRUGNARA ELIA
-
-4
-
-MALFER MICHAEL
-
-UGBEYI KESSEY
-
-10
-
-SOVILLA MASSIMO
-
-8
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| STENICO CRISTIAN | 10 |
+| VALER ALESSANDRO | 15 |
+| MATTEDI GIULIO | 3 |
+| BALDO YURI | 11 |
+| GUADAGNINI FEDERICO | 3 |
+| BRUGNARA ELIA | 4 |
+| MALFER MICHAEL | 0 |
+| UGBEYI KESSEY | 10 |
+| SOVILLA MASSIMO | 8 |
 
 **Commento:**  
 A Rovereto l'incontro JBR - Gardolo serve per vedere chi rimarrà al secondo posto dietro la compagine di Pergine.  

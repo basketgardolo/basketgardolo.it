@@ -1,48 +1,18 @@
 ---
 title: Mori Brentonico 51 – Gardolo 65
-date: 2014-11-14T07:46:39+00:00
+date: 2014-11-13T07:46:39+00:00
 ---
-NOV
-
-13
-
-2014
-
-**Punti segnati**
-
-MATTEDI LUCA
-
-1
-
-VALER ALESSANDRO
-
-12
-
-MATTEDI GIULIO
-
-9
-
-GUADAGNINI FEDERICO
-
-2
-
-DALPIAZ LUCA
-
-15
-
-UGBEYI KESSEY
-
-10
-
-SACCOMAN LORENZO
-
-STENICO CRISTIAN
-
-9
-
-FRANZOI NICOLA
-
-7
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| MATTEDI LUCA | 1 |
+| VALER ALESSANDRO | 12 |
+| MATTEDI GIULIO | 9 |
+| GUADAGNINI FEDERICO | 2 |
+| DALPIAZ LUCA | 15 |
+| UGBEYI KESSEY | 10 |
+| SACCOMAN LORENZO | 0 |
+| STENICO CRISTIAN | 9 |
+| FRANZOI NICOLA | 7 |
 
 **Commento:**  
 Buona prestazione dei nostri ragazzi della Promozione in quel di Mori.

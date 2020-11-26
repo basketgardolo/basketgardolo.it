@@ -1,50 +1,18 @@
 ---
 title: Europa Bolzano 41 – Gardolo 61
-date: 2014-03-20T07:29:39+00:00
+date: 2014-03-19T07:29:39+00:00
 ---
-MAR
-
-19
-
-2014
-
-**Punti segnati**
-
-SACCOMAN LORENZO
-
-4
-
-BOSETTI MICHELE
-
-4
-
-MATTEDI LUCA
-
-5
-
-DALPIAZ LUCA
-
-18
-
-GUADAGNINI FEDERICO
-
-7
-
-BALDO YURI
-
-5
-
-VALER ALESSANDRO
-
-4
-
-SOVILLA MASSIMO
-
-2
-
-STENICO CRISTIAN
-
-12
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| SACCOMAN LORENZO | 4 |
+| BOSETTI MICHELE | 4 |
+| MATTEDI LUCA | 5 |
+| DALPIAZ LUCA | 18 |
+| GUADAGNINI FEDERICO | 7 |
+| BALDO YURI | 5 |
+| VALER ALESSANDRO | 4 |
+| SOVILLA MASSIMO | 2 |
+| STENICO CRISTIAN | 12 |
 
 **Commento:**
 

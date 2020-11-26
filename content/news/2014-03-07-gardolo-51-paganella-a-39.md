@@ -1,48 +1,18 @@
 ---
 title: Gardolo 51 – Paganella A 39
-date: 2014-03-07T11:03:49+00:00
+date: 2014-03-06T11:03:49+00:00
 ---
-MAR
-
-06
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-5
-
-BOSETTI MICHELE
-
-1
-
-DALLABETTA DANIEL
-
-2
-
-DALPIAZ LUCA
-
-13
-
-FRANZOI NICOLA
-
-UGBEYI KESSEY
-
-9
-
-PEDERZOLLI FEDERICO
-
-2
-
-SOVILLA MASSIMO
-
-12
-
-VALER ALESSANDRO
-
-7
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 5 |
+| BOSETTI MICHELE | 1 |
+| DALLABETTA DANIEL | 2 |
+| DALPIAZ LUCA | 13 |
+| FRANZOI NICOLA | 0 |
+| UGBEYI KESSEY | 9 |
+| PEDERZOLLI FEDERICO | 2 |
+| SOVILLA MASSIMO | 12 |
+| VALER ALESSANDRO | 7 |
 
 **Commento:**
 

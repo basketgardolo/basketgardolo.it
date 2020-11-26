@@ -1,50 +1,21 @@
 ---
 title: Gardolo 48 – Charly Merano 51
-date: 2014-11-17T17:59:52+00:00
+date: 2014-11-01T17:59:52+00:00
 ---
-NOV
-
-01
-
-2014
-
-**Punti segnati**
-
-BERTOTTI NICOLA
-
-PEDERZOLLI FEDERICO
-
-BERTOLUZZA DAVIDE
-
-2
-
-TRIVARELLI GIACOMO
-
-10
-
-CASAGRANDE DANIELE
-
-LUCCHINI DANIELE
-
-7
-
-VALER ALBERTO
-
-18
-
-JAN JOSOL
-
-5
-
-GAMBINO LORENZO
-
-11
-
-LAZZAROTTO TOMMASO
-
-PERENZONI LUCA
-
-STEFANO FAURI
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BERTOTTI NICOLA | 0 |
+| PEDERZOLLI FEDERICO | 0 |
+| BERTOLUZZA DAVIDE | 2 |
+| TRIVARELLI GIACOMO | 10 |
+| CASAGRANDE DANIELE | 0 |
+| LUCCHINI DANIELE | 7 |
+| VALER ALBERTO | 18 |
+| JAN JOSOL | 5 |
+| GAMBINO LORENZO | 11 |
+| LAZZAROTTO TOMMASO | 0 |
+| PERENZONI LUCA | 0 |
+| STEFANO FAURI | 0 |
 
 **Commento:**  
 Terzo impegno stagionale per la serie D, che sabato 1 novembre affronta tra le mura amiche la compagine altoatesina del Charly Merano. Anche se ancora a secco di vittorie, il Charly ha dimostrato di potersela giocare con tutti, perdendo per esempio di 2 sulla sirena a Rovereto e di 6 in casa del Cus (apparentemente le due squadre più forti di questo campionato). La partita sembra mettersi subito nelle giuste condizioni: 5 triple praticamente in fila a marchio gialloblu, danno ai gardoloti un buon margine. Il Charly è però bravo a rimanere concentrato sulla partita e nel secondo quarto la situazione si capovolge: gli altoatesini trovano infatti numerosi tiri piazzati dall’arco dei 6,75 m anche in seguito a gigantesche amnesie difensive del Gardolo. Alla pausa lunga il risultato è di 33 a 27 in favore dei meranesi (parziale di 19-7 dei meranesi nel secondo quarto).

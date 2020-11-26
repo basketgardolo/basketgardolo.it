@@ -1,50 +1,18 @@
 ---
 title: Gardolo 71 – Belvedere Ravina 66
-date: 2014-12-08T09:44:56+00:00
+date: 2014-12-07T09:44:56+00:00
 ---
-DIC
-
-7
-
-2014
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-2
-
-VALER ALESSANDRO
-
-12
-
-MATTEDI GIULIO
-
-2
-
-BALDO YURI
-
-4
-
-GUADAGNINI FEDERICO
-
-10
-
-DALPIAZ LUCA
-
-19
-
-SACCOMAN LORENZO
-
-4
-
-UGBEYI KESSEY
-
-11
-
-SOVILLA MASSIMO
-
-7
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 2 |
+| VALER ALESSANDRO | 12 |
+| MATTEDI GIULIO | 2 |
+| BALDO YURI | 4 |
+| GUADAGNINI FEDERICO | 10 |
+| DALPIAZ LUCA | 19 |
+| SACCOMAN LORENZO | 4 |
+| UGBEYI KESSEY | 11 |
+| SOVILLA MASSIMO | 7 |
 
 **Commento:**  
 Bella partita di basket questa domenica sera al palazzetto di Trento Nord.

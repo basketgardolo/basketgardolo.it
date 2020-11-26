@@ -1,48 +1,18 @@
 ---
 title: Gardolo 69 – Mori Brentonico 46
-date: 2014-04-19T20:18:15+00:00
+date: 2014-04-10T20:18:15+00:00
 ---
-APR
-
-10
-
-2014
-
-**Punti segnati**
-
-SACCOMAN LORENZO
-
-2
-
-VALER ALESSANDRO
-
-10
-
-BOSETTI MICHELE
-
-4
-
-DALPIAZ LUCA
-
-22
-
-KESSEY UGBEYI
-
-11
-
-MATTEDI LUCA
-
-9
-
-PEDERZOLLI FEDERICO
-
-6
-
-SOVILLA MASSIMO
-
-5
-
-DALLABETTA DANIEL
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| SACCOMAN LORENZO | 2 |
+| VALER ALESSANDRO | 10 |
+| BOSETTI MICHELE | 4 |
+| DALPIAZ LUCA | 22 |
+| KESSEY UGBEYI | 11 |
+| MATTEDI LUCA | 9 |
+| PEDERZOLLI FEDERICO | 6 |
+| SOVILLA MASSIMO | 5 |
+| DALLABETTA DANIEL | 0 |
 
 **Commento:**
 

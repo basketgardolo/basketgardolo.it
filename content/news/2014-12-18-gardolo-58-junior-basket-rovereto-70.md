@@ -1,13 +1,7 @@
 ---
 title: Gardolo 58 – Junior Basket Rovereto 70
-date: 2014-12-18T12:54:58+00:00
+date: 2014-12-16T12:54:58+00:00
 ---
-DIC
-
-16
-
-2014
-
 Ciao a tutti,  
 con Rovereto che posso definire come una delle due squadre "più forti del campionato", insieme a Riva, secondo me abbiamo giocato una bella partita…una partita da cui imparare per il futuro.
 

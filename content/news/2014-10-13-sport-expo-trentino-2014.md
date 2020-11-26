@@ -8,6 +8,3 @@ Questi gli appuntamenti a cui tutti i centri minibasket della regione sono invit
 * DOMENICA 19 OTTOBRE - dalle ore 15 alle ore 18.00 **Torneo AQUILOTTI 3c3 sprint**
 
 La partecipazione è libera e gratuita, così come l'ingresso alla fiera. La modalità di organizzazione dei tornei permette di partecipare anche con pochi bambini/bambine! Per ogni partecipante ci sarà una maglietta in regalo.
-[Scarica il volantino con tutti i dettagli!][1]
-
-[1]: http://www.basketgardolo.it/wp-content/uploads/2014/10/sportexpo2014.pdf

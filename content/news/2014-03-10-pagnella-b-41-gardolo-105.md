@@ -1,50 +1,18 @@
 ---
 title: Paganella B 41 – Gardolo 105
-date: 2014-03-10T07:56:27+00:00
+date: 2014-03-06T07:56:27+00:00
 ---
-MAR
-
-06
-
-2014
-
-**Punti segnati**
-
-SACCOMAN LORENZO
-
-9
-
-BOSETTI MICHELE
-
-12
-
-DALLABETTA DANIEL
-
-6
-
-DALPIAZ LUCA
-
-16
-
-FRANZOI NICOLA
-
-18
-
-UGBEYI KESSEY
-
-6
-
-PEDERZOLLI FEDERICO
-
-12
-
-SOVILLA MASSIMO
-
-13
-
-STENICO CRISTIAN
-
-13
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| SACCOMAN LORENZO | 9 |
+| BOSETTI MICHELE | 12 |
+| DALLABETTA DANIEL | 6 |
+| DALPIAZ LUCA | 16 |
+| FRANZOI NICOLA | 18 |
+| UGBEYI KESSEY | 6 |
+| PEDERZOLLI FEDERICO | 12 |
+| SOVILLA MASSIMO | 13 |
+| STENICO CRISTIAN | 13 |
 
 **Commento:**
 

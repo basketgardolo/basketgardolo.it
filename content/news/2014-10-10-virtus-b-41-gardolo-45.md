@@ -1,50 +1,20 @@
 ---
 title: Virtus B 41 – Gardolo 45
-date: 2014-10-10T07:49:32+00:00
+date: 2014-10-09T07:49:32+00:00
 ---
-OTT
-
-09
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-4
-
-VALER ALESSANDRO
-
-6
-
-MATTEDI GIULIO
-
-4
-
-SOVILLA MASSIMO
-
-10
-
-DALPIAZ LUCA
-
-13
-
-SACCOMAN LORENZO
-
-DALLABETTA DANIEL
-
-6
-
-STENICO CRISTIAN
-
-2
-
-BRUGNARA ELIA
-
-MALFER MICHAEL
-
-FRANZOI NICOLA
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 4 |
+| VALER ALESSANDRO | 6 |
+| MATTEDI GIULIO | 4 |
+| SOVILLA MASSIMO | 10 |
+| DALPIAZ LUCA | 13 |
+| SACCOMAN LORENZO | 0 |
+| DALLABETTA DANIEL | 6 |
+| STENICO CRISTIAN | 2 |
+| BRUGNARA ELIA | 0 |
+| MALFER MICHAEL | 0 |
+| FRANZOI NICOLA | 0 |
 
 **Commento:**
 

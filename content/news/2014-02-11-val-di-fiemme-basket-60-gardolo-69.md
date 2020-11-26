@@ -1,48 +1,18 @@
 ---
 title: Val di Fiemme Basket 60 – Gardolo 69
-date: 2014-02-11T22:20:39+00:00
+date: 2014-02-10T22:20:39+00:00
 ---
-FEB
-
-10
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-4
-
-BOSETTI MICHELE
-
-11
-
-MATTEDI LUCA
-
-10
-
-GUADAGNINI FEDERICO
-
-10
-
-FRANZOI NICOLA
-
-10
-
-SACCOMAN LORENZO
-
-STENICO CRISTIAN
-
-3
-
-SOVILLA MASSIMO
-
-11
-
-VALER ALESSANDRO
-
-10
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 4 |
+| BOSETTI MICHELE | 11 |
+| MATTEDI LUCA | 10 |
+| GUADAGNINI FEDERICO | 10 |
+| FRANZOI NICOLA | 10 |
+| SACCOMAN LORENZO | 0 |
+| STENICO CRISTIAN | 3 |
+| SOVILLA MASSIMO | 11 |
+| VALER ALESSANDRO | 10 |
 
 **Commento:**
 

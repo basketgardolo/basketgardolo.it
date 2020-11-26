@@ -1,48 +1,18 @@
 ---
 title: Gardolo 51 – Piani Bolzano 59
-date: 2014-03-31T08:47:25+00:00
+date: 2014-03-30T08:47:25+00:00
 ---
-MAR
-
-30
-
-2014
-
-**Punti segnati**
-
-SACCOMAN LORENZO
-
-6
-
-BOSETTI MICHELE
-
-10
-
-MATTEDI LUCA
-
-3
-
-DALPIAZ LUCA
-
-15
-
-KESSEY UGBEYI
-
-8
-
-PEDERZOLLI FEDERICO
-
-2
-
-FRANZOI NICOLA
-
-SOVILLA MASSIMO
-
-4
-
-DALLABETTA DANIEL
-
-3
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| SACCOMAN LORENZO | 6 |
+| BOSETTI MICHELE | 10 |
+| MATTEDI LUCA | 3 |
+| DALPIAZ LUCA | 15 |
+| KESSEY UGBEYI | 8 |
+| PEDERZOLLI FEDERICO | 2 |
+| FRANZOI NICOLA | 0 |
+| SOVILLA MASSIMO | 4 |
+| DALLABETTA DANIEL | 3 |
 
 **Commento:**
 

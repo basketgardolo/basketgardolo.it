@@ -1,50 +1,18 @@
 ---
 title: Gardolo 65 – Maia Merano 41
-date: 2014-02-03T17:33:12+00:00
+date: 2014-02-02T17:33:12+00:00
 ---
-FEB
-
-02
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-7
-
-BOSETTI MICHELE
-
-16
-
-DALPIAZ LUCA
-
-8
-
-GUADAGNINI FEDERICO
-
-5
-
-PEDERZOLLI FEDERICO
-
-6
-
-SACCOMAN LORENZO
-
-3
-
-STENICO CRISTIAN
-
-8
-
-UGBEYI KESSEY
-
-8
-
-VALER ALESSANDRO
-
-4
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 7 |
+| BOSETTI MICHELE | 16 |
+| DALPIAZ LUCA | 8 |
+| GUADAGNINI FEDERICO | 5 |
+| PEDERZOLLI FEDERICO | 6 |
+| SACCOMAN LORENZO | 3 |
+| STENICO CRISTIAN | 8 |
+| UGBEYI KESSEY | 8 |
+| VALER ALESSANDRO | 4 |
 
 **Commento:**
 

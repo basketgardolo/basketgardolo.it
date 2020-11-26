@@ -1,50 +1,18 @@
 ---
 title: Gardolo 53 – Pergine 65
-date: 2014-12-22T08:07:24+00:00
+date: 2014-12-21T08:07:24+00:00
 ---
-DIC
-
-21
-
-2014
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-5
-
-VALER ALESSANDRO
-
-4
-
-MATTEDI GIULIO
-
-9
-
-DALPIAZ LUCA
-
-13
-
-DALLABETTA DANIEL
-
-12
-
-BRUGNARA ELIA
-
-2
-
-LORENZO SACCOMAN
-
-2
-
-UGBEYI KESSEY
-
-3
-
-SOVILLA MASSIMO
-
-3
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 5 |
+| VALER ALESSANDRO | 4 |
+| MATTEDI GIULIO | 9 |
+| DALPIAZ LUCA | 13 |
+| DALLABETTA DANIEL | 12 |
+| BRUGNARA ELIA | 2 |
+| LORENZO SACCOMAN | 2 |
+| UGBEYI KESSEY | 3 |
+| SOVILLA MASSIMO | 3 |
 
 **Commento:**  
 Clima play-off per l'ultima partita dell'anno solare. In quel di Gardolo arriva la capolista imbattuta Pergine.  

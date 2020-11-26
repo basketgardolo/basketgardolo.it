@@ -1,54 +1,21 @@
 ---
 title: San Marco Rovereto 67 – Gardolo 61
-date: 2014-12-27T20:47:28+00:00
+date: 2014-12-18T20:47:28+00:00
 ---
-DIC
-
-18
-
-2014
-
-**Punti segnati**
-
-FURIA MATTIA
-
-4
-
-TRIVARELLI GIACOMO
-
-2
-
-CASAGRANDE DANIELE
-
-14
-
-LUCCHINI DANIELE
-
-13
-
-JAN JOSOL
-
-MOSNA MATTEO
-
-6
-
-GAMBINO LORENZO
-
-8
-
-ZAMPIERO ERMANO
-
-PERENZONI LUCA
-
-4
-
-PEDERZOLLI FEDERICO
-
-LAZZAROTTO TOMMASO
-
-VALER ALBERTO
-
-10
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| FURIA MATTIA | 4 |
+| TRIVARELLI GIACOMO | 2 |
+| CASAGRANDE DANIELE | 14 |
+| LUCCHINI DANIELE | 13 |
+| JAN JOSOL | 0 |
+| MOSNA MATTEO | 6 |
+| GAMBINO LORENZO | 8 |
+| ZAMPIERO ERMANO | 0 |
+| PERENZONI LUCA | 4 |
+| PEDERZOLLI FEDERICO | 0 |
+| LAZZAROTTO TOMMASO | 0 |
+| VALER ALBERTO | 10 |
 
 **Commento:**  
 Partita da dimenticare per i nostri ragazzi, impegnati giovedì 18 dicembre a Rovereto per il recupero della partita originariamente prevista per fine novembre. I gardoloti non sono riusciti a mettere in campo l’aggressività necessaria per vincere una partita contro un avversario dall’indubbio valore, dati i numerosi giocatori con un curriculum di tutto rispetto come Bumbli, Cugola e Nicoli, oltre al solito Todeschi.

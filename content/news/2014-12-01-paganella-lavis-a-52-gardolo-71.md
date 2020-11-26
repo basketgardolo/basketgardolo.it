@@ -1,50 +1,18 @@
 ---
 title: Paganella Lavis A 52 – Gardolo 71
-date: 2014-12-01T10:42:00+00:00
+date: 2014-11-29T10:42:00+00:00
 ---
-NOV
-
-29
-
-2014
-
-**Punti segnati**
-
-DALLAPICCOLA LUCA
-
-6
-
-VALER ALESSANDRO
-
-6
-
-MATTEDI LUCA
-
-1
-
-MICHAEL MALFER
-
-2
-
-BOSETTI MICHELE
-
-12
-
-DALPIAZ LUCA
-
-13
-
-SACCOMAN LORENZO
-
-4
-
-UGBEYI KESSEY
-
-13
-
-SOVILLA MASSIMO
-
-14
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| DALLAPICCOLA LUCA | 6 |
+| VALER ALESSANDRO | 6 |
+| MATTEDI LUCA | 1 |
+| MICHAEL MALFER | 2 |
+| BOSETTI MICHELE | 12 |
+| DALPIAZ LUCA | 13 |
+| SACCOMAN LORENZO | 4 |
+| UGBEYI KESSEY | 13 |
+| SOVILLA MASSIMO | 14 |
 
 **Commento:**  
 Trasferta di sabato in quel di Mezzolombardo contro la squadra del Paganella A.

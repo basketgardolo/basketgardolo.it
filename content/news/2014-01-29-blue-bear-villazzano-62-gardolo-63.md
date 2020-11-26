@@ -1,48 +1,18 @@
 ---
 title: Blue Bear Villazzano 62 – Gardolo 63
-date: 2014-01-29T11:10:47+00:00
+date: 2014-01-28T11:10:47+00:00
 ---
-GEN
-
-28
-
-2014
-
-**Punti segnati**
-
-BOSETTI MICHELE
-
-14
-
-DALLABETTA DANIEL
-
-5
-
-DALPIAZ LUCA
-
-5
-
-FRANZOI NICOLA
-
-12
-
-PEDERZOLLI FEDERICO
-
-4
-
-SACCOMAN LORENZO
-
-SOVILLA MASSIMO
-
-5
-
-UGBEYI KESSEY
-
-12
-
-VALER ALESSANDRO
-
-6
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BOSETTI MICHELE | 14 |
+| DALLABETTA DANIEL | 5 |
+| DALPIAZ LUCA | 5 |
+| FRANZOI NICOLA | 12 |
+| PEDERZOLLI FEDERICO | 4 |
+| SACCOMAN LORENZO | 0 |
+| SOVILLA MASSIMO | 5 |
+| UGBEYI KESSEY | 12 |
+| VALER ALESSANDRO | 6 |
 
 **Commento:**
 

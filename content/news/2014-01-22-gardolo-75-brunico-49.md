@@ -1,50 +1,18 @@
 ---
 title: Gardolo 75 – Brunico 49
-date: 2014-01-22T07:51:59+00:00
+date: 2014-01-19T07:51:59+00:00
 ---
-GEN
-
-19
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-1
-
-DALLAPICCOLA LUCA
-
-6
-
-SACCOMAN LORENZO
-
-8
-
-STENICO CRISTIAN
-
-7
-
-DEMARE PAOLO
-
-2
-
-GUADAGNINI FEDERICO
-
-11
-
-SOVILLA MASSIMO
-
-10
-
-UGBEYI KESSEY
-
-12
-
-VALER ALESSANDRO
-
-18
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 1 |
+| DALLAPICCOLA LUCA | 6 |
+| SACCOMAN LORENZO | 8 |
+| STENICO CRISTIAN | 7 |
+| DEMARE PAOLO | 2 |
+| GUADAGNINI FEDERICO | 11 |
+| SOVILLA MASSIMO | 10 |
+| UGBEYI KESSEY | 12 |
+| VALER ALESSANDRO | 18 |
 
 **Commento:**
 

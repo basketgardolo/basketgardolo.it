@@ -1,50 +1,20 @@
 ---
 title: Virtus Altogarda 68 – Gardolo 54
-date: 2014-11-17T18:10:04+00:00
+date: 2014-11-08T18:10:04+00:00
 ---
-NOV
-
-08
-
-2014
-
-**Punti segnati**
-
-BERTOTTI NICOLA
-
-PEDERZOLLI FEDERICO
-
-BERTOLUZZA DAVIDE
-
-10
-
-TRIVARELLI GIACOMO
-
-12
-
-CASAGRANDE DANIELE
-
-LUCCHINI DANIELE
-
-13
-
-VALER ALBERTO
-
-12
-
-MOSNA MATTEO
-
-3
-
-GAMBINO LORENZO
-
-3
-
-LAZZAROTTO TOMMASO
-
-1
-
-PERENZONI LUCA
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BERTOTTI NICOLA | 0 |
+| PEDERZOLLI FEDERICO | 0 |
+| BERTOLUZZA DAVIDE | 10 |
+| TRIVARELLI GIACOMO | 12 |
+| CASAGRANDE DANIELE | 0 |
+| LUCCHINI DANIELE | 13 |
+| VALER ALBERTO | 12 |
+| MOSNA MATTEO | 3 |
+| GAMBINO LORENZO | 3 |
+| LAZZAROTTO TOMMASO | 1 |
+| PERENZONI LUCA | 0 |
 
 **Commento:**  
 Eccoci a Riva a scontrarci nuovamente con una delle squadre più simili alla nostra dell'intero campionato. Le fila avversarie sono fortemente potenziate sotto canestro rispetto alla partita di Coppa grazie alla presenza di Giovanni Pastori che per tutta la durata dell'incontro riuscirà a fare la voce grossa a rimbalzo e sotto le plance con la sua grande esperienza e fisicità.  

@@ -1,52 +1,19 @@
 ---
 title: Gardolo 50 – Belvedere Ravina 58
-date: 2014-09-26T09:36:45+00:00
+date: 2014-09-25T09:36:45+00:00
 ---
-SET
-
-25
-
-2014
-
-**Punti segnati**
-
-BALDO YURI
-
-6
-
-VALER ALESSANDRO
-
-2
-
-MATTEDI LUCA
-
-2
-
-DALPIAZ LUCA
-
-6
-
-KESSEY UGBEYI
-
-10
-
-SACCOMAN LORENZO
-
-2
-
-DALLAPICCOLA LUCA
-
-STENICO CRISTIAN
-
-4
-
-FRANZOI NICOLA
-
-5
-
-GUADAGNINI FEDERICO
-
-13
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| BALDO YURI | 6 |
+| VALER ALESSANDRO | 2 |
+| MATTEDI LUCA | 2 |
+| DALPIAZ LUCA | 6 |
+| KESSEY UGBEYI | 10 |
+| SACCOMAN LORENZO | 2 |
+| DALLAPICCOLA LUCA | 0 |
+| STENICO CRISTIAN | 4 |
+| FRANZOI NICOLA | 5 |
+| GUADAGNINI FEDERICO | 13 |
 
 **Commento:**
 

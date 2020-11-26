@@ -1,54 +1,20 @@
 ---
 title: Gardolo 81 – Alto Adige Sudtirol 36
-date: 2014-12-27T20:35:20+00:00
+date: 2014-12-13T20:35:20+00:00
 ---
-DIC
-
-13
-
-2014
-
-**Punti segnati**
-
-TRIVARELLI GIACOMO
-
-19
-
-CASAGRANDE DANIELE
-
-3
-
-LUCCHINI DANIELE
-
-18
-
-FAURI STEFANO
-
-6
-
-MOSNA MATTEO
-
-14
-
-GAMBINO LORENZO
-
-6
-
-ZAMPIERO ERMANO
-
-PERENZONI LUCA
-
-5
-
-PEDERZOLLI FEDERICO
-
-LAZZAROTTO TOMMASO
-
-8
-
-VALER ALBERTO
-
-10
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| TRIVARELLI GIACOMO | 19 |
+| CASAGRANDE DANIELE | 3 |
+| LUCCHINI DANIELE | 18 |
+| FAURI STEFANO | 6 |
+| MOSNA MATTEO | 14 |
+| GAMBINO LORENZO | 6 |
+| ZAMPIERO ERMANO | 0 |
+| PERENZONI LUCA | 5 |
+| PEDERZOLLI FEDERICO | 0 |
+| LAZZAROTTO TOMMASO | 8 |
+| VALER ALBERTO | 10 |
 
 **Commento:**  
 Partita casalinga per i nostri che incontrano la compagine altoatesina EUROPA Bolzano.  
