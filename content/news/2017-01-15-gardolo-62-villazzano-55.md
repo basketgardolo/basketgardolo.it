@@ -1,56 +1,20 @@
 ---
 title: Gardolo 62 – Villazzano 55
-date: 2017-01-15T07:07:52+00:00
+date: 2017-01-14T07:07:52+00:00
 ---
-GEN
-
-14
-
-2017
-
-**Punti segnati**
-
-DELLAI MATTEO
-
-5
-
-ZAMPIERO ERMANNO
-
-9
-
-ANGELINI PIERO
-
-DALLABETTA MICHAEL
-
-15
-
-BALAARA ANGELO
-
-3
-
-SAVOIA MAURO
-
-4
-
-LAZZAROTTO TOMMASO
-
-8
-
-PERENZONI STEFANO
-
-ne
-
-TACCONI GIOVANNI
-
-5
-
-SPAGNOLO THOMAS
-
-2
-
-SISSA GIANMARIA
-
-11
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| DELLAI MATTEO | 5 |
+| ZAMPIERO ERMANNO | 9 |
+| ANGELINI PIERO | 0 |
+| DALLABETTA MICHAEL | 15 |
+| BALAARA ANGELO | 3 |
+| SAVOIA MAURO | 4 |
+| LAZZAROTTO TOMMASO | 8 |
+| PERENZONI STEFANO | ne |
+| TACCONI GIOVANNI | 5 |
+| SPAGNOLO THOMAS | 2 |
+| SISSA GIANMARIA | 11 |
 
 **Commento:**
 

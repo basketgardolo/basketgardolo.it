@@ -1,50 +1,18 @@
 ---
 title: Paganella Lavis 18 – Gardolo 122
-date: 2017-01-23T13:22:38+00:00
+date: 2017-01-17T13:22:38+00:00
 ---
-GEN
-
-17
-
-2017
-
-**Punti segnati**
-
-VERONESI
-
-15
-
-DELLAI MATTEO
-
-29
-
-TANI EUGENIO
-
-6
-
-BUFFA ROBERTO
-
-15
-
-OSELLO DAMIANO
-
-16
-
-AMBROSI GIOVANNI
-
-9
-
-PANIZZA LUCA
-
-8
-
-TITON JULIAN
-
-7
-
-CLAUS CHRISTIAN
-
-17
+| **Nome** | **Punti segnati** |
+| -------- | ----------------- |
+| VERONESI | 15 |
+| DELLAI MATTEO | 29 |
+| TANI EUGENIO | 6 |
+| BUFFA ROBERTO | 15 |
+| OSELLO DAMIANO | 16 |
+| AMBROSI GIOVANNI | 9 |
+| PANIZZA LUCA | 8 |
+| TITON JULIAN | 7 |
+| CLAUS CHRISTIAN | 17 |
 
 **Commento:**  
 Martedì 17 gennaio l'under 18 di Marco "Rizzo" Paoli è scesa in campo sul parquet del Palavis per affrontare il fanalino di coda del girone sud (Trentino), la Paganella Lavis. Alla palla a due Gardolo inizia subito con l'acceleratore che li permette di chiudere la partita già nel primo quarto, terminato 4-37.
