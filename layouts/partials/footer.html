@@ -1,55 +1,111 @@
-{{/*  TODO mettere colore footer come nella navbar  */}}
-<div class="container">
-  <footer class="pt-4 my-md-5 pt-md-5 border-top">
-    <div class="row">
-      <div class="col-12 col-md">
-        <img height="70" src="/images/logo_VINTAGE.png">
-        <ul class="list-unstyled">
-          <li>© 2020</li>
-        </ul>
-      </div>
-      <div class="col-6 col-md">
-        <h5>Basket Club Gardolo 2000 ASD</h5>
-        <ul class="list-unstyled">
-          <li>via Soprasasso, 1 - Gardolo</li>
-          <li>38121 TRENTO</li>
-          <li>C.F. 96005430226</li>
-          <li>P.I. 01140120229</li>
-        </ul>
-      </div>
-      <div class="col-6 col-md">
-        <h5>Contatti:</h5>
-        <ul class="list-unstyled">
-          <li>✉️ info@basketgardolo.it</li>
-          <li>📞 335-5389483</li>
-        </ul>
-      </div>
-      <div class="col-6 col-md">
-        <h5>Squadre:</h5>
-        {{ $anno := printf "%d-%d" now.Year (now.AddDate 1 0 0).Year }}
-        {{ if le now.Month 7 }}
-        {{ $anno = printf "%d-%d" (now.AddDate -1 0 0).Year now.Year }}
-        {{ end }}
-        <ul class="list-unstyled">
-          {{ $squadre := .Site.GetPage "/squadre"}}
-          {{ range $squadre.Pages }}
-          <li>
-            <a class="text-muted" href="{{.RelPermalink}}">
-              {{ .Title }}
+{{/* TODO mettere colore footer come nella navbar */}}
+<footer class="footer-area">
+  <div class="widget-wrapper">
+    <div class="map-img">
+      <img src="assets/images/footer/map-img.svg" alt="">
+    </div>
+    <div class="container">
+      <div class="row">
+
+        <div class="col-xl-4 col-md-7">
+          <div class="footer-widget about">
+            <a href="index.html" class="d-inline-block mb-30">
+              <img src="/images/logo_VINTAGE.png" height="70" alt="">
             </a>
-          </li>
-          {{ end }}
-        </ul>
+            <p class="text-white mb-25">Basket Club Gardolo 2000 ASD<br>
+              via Soprasasso, 1 - Gardolo<br>
+              38121 TRENTO<br>
+              C.F. 96005430226<br>
+              P.I. 01140120229
+            </p>
+          </div>
+        </div>
+
+        <div class="col-xl-2 col-md-4 order-md-2 order-xl-1 col-sm-6">
+          <div class="footer-widget">
+            <h4>Sezioni</h4>
+            <ul class="link">
+              {{ range .Site.Menus.main }}
+              <li class="nav-item">
+                <a href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-xl-2 col-md-4 order-md-4 order-xl-3 col-sm-6">
+          <div class="footer-widget">
+            <h4>Squadre</h4>
+            <ul class="link">
+              {{ $anno := printf "%d-%d" now.Year (now.AddDate 1 0 0).Year }}
+              {{ if le now.Month 7 }}
+              {{ $anno = printf "%d-%d" (now.AddDate -1 0 0).Year now.Year }}
+              {{ end }}
+              {{ $squadre := .Site.GetPage "/squadre"}}
+              {{ range where $squadre.Pages "Params.stagioni" $anno }}
+              <li>
+                <a href="{{.RelPermalink}}">
+                  {{ .Title }}
+                </a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-xl-2 col-md-4 order-md-3 order-xl-2 col-sm-6">
+          <div class="footer-widget">
+            <h4>Social</h4>
+            <ul class="link">
+              <li><a href="https://www.facebook.com/basketgardolo"><i class="lni lni-facebook-filled"></i> Facebook</a>
+              </li>
+              <li><a href="https://www.instagram.com/basketgardolo"><i class="lni lni-instagram-filled"></i>
+                  Instagram</a></li>
+              <li><a href="https://t.me/joinchat/AAAAAFUZtMSGyKFAmeO6EA"><i class="lni lni-telegram-original"></i>
+                  Telegram</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-xl-2 col-md-5 order-md-1 order-xl-4 col-sm-6">
+          <div class="footer-widget">
+            <h4>Contattaci:</h4>
+            <ul>
+              <li>
+                <span>Telefono:</span>
+                335-5389483
+              </li>
+              <li>
+                <span>Email:</span>
+                info@basketgardolo.it
+              </li>
+            </ul>
+          </div>
+        </div>
+
       </div>
     </div>
-  </footer>
-</div>
+  </div>
+
+  <div class="copy-right">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="text-center">
+            <p>Designed & Developed By <a href="https://graygrids.com/" rel="nofollow" target="_blank">GrayGrids</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <!-- jQuery plugin per mostrare il carousel -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
-  integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 <script>
   $(function () {
     $('.bxslider').bxSlider({
@@ -70,13 +126,100 @@
 <script src='/js/fullcalendar.min.js'></script>
 <script>
   $(document).ready(function () {
-    console.log("Ready...");
     $('#calendar').fullCalendar({
       events: '/partite/index.json'
     })
   });
 </script>
 {{ end }}
+
+<!--====== Tiny slider js ======-->
+<script src="/js/tiny-slider.js"></script>
+
+<!--====== wow js ======-->
+<script src="/js/wow.min.js"></script>
+
+<!--====== glightbox js ======-->
+<script src="/js/glightbox.min.js"></script>
+
+<!--====== Selectr js ======-->
+<script src="/js/selectr.min.js"></script>
+
+<!--====== Nouislider js ======-->
+<script src="/js/nouislider.js"></script>
+
+<!--====== Main js ======-->
+<script src="/js/main.js"></script>
+
+<script>
+
+  //========= glightbox
+  const myGallery = GLightbox({
+    'href': 'assets/video/Free App Landing Page Template - AppLand.mp4',
+    'type': 'video',
+    'source': 'youtube', //vimeo, youtube or local
+    'width': 900,
+    'autoplayVideos': true,
+  });
+
+  //======== tiny slider for feature-product-carousel
+  tns({
+    slideBy: 'page',
+    autoplay: false,
+    mouseDrag: true,
+    gutter: 20,
+    nav: false,
+    controls: true,
+    controlsPosition: 'bottom',
+    controlsText: [
+      '<span class="prev"><i class="lni lni-chevron-left"></i></span>',
+      '<span class="next"><i class="lni lni-chevron-right"></i></span>'
+    ],
+    container: ".feature-product-carousel",
+    items: 1,
+    center: false,
+    autoplayTimeout: 5000,
+    swipeAngle: false,
+    speed: 400,
+    responsive: {
+      768: {
+        items: 2,
+      },
+
+      992: {
+        items: 2,
+      },
+
+      1200: {
+        items: 3,
+      }
+    }
+  });
+
+  //======== tiny slider for testimonial
+  tns({
+    slideBy: 'page',
+    autoplay: false,
+    mouseDrag: true,
+    gutter: 20,
+    nav: true,
+    controls: false,
+    container: ".testimonial-carousel",
+    items: 1,
+    center: false,
+    autoplayTimeout: 5000,
+    swipeAngle: false,
+    speed: 400,
+    responsive: {
+      768: {
+        items: 2,
+      },
+      1200: {
+        items: 3,
+      }
+    }
+  });
+</script>
 </body>
 
 </html>

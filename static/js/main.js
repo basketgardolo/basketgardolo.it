@@ -1,144 +1,63 @@
-/*
-	Future Imperfect by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+(function() {
+    
+    "use strict";
+    
+    //===== Prealoder
 
-(function($) {
+    window.onload = function() {
+        window.setTimeout(fadeout, 500);
+    }
 
-	skel.breakpoints({
-		xlarge:	'(max-width: 1680px)',
-		large:	'(max-width: 1280px)',
-		medium:	'(max-width: 980px)',
-		small:	'(max-width: 736px)',
-		xsmall:	'(max-width: 480px)'
-	});
+    function fadeout() {
+        document.querySelector('.preloader').style.opacity = '0';
+        document.querySelector('.preloader').style.display = 'none';
+    }
 
-	$(function() {
+    
+    /*=====================================
+    Sticky
+    ======================================= */
+    window.onscroll = function () {
+        var header_navbar = document.getElementById("header_navbar");
+        var sticky = header_navbar.offsetTop;
+        var logo = document.querySelector('.navbar-brand img')
 
-		var	$window = $(window),
-			$body = $('body'),
-			$menu = $('#menu'),
-			$shareMenu = $('#share-menu'),
-			$sidebar = $('#sidebar'),
-			$main = $('#main');
+        if (window.pageYOffset > sticky) {
+            header_navbar.classList.add("sticky");
+            logo.src = 'assets/images/logo/logo-2.svg';
+        } else {
+            header_navbar.classList.remove("sticky");
+            logo.src = 'assets/images/logo/logo.svg';
+        }
 
-		// TODO: Fix this, or implement lazy load.
-		// Disable animations/transitions until the page has loaded.
-		//	$body.addClass('is-loading');
 
-		//	$window.on('load', function() {
-		//		window.setTimeout(function() {
-		//			$body.removeClass('is-loading');
-		//		}, 100);
-		//	});
 
-		// Fix: Placeholder polyfill.
-			$('form').placeholder();
+        // show or hide the back-top-top button
+        var backToTo = document.querySelector(".back-to-top");
+        if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+            backToTo.style.display = "block";
+        } else {
+            backToTo.style.display = "none";
+        }
+    };
 
-		// Prioritize "important" elements on medium.
-			skel.on('+medium -medium', function() {
-				$.prioritize(
-					'.important\\28 medium\\29',
-					skel.breakpoint('medium').active
-				);
-			});
+    // Get the navbar
 
-		// IE<=9: Reverse order of main and sidebar.
-			if (skel.vars.IEVersion <= 9)
-				$main.insertAfter($sidebar);
+    //===== close navbar-collapse when a  clicked
+    let navbarToggler = document.querySelector(".navbar-toggler");
+    navbarToggler.addEventListener('click', function() {
+        navbarToggler.classList.toggle("active");
+    }) 
 
-		$menu.appendTo($body);
-		$shareMenu.appendTo($body);
 
-		$menu.panel({
-			delay: 500,
-			hideOnClick: true,
-			hideOnEscape: true,
-			hideOnSwipe: true,
-			resetScroll: true,
-			resetForms: true,
-			side: 'right',
-			target: $body,
-			visibleClass: 'is-menu-visible'
-		});
+    //WOW Scroll Spy
+    var wow = new WOW({
+        //disabled for mobile
+        mobile: false
+    });
+    wow.init();
 
-		$shareMenu.panel({
-			delay: 500,
-			hideOnClick: true,
-			hideOnEscape: true,
-			hideOnSwipe: true,
-			resetScroll: true,
-			resetForms: true,
-			side: 'right',
-			target: $body,
-			visibleClass: 'is-share-visible'
-		});
 
-		// Menu.
-			/*$menu
-				.appendTo($body)
-				.panel({
-					delay: 500,
-					hideOnClick: true,
-					hideOnSwipe: true,
-					resetScroll: true,
-					resetForms: true,
-					side: 'right',
-					target: $body,
-					visibleClass: 'is-menu-visible'
-				});*/
 
-		// Search (header).
-			var $search = $('#search'),
-				$search_input = $search.find('input');
 
-			$body
-				.on('click', '[href="#search"]', function(event) {
-
-					event.preventDefault();
-
-					// Not visible?
-						if (!$search.hasClass('visible')) {
-
-							// Reset form.
-								$search[0].reset();
-
-							// Show.
-								$search.addClass('visible');
-
-							// Focus input.
-								$search_input.focus();
-
-						}
-
-				});
-
-			$search_input
-				.on('keydown', function(event) {
-
-					if (event.keyCode == 27)
-						$search_input.blur();
-
-				})
-				.on('blur', function() {
-					window.setTimeout(function() {
-						$search.removeClass('visible');
-					}, 100);
-				});
-
-		// Intro.
-			var $intro = $('#intro');
-
-			// Move to main on <=large, back to sidebar on >large.
-				skel
-					.on('+medium', function() {
-						$intro.prependTo($main);
-					})
-					.on('-medium', function() {
-						$intro.prependTo($sidebar);
-					});
-
-	});
-
-})(jQuery);
+})();

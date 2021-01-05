@@ -9,7 +9,7 @@
                 <h3 class="mb-0">{{ .Title }}</h3>
                 <div class="mb-1 text-muted">{{ .Date.Day }} {{ index $month_names $month }} {{ .Date.Year }}</div>
                 <div class="card-text mb-auto">{{ .Summary | truncate 70 }}</div>
-                <a href="{{ .RelPermalink }}" class="stretched-link">Continua a leggere</a>
+                <a href="{{ .Permalink }}" class="stretched-link">Continua a leggere</a>
             </div>
             <div class="col-auto d-none d-lg-block">
                 <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg"

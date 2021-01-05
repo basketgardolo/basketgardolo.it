@@ -2,16 +2,30 @@
 {{ $.Scratch.Set "shareNav" true }}
 {{ partial "navbar" . }}
 
+<section id="home" class="hero-area bg_cover">
+	<div class="container">
+		<div class="row">
+			<div class="mx-auto col-lg-9 col-xl-9 col-md-10">
+				<div class="text-center hero-content">
+					<h1 class="mb-30 wow fadeInUp" data-wow-delay=".2s">You are using free lite version</h1>
+					<p class="wow fadeInUp" data-wow-delay=".4s">Please, purchase full version to get all pages, features and sections.</p></br>
+
+					<a href="https://rebrand.ly/gg-classilist/" rel="nofollow" class="main-btn btn-hover">Purchase Now</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <!-- Main -->
 <div id="main" class="container-fluid">
-	<div class="col-sm-12" style="padding: 1%;">
-		{{/*  TODO sistemare immagine a larghezza pagina e cambiare immagine  */}}
-		<img src="/images/copertina_statica.jpg" alt="Copertina">
-	</div>
-	{{/* TODO: Temporaneamente al posto dei "risultati" delle partite ci va messo il form di iscrizione online, almeno fino al 30/09  */}}
+	{{/* TODO: Temporaneamente al posto dei "risultati" delle partite ci va messo il form di iscrizione online, almeno
+	fino al 30/09 */}}
 	<div class="col-sm-12" style="padding: 1%;">
 		<div class="col-sm-12" style="padding: 1%;">
-			<hr style="background-color: #20265a;" /><p>&nbsp;</p>
+			<hr style="background-color: #20265a;" />
+			<p>&nbsp;</p>
 		</div>
 		<div class="col-sm-12" style="padding: 1%;">
 			<h1>Ultime partite</h1>
@@ -19,13 +33,16 @@
 		<div class="col-sm-12" style="padding: 1%;">
 			<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 				<ol class="carousel-indicators">
-				<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active" style="background-color: #20265a;"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="1" style="background-color: #20265a;"></li>
-				<li data-target="#carouselExampleIndicators" data-slide-to="2" style="background-color: #20265a;"></li>
+					<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"
+						style="background-color: #20265a;"></li>
+					<li data-target="#carouselExampleIndicators" data-slide-to="1" style="background-color: #20265a;">
+					</li>
+					<li data-target="#carouselExampleIndicators" data-slide-to="2" style="background-color: #20265a;">
+					</li>
 				</ol>
 				<div class="carousel-inner">
 					<div class="carousel-item active">
-						{{/*  TODO range del carosello  */}}
+						{{/* TODO range del carosello */}}
 						{{ range last 1 (where .Site.RegularPages "Type" "partite") }}
 						<h3>{{ .Param "categoria" | title}}</h3>
 						<div>
@@ -50,12 +67,12 @@
 								{{ end }}
 								{{ end }}
 								{{ printf "%s %d - %d %s" $squadraA (.Param "punteggio-a") (.Param "punteggio-b") $squadraB }}
-							<h3>
+							</h3>
 							<p>
 								{{ .Content }}
 							</p>
 						</div>
-					{{ end }}
+						{{ end }}
 					</div>
 					{{ range last 3 (where .Site.RegularPages "Type" "partite") }}
 					<div class="carousel-item">
@@ -82,20 +99,22 @@
 								{{ end }}
 								{{ end }}
 								{{ printf "%s %d - %d %s" $squadraA (.Param "punteggio-a") (.Param "punteggio-b") $squadraB }}
-							<h3>
-							<p>
-								{{ .Content }}
-							</p>
+								<h3>
+									<p>
+										{{ .Content }}
+									</p>
 						</div>
 					</div>
 					{{ end }}
 
 				</div>
-				<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev" style="background-color: #20265a;">
+				<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev"
+					style="background-color: #20265a;">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 				</a>
-				<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next" style="background-color: #20265a;">
+				<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next"
+					style="background-color: #20265a;">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 				</a>
@@ -122,8 +141,8 @@
 						<tr>
 							<td>
 								Squadre
-								<svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-people" fill="currentColor"
-									xmlns="http://www.w3.org/2000/svg">
+								<svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-people"
+									fill="currentColor" xmlns="http://www.w3.org/2000/svg">
 									<path fill-rule="evenodd"
 										d="M15 14s1 0 1-1-1-4-5-4-5 3-5 4 1 1 1 1h8zm-7.995-.944v-.002.002zM7.022 13h7.956a.274.274 0 0 0 .014-.002l.008-.002c-.002-.264-.167-1.03-.76-1.72C13.688 10.629 12.718 10 11 10c-1.717 0-2.687.63-3.24 1.276-.593.69-.759 1.457-.76 1.72a1.05 1.05 0 0 0 .022.004zm7.973.056v-.002.002zM11 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm3-2a3 3 0 1 1-6 0 3 3 0 0 1 6 0zM6.936 9.28a5.88 5.88 0 0 0-1.23-.247A7.35 7.35 0 0 0 5 9c-4 0-5 3-5 4 0 .667.333 1 1 1h4.216A2.238 2.238 0 0 1 5 13c0-1.01.377-2.042 1.09-2.904.243-.294.526-.569.846-.816zM4.92 10c-1.668.02-2.615.64-3.16 1.276C1.163 11.97 1 12.739 1 13h3c0-1.045.323-2.086.92-3zM1.5 5.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm3-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z" />
 								</svg>
@@ -147,13 +166,15 @@
 						</tr>
 						<tr>
 							<td>
-								Scopri le nostre squadre, a partire dai pulcini del minibasket fino ad arrivare ai giganti delle serie D
+								Scopri le nostre squadre, a partire dai pulcini del minibasket fino ad arrivare ai
+								giganti delle serie D
 							</td>
 							<td>
 								Incostra lo staff tecnico di tutte le nostre squadre
 							</td>
 							<td>
-								Non perdere nemmeno una partita al Palazzetto Trento Nord oppure in trasferta: scopri i nostri calendari
+								Non perdere nemmeno una partita al Palazzetto Trento Nord oppure in trasferta: scopri i
+								nostri calendari
 							</td>
 							<td>
 								Rimani aggiornato con le ultima novità sulla società!
@@ -164,22 +185,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="col-sm-12" style="padding: 1%;">
-		<div class="col-sm-12" style="padding: 1%;">
-			<hr style="background-color: #20265a;" /><p>&nbsp;</p>
-		</div>
-		<div class="col-sm-12" style="padding: 1%;">
-			<p>
-				Seguici sui social
-			</p>
-			<p>
-				Facebook: @basketgardolo
-			</p>
-			<p>
-				Instagram: @bcgardolo2000
-			</p>
-		</div>
-	</div>
+	
 	<div class="col-sm-12" style="padding: 1%;">
 		<div class="col-sm-12" style="padding: 1%;">
 			<hr style="background-color: #20265a;" />

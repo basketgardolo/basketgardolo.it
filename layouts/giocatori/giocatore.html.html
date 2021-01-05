@@ -8,7 +8,7 @@
 {{ define "content" }}
 <p>Squadre:</p>
 <ul>
-    {{ $title := printf "%s%s" ( .URL | relURL ) "_index.md" }}
+    {{ $title := printf "%s%s" ( .RelPermalink | relURL ) "_index.md" }}
     {{ with $.Site.GetPage "squadre" }}
     {{ range .Pages }}
     {{ if in .Params.Giocatori (strings.TrimLeft "/" $title) }}

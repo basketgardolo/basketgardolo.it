@@ -42,11 +42,55 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{ "/css/basketgardolo.css" | relURL }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
+
+    <!--====== Animate CSS ======-->
+    <link rel="stylesheet" href="/css/animate.css">
+
+    <!--====== Tiny slider CSS ======-->
+    <link rel="stylesheet" href="/css/tiny-slider.css">
+
+    <!--====== glightbox CSS ======-->
+    <link rel="stylesheet" href="/css/glightbox.min.css">
+
+    <!--====== Line Icons CSS ======-->
+    <link rel="stylesheet" href="/css/LineIcons.2.0.css">
+
+    <!--====== Selectr CSS ======-->
+    <link rel="stylesheet" href="/css/selectr.css">
+
+    <!--====== Nouislider CSS ======-->
+    <link rel="stylesheet" href="/css/nouislider.css">
+
+    <!--====== Style CSS ======-->
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/basketgardolo.css">
     <link rel="stylesheet" href="/css/fullcalendar.min.css">
     {{ template "_internal/google_analytics.html" . }}
 </head>
 
 <body>
+    <!--====== PRELOADER PART START ======-->
+
+    <div class="preloader">
+        <div class="loader">
+            <div class="ytp-spinner">
+                <div class="ytp-spinner-container">
+                    <div class="ytp-spinner-rotator">
+                        <div class="ytp-spinner-left">
+                            <div class="ytp-spinner-circle"></div>
+                        </div>
+                        <div class="ytp-spinner-right">
+                            <div class="ytp-spinner-circle"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

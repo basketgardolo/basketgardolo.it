@@ -6,9 +6,6 @@
     border-left: solid 1px rgba(160, 160, 160, 0.3);
     padding: 0 4.5em;
 }
-body {
-    padding-top: 8rem;
-}
 body > header {
     background-color: #20265a;
     display: flex;
@@ -29,4 +26,7 @@ body > footer {
 }
 .title h1 {
     margin: 2rem 0;
+}
+.hero-area {
+    background-image: url(../images/copertina_statica.jpg) !important;
 }

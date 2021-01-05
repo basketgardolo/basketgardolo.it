@@ -1,0 +1,74 @@
+SELECT
+        a.ID,
+        a.post_date date,
+        a.post_name permalink,
+        a.post_title partita,
+        b.meta_value risultati,
+        a.post_content testo,
+        GROUP_CONCAT(DISTINCT (b3.post_title)) squadre,
+        GROUP_CONCAT(DISTINCT (y.name)) stagione,
+        GROUP_CONCAT(DISTINCT (k.name)) campo,
+        GROUP_CONCAT(DISTINCT (x.name)) campionato 
+    FROM
+        wp_posts a 
+    LEFT JOIN
+        wp_postmeta b 
+            ON b.post_id = a.ID 
+            AND b.meta_key = 'sp_results' 
+    LEFT JOIN
+        wp_postmeta b2 
+            ON b2.post_id = b.post_id 
+            AND b2.meta_key = 'sp_team' 
+    LEFT JOIN
+        wp_posts b3
+            ON b2.meta_value = b3.ID
+    LEFT JOIN
+        wp_term_relationships c 
+            ON a.ID = c.object_id 
+    LEFT JOIN
+        (
+            SELECT
+                e.name,
+                d.term_taxonomy_id 
+            FROM
+                wp_term_taxonomy d 
+            LEFT JOIN
+                wp_terms e 
+                    ON d.term_id = e.term_id 
+                    AND d.taxonomy = 'sp_season'
+            ) y 
+                ON c.term_taxonomy_id = y.term_taxonomy_id 
+        LEFT JOIN
+            (
+                SELECT
+                    g.name,
+                    f.term_taxonomy_id 
+                FROM
+                    wp_term_taxonomy f 
+                LEFT JOIN
+                    wp_terms g 
+                        ON g.term_id = f.term_id 
+                        AND f.taxonomy = 'sp_venue'
+                ) k 
+                    ON c.term_taxonomy_id = k.term_taxonomy_id 
+            LEFT JOIN
+                (
+                    SELECT
+                        g.name,
+                        f.term_taxonomy_id 
+                    FROM
+                        wp_term_taxonomy f 
+                    LEFT JOIN
+                        wp_terms g 
+                            ON g.term_id = f.term_id 
+                            AND f.taxonomy = 'sp_league'
+                    ) x 
+                        ON c.term_taxonomy_id = x.term_taxonomy_id 
+                WHERE
+                    a.post_type = 'sp_event' 
+                GROUP BY
+                    a.ID,
+                    a.post_title,
+                    b.meta_value 
+                ORDER BY
+                    NULL
