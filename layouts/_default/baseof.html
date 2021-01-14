@@ -3,21 +3,21 @@
 {{ partial "header" . }}
 {{ partial "navbar" . }}
 <!-- Main -->
-<div id="main" class="container">
-    <article class="post">
-        <header>
-            <div class="title">
-                {{ block "title" . }}
-                {{ .Render "header" }}
-                {{ end}}
+<section class="banner-area bg_cover">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="banner-content">
+                    {{ block "title" . }}
+                    {{ .Render "header" }}
+                    {{ end}}
+                </div>
             </div>
-        </header>
-        <div id="content">
-            {{ block "content" . }}
-            {{ .Content }}
-            {{ end }}
         </div>
-    </article>
-</div>
+    </div>
+</section>
+{{ block "content" . }}
+{{ .Content }}
+{{ end }}
 <!--{{ partial "sidebar" . }}-->
 {{ partial "footer" . }}

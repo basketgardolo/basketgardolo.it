@@ -1,0 +1,36 @@
+{{ define "content" }}
+<section class="welcome-area pt-60 pb-110">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="nav nav-tabs" id="societa-tabs" role="tablist">
+                    {{ range $index, $page := .Pages}}
+                    <li class="nav-item" role="presentation">
+                        {{ $class := "" }}
+                        {{ if eq $index 0 }}
+                        {{ $class = "active" }}
+                        {{ end }}
+                        <a class="nav-link {{ $class }}" id="{{ .Title | urlize }}-tab" href="#{{ .Title | urlize }}"
+                            data-toggle="tab" role="tab" aria-controls="{{ .Title | urlize }}" aria-selected="false">
+                            {{ .Title }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+                <div class="tab-content">
+                    {{ range $index, $page := .Pages }}
+                    {{ $class := "" }}
+                    {{ if eq $index 0 }}
+                    {{ $class = "active show" }}
+                    {{ end }}
+                    <div class="tab-pane fade {{ $class }}" id="{{ .Title | urlize }}" role="tabpanel"
+                        aria-labelledby="{{ .Title | urlize }}-tab">
+                        {{ .Content }}
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
