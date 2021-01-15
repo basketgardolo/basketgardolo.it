@@ -2,6 +2,8 @@ baseURL = "https://www.basketgardolo.it/"
 languageCode = "it"
 title = "Basket Gardolo"
 metaDataFormat = "yaml"
+paginate = 12
+paginatePath = ""
 [taxonomies]
   categoria = "categorie"
   "partite/squadre" = "partite/squadra"

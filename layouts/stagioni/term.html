@@ -1,10 +1,14 @@
+{{ define "title" }}
+<h1 class="text-white">Squadre della stagione {{ .Data.Term }}</h1>
+{{ end }}
+
 {{ define "content"}}
 <div class="row">
 {{ range .Paginator.Pages }}
 {{ .Render "content-single" }}
 {{ end }}
 <div class="col-12">
-    {{ template "_internal/pagination.html" . }}
+  {{ template "_internal/pagination.html" . }}
 </div>
 </div>
 {{ end }}
