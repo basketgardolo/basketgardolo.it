@@ -5,6 +5,7 @@ draft: true
 foto: ""
 giocatori: []
 allenatori: []
+order: 1
 categorie:
 stagioni:
 ---

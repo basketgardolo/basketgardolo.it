@@ -1,3 +1,30 @@
+{{define "title"}}
+<h1 class="text-white">Ciao</h1>
+<p>ciao ciao</p>
+{{ end }}
 {{ define "content" }}
-    {{ .Content }}
+<div class="row box-style" style="margin-top: -140px;position: relative; z-index: 1;">
+    <div class="col-12">
+        {{ .Content }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-12">
+        <nav aria-label="navigation">
+            <ul class="pagination">
+                {{ with .PrevInSection }}
+                <li class="page-item">
+                    <a class="page-link" href="{{ .RelPermalink }}">
+                        < {{.Title}}</a>
+                </li>
+                {{ end }}
+                {{ with .NextInSection }}
+                <li class="page-item">
+                    <a class="page-link" href="{{ .RelPermalink }}"> {{.Title}} ></a>
+                </li>
+                {{ end }}
+            </ul>
+        </nav>
+    </div>
+</div>
 {{ end }}

@@ -30,3 +30,49 @@ body > footer {
 .hero-area {
     background-image: url(../images/copertina_statica.jpg) !important;
 }
+
+/* Info bar inside page */
+.info-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #F5F7FC;
+    padding: 15px 60px;
+  }
+  
+  @media (max-width: 767px) {
+    .info-bar {
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 15px 30px;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .info-bar .left-side {
+      margin-bottom: 10px;
+    }
+  }
+  
+  .info-bar .left-side h5 {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  .info-bar .right-side {
+    display: flex;
+    align-items: center;
+  }
+  
+  .info-bar .right-side h6 {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+  .info-bar .right-side h6 span {
+    font-weight: 900;
+  }
+  
+  .info-bar .right-side .rating {
+    margin-left: 15px;
+  }
