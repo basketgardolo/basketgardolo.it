@@ -10,21 +10,21 @@
                         {{ if eq $index 0 }}
                         {{ $class = "active" }}
                         {{ end }}
-                        <a class="nav-link {{ $class }}" id="{{ .Title | urlize }}-tab" href="#{{ .Title | urlize }}"
-                            data-toggle="tab" role="tab" aria-controls="{{ .Title | urlize }}" aria-selected="false">
+                        <a class="nav-link {{ $class }}" id="{{ $index }}-tab" href="#content-{{ $index }}"
+                            data-bs-toggle="tab" role="tab" aria-controls="content-{{ $index }}" aria-selected="false">
                             {{ .Title }}
                         </a>
                     </li>
                     {{ end }}
                 </ul>
-                <div class="tab-content">
+                <div class="tab-content" id="societa-tabsContent">
                     {{ range $index, $page := .Pages }}
                     {{ $class := "" }}
                     {{ if eq $index 0 }}
                     {{ $class = "active show" }}
                     {{ end }}
-                    <div class="tab-pane fade {{ $class }}" id="{{ .Title | urlize }}" role="tabpanel"
-                        aria-labelledby="{{ .Title | urlize }}-tab">
+                    <div class="tab-pane fade {{ $class }}" id="content-{{ $index }}" role="tabpanel"
+                        aria-labelledby="{{ $index }}-tab">
                         {{ .Content }}
                     </div>
                     {{ end }}

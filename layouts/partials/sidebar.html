@@ -1,6 +1,6 @@
 <!-- Sidebar -->
 <section id="sidebar">
-
+  <div class="sidebar-wrapper" style="margin-top: -140px; position: relative; z-index: 1;">
   <!-- Intro -->
   <section id="intro">
     {{ $pic := .Site.Params.intro.pic }}
@@ -30,7 +30,7 @@
   </section>
 
   <!-- Posts List -->
-  <section class="recent-posts">
+  <section class="recent-posts box-style">
     <div class="mini-posts">
       <header>
         <h3>Recent Posts</h3>
@@ -44,12 +44,12 @@
           {{ $.Scratch.Set "postLimit" 5 }}
         {{ end }}
 
-        {{ range first ($.Scratch.Get "postLimit") (where ($.Scratch.Get "recentPosts") "Type" "post") }}
+        {{ range first ($.Scratch.Get "postLimit") (where ($.Scratch.Get "recentPosts") "Type" "news") }}
           <article class="mini-post">
             <header>
-              <h3>
+              <h5>
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </h3>
+              </h5>
               {{ $.Scratch.Set "dateType" .Date }}
               <time class="published" datetime='{{ ($.Scratch.Get "dateType").Format "2006-01-02" }}'>
                 {{ ($.Scratch.Get "dateType").Format "January 2, 2006" }}
@@ -118,7 +118,7 @@
   {{ end }}
 
   <!-- Footer -->
-  <section id="footer">
+  <section id="footer" class="box-style">
     {{ if .Site.Params.socialAppearAtBottom }}
       <ul class="icons">
         {{ if .Site.Params.rssAppearAtBottom }}
@@ -141,4 +141,5 @@
       Powered by <a href="//gohugo.io" target="_blank">Hugo</a>
     </p>
   </section>
+  </div>
 </section>

@@ -21,8 +21,13 @@
 </h1>
 {{ end }}
 {{ define "content" }}
-{{ if now.Before .PublishDate  }}
+<p>{{ .Params.categoria }}</p>
+<p>{{ .Date }}</p>
+<p>{{ .Params.luogo }}</p>
+{{ if now.Before .PublishDate }}
 <p>{{ .PublishDate }}</p>
+{{ else }}
 {{ .Content }}
 {{ end }}
+TODO: <strong>fare la navigazione!</strong>
 {{ end }}

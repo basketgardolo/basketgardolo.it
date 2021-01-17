@@ -19,13 +19,15 @@
 <section class="welcome-area pt-60 pb-110">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-8">
                 {{ block "content" . }}
                 {{ .Content }}
                 {{ end }}
             </div>
+            <div class="col-lg-4">
+                {{ partial "sidebar" . }}
+            </div>
         </div>
     </div>
 </section>
-<!--{{ partial "sidebar" . }}-->
 {{ partial "footer" . }}
