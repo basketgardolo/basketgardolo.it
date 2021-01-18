@@ -76,3 +76,8 @@ body > footer {
   .info-bar .right-side .rating {
     margin-left: 15px;
   }
+  .main-content {
+    margin-top: -140px;
+    position: relative;
+    z-index: 1;
+  }
