@@ -27,7 +27,48 @@
 {{ if now.Before .PublishDate }}
 <p>{{ .PublishDate }}</p>
 {{ else }}
-{{ .Content }}
+<p>{{ .Content }}</p>
 {{ end }}
-TODO: <strong>fare la navigazione!</strong>
+<div class="row">
+    <div class="col-12">
+        <nav aria-label="navigation">
+            <ul class="pagination">
+                {{ $t := .GetPage (printf "/partite/squadra/%s" (.Param "partite/squadra")) }}
+                {{ $list := sort $t.Pages "Date" }}
+                {{ $.Scratch.Set "counter" 0 }}
+                {{ $.Scratch.Set "currentPosition" 0 }}
+
+                {{ range $list }}
+                    {{ if eq $.Permalink .Permalink }}
+                        {{ $.Scratch.Set "currentPosition" ($.Scratch.Get "counter") }}
+                    {{ end }}
+                    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+                {{ end }}
+
+                {{ $.Scratch.Set "counter" 0 }}
+                {{ range $list }}
+                    {{/* next is at current position + 1 */}}
+                    {{ if eq ($.Scratch.Get "counter") (add ($.Scratch.Get "currentPosition") 1) }}
+                        {{ $.Scratch.Set "next" . }}
+                    {{ end }}
+
+                    {{/* prev is at current position - 1 */}}
+                    {{ if eq ($.Scratch.Get "counter") (sub ($.Scratch.Get "currentPosition") 1) }}
+                        {{ $.Scratch.Set "previous" . }}
+                    {{ end }}
+
+                    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+                {{ end }}
+
+                {{ with $.Scratch.Get "previous" }}
+                    <a href="{{ .RelPermalink }}" class="page-link">< {{ .Title }}</a>
+                {{ end }}        
+        
+                {{ with $.Scratch.Get "next" }}
+                    <a href="{{ .RelPermalink }}" class="page-link">{{ .Title }} ></a>
+                {{ end }}
+            </ul>
+        </nav>
+    </div>
+</div>
 {{ end }}

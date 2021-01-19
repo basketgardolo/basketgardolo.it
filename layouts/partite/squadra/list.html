@@ -1,0 +1,17 @@
+{{ define "background" }}
+style="background-image:url({{ .Params.Foto }});"
+{{ end }}
+{{ define "title" }}
+<h1 class="text-white">Partite di {{ (index .Pages 0).Params.categoria | humanize }}</h1>
+<p>Stagione {{ printf "20%s-20%s" (substr .Title -5 2) (substr .Title -2 2) }}</p>
+{{ end }}
+{{ define "content"}}
+<div class="row main-content">
+{{ range .Paginator.Pages }}
+{{ .Render "content-single" }}
+{{ end }}
+<div class="col-12">
+    {{ template "_internal/pagination.html" . }}
+</div>
+</div>
+{{ end }}
