@@ -28,6 +28,15 @@ fields:
 - type: text
   name: categoria
   label: categoria
-- type: text
-  name: stagione
-  label: stagione
+- name: partite/squadra
+  type: select
+  default: partite/squadra
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: partite
+      file: content/partite/gardolo-charly-merano.md
+      path: 
+  label: partite/squadra
