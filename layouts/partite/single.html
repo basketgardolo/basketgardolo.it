@@ -1,34 +1,44 @@
+{{ define "background" }}
+style="background-image: url({{ (.GetPage (printf `/squadre/%s` (.Param `partite/squadra`))).Params.foto }}");
+{{ end }}
 {{ define "title" }}
-<h1>
+{{ $squadra := "" }}
+<h1 class="text-white">
     {{ with .Site.GetPage "squadre" }}
     {{ with .GetPage ($.Param "squadra-a") }}
+    {{ $.Scratch.Set "squadra" ($.Param "squadra-a") }}
     <a href="{{.RelPermalink}}">{{ .Title }}</a>
     {{ else }}
     {{ $.Param "squadra-a" }}
     {{ end }}
-    {{ if now.After .PublishDate  }}
+    {{ if now.After .PublishDate }}
     {{ $.Param "punteggio-a" }} -
     {{ end }}
     {{ with .GetPage ($.Param "squadra-b") }}
+    {{ $.Scratch.Set "squadra" ($.Param "squadra-b") }}
     <a href="{{.RelPermalink}}">{{ .Title }}</a>
     {{ else }}
     {{ $.Param "squadra-b" }}
     {{ end }}
-    {{ if now.After .PublishDate  }}
+    {{ if now.After .PublishDate }}
     {{ $.Param "punteggio-b" }}
     {{ end }}
     {{ end }}
 </h1>
 {{ end }}
 {{ define "content" }}
-<p>{{ .Params.categoria }}</p>
-<p>{{ .Date }}</p>
-<p>{{ .Params.luogo }}</p>
-{{ if now.Before .PublishDate }}
-<p>{{ .PublishDate }}</p>
-{{ else }}
-<p>{{ .Content }}</p>
-{{ end }}
+<div class="row box-style main-content">
+    <div class="col-lg-12">
+    <p><a href="{{ (.GetPage (printf `/squadre/%s` (.Param `partite/squadra`))).RelPermalink }}">{{ .Params.categoria }}</a></p>
+    <p>{{ .Date }}</p>
+    <p>{{ .Params.luogo }}</p>
+    {{ if now.Before .PublishDate }}
+    <p>{{ .PublishDate }}</p>
+    {{ else }}
+    <p>{{ .Content }}</p>
+    {{ end }}
+    </div>
+</div>
 <div class="row">
     <div class="col-12">
         <nav aria-label="navigation">
@@ -39,34 +49,33 @@
                 {{ $.Scratch.Set "currentPosition" 0 }}
 
                 {{ range $list }}
-                    {{ if eq $.Permalink .Permalink }}
-                        {{ $.Scratch.Set "currentPosition" ($.Scratch.Get "counter") }}
-                    {{ end }}
-                    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+                {{ if eq $.Permalink .Permalink }}
+                {{ $.Scratch.Set "currentPosition" ($.Scratch.Get "counter") }}
+                {{ end }}
+                {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
                 {{ end }}
 
                 {{ $.Scratch.Set "counter" 0 }}
                 {{ range $list }}
-                    {{/* next is at current position + 1 */}}
-                    {{ if eq ($.Scratch.Get "counter") (add ($.Scratch.Get "currentPosition") 1) }}
-                        {{ $.Scratch.Set "next" . }}
-                    {{ end }}
+                {{ if eq ($.Scratch.Get "counter") (add ($.Scratch.Get "currentPosition") 1) }}
+                {{ $.Scratch.Set "next" . }}
+                {{ end }}
 
-                    {{/* prev is at current position - 1 */}}
-                    {{ if eq ($.Scratch.Get "counter") (sub ($.Scratch.Get "currentPosition") 1) }}
-                        {{ $.Scratch.Set "previous" . }}
-                    {{ end }}
+                {{ if eq ($.Scratch.Get "counter") (sub ($.Scratch.Get "currentPosition") 1) }}
+                {{ $.Scratch.Set "previous" . }}
+                {{ end }}
 
-                    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+                {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
                 {{ end }}
 
                 {{ with $.Scratch.Get "previous" }}
-                    <a href="{{ .RelPermalink }}" class="page-link">< {{ .Title }}</a>
-                {{ end }}        
-        
-                {{ with $.Scratch.Get "next" }}
-                    <a href="{{ .RelPermalink }}" class="page-link">{{ .Title }} ></a>
-                {{ end }}
+                <a href="{{ .RelPermalink }}" class="page-link">
+                    < {{ .Title }}</a>
+                        {{ end }}
+
+                        {{ with $.Scratch.Get "next" }}
+                        <a href="{{ .RelPermalink }}" class="page-link">{{ .Title }} ></a>
+                        {{ end }}
             </ul>
         </nav>
     </div>
