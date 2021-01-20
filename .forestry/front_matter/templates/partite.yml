@@ -40,3 +40,15 @@ fields:
       file: content/partite/gardolo-charly-merano.md
       path: 
   label: partite/squadra
+- name: test
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: squadre
+      file: 
+      path: 
+  label: Test
