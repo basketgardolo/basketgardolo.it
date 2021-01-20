@@ -29,26 +29,8 @@ fields:
   name: categoria
   label: categoria
 - name: partite/squadra
-  type: select
-  default: partite/squadra
+  type: text
   config:
     required: false
-    options: []
-    source:
-      type: documents
-      section: partite
-      file: content/partite/gardolo-charly-merano.md
-      path: 
   label: partite/squadra
-- name: test
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: squadre
-      file: 
-      path: 
-  label: Test
+  description: 'es: promozione-20-21'
