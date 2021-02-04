@@ -1,3 +1,7 @@
+{{ define "title" }}
+<h1 class="text-white">{{ .Title }}</h1>
+<p>{{ .Date.Day }} {{ partial "month" . }} {{ .Date.Year }}</p>
+{{ end }}
 {{ define "content" }}
 <div class="row box-style main-content">
     <div class="col-12">

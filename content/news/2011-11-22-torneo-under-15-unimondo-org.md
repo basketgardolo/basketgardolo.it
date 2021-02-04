@@ -2,7 +2,7 @@
 title: Torneo Under 15 “unimondo.org”
 date: 2011-11-22T16:00:11+00:00
 ---
-![](http://www.basketgardolo.it/wp-content/uploads/2011/11/logoPERmagliettaARANCIO.png "logo unimondo") Il **27 novembre 2011** il Basket Gardolo organizza il torneo quadrangolare per la categoria Under 15 "unimondo.org". Le squadre partecipanti, oltre alla compagine gardolotta, saranno: 
+![](/images/articoli/logoPERmagliettaARANCIO.png "logo unimondo") Il **27 novembre 2011** il Basket Gardolo organizza il torneo quadrangolare per la categoria Under 15 "unimondo.org". Le squadre partecipanti, oltre alla compagine gardolotta, saranno: 
 * [Paganella Lavis][1]
 * [Aquila Basket][2]
 * [Charly Merano][3]

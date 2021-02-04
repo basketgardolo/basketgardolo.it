@@ -2661,6 +2661,9 @@
 		margin-top: 0;
 		padding-top: 0
 	}
+	#footer {
+		background:red !important;
+	}
 
 	#footer .copyright {
 		text-align: center;
