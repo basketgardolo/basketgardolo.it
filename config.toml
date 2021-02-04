@@ -1,6 +1,7 @@
 baseURL = "https://www.basketgardolo.it/"
 languageCode = "it"
 title = "Basket Gardolo"
+buildFuture = true
 metaDataFormat = "yaml"
 paginate = 12
 paginatePath = ""

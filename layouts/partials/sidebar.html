@@ -1,21 +1,37 @@
 <!-- Sidebar -->
 <section id="sidebar">
   <div class="sidebar-wrapper" style="margin-top: -140px; position: relative; z-index: 1;">
-  <!-- Prossime partite -->
-    <!-- TO DO -->
-
-  <!-- Ultime partite -->
   {{ if or (eq .Section "squadre") (eq .Section "partite") }}
   {{ $t := .Site.GetPage (printf "/partite/squadra/%s" (path.Base .RelPermalink)) }}
   {{ if not $t.Data }}
   {{ $t = .Site.GetPage (printf "/partite/squadra/%s" (.Param `partite/squadra`)) }}
   {{ end }}
   {{ if $t.Data }}
+
+  <!-- Prossima partita -->
+  {{ $next := index (where (index $t.Data "partite/squadre").Pages.ByDate "Date" ">" now) 0 }}
+  {{ if $next }}
+  <section class="box-style sidebar-category">
+    <header>
+      <h3 class="mb-30">Prossima partita</h3>
+      <ul class="most-popular-tags">
+        <li>
+          <a href="{{ $next.RelPermalink }}"><span>{{ $next.Title }}</span> <span class="right">></span></a>
+          <time class="date" datetime='{{ $next.Date.Format "2006-01-02" }}'>
+            {{ $next.Date.Day }} {{ partial "month" $next }} {{ $next.Date.Year }}
+          </time>
+        </li>
+      </ul>
+    </header>
+  </section>
+  {{ end }}
+
+  <!-- Ultime partite -->
   <section class="box-style sidebar-category">
     <header>
       <h3 class="mb-30">Ultime partite</h3>
       <ul class="most-popular-tags">
-        {{ range first 5 (index $t.Data "partite/squadre").Pages.ByDate.Reverse }}
+        {{ range first 5 (where (index $t.Data "partite/squadre").Pages.ByDate.Reverse "Date" "<" now) }}
         <li>
           <a href="{{ .Page.RelPermalink }}"><span>{{ .Page.Title }}</span> <span class="right">></span></a>
           <time class="date" datetime='{{ .Date.Format "2006-01-02" }}'>
@@ -27,7 +43,7 @@
     </header>
   </section>
   {{ end }}
-  {{ end }}
+  {{ else }}
   <!-- Posts List -->
   <section class="recent-posts box-style sidebar-category">
     <div class="mini-posts">
@@ -65,7 +81,7 @@
       {{ end }}
     </div>
   </section>
-
+  {{ end }}
   <!-- This if statement only applies if someone goes to the /categories url -->
   <!-- Otherwise this section is shown for all other links -->
   {{ if .Site.Params.showSidebarCategories  }}
