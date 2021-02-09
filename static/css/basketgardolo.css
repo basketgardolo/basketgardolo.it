@@ -1,10 +1,11 @@
 .sponsors {
     margin: 0 auto;
     box-shadow: none;
-    border-bottom: solid 1px rgba(160, 160, 160, 0.3);
+    margin-bottom: 30px;
+    /*border-bottom: solid 1px rgba(160, 160, 160, 0.3);
     border-right: solid 1px rgba(160, 160, 160, 0.3);
     border-left: solid 1px rgba(160, 160, 160, 0.3);
-    padding: 0 4.5em;
+    /*padding: 0 4.5em;*/
 }
 body > header {
     background-color: #20265a;

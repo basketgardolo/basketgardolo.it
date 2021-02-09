@@ -1,6 +1,6 @@
 ---
 title: Erickson
-web:
+web: https://www.erickson.it
 logo: /sponsors/erickson.png
 ---
 

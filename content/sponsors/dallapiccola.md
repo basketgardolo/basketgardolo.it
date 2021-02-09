@@ -1,5 +1,5 @@
 ---
 title: Dallapiccola
-web:
+web: https://www.dallapiccola.net
 logo: /sponsors/dallapiccola.png
 ---

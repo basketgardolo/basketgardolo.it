@@ -140,13 +140,13 @@
 <script src="/js/wow.min.js"></script>
 
 <!--====== glightbox js ======-->
-<script src="/js/glightbox.min.js"></script>
+<!-- <script src="/js/glightbox.min.js"></script> -->
 
 <!--====== Selectr js ======-->
-<script src="/js/selectr.min.js"></script>
+<!-- <script src="/js/selectr.min.js"></script> -->
 
 <!--====== Nouislider js ======-->
-<script src="/js/nouislider.js"></script>
+<!-- <script src="/js/nouislider.js"></script> -->
 
 <!--====== Main js ======-->
 <script src="/js/main.js"></script>
@@ -194,17 +194,18 @@
         items: 3,
       }
     }
-  });
+  });*/
 
   //======== tiny slider for testimonial
   tns({
     slideBy: 'page',
-    autoplay: false,
+    autoplay: true,
     mouseDrag: true,
-    gutter: 20,
+    gutter: 40,
     nav: true,
     controls: false,
-    container: ".testimonial-carousel",
+    container: ".last-games-carousel",
+    autoplayButtonOutput: false,
     items: 1,
     center: false,
     autoplayTimeout: 5000,
@@ -215,11 +216,10 @@
         items: 2,
       },
       1200: {
-        items: 3,
+        items: 4,
       }
     }
-  });*/
+  });
 </script>
 </body>
-
 </html>

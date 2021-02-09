@@ -1,12 +1,17 @@
 {{ define "title" }}
 <h1 class="text-white">{{ .Title }}</h1>
-<p>{{ .Date.Day }} {{ partial "month" . }} {{ .Date.Year }}</p>
+<p>📅<span class="text-white-50">{{ .Date.Day }} {{ partial "month" . }} {{ .Date.Year }}</span></p>
 {{ end }}
 {{ define "content" }}
 <div class="row box-style main-content">
     <div class="col-12">
         {{ .Content }}
     </div>
+</div>
+<div class="bxslider">
+    {{ range ((.Site.GetPage "sponsors").Resources.ByType "page") }}
+      <a href="{{ .Params.web }}"><img src="{{ .Params.logo }}" title="{{ .Title }}"></a>
+    {{ end }}
 </div>
 <div class="row">
     <div class="col-12">

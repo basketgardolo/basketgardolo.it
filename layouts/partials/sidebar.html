@@ -117,16 +117,12 @@
     </section>
   {{ end }}
   {{ end }}
-
-  <!-- About -->
-  {{ with .Site.Params.intro.about }}
-    <section id="mini-bio">
-      <h3>About</h3>
-      <p>{{ . | safeHTML }}</p>
-      <a href="/about/" class="button">Learn More</a>
-    </section>
-  {{ end }}
-
+  
+  <!-- Sponsors -->
+  <section id="sponsors" class="box-style">
+    <h3 class="mb-30">Sponsor</h3>
+    {{ .Render "sponsors" }}
+  </section>
   <!-- Footer -->
   <section id="footer" class="box-style">
     <h3 class="mb-30">I nostri social</h3>

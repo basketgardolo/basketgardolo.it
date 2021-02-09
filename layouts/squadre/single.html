@@ -15,7 +15,7 @@ style="background-image:url({{.Params.foto}})"
         {{ with .Params.foto }}
         <img class="img-fluid" src="{{- . -}}" alt="Foto di squadra {{ $.Title }}" />
         {{ else }}
-        <div class="jumbotron border">Nessuna foto di squadra... per ora ;)</div>
+        <div class="p-5 p-md-5 text-center border bg-light bg-gradient text-muted">Nessuna foto di squadra... per ora 😉</div>
         {{end}}
     </div>
     <div class="col-12 col-md-6">

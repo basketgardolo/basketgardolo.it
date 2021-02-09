@@ -2,8 +2,8 @@
 <h1 class="text-white">Stagioni sportive</h1>
 {{ end }}
 {{ define "content"}}
-<div class="row">
-    {{ range (.Paginate (.Pages.ByTitle.Reverse)).Pages }}
+<div class="row main-content">
+    {{ range (.Paginate (.Pages.ByParam "anno").Reverse).Pages }}
     {{ .Render "content-single" }}
     {{ end }}
     <div class="col-12">

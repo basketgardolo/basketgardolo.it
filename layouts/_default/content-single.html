@@ -3,24 +3,29 @@
         <div class="product-img">
             <a href="{{ .RelPermalink }}">
                 {{ with .Params.image }}
-                <img src="{{ .Params.image }}" alt="{{ .Title }}">
+                <img src="{{ . }}" alt="{{ $.Title }}">
                 {{ else }}
                 <img src="/images/thumbnail-news-default.png" alt="">
                 {{ end }}
             </a>
         </div>
         <div class="product-content">
-            <h3 class="name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <h3 class="name"><a href="{{ .RelPermalink }}">
+                {{ if .IsPage }}
+                    {{ .Title }}
+                {{ else if eq .Kind "term" }}
+                    {{ .Data.Term }}
+                {{ end }}
+            </a></h3>
+            {{ if .IsPage }}
             <span class="update"><i class="lni lni-calendar"></i> {{ .Date.Day }} {{ partial "month" . }} {{ .Date.Year }}</span>
             <div class="product-bottom">
                 <p class="address">
-                  {{ .Summary | truncate 70 }}
-                  <a href="{{ .RelPermalink }}">Continua a leggere</a>
+                    {{ .Summary | truncate 70 }}
+                    <a href="{{ .RelPermalink }}">Continua a leggere</a>
                 </p>
             </div>
+            {{ end }}
         </div>
     </div>
 </div>
-
-
-        
