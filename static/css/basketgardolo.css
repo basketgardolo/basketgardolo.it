@@ -157,3 +157,12 @@ body > footer {
   .sidebar-wrapper .copyright {
     margin: 1rem 0 0;
   }
+  .col-lg-4 .product-img {
+    height: 150px;
+    overflow: hidden;
+  }
+
+  .col-lg-6 .product-img {
+    height: 250px;
+    overflow: hidden;
+  }

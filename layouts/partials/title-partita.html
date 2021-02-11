@@ -1,0 +1,17 @@
+{{ $squadraA := .Param "squadra-a" }}
+{{ with .Site.GetPage "squadre" }}
+{{ with .GetPage $squadraA }}
+{{ $squadraA = .Title }}
+{{ end }}
+{{ end }}
+{{ $squadraB := .Param "squadra-b" }}
+{{ with .Site.GetPage "squadre" }}
+{{ with .GetPage $squadraB }}
+{{ $squadraB = .Title }}
+{{ end }}
+{{ end }}
+{{ if and (.Param "punteggio-a") (.Param "punteggio-b") }}
+{{ printf "%s %d - %s %d" $squadraA (.Param "punteggio-a") $squadraB (.Param "punteggio-b") }}
+{{ else }}
+{{ printf "%s - %s" $squadraA $squadraB }}
+{{ end }}

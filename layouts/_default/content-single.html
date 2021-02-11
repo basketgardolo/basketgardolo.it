@@ -4,8 +4,6 @@
             <a href="{{ .RelPermalink }}">
                 {{ with .Params.image }}
                 <img src="{{ . }}" alt="{{ $.Title }}">
-                {{ else }}
-                <img src="/images/thumbnail-news-default.png" alt="">
                 {{ end }}
             </a>
         </div>

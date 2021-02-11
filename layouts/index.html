@@ -51,19 +51,7 @@
 								{{ end }}
 							{{ end }}
 							<h3>
-								{{ $squadraA := .Param "squadra-a" }}
-								{{ with .Site.GetPage "squadre" }}
-								{{ with .GetPage $squadraA }}
-								{{ $squadraA = .Title }}
-								{{ end }}
-								{{ end }}
-								{{ $squadraB := .Param "squadra-b" }}
-								{{ with .Site.GetPage "squadre" }}
-								{{ with .GetPage $squadraB }}
-								{{ $squadraB = .Title }}
-								{{ end }}
-								{{ end }}
-								{{ printf "%s %d - %d %s" $squadraA (.Param "punteggio-a") (.Param "punteggio-b") $squadraB }}
+								{{ partial "title-partita" . }}
 							</h3>
 							<p>
 								{{ .Content }}
