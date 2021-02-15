@@ -16,7 +16,7 @@
                 {{ end }}
             </a></h3>
             {{ if .IsPage }}
-            <span class="update"><i class="lni lni-calendar"></i> {{ .Date.Day }} {{ partial "month" . }} {{ .Date.Year }}</span>
+            <span class="update"><i class="lni lni-calendar"></i> {{ partial "date" . }}</span>
             <div class="product-bottom">
                 <p class="address">
                     {{ .Summary | truncate 70 }}

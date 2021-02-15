@@ -18,7 +18,7 @@
         <li>
           <a href="{{ $next.RelPermalink }}"><span>{{ $next.Title }}</span> <span class="right">></span></a>
           <time class="date" datetime='{{ $next.Date.Format "2006-01-02" }}'>
-            {{ $next.Date.Day }} {{ partial "month" $next }} {{ $next.Date.Year }}
+            {{ partial "date" $next }}
           </time>
         </li>
       </ul>
@@ -35,7 +35,7 @@
         <li>
           <a href="{{ .Page.RelPermalink }}"><span>{{ .Page.Title }}</span> <span class="right">></span></a>
           <time class="date" datetime='{{ .Date.Format "2006-01-02" }}'>
-            {{ .Date.Day }} {{ partial "month" . }} {{ .Date.Year }}
+            {{ partial "date" . }}
           </time>
         </li>
         {{ end }}
@@ -63,7 +63,7 @@
         <li>
           <a href="{{ .RelPermalink }}"><span>{{ .Title }}</span> <span class="right">></span></a>
           <time class="date" datetime='{{ .Date.Format "2006-01-02" }}'>
-            {{ .Date.Day }} {{ partial "month" . }} {{ .Date.Year }}
+           {{ partial "date" . }}
           </time>
         </li>
         {{ end }}

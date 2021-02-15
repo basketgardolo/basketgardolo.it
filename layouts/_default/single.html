@@ -1,6 +1,6 @@
 {{ define "title" }}
 <h1 class="text-white">{{ .Title }}</h1>
-<p>📅<span class="text-white-50">{{ .Date.Day }} {{ partial "month" . }} {{ .Date.Year }}</span></p>
+<p>📅<span class="text-white-50">{{ partial "date" . }}</span></p>
 {{ end }}
 {{ define "content" }}
 <div class="row box-style main-content">
