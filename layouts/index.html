@@ -18,8 +18,6 @@
 
 <!-- Main -->
 <div id="main" class="container-fluid">
-	{{/* TODO: Temporaneamente al posto dei "risultati" delle partite ci va messo il form di iscrizione online, almeno
-	fino al 30/09 */}}
 	<div class="col-sm-12" style="padding: 1%;">
 		<div class="col-sm-12" style="padding: 1%;">
 			<hr style="background-color: #20265a;" />
@@ -29,7 +27,7 @@
 			<h1>Ultime partite</h1>
 		</div>
 		<div class="col-sm-12" style="padding: 1%;">
-			<div id="carouselExampleIndicators" class="last-games-carousel" data-bs-ride="carousel">
+			<div class="last-games-carousel" data-bs-ride="carousel">
 				<!--<ol class="carousel-indicators">
 					<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"
 						style="background-color: #20265a;"></li>
@@ -39,23 +37,32 @@
 					</li>
 				</ol> -->
 					{{/* TODO range del carosello */}}
-					{{ range $i, $v := last 5 (where .Site.RegularPages "Type" "partite") }}
-						<div>
-						<h3>{{ .Param "categoria" | title}}</h3>
-						<div>
-							{{ with .GetPage (printf "squadre/%s" (.Param "partite/squadra")) }}
+					{{ range $i, $v := last 10 (where .Site.RegularPages "Type" "partite") }}
+					<div class="col-lg-4 col-md-6">
+						<div class="single-product">
+							<div class="product-img">
 								{{ with .Param "foto" }}
 									<img src="{{ . }}" />
 								{{ else }}
-									<p>nessuna foto, al momento ;)</p>
+									{{ with .GetPage (printf "squadre/%s" (.Param "partite/squadra")) }}
+									{{ with .Param "foto" }}
+										<img src="{{ . }}" />
+									{{ else }}
+										<p>nessuna foto, al momento ;)</p>
+									{{ end }}
+									{{ end }}
 								{{ end }}
-							{{ end }}
-							<h3>
-								{{ partial "title-partita" . }}
-							</h3>
-							<p>
-								{{ .Content }}
-							</p>
+							</div>
+							<div class="product-content">
+								<div class="rating-wrapper">
+									<h5 class="price theme-color">{{ .Param "categoria" | title }}</h5>
+								</div>
+								<h3 class="name"><a href="{{ .RelPermalink }}">{{ partial "title-partita" . }}</a></h3>
+								<p class="sort-des">{{ partial "date" .}}</p>
+								<div class="product-bottom">
+									<a class="address-link"><i class="lni lni-map-marker"></i> {{ .Param "luogo" }}</a>
+								</div>
+							</div>
 						</div>
 					</div>
 					{{ end }}
