@@ -37,7 +37,7 @@
 					</li>
 				</ol> -->
 					{{/* TODO range del carosello */}}
-					{{ range $i, $v := last 10 (where .Site.RegularPages "Type" "partite") }}
+					{{ range $i, $v := first 10 (where .Site.RegularPages "Type" "partite") }}
 					<div class="col-lg-4 col-md-6">
 						<div class="single-product">
 							<div class="product-img">
@@ -48,16 +48,16 @@
 									{{ with .Param "foto" }}
 										<img src="{{ . }}" />
 									{{ else }}
-										<p>nessuna foto, al momento ;)</p>
+										<p class="no-photo">nessuna foto, al momento ;)</p>
 									{{ end }}
 									{{ end }}
 								{{ end }}
 							</div>
 							<div class="product-content">
 								<div class="rating-wrapper">
-									<h5 class="price theme-color">{{ .Param "categoria" | title }}</h5>
+									<h5 class="price theme-color">{{ partial "team-link" . }}</h5>
 								</div>
-								<h3 class="name"><a href="{{ .RelPermalink }}">{{ partial "title-partita" . }}</a></h3>
+								<h3 class="name"><a href="{{ .RelPermalink }}">{{ $i }}{{ partial "title-partita" . }}</a></h3>
 								<p class="sort-des">{{ partial "date" .}}</p>
 								<div class="product-bottom">
 									<a class="address-link"><i class="lni lni-map-marker"></i> {{ .Param "luogo" }}</a>

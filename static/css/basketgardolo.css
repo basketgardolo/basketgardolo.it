@@ -166,3 +166,11 @@ body > footer {
     height: 250px;
     overflow: hidden;
   }
+  .no-photo {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    color: #ddd;
+    border-bottom: 1px solid rgba(124, 134, 154, 0.25);
+}

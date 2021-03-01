@@ -1,12 +1,12 @@
 <div class="col-lg-6 col-md-6">
     <div class="single-product">
+        {{ with .Params.image }}
         <div class="product-img">
             <a href="{{ .RelPermalink }}">
-                {{ with .Params.image }}
                 <img src="{{ . }}" alt="{{ $.Title }}">
-                {{ end }}
             </a>
         </div>
+        {{ end }}
         <div class="product-content">
             <h3 class="name"><a href="{{ .RelPermalink }}">
                 {{ if .IsPage }}
