@@ -19,6 +19,7 @@ collections:
   - name: "giocatori" # Used in routes, e.g., /admin/collections/blog
     label: "Giocatori" # Used in the UI
     folder: "content/giocatori/**/*" # The path to the folder where the documents are stored
+    frontmatter_delimiter: "---"
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -26,3 +27,4 @@ collections:
       - {label: "Nome", name: "title", widget: "string"}
       - {label: "Ruolo", name: "ruolo", widget: "string"}
       - {label: "Numero", name: "numero", widget: "number"}
+    meta: { path: { widget: string, label: 'Path', index_file: '_index', pattern: ['.*', "Error"] } }
