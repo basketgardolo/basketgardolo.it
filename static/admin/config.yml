@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master
+local_backend: true
 publish_mode: editorial_workflow
 media_folder: "static/images"
 public_folder: "/images"
@@ -18,14 +19,89 @@ collections:
       - {label: "Testo", name: "body", widget: "markdown"}
   - name: "giocatori" # Used in routes, e.g., /admin/collections/blog
     label: "Giocatori" # Used in the UI
+    label_singular: "Giocatore"
     folder: "content/giocatori" # The path to the folder where the documents are stored
     format: "yaml-frontmatter"
-    nested: {depth: 1000}
+    path: "{{slug}}/_index"
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      #- {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Nome", name: "title", widget: "string"}
       - {label: "Ruolo", name: "ruolo", widget: "string"}
       - {label: "Numero", name: "numero", widget: "number"}
-    meta: { path: { widget: string, label: 'Path', index_file: '_index', pattern: ['.*', "Error"] } }
+    # meta: { path: { widget: string, label: 'Path', index_file: '_index', pattern: ['.*', "Error"] } }
+  - name: "allenatori"
+    label: "Allenatori"
+    label_singular: "Allenatore"
+    folder: "content/allenatori"
+    format: "yaml-frontmatter"
+    path: "{{slug}}/_index"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Nome", name: "title", widget: "string"}
+  - name: "stagioni"
+    label: "Stagioni"
+    label_singular: "Stagione"
+    folder: "content/stagioni"
+    format: "yaml-frontmatter"
+    create: true
+    slug: "{{slug}}"
+    path: "{{slug}}/_index"
+    identifier_field: anno
+    fields:
+      - {label: "Anno", name: "anno", widget: "string" }
+  - name: "sponsors"
+    label: "Sponsor"
+    folder: "content/sponsors"
+    format: "yaml-frontmatter"
+    create: true
+    fields:
+      - {label: "Nome", name: "title", widget: "string"}
+      - {label: "Sito web", name: "web", widget: "string"}
+      - {label: "Logo", name: "logo", widget: "image", media_folder: "/static/sponsors"}
+  - name: "squadre"
+    label: "Squadre"
+    label_singular: "Squadra"
+    folder: "content/squadre"
+    format: "yaml-frontmatter"
+    summary: "{{title}} {{fields.stagioni}}"
+    create: true
+    fields: 
+      - {label: "Nome", name: "title", widget: "string"}
+      - {label: "Foto", name: "foto", widget: "image", media_folder: "/static/images/squadre"}
+      - {label: "Stagione", name: "stagioni", widget: "relation", collection: "stagioni", search_fields: ["anno"], value_field: "{{anno}}"}
+      - {label: "Categoria", name: "categorie", widget: "string"}
+      - label: "Giocatori"
+        name: "giocatori"
+        widget: "list"
+        minimize_collapsed: true
+        field:
+          label: "Giocatore"
+          name: ''
+          widget: "relation"
+          collection: "giocatori"
+          search_fields: ["title"]
+          value_field: "giocatori/{{slug}}.md"
+          display_fields: ["title"]
+      - label: "Allenatori"
+        name: "allenatori"
+        widget: "list"
+        minimize_collapsed: true
+        field:
+          label: "Allenatore"
+          name: ''
+          widget: "relation"
+          collection: "allenatori"
+          search_fields: ["title"]
+          value_field: "allenatori/{{slug}}.md"
+          display_fields: ["title"]
+  - name: "pagine"
+    label: "Pagine"
+    label_singular: "Pagina"
+    folder: "content/pagine"
+    format: "yaml-frontmatter"
+    create: true
+    fields:
+      - {label: "Titolo", name: "title", widget: "string"}
+      - {label: "Testo", name: "body", widget: "markdown"} 
